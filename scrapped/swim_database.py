@@ -48,7 +48,8 @@ def create_tables(conn):
                     time VARCHAR(50),
                     points INTEGER,
                     race_date DATE,
-                    place VARCHAR(255)
+                    city VARCHAR(255),
+                    country VARCHAR(255)
                 );
             ''')
 
