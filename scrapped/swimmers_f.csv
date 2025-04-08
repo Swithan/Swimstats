@@ -35,12 +35,12 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4879008,GREGOIRE,Marion,2003,F,BEL,Entente Des Nageurs Louvierois Natation,56.47,t
 4822294,VERMEIREN,Fleur,2002,F,BEL,Zwemclub Brabo Antwerpen,56.54,t
 5278302,VANDERLINDEN,Siri,2009,F,BEL,Leuven Aquatics,56.54,t
-4621417,VANLOMMEL,Anke,2000,F,BEL,"Molse Zwemclub ""mozka""",56.58,t
+4621417,VANLOMMEL,Anke,2000,F,BEL,Molse Zwemclub mozka,56.58,t
 4074397,PARENT,Charlotte,1991,F,BEL,Braine L'alleud Aqua College,56.70,t
 5017411,HENVEAUX,Camille,2006,F,BEL,Liege Natation,56.70,t
 4687030,ZELLER,Pauline,2007,F,BEL,Namur Olympic Club,56.81,t
 4897322,VAN BRABANDT,Zita,2003,F,BEL,Iswim,56.85,t
-4057036,CUSTERS,Karen,1988,F,BEL,"Molse Zwemclub ""mozka""",56.94,t
+4057036,CUSTERS,Karen,1988,F,BEL,Molse Zwemclub mozka,56.94,t
 4066233,LECLUYSE,Fanny,1992,F,BEL,Royal Dauphins Mouscronnois,56.98,t
 4295920,BOITS,Louve,1998,F,BEL,Zwemclub Brabo Antwerpen,57.06,t
 4200109,LINDEKENS,Carolien,1994,F,BEL,Zwemclub Brabo Antwerpen,57.07,t
@@ -53,7 +53,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4804663,BYNENS,Nathalie,1993,F,BEL,Koninklijke Hasseltse Zwemvere,57.12,t
 4073166,CAVADINI,Caroline,1990,F,BEL,Cercle Royal De Natation De Br,57.12,t
 5198153,DEWAELHEYNS,Niene,2007,F,BEL,Tiense Regio United Swimming Team,57.20,t
-4066227,ROMANINI,Aurelie,1987,F,BEL,"Blocry, Ottignies Et Univ.L.L.",57.27,t
+4066227,ROMANINI,Aurelie,1987,F,BEL,Blocry, Ottignies Et Univ.L.L.,57.27,t
 4073172,POLLET,Jana,1988,F,BEL,Koninklijke Brugse Zwem- & Red,57.29,t
 4805363,WILLEMS,Steffi,1994,F,BEL,Shark,57.30,t
 4029787,GRANDJEAN,Tahnee,1988,F,BEL,Belgium,57.33,t
@@ -90,8 +90,8 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5024883,WITTERS,Marie-Alix,2005,F,BEL,De Beringse Tuimelaars,57.91,t
 4417996,HOLLEBOSCH,Noa,2007,F,BEL,Meetjesland-Gent Alliantie Zwemteam,57.92,t
 5004117,DECONINCK,Gaelle,2004,F,BEL,Koninklijke Kortrijkse Zwemkri,57.93,t
-4804373,VAN DE VELDE,Sarah,1987,F,BEL,"Molse Zwemclub ""mozka""",1:00.22,t
-4796638,COETS,Shannon,2001,F,BEL,"Blocry, Ottignies Et Univ.L.L.",57.99,t
+4804373,VAN DE VELDE,Sarah,1987,F,BEL,Molse Zwemclub mozka,1:00.22,t
+4796638,COETS,Shannon,2001,F,BEL,Blocry, Ottignies Et Univ.L.L.,57.99,t
 4393568,BONNET,Eva,2000,F,BEL,Castor Club De Mons,58.01,t
 4804798,MOERMAN,Margot,1993,F,BEL,Shark,58.02,t
 4822295,FEYEN,Charlotte,2003,F,BEL,Zwemclub Brabo Antwerpen,58.03,t
@@ -156,7 +156,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5355006,VAN DEN WYNGAERT,Elizabeth,2009,F,BEL,Zwemclub Brabo Antwerpen,58.78,t
 4794126,MAURO,Nathalie,1988,F,BEL,Zwemclub Brabo Antwerpen,58.79,t
 4307319,SWILLEN,Marie,1997,F,BEL,Tiense Zwemmers,58.79,t
-4355417,MEERE,Joleen,1999,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",58.79,t
+4355417,MEERE,Joleen,1999,F,BEL,Zwemclub de Dolfijnen Asse-T,58.79,t
 4875181,SEGERS,Noor,2005,F,BEL,Zwemvereniging De Meerkoet Bre,58.79,t
 5167239,BROECKAERT,Noor,2007,F,BEL,Zwemclub Brabo Antwerpen,58.80,t
 4199861,SCHOUTTETENS,Ruth,1993,F,BEL,Gold Swimming Team,58.81,t
@@ -167,10 +167,10 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4804840,VERHAERT,Nathalie,1993,F,BEL,Swimming Team Waasland,58.91,t
 5102977,BERTEN,Martha,2005,F,BEL,Koninklijke Racing Swimming Cl,58.91,t
 5153678,CHABOT,Camille,2006,F,BEL,Perron,58.92,t
-4148789,MAES,Charlotte,1991,F,BEL,"Molse Zwemclub ""mozka""",58.93,t
+4148789,MAES,Charlotte,1991,F,BEL,Molse Zwemclub mozka,58.93,t
 4054075,PINGNET,Jolien,1989,F,BEL,Zwemclub Brabo Antwerpen,58.94,t
 4055668,PEETERS,Trees,1988,F,BEL,Geelse Sportvereniging Zwemmen,58.95,t
-4304525,BEAUVOIS,Aurelie,1997,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:00.42,t
+4304525,BEAUVOIS,Aurelie,1997,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:00.42,t
 4307826,VANGEEL,Jolien,1996,F,BEL,Koninklijke Hasseltse Zwemvere,58.96,t
 4074825,DELLICOUR,Stephanie,1988,F,BEL,Royal Verviers Natation,58.97,t
 4827988,REMMERY,Anice,2002,F,BEL,Koninklijke Kortrijkse Zwemkri,58.97,t
@@ -222,7 +222,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4059362,VANDERGEETEN,Marie,1986,F,BEL,Cercle De Natation Sportcity W,59.36,t
 4307937,VERDICKT,Jolien,1997,F,BEL,Zwemclub Kapelle-O/D-Bos,59.36,t
 5102959,VANMEENEN,Laura,2005,F,BEL,Iswim,59.37,t
-4439754,VERDIJCK,Astrid,1999,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",59.39,t
+4439754,VERDIJCK,Astrid,1999,F,BEL,Zwemclub de Dolfijnen Asse-T,59.39,t
 4805216,KALDI,Valentine,1991,F,BEL,Cercle Royal De Natation De Huy,59.39,t
 4085690,NEY,Sarah,1993,F,BEL,Liege Mosan,59.40,t
 4804480,BASSLE,Elien,1993,F,BEL,Koninklijke Brugse Zwem- & Red,59.40,t
@@ -283,7 +283,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805278,MERLEVEDE,Ester,1989,F,BEL,Koninklijke Kortrijkse Zwemkri,59.69,t
 4139945,DE COSTER,Julie,1995,F,BEL,Ecole Seraing Natation,59.70,t
 4737933,KENNIS,Nathalie,2002,F,BEL,Kempisch Swimming Team,59.71,t
-4055619,STERCKX,Ellen,1983,F,BEL,"Molse Zwemclub ""mozka""",59.72,t
+4055619,STERCKX,Ellen,1983,F,BEL,Molse Zwemclub mozka,59.72,t
 4804854,PINTE,Droesja,1989,F,BEL,Zoro,59.72,t
 4396387,ERNENS,Marie,2000,F,BEL,Natation Club Athus,59.72,t
 4777814,PIETERS,Jana,2002,F,BEL,Heistse Zwemclub Arduas,59.73,t
@@ -322,7 +322,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5338035,VEDERNIKOVA,Marina,2008,F,BEL,Swimming Club Wauterbos Rode,59.89,t
 4074296,BAADE,Fanny,1992,F,BEL,Embourg Natation,59.90,t
 4063556,STINCKENS,Maud,1987,F,BEL,Belgium,59.91,t
-4074827,DEPOUHON,Justine,1989,F,BEL,"Blocry, Ottignies Et Univ.L.L.",59.91,t
+4074827,DEPOUHON,Justine,1989,F,BEL,Blocry, Ottignies Et Univ.L.L.,59.91,t
 4991327,GOIRE,Juliette,2002,F,BEL,Ecole De Natation Waremmienne,59.91,t
 5055533,VANDEPOORTE,Pauline,2006,F,BEL,Flemish Ardennes Swimming Team,59.91,t
 4139751,MOROZ,Vladlena,1994,F,BEL,Koninklijke Brugse Zwem- & Red,59.92,t
@@ -330,7 +330,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4563582,VAN HYFTE,Isaura,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,59.93,t
 5243709,DELRUE,Anais,2008,F,BEL,Royal Ostend Swimming Club,59.93,t
 4842488,DELCOMMUNE,Wiebe,2003,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:00.61,t
-5089888,VERROKEN,Mirte,2006,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",59.94,t
+5089888,VERROKEN,Mirte,2006,F,BEL,Zwemclub de Dolfijnen Asse-T,59.94,t
 5098394,THEUWIS,Nelle,2006,F,BEL,Zwemvereniging De Meerkoet Bre,59.94,t
 4804864,BOMON,Ruby,1993,F,BEL,Koninklijke Zwemclub Neptunus,59.95,t
 4702885,MONDONEDO,Sonoma,2000,F,BEL,Swimming Club Wauterbos Rode,59.95,t
@@ -352,8 +352,8 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5002817,BROUX,Elise,2005,F,BEL,Genker Zwemvereniging Neptunus,1:00.04,t
 5053040,TOMCSIK,Kira,2004,F,BEL,Tiense Regio United Swimming Team,1:00.05,t
 4066246,LAMMENS,Manon,1991,F,BEL,Royal Dauphins Mouscronnois,1:00.06,t
-4819747,SNEPPE,Diede,2003,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:00.06,t
-5049340,PEETERS,Elisa,2004,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:00.06,t
+4819747,SNEPPE,Diede,2003,F,BEL,Zwemclub de Dolfijnen Asse-T,1:00.06,t
+5049340,PEETERS,Elisa,2004,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:00.06,t
 4139783,DE LAET,Charlotte,1993,F,BEL,Zwemclub Brabo Antwerpen,1:00.07,t
 4429284,SCHOEMANS,Stephanie,2000,F,BEL,Longchamp Swimming Club Uccle,1:00.07,t
 4729516,LOONES,Thuline,2000,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.07,t
@@ -394,7 +394,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805350,SELDERSLAGHS,Elke,1993,F,BEL,Swimming Club Strombeek-Grimbe,1:00.26,t
 5294351,FATIH,Aya,2007,F,BEL,Zwemclub Brabo Antwerpen,1:00.26,t
 5255296,BEHAEGHEL,Janne,2007,F,BEL,Zwemclub Tremelo,1:00.26,t
-4346896,DHAENENS,Emma,1999,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:00.27,t
+4346896,DHAENENS,Emma,1999,F,BEL,Zwemclub de Dolfijnen Asse-T,1:00.27,t
 5283039,DEBECKER,Charlotte,2008,F,BEL,Zwemclub De Dolfijnen Middelke,1:00.27,t
 4804360,CHARLIER,Marjorie,1986,F,BEL,Liege Natation,1:00.30,t
 4615254,NAEYE,Febe,1997,F,BEL,Royal Ypres Swimming Club,1:00.30,t
@@ -463,10 +463,10 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5046681,LAUWERS,Jitske,2004,F,BEL,Tiense Zwemmers,1:00.60,t
 5343791,VAN LAECKE,Lene,2008,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.60,t
 4938004,ANTUNES,Lyna,2007,F,BEL,Koninklijke Vilvoordse Zwemclu,1:00.60,t
-5113640,VAN BELLINGEN,Lotte,2004,F,BEL,"Molse Zwemclub ""mozka""",1:00.61,t
+5113640,VAN BELLINGEN,Lotte,2004,F,BEL,Molse Zwemclub mozka,1:00.61,t
 5169394,CAES,Oone,2007,F,BEL,Zwemclub Tremelo,1:00.61,t
 4598505,VAN SUETENDAEL,Sara,2000,F,BEL,Zwemclub Brabo Antwerpen,1:00.64,t
-4621067,BUGGENHOUT,Niki,2000,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:00.64,t
+4621067,BUGGENHOUT,Niki,2000,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:00.64,t
 5203772,MARIEN,Flore,2008,F,BEL,Nijlense Zwemclub,1:00.65,t
 4427951,GIELEN,Indra,2000,F,BEL,Zwemvereniging De Meerkoet Bre,1:00.66,t
 4489430,GHESQUIERE,Romane,2000,F,BEL,Royal Dauphins Mouscronnois,1:00.68,t
@@ -480,7 +480,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5003043,ROUSSEL,Chloe,2004,F,BEL,Waterloo Natation,1:00.71,t
 4139760,KOEKS,Femke,1993,F,BEL,Swimming Club Wauterbos Rode,1:00.72,t
 4805311,MOLLE,Emilie,1992,F,BEL,Club De Natation Bastogne,1:00.72,t
-5004572,HERMANS,Celia,2004,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:00.73,t
+5004572,HERMANS,Celia,2004,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:00.73,t
 4969677,BAJOT,Clemence,2011,F,BEL,Liege Natation,1:00.73,t
 4620614,VANDERBEKEN,Lies,2001,F,BEL,First (Flanders Inter Regio Sw,1:00.74,t
 4074873,HERMAN,Alien,1986,F,BEL,Meense Zwemkring,1:00.75,t
@@ -505,7 +505,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4308589,COECK,Kimberly,1993,F,BEL,Koninklijke Kortrijkse Zwemkri,1:00.89,t
 4305196,DEFRENNE,Blandine,1998,F,BEL,Mons Hainaut Natation,1:00.89,t
 4804855,VERHASSELT,Dafne,1988,F,BEL,Zwemclub Kapelle-O/D-Bos,1:00.90,t
-4304418,BOUDEN,Amber,1996,F,BEL,"Zwemvereniging ""brasschaatse D",1:00.90,t
+4304418,BOUDEN,Amber,1996,F,BEL,Zwemvereniging brasschaatse D,1:00.90,t
 4313953,COESSENS,Audrey,1996,F,BEL,Royal Dauphins Mouscronnois,1:00.91,t
 4074400,HAYERS,Joanne,1986,F,BEL,Nageurs Reunis Du Brabant Wallon,1:00.92,t
 4804810,DECONINCK,Laura,1993,F,BEL,Ursus Zwemklub Zwevegem,1:00.92,t
@@ -554,10 +554,10 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4640000,WASTYN,Heline,1997,F,BEL,Koninklijke Kortrijkse Zwemkri,1:01.16,t
 4804677,VERSCHUEREN,Stephanie,1993,F,BEL,Heistse Zwemclub Arduas,1:01.18,t
 4074284,LECOUTERE,Katrijn,1988,F,BEL,Brabant East Swimming Team,1:01.18,t
-4620682,SCHILLEBEEKX,Jelle,1999,F,BEL,"Molse Zwemclub ""mozka""",1:01.18,t
+4620682,SCHILLEBEEKX,Jelle,1999,F,BEL,Molse Zwemclub mozka,1:01.18,t
 4929059,RAVELINGIEN,Kato,2003,F,BEL,Zwemclub Brabo Antwerpen,1:01.18,t
 4805383,NAESSENS,Nora,1994,F,BEL,Gold Swimming Team,1:01.19,t
-4804577,LERINCK,Tania,1990,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:01.20,t
+4804577,LERINCK,Tania,1990,F,BEL,Zwemclub de Dolfijnen Asse-T,1:01.20,t
 4309237,WOUTERS,Frone,1985,F,BEL,De Beringse Tuimelaars,1:01.20,t
 4731920,NAERT,Margaux,2002,F,BEL,Swimming Team Aalter,1:01.20,t
 5251253,DRIES,Sien,2007,F,BEL,Zwemclub Geel,1:01.20,t
@@ -570,10 +570,10 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5349299,VERTESSEN,Fran,2009,F,BEL,De Beringse Tuimelaars,1:01.22,t
 4200074,VERSCHUERE,Harmony,1993,F,BEL,Cercle De Natation Sportcity W,1:01.23,t
 4804701,SCHAUBROECK,Febe,1992,F,BEL,Koninklijke Kortrijkse Zwemkri,1:01.23,t
-4805291,MAES,Silvy,1994,F,BEL,"Lommelse Zwemvereniging ""de Lo",1:01.23,t
+4805291,MAES,Silvy,1994,F,BEL,Lommelse Zwemvereniging de Lo,1:01.23,t
 4805339,STALMANS,Lore,1993,F,BEL,Peltse Zwemclub,1:01.23,t
 4308960,POFFYN,Elien,1996,F,BEL,First (Flanders Inter Regio Sw,1:01.23,t
-4306283,LEYMAN,Merel,1998,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:01.23,t
+4306283,LEYMAN,Merel,1998,F,BEL,Zwemclub de Dolfijnen Asse-T,1:01.23,t
 4812373,DUNCA,Mara,2001,F,BEL,Cercle De Natation Sportcity W,1:01.23,t
 5002819,HUYS,Jorinde,2005,F,BEL,Genker Zwemvereniging Neptunus,1:01.23,t
 4066222,CARMOY,Anouk,1987,F,BEL,Royal Dauphins Mouscronnois,1:01.24,t
@@ -621,7 +621,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5407039,HARTITI,Maissane,2008,F,BEL,Cercle Royal De Natation De Br,1:01.41,t
 4139737,GEENEN,Anouk,1995,F,BEL,Zwemclub Geel,1:01.42,t
 4305131,DE WILDE,Maaike,1995,F,BEL,First (Flanders Inter Regio Sw,1:01.42,t
-4368193,OOMS,Naomi,1997,F,BEL,"Molse Zwemclub ""mozka""",1:01.42,t
+4368193,OOMS,Naomi,1997,F,BEL,Molse Zwemclub mozka,1:01.42,t
 4613834,BRUGMAN,Serena,2008,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:01.42,t
 4804349,VANSPAUWEN,Jessie,1986,F,BEL,Genker Zwemvereniging Neptunus,1:01.43,t
 4804402,BRUYNOOGHE,Bieke,1986,F,BEL,Bruinvissen Diksmuide,1:01.44,t
@@ -658,12 +658,12 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5158917,COKELAERE,Marit,2006,F,BEL,Koninklijke Kortrijkse Zwemkri,1:01.52,t
 5279033,ETIENNE,Constance,2006,F,BEL,Jod,1:01.52,t
 4948253,ANGELLIER,Liloue,2004,F,BEL,Zwemclub Tremelo,1:01.53,t
-4272305,GENTIER,Anouk,1994,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:01.54,t
+4272305,GENTIER,Anouk,1994,F,BEL,Zwemclub de Dolfijnen Asse-T,1:01.54,t
 4682576,CALET,Perrine,2002,F,BEL,Royal Dauphins Mouscronnois,1:01.54,t
 5278481,FREDERIX,Maya,2009,F,BEL,De Beringse Tuimelaars,1:01.54,t
-5166429,VAN BREE,Maya,2006,F,BEL,"Molse Zwemclub ""mozka""",1:01.55,t
+5166429,VAN BREE,Maya,2006,F,BEL,Molse Zwemclub mozka,1:01.55,t
 5244432,VANHOOF,Marieke,2007,F,BEL,Koninklijke Racing Swimming Cl,1:01.55,t
-5201216,BUGGENHOUDT,Lena,2012,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:01.55,t
+5201216,BUGGENHOUDT,Lena,2012,F,BEL,Zwemclub de Dolfijnen Asse-T,1:01.55,t
 4225713,OLMECHETTE,Marie,1994,F,BEL,Province Du Luxembourg Association Nautique,1:01.56,t
 4897310,SERVERIUS,Femke,2002,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:01.56,t
 4363355,VAN ASSCHE,Hanneleen,1998,F,BEL,Leuven Aquatics,1:01.56,t
@@ -727,7 +727,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4200112,PEETERS,Emmeline,1994,F,BEL,Zwemclub Geel,1:01.81,t
 4812921,BORGONIE,Lisa,2003,F,BEL,Roeselaarse Zwemvereniging,1:01.81,t
 5263225,LUYTEN,Hanne,2008,F,BEL,Arvicola Zwemclub Kalmthout,1:01.81,t
-4068849,RYCKAERT,Coraline,1991,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:01.84,t
+4068849,RYCKAERT,Coraline,1991,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:01.84,t
 4470606,BIELEN,Mirte,1997,F,BEL,Koninklijke Hasseltse Zwemvere,1:01.84,t
 4648958,FARAH,Van Overmeire,2006,F,BEL,Temse Schelde Zwemmers,1:01.84,t
 4074965,OOMS,Nathalie,1983,F,BEL,Zwemclub Brabo Antwerpen,1:01.85,t
@@ -752,7 +752,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4309164,VANDERHEYDEN,Ruth,1996,F,BEL,Peltse Zwemclub,1:01.91,t
 5259507,MAES,Kato,2007,F,BEL,Koninklijke Kortrijkse Zwemkri,1:01.91,t
 5167358,VANDERBRUGGEN,Luca,2007,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:01.91,t
-5088886,DERENNE,Luna,2002,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:01.92,t
+5088886,DERENNE,Luna,2002,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:01.92,t
 5059355,GANTOIS,Janne,2011,F,BEL,Koninklijke Brugse Zwem- & Red,1:01.92,t
 4924733,DE WOLF,Laura,2003,F,BEL,Koninklijke Brugse Zwem- & Red,1:01.93,t
 4805349,LAURENT,Jitka,1993,F,BEL,Koninklijke Racing Swimming Cl,1:01.94,t
@@ -767,7 +767,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4308201,GUILLAUME,Maeva,1998,F,BEL,First (Flanders Inter Regio Sw,1:01.98,t
 5111337,PEETERS,Birthe,2003,F,BEL,Koninklijke Zwemclub Neptunus,1:01.98,t
 5443370,RENETTE,Lena,2009,F,BEL,De Beringse Tuimelaars,1:01.98,t
-4828302,THIRY,Emma,2001,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:01.99,t
+4828302,THIRY,Emma,2001,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:01.99,t
 4303519,DEPRETER,Axelle,1988,F,BEL,Castor Club De Mons,1:02.00,t
 4804713,LHOST,Elodie,1993,F,BEL,Liege Mosan,1:02.00,t
 4938127,LIPPENS,Karo,2004,F,BEL,Swimming Team Waasland,1:02.00,t
@@ -778,7 +778,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5196470,OOSTERLYNCK,Anais,2006,F,BEL,Gold Swimming Team,1:02.01,t
 5084778,CHABEAU,Romane,2006,F,BEL,Swimming Club Wauterbos Rode,1:02.01,t
 4805194,VAN KEERBERGHEN,Celine,1991,F,BEL,Belgium,1:02.02,t
-4346903,CLIJSTERS,Nathalie,1998,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:02.02,t
+4346903,CLIJSTERS,Nathalie,1998,F,BEL,Zwemclub de Dolfijnen Asse-T,1:02.02,t
 4779081,BUYSSE,Camille,2000,F,BEL,First (Flanders Inter Regio Sw,1:02.02,t
 4804495,VRIELINCK,Liesa,1993,F,BEL,Koninklijke Brugse Zwem- & Red,1:02.02,t
 5317370,BOYKO,Valeria,2007,F,BEL,Zwemclub Brabo Antwerpen,1:02.02,t
@@ -787,7 +787,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4185202,DE COSTER,Gaelle,1992,F,BEL,Zwemclub Kapelle-O/D-Bos,1:02.04,t
 5214134,MEERTS,Xsandy,2007,F,BEL,Nijlense Zwemclub,1:02.04,t
 4074816,LECOCQ,Marie,1990,F,BEL,Ecole Seraing Natation,1:02.05,t
-4805306,WINTERS,Sarina,1992,F,BEL,"Molse Zwemclub ""mozka""",1:02.05,t
+4805306,WINTERS,Sarina,1992,F,BEL,Molse Zwemclub mozka,1:02.05,t
 4313959,MELICE,Eloise,1995,F,BEL,Club Marsouins Ath,1:02.05,t
 5076001,DOMINICZAK,Naya,2006,F,BEL,Liege Natation,1:02.05,t
 5169393,DE WEERDT,Amelie,2007,F,BEL,Zwemclub Tremelo,1:02.05,t
@@ -826,7 +826,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4074323,DECLERCQ,Joke,1986,F,BEL,First (Flanders Inter Regio Sw,1:02.14,t
 4139627,KUCMA,Wendy,1994,F,BEL,Aalsters Swimming Team,1:02.14,t
 4804337,DEJAEGHER,Clara-Lou,1991,F,BEL,Orca Natation Soignies,1:02.14,t
-4359661,DE WOLF,Silke,1998,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:02.14,t
+4359661,DE WOLF,Silke,1998,F,BEL,Zwemclub de Dolfijnen Asse-T,1:02.14,t
 5091143,KARASALIS,Catherine,2004,F,BEL,Longchamp Swimming Club Uccle,1:02.14,t
 5279032,SPRECHER,Lydie,2006,F,BEL,Swimming Club Calypso Watermae,1:02.14,t
 4805227,MESSINA,Alexia,1992,F,BEL,Ecole Seraing Natation,1:02.15,t
@@ -850,14 +850,14 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4334555,THOELEN,An-Sofie,1996,F,BEL,Genker Zwemvereniging Neptunus,1:02.22,t
 4615252,SOENS,Emma,1999,F,BEL,Koninklijke Kortrijkse Zwemkri,1:02.22,t
 5302984,DESMET,Fien,2008,F,BEL,Torhoutse Zwemklub Thor,1:02.22,t
-4900286,SPRANGERS,Kato,2008,F,BEL,"Molse Zwemclub ""mozka""",1:02.22,t
+4900286,SPRANGERS,Kato,2008,F,BEL,Molse Zwemclub mozka,1:02.22,t
 4804392,VAERNEWYCK,Stephanie,1983,F,BEL,Ursus Zwemklub Zwevegem,1:02.23,t
 4805256,VAN LIERDE,Charlotte,1991,F,BEL,Genker Zwemvereniging Neptunus,1:02.23,t
 4307960,VERHAEGHE,Lisa,1997,F,BEL,Zwemclub Brabo Antwerpen,1:02.23,t
 4074392,DANDOIS,Anne-Sophie,1987,F,BEL,Nageurs Reunis Du Brabant Wallon,1:02.24,t
 4804664,DE COSTER,Demie,1993,F,BEL,Koninklijke Hasseltse Zwemvere,1:02.24,t
 4308631,DE MUL,Shauni,1995,F,BEL,Verenigde Willebroekse Zwemclu,1:02.24,t
-4910866,ELIARD,Tania,2002,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:02.24,t
+4910866,ELIARD,Tania,2002,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:02.24,t
 5167316,TANGHE,Kato,2006,F,BEL,Zwemclub Brabo Antwerpen,1:02.24,t
 5273839,DECRAENE,Sioban,2007,F,BEL,Royal Dauphins Mouscronnois,1:02.24,t
 5334399,BUDNAK,Carolina,2008,F,BEL,Swimming Club Wauterbos Rode,1:02.24,t
@@ -903,7 +903,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4185200,CARLIER,Elsa,1991,F,BEL,Belgium,1:02.37,t
 4058178,TILLY,Celien,1991,F,BEL,Koninklijke Brugse Zwem- & Red,1:02.37,t
 4805185,MARIN,Marion,1992,F,BEL,Cercle De Natation Sportcity W,1:02.37,t
-4433294,AUGENBROE,Floor,2000,F,BEL,"Lommelse Zwemvereniging ""de Lo",1:02.37,t
+4433294,AUGENBROE,Floor,2000,F,BEL,Lommelse Zwemvereniging de Lo,1:02.37,t
 4911095,JANSSEN,Sien,2004,F,BEL,Zwemvereniging De Meerkoet Bre,1:02.37,t
 4804444,CORNET,Charlotte,1992,F,BEL,Royal Brussels Poseidon,1:02.38,t
 4695371,KAMEL,Joy,1999,F,BEL,Royal Dauphins Mouscronnois,1:02.38,t
@@ -914,7 +914,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4306890,POLLEUNIS,Daphne,1996,F,BEL,Swimming Team Tienen,1:02.42,t
 5015628,DEBROUWER,Sarah,2005,F,BEL,Iswim,1:02.42,t
 5472781,GUISSET,Jelle,2010,F,BEL,Aalsters Swimming Team,1:02.42,t
-4805101,LACROIX,Marielle,1994,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:02.43,t
+4805101,LACROIX,Marielle,1994,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:02.43,t
 4307941,VERDONCK,Geertje,1996,F,BEL,Gold Swimming Team,1:02.43,t
 5169415,MABBE,Norah,2006,F,BEL,Ursus Zwemklub Zwevegem,1:02.43,t
 5003816,VELDHUIS,Victoria,2009,F,BEL,Zwemclub Tremelo,1:02.43,t
@@ -932,9 +932,9 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5169348,BORDONARO,Madeleine,2006,F,BEL,Cercle Royal De Natation Arlonais,1:02.47,t
 5387543,DEWILDE,Alissa,2007,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:02.47,t
 4230150,HAUTACKERS,Tine,1989,F,BEL,Genker Zwemvereniging Neptunus,1:02.48,t
-4910820,CUYVERS,Ella,2002,F,BEL,"Molse Zwemclub ""mozka""",1:02.49,t
-5099268,DEKERF,Hanne,2006,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:02.49,t
-4225708,BERGMANS,Lisa,1991,F,BEL,"Lommelse Zwemvereniging ""de Lo",1:02.50,t
+4910820,CUYVERS,Ella,2002,F,BEL,Molse Zwemclub mozka,1:02.49,t
+5099268,DEKERF,Hanne,2006,F,BEL,Zwemclub de Dolfijnen Asse-T,1:02.49,t
+4225708,BERGMANS,Lisa,1991,F,BEL,Lommelse Zwemvereniging de Lo,1:02.50,t
 5076002,GOREUX,Lea,2004,F,BEL,Ecole De Natation Waremmienne,1:02.50,t
 5323252,MOUHTADI,Yaelle,2009,F,BEL,Ecole De Natation Waremmienne,1:02.50,t
 5321449,VINGERHOETS,Madelief,2009,F,BEL,Nijlense Zwemclub,1:02.50,t
@@ -960,7 +960,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5153660,MONTEGAUDIO,Elisa,2007,F,BEL,Liege Mosan,1:02.58,t
 4804862,THEUNISSEN,An,1990,F,BEL,Zwemclub Beringen-Mijn,1:02.59,t
 4295838,TORMANS,Nele,1996,F,BEL,Brabant East Swimming Team,1:02.59,t
-4185205,DETOBEL,Lise,1988,F,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",1:02.60,t
+4185205,DETOBEL,Lise,1988,F,BEL,Zwemclub de Dolfijnen Asse-T,1:02.60,t
 4804427,BONGIORNO,Laura,1993,F,BEL,Barracuda Club Saint-Ghislain,1:02.60,t
 4305419,DOLET,Laetitia,1996,F,BEL,Zwemclub Kapelle-O/D-Bos,1:02.60,t
 4721220,VANDEKERKHOF,Merle,2002,F,BEL,Zwemvereniging De Meerkoet Bre,1:02.60,t
@@ -994,7 +994,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5283025,HERMANS,Emilia,2007,F,BEL,Leuven Aquatics,1:02.67,t
 5506984,DE DECKER,Febe,2010,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:02.67,t
 5343798,HUENS,Noor,2009,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:02.67,t
-4140006,BRASSINNE,Margaux,1990,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:02.68,t
+4140006,BRASSINNE,Margaux,1990,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:02.68,t
 4805187,GAILLET,Adeline,1991,F,BEL,Cercle Royal De Natation De To,1:02.68,t
 4295863,VAN DER BORGHT,Elise,1996,F,BEL,Heistse Zwemclub Arduas,1:02.68,t
 4583414,STREPENNE,Elisa,2000,F,BEL,Club De Natation Bastogne,1:02.69,t
@@ -1011,7 +1011,2158 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4139824,SMEETS,Mirthe,1995,F,BEL,Genker Zwemvereniging Neptunus,1:02.72,t
 4688852,WATHIONG,Oceane,2001,F,BEL,Braine L'alleud Aqua College,1:02.73,t
 4900534,PINT,Emelyne,2002,F,BEL,Chaudfontaine Thermale Natatio,1:02.73,t
+5391846,REMY,Clementine,2007,F,BEL,Liege Mosan,1:02.73,t
+4074845,HOUTACKERS,Tine,1989,F,BEL,Genker Zwemvereniging Neptunus,1:02.74,t
+4295875,BOURGOIS,Karen,1997,F,BEL,Royal Ostend Swimming Club,1:02.74,t
+4568384,OOSTERLYNCK,Nel,2007,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:02.75,t
+5104803,YSENBAERT,Amelie,2006,F,BEL,Ursus Zwemklub Zwevegem,1:02.75,t
+4804469,SMITS,Kelly,1990,F,BEL,Zwemclub Brabo Antwerpen,1:02.76,t
+4812366,KEZELMANN,Soraya,1998,F,BEL,Belgium,1:02.76,t
+4417987,BERTIN,Stien,2005,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:02.76,t
+4878979,PEETERS,Marte,2001,F,BEL,Zwemclub Brabo Antwerpen,1:02.76,t
+5032771,BORREMANS,Lotte,2003,F,BEL,Zwemclub de Dolfijnen Asse-T,1:02.76,t
+5294357,LANDUYT,Anna-Lucia,2008,F,BEL,TiMe Swimming Team,1:02.76,t
+4073170,MEERSMAN,Frederique,1987,F,BEL,Longchamp Swimming Club Uccle,1:02.77,t
+4299628,VAN DEN BRANDE,Sien,1996,F,BEL,Heistse Zwemclub Arduas,1:02.77,t
+4954134,PUTTAERT,Elien,2004,F,BEL,Zwemclub de Dolfijnen Asse-T,1:02.77,t
+4074371,VANDIERENDONCK,Famke,1992,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:02.78,t
+4565885,VERSCHOOTEN,Tine,2000,F,BEL,Zwemclub Tremelo,1:02.78,t
+4429281,FAVART,Manon,1998,F,BEL,Waterloo Natation,1:02.78,t
+4731911,STAES,Jolien,2002,F,BEL,Shark,1:02.78,t
+5353768,GEENS,Amelie,2009,F,BEL,Zwemclub Kapelle-O/D-Bos,1:02.78,t
+4805293,CUVELIER,Kimberley,1992,F,BEL,Genker Zwemvereniging Neptunus,1:02.79,t
+4136861,BUYCK,Sara,1995,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:02.79,t
+5210528,SCHOLLAERT,Jolijn,2007,F,BEL,Royal Ostend Swimming Club,1:02.79,t
+5494386,BHIJA,Noor,2008,F,BEL,Koninklijke Waregemse Zwemclub,1:02.79,t
+5139692,VAN DEN BORRE,Elin,2006,F,BEL,Zwemclub Brabo Antwerpen,1:02.79,t
+5496701,MALFAIT,Lizanna (Lizi),2011,F,BEL,Flemish Ardennes Swimming Team,1:02.79,t
+4336761,FROONINCKX,Lauren,1999,F,BEL,Zwemclub Tremelo,1:02.80,t
+5183334,ROMONT,Lien,2006,F,BEL,Heistse Zwemclub Arduas,1:02.80,t
+4295787,ALDRIC,Amandine,1996,F,BEL,Squalus Nautic Club Gilly,1:02.81,t
+4825847,CHRISTIAENS,Clea,2002,F,BEL,Ecole Seraing Natation,1:02.81,t
+5477774,SARGESJAN,Nala,2011,F,BEL,Koninklijke Hasseltse Zwemvere,1:02.81,t
+4074874,MATON,Adeline,1991,F,BEL,Royal Ostend Swimming Club,1:02.82,t
+4638743,CONTRINO,Lilou,2001,F,BEL,Zwemclub Brabo Antwerpen,1:02.82,t
+4831333,MICHIELS,Rhune,2001,F,BEL,Shark,1:02.82,t
+5376034,STERKEN,Nila,2009,F,BEL,Flemish Ardennes Swimming Team,1:02.82,t
+5279022,JACRI,Maeva,2009,F,BEL,Liege Mosan,1:02.83,t
+5117657,DE JONGHE,Jente,2005,F,BEL,Izegemse Krekel Zwemmers,1:02.84,t
+5282754,MOREELS,Nina,2006,F,BEL,Arvicola Zwemclub Kalmthout,1:02.84,t
+5181808,HOUSEN,Hannah,2007,F,BEL,Torhoutse Zwemklub Thor,1:02.84,t
+5349316,DILLEN,Norah,2008,F,BEL,Zwemclub Geel,1:02.84,t
+4805146,MARMENOUT,Gloria,1994,F,BEL,Koninklijke Brugse Zwem- & Red,1:02.85,t
+4439547,KERKHOFS,Shannon,2000,F,BEL,Shark,1:02.85,t
+4139861,GODEFROID,Marie,1996,F,BEL,Chaudfontaine Thermale Natatio,1:02.86,t
+4308083,VUEGEN,Amber,1998,F,BEL,Zwemclub Beringen-Mijn,1:02.86,t
+4852853,VANDENDRIES,Charlotte,1999,F,BEL,Swimming Team Waasland,1:02.86,t
+4989785,WYNANTS,Eveline,2004,F,BEL,Shark,1:02.86,t
+4600490,SIMON,Fiona,1998,F,BEL,Ecole Seraing Natation,1:02.88,t
+4827991,VANOOST,Margeaux,2001,F,BEL,Koninklijke Kortrijkse Zwemkri,1:02.88,t
+4804284,VERPLANKEN,Nina,1990,F,BEL,Brabant East Swimming Team,1:02.89,t
+4052596,DOMS,Yati,1989,F,BEL,Shark,1:02.90,t
+4393266,VANDERSTRAETEN,Camille,1999,F,BEL,Koninklijke Kortrijkse Zwemkri,1:02.90,t
+5369517,THEUWIS,Mira,2009,F,BEL,Zwemvereniging De Meerkoet Bre,1:02.90,t
+4439760,VERHASSELT,Esther,2000,F,BEL,Zwemclub de Dolfijnen Asse-T,1:02.91,t
+4940406,DUMONT,Louisa,2005,F,BEL,Perron,1:02.91,t
+4828261,BACKES,Zoe,2004,F,BEL,Ecole Saint-Vith Natation,1:02.91,t
+5084781,SCHOEMANS,Alice,2006,F,BEL,Longchamp Swimming Club Uccle,1:02.91,t
+4005851,DEVILLE,Helenne,2008,F,BEL,Perron,1:02.91,t
+5443544,ZIPPER,Evy,2009,F,BEL,Cercle De Natation Sportcity W,1:02.91,t
+4074291,GODDE,Ellen,1990,F,BEL,Zwemclub Brabo Antwerpen,1:02.92,t
+5363551,TEIRLINCK,Louise,2010,F,BEL,Leuven Aquatics,1:02.92,t
+4262651,NEY,Laurine,1996,F,BEL,Natation Club Athus,1:02.93,t
+4690183,VAN LOON,Lien,2001,F,BEL,Leuven Aquatics,1:02.93,t
+5265182,SIMONS,Xante,2008,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:02.93,t
+4295835,VORSSELMANS,Jorinde,1996,F,BEL,Arvicola Zwemclub Kalmthout,1:02.94,t
+4283133,GEELEN,May,1996,F,BEL,Zwemvereniging De Meerkoet Bre,1:02.94,t
+5199461,READY,Emma,2007,F,BEL,Ursus Zwemklub Zwevegem,1:02.94,t
+4804557,RYCKAERT,Ludivine,1988,F,BEL,Cercle De Natation Sportcity W,1:02.95,t
+4882358,MORREN,Maaike,2003,F,BEL,Brabant East Swimming Team,1:02.95,t
+4600428,BACCAUW,Margaux,2001,F,BEL,Barracuda Club Saint-Ghislain,1:02.95,t
+5163745,JACOB,Mei-Jun,2005,F,BEL,Zwemvereniging Lier,1:02.95,t
+5352488,ANQUETIL,Inaya,2009,F,BEL,Meense Zwemkring,1:02.95,t
+4804338,DELECOUR,Anne-Charlotte,1988,F,BEL,Royal Dauphins Mouscronnois,1:02.96,t
+4081648,VAN BEYLEN,Ann,1984,F,BEL,Koninklijke Racing Swimming Cl,1:02.96,t
+4804959,BULTEAU,Charlotte,1986,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:02.97,t
+4804551,ROGGE,Julie,1989,F,BEL,Cercle De Natation Jodoignois,1:02.97,t
+4082797,BROEKMANS,Jolien,1991,F,BEL,Belgium,1:02.97,t
+4225700,RUIJTEN,Laura,1993,F,BEL,Zwemvereniging De Meerkoet Bre,1:02.97,t
+4924771,DEHAUDT,Malou,2004,F,BEL,Gold Swimming Team,1:02.97,t
+5102960,VANMEENEN,Sara,2005,F,BEL,Iswim,1:02.97,t
+4139903,REINQUIN,Marine,1993,F,BEL,Royal Dauphins Mouscronnois,1:02.98,t
+4139983,LEFFIN,Valentine,1995,F,BEL,Schwimmverein Delphin Eupen,1:02.98,t
+4295927,JACOBS,Eline,1997,F,BEL,Zwemclub Brabo Antwerpen,1:02.98,t
+5017399,LAERMANS,Emma,2004,F,BEL,Ecole Seraing Natation,1:02.98,t
+4309059,TIJTGAT,Lise,1991,F,BEL,Koninklijke Kortrijkse Zwemkri,1:02.99,t
+5203715,DECLOEDT,Julie,2007,F,BEL,Peltse Zwemclub,1:02.99,t
+4139825,VANDERLINDEN,Lien,1995,F,BEL,Peltse Zwemclub,1:03.00,t
+4200115,VANGEEL,Lotte,1996,F,BEL,Zwemclub Geel,1:03.00,t
+5210988,LHOIR,Eloise,2010,F,BEL,Aqua Club Braine L'Alleud,1:03.00,t
+5334407,DESRUMAUX,Luna,2008,F,BEL,Cercle De Natation Sportcity W,1:03.01,t
+4779140,VAN AVERMAET,Merel,2001,F,BEL,Temse Schelde Zwemmers,1:03.03,t
+5096420,VANDENBEMPT,Luna,2005,F,BEL,Leuven Aquatics,1:03.03,t
+4702869,HOEF,Clara,2000,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.04,t
+4929102,CUTILLO,Lena,2003,F,BEL,Liege Mosan,1:03.04,t
+5097012,DECKERS,Maite,2006,F,BEL,Zwemvereniging De Meerkoet Bre,1:03.04,t
+4308644,DE VOS,Chiara,1993,F,BEL,Temse Schelde Zwemmers,1:03.06,t
+4295908,HENDERIECKX,Eline,1997,F,BEL,Zwemclub Brabo Antwerpen,1:03.07,t
+4366385,BADER,Zoe,1996,F,BEL,Nautic Club Herve,1:03.07,t
+4304668,BORGONIE,Tine,1998,F,BEL,Roeselaarse Zwemvereniging,1:03.07,t
+4913528,DE DEYNE,Lise,2001,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.07,t
+4199903,BOGAERT,Ellen,1993,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.08,t
+4306607,MOLKENS,Stephanie,1997,F,BEL,Zwemclub Brabo Antwerpen,1:03.08,t
+4875317,BOUTET,Cleo,2002,F,BEL,Nautic Club Herve,1:03.08,t
+4804842,COUPEZ,Sofie,1990,F,BEL,Bruinvissen Diksmuide,1:03.09,t
+4842478,COLLIER,Jille,2001,F,BEL,Zwemclub Brabo Antwerpen,1:03.09,t
+4946802,LEYTEN,Hannelore,2004,F,BEL,Zwemclub Geel,1:03.09,t
+5169414,VERFAILLIE,Marie,2006,F,BEL,Ursus Zwemklub Zwevegem,1:03.09,t
+4804897,VAN HECKE,Sofie,1987,F,BEL,First (Flanders Inter Regio Sw,1:03.10,t
+4805272,D'HONDT,Ann-Sophie,1993,F,BEL,Gold Swimming Team,1:03.10,t
+5317360,VAN DAELE,Lore,2007,F,BEL,Flemish Ardennes Swimming Team,1:03.10,t
+5422895,BOVEN,Axelle,2010,F,BEL,Shark,1:03.10,t
+4804671,VANLOFFELT,Kimberly,1990,F,BEL,Genker Zwemvereniging Neptunus,1:03.11,t
+4139727,ROBEYNS,Nathalie,1995,F,BEL,Lokerse Zwemvereniging,1:03.11,t
+4396343,VAN MELKEBEKE,Leonore,1997,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:03.11,t
+4729514,DE STEUR,Emma,2002,F,BEL,First (Flanders Inter Regio Sw,1:03.11,t
+4788312,ZERAIDI,Kenza,2002,F,BEL,Cercle Royal De Natation De Br,1:03.11,t
+5010427,THIJSSEN,Hanne,2004,F,BEL,De Beringse Tuimelaars,1:03.11,t
+5199428,TORRAO REBOCHO,Leonore,2006,F,BEL,Swimming Club Zaventem,1:03.11,t
+5443375,VAN ESPEN,Lotte,2009,F,BEL,Heistse Zwemclub Arduas,1:03.11,t
+4617158,PEETERS,Marie,1999,F,BEL,Zwemclub Kapelle-O/D-Bos,1:03.12,t
+4913530,SABBE,Sarah,2001,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.12,t
+4134591,BURET,Vanessa,1990,F,BEL,Cercle Royal De Natation Arlonais,1:03.13,t
+4331727,PEETERS,Ilaura,1992,F,BEL,Genker Zwemvereniging Neptunus,1:03.13,t
+4304583,ANCIAUX,Camille,1997,F,BEL,Namur Olympic Club,1:03.13,t
+4399790,RUMFELS,Oceane,1998,F,BEL,Liege Atlas Swimming Team,1:03.13,t
+4981233,GEYPEN,Fien,2009,F,BEL,Molse Zwemclub mozka,1:03.13,t
+4428537,HELSEN,Steffi,1998,F,BEL,Zwemclub Geel,1:03.14,t
+5506849,STOCKMANS,Emma,2010,F,BEL,Lommelse Zwemvereniging de Lo,1:03.14,t
+4827917,BERGMAN,Candy,1988,F,BEL,Dilbeekse Zwemvereniging,1:03.16,t
+4427708,ADAMS,Kymberly,2000,F,BEL,Gold Swimming Team,1:03.16,t
+5336382,WEGRIA,Elena,2011,F,BEL,Ecole De Natation Waremmienne,1:03.16,t
+4306125,LAENEN,Ans,1996,F,BEL,Shark,1:03.17,t
+5179519,GANTOIS,Anne-Sophie,2005,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.17,t
+4937959,TUCCINARDI,Nastasja,2006,F,BEL,Cercle Royal De Natation De Br,1:03.18,t
+4074839,CAENEPEEL,Clara,1989,F,BEL,Genker Zwemvereniging Neptunus,1:03.19,t
+4804847,VAN DER MEEREN,Marie,1992,F,BEL,Koninklijke Kortrijkse Zwemkri,1:03.19,t
+4139695,PEETERS,Elaura,1992,F,BEL,Genker Zwemvereniging Neptunus,1:03.19,t
+4305426,DORME,Margot,1995,F,BEL,Koninklijke Waregemse Zwemclub,1:03.19,t
+4368616,MEERT,Jessy,1999,F,BEL,Swimming Club Strombeek-Grimbe,1:03.19,t
+5213092,THIRY,Alice,2008,F,BEL,Club De Natation Bastogne,1:03.19,t
+4686426,LECHIFFLARD,Lea,2009,F,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:03.19,t
+4804796,KLOCKAERTS,Yasmin,1992,F,BEL,Shark,1:03.20,t
+4439400,BROOS,Yarissa,2000,F,BEL,Zoro,1:03.20,t
+4349588,GYSEN,Sophie-Charlotte,1999,F,BEL,Molse Zwemclub mozka,1:03.20,t
+5498559,MAASKANT,Kristina,2010,F,BEL,Swimming Club Zaventem,1:03.20,t
+4625136,DECORTE,Louise,2001,F,BEL,Cercle De Natation Jodoignois,1:03.21,t
+4924709,KEPPENS,Mare,2004,F,BEL,Aalsters Swimming Team,1:03.21,t
+5154509,AKILYAN,Leila,2005,F,BEL,Cercle De Natation Sportcity W,1:03.21,t
+5353780,VINCKE,Wilma,2009,F,BEL,Koninklijke Kortrijkse Zwemkri,1:03.21,t
+5421743,AMZOUR,Lina,2008,F,BEL,Zwemclub Brabo Antwerpen,1:03.21,t
+5303281,LEPAGE,Amelie,2010,F,BEL,Zwemclub Brabo Antwerpen,1:03.21,t
+4925467,FREDJ,Nessrine,2003,F,BEL,Namur Olympic Club,1:03.22,t
+5231100,DE BRABANDER,Fien,2008,F,BEL,Izegemse Krekel Zwemmers,1:03.22,t
+5346806,MICHIELSEN,Noor,2009,F,BEL,Arendonkse Zwemvereniging,1:03.22,t
+4842502,MASSELUS,Julie,2002,F,BEL,Royal Ypres Swimming Club,1:03.23,t
+4777787,LEGROS,Fanny,2003,F,BEL,Royal Verviers Natation,1:03.23,t
+5584548,VAN HERPE,Milly,2010,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.23,t
+4804795,GYSELS,Lotte,1991,F,BEL,Shark,1:03.24,t
+4805358,HENDRICKX,Annelies,1992,F,BEL,Shark,1:03.24,t
+5200811,NAERT,Zoe,2008,F,BEL,Gold Swimming Team,1:03.24,t
+5227968,PAQUES,Celya,2009,F,BEL,Liege Natation,1:03.24,t
+5322780,VACHAUDEZ,Ella,2009,F,BEL,Entente Des Nageurs Louvierois Natation,1:03.24,t
+4804826,CHIARADIA,Melanie,1990,F,BEL,Val De Mehaigne Natation Wanze,1:03.25,t
+4428098,UYTTERSPROT,Celien,1996,F,BEL,Dendermondse Zwemvereniging Ol,1:03.25,t
+4340429,BAETEN,Cynthia,1999,F,BEL,Koninklijke Hasseltse Zwemvere,1:03.25,t
+4795968,JEVENS,Clodagh,1998,F,BEL,Waterloo Natation,1:03.25,t
+4804719,CROES,Leentje,1988,F,BEL,Zwemclub Lorelei Londerzeel,1:03.26,t
+4199991,WEYN,Shelsea,1994,F,BEL,Swimming Team Waasland,1:03.26,t
+5161580,DESMET,Xenia,2004,F,BEL,Koninklijke Kortrijkse Zwemkri,1:03.26,t
+5325222,COLINET,Charlotte,2007,F,BEL,Cercle De Natation Sportcity W,1:03.26,t
+4587741,VYNCKE,Laura,2001,F,BEL,First (Flanders Inter Regio Sw,1:03.27,t
+4924776,BEILS,Manou,2004,F,BEL,Zwemclub Ter Borcht-Meulebeke,1:03.27,t
+5300475,BOCK,Anouk,2008,F,BEL,Club De Natation Bastogne,1:03.27,t
+4074969,VAN DEN WOUWER,Zuzanna,1990,F,BEL,Zwemclub Brabo Antwerpen,1:03.28,t
+4299637,DE BEULE,Kim,1992,F,BEL,Lokerse Zwemvereniging,1:03.28,t
+4924722,GORIS,Resy,2004,F,BEL,Lommelse Zwemvereniging de Lo,1:03.28,t
+5243724,KEUSTERMANS,Mirte,2006,F,BEL,Hoogstraten Zwemteam,1:03.28,t
+4610077,WEYTJENS,Amber,2008,F,BEL,Zwemvereniging De Meerkoet Bre,1:03.28,t
+4074944,BONGIOLI,Naomi,1989,F,BEL,Zwemclub Brabo Antwerpen,1:03.29,t
+4427945,STOCKMANS,Ine,2000,F,BEL,Koninklijke Hasseltse Zwemvere,1:03.29,t
+4824144,GAHY,Katoe,2001,F,BEL,Zoro,1:03.29,t
+4900281,NIJZIEL,Nova,2008,F,BEL,Zwemclub Geel,1:03.29,t
+5213266,LACHIRI GONGORA,Majda,2006,F,BEL,Cercle De Natation Sportcity W,1:03.29,t
+4295880,VAN ENGELEN,Channa,1993,F,BEL,Koninklijke Racing Swimming Cl,1:03.30,t
+5081008,GIRBOUX,Fanette,2002,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:03.30,t
+5595819,VANDEN BROECK,Jana,1989,F,BEL,Cercle Royal De Natation De Br,1:03.30,t
+4805173,JEANMART,Marielle,1992,F,BEL,Cercle Royal De Natation De Huy,1:03.32,t
+4074302,VANSCHOORISSE,Allison,1994,F,BEL,Zwemclub S.O.S.,1:03.32,t
+4139656,VAN GERWEN,Heleen,1993,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.32,t
+4753996,DELMOTTE,Elodie,1999,F,BEL,Cercle Royal De Natation De Br,1:03.32,t
+4804867,COENEN,Nele,1988,F,BEL,Brabant East Swimming Team,1:03.33,t
+4139702,VAN DER BORGHT,Stephanie,1994,F,BEL,Heistse Zwemclub Arduas,1:03.33,t
+5294369,VERFAILLIE,Amy,2009,F,BEL,Izegemse Krekel Zwemmers,1:03.33,t
+4805264,LEURS,Eveline,1992,F,BEL,Koninklijke Hasseltse Zwemvere,1:03.34,t
+4615248,DE BACKER,Inne,1998,F,BEL,Iswim,1:03.34,t
+5169406,CAILLIAU,Pauline,2005,F,BEL,Bruinvissen Diksmuide,1:03.34,t
+5251969,VEDERNIKOVA,Vera,2010,F,BEL,Swimming Club Wauterbos Rode,1:03.34,t
+4085671,NAPP,Aurore,1988,F,BEL,Liege Mosan,1:03.35,t
+4139776,ROLFS,Isa,1995,F,BEL,Zwemclub Brabo Antwerpen,1:03.36,t
+4839525,HOEVEN,Kato,2006,F,BEL,Leuven Aquatics,1:03.36,t
+4924723,MICHIELS,Liekke,2004,F,BEL,Lommelse Zwemvereniging de Lo,1:03.36,t
+5139689,RYMENANTS,Sterre,2006,F,BEL,Zwemclub Brabo Antwerpen,1:03.36,t
+5017425,DEPIERREUX,Eloise,2005,F,BEL,Ecole Seraing Natation,1:03.37,t
+4309510,VANDERSTRAETEN,Margaux,1998,F,BEL,Koninklijke Kortrijkse Zwemkri,1:03.38,t
+4307647,VAN HOUTVINCK,Charlotte,1994,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:03.39,t
+4328377,BLOCKX,Daphne,1997,F,BEL,Molse Zwemclub mozka,1:03.39,t
+4605620,BOSSUYT,Linde,2001,F,BEL,Zwemclub de Dolfijnen Asse-T,1:03.39,t
+5084447,REGNIERS,Rinske,2006,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.39,t
+5307969,ANDOURA,Judie,2009,F,BEL,Liege Mosan,1:03.39,t
+5558666,IANNINO,Valentina,2012,F,BEL,Swimming Team Zennevallei,1:03.39,t
+4804641,GONDA,Mandy,1990,F,BEL,Flipper Natation Club Saint-Ge,1:03.40,t
+4305590,FRANCO,Charlotte,1998,F,BEL,Chaudfontaine Thermale Natatio,1:03.40,t
+4741102,SPEECKAERT,Femke,2002,F,BEL,Zwemvereniging Wetthra Wettere,1:03.40,t
+5056625,VAN DOORSELAER,Judit,2004,F,BEL,First (Flanders Inter Regio Sw,1:03.40,t
+4804802,VAN HASSELT,Caroline,1988,F,BEL,Shark,1:03.41,t
+4925160,LETERME,Margo,2004,F,BEL,Izegemse Krekel Zwemmers,1:03.41,t
+5006320,VAN MINGEROET,Silken,2002,F,BEL,First (Flanders Inter Regio Sw,1:03.41,t
+5137702,VAN IMSCHOOT,Emma,2005,F,BEL,First (Flanders Inter Regio Sw,1:03.41,t
+5362341,GENBRUGGE,Elea,2010,F,BEL,Zwemclub Brabo Antwerpen,1:03.41,t
+5435644,DEPAEPE,Elize,2011,F,BEL,Royal Ostend Swimming Club,1:03.41,t
+5125474,VIANE,Perla,2005,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.42,t
+5307968,BENNANI,Maryam,2010,F,BEL,Liege Mosan,1:03.42,t
+4805248,GEERINCKX,Jelke,1991,F,BEL,Geelse Sportvereniging Zwemmen,1:03.43,t
+4805376,DUQUET,Annemie,1991,F,BEL,Tiense Zwemmers,1:03.43,t
+4804544,VERTRIEST,Gaelle,1991,F,BEL,Cercle Royal De Natation De Br,1:03.43,t
+4827858,DE BEULE,Troede,2003,F,BEL,Zwemclub Brabo Antwerpen,1:03.43,t
+4792469,OGILVIE,Lara,1999,F,BEL,Chaudfontaine Thermale Natatio,1:03.44,t
+5283040,QUARTIER,Philine,2009,F,BEL,Iswim,1:03.44,t
+4139694,LEMMENS,Anse,1994,F,BEL,Genker Zwemvereniging Neptunus,1:03.45,t
+4139673,HILLEN,Hanne,1994,F,BEL,Zwemvereniging De Meerkoet Bre,1:03.45,t
+5139133,SUBASIC,Lara,2002,F,BEL,Perron,1:03.45,t
+5177194,PHLIX,Jana,2003,F,BEL,Koninklijke Hasseltse Zwemvere,1:03.45,t
+4954133,CRABBE,Lore,2004,F,BEL,Aalsters Swimming Team,1:03.45,t
+5167521,ARIJS,Yana,2004,F,BEL,Heistse Zwemclub Arduas,1:03.45,t
+5003027,ROCCHI,Lena,2004,F,BEL,Std,1:03.46,t
+4839537,LETTE,Laura,2001,F,BEL,Herstal Natation,1:03.46,t
+5099218,KENNES,Naomi,2006,F,BEL,Zwemclub Kapelle-O/D-Bos,1:03.46,t
+4805134,VAN DEN HEUVEL,Emelie,1992,F,BEL,Zwemclub Brabo Antwerpen,1:03.47,t
+4427711,VERSTRAETE,Tyana,1999,F,BEL,Royal Ostend Swimming Club,1:03.47,t
+4795971,VAERENBERG,Marlies,2002,F,BEL,Zwemclub Tremelo,1:03.47,t
+4758713,LA PLACA,Erin,2006,F,BEL,Ecole Seraing Natation,1:03.47,t
+4783776,LAMBIN,Elisa,2009,F,BEL,Natation Club Athus,1:03.47,t
+4805140,BOL,Julie,1991,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.48,t
+4910138,LAVET,Eglantine,2002,F,BEL,Nautic Club Herve,1:03.48,t
+4757736,VAN STEEN,Ayko,2001,F,BEL,Tiense Zwemmers,1:03.48,t
+5356168,SIEBENS,Hanne,2006,F,BEL,Belgium,1:03.48,t
+4074399,SCHMITZ,Elodie,1988,F,BEL,Nageurs Reunis Du Brabant Wallon,1:03.49,t
+4074286,CORTENS,Kim,1989,F,BEL,Brabant East Swimming Team,1:03.49,t
+4056123,VANBUEL,Nele,1985,F,BEL,Nel'Aur,1:03.49,t
+4136947,GOOSSENS,Julie,1991,F,BEL,Zwemclub Tremelo,1:03.50,t
+4139905,VERNIER,Perrine,1992,F,BEL,Royal Dauphins Mouscronnois,1:03.50,t
+4139984,MACORS,Jennifer,1993,F,BEL,Le Triton ans Natation,1:03.50,t
+4313961,VANDERELST,Edwige,1994,F,BEL,Royal Dauphins Mouscronnois,1:03.50,t
+4283132,FRANSSEN,Michelle,1994,F,BEL,Peltse Zwemclub,1:03.50,t
+5200931,VANLAERE,Renee,2005,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:03.50,t
+5268298,GULLENTOPS,Manon,2009,F,BEL,Longchamp Swimming Club Uccle,1:03.50,t
+4074836,SCHAUS,Marie,1989,F,BEL,Nautic Club Herve,1:03.51,t
+4805118,DIELTIENS,Jasmien,1992,F,BEL,Zwemclub Brabo Antwerpen,1:03.51,t
+4804400,VAN DAELE,Eline,1990,F,BEL,Swimming Team Waasland,1:03.51,t
+4307141,SCHOTTE,Louise,1996,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.51,t
+4306964,REINQUIN,Justine,1999,F,BEL,Royal Dauphins Mouscronnois,1:03.51,t
+4927332,VANEYSENDEYK,Dien,2000,F,BEL,Shark,1:03.51,t
+4812005,MINSOUL,Charlotte,2001,F,BEL,Nautic Club Herve,1:03.51,t
+5052926,ANTHONI,Amelie,2005,F,BEL,Zwemclub Brabo Antwerpen,1:03.51,t
+5022342,DARGE,Zoe,2004,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:03.51,t
+5167340,KOZULYA,Mila,2007,F,BEL,Genker Zwemvereniging Neptunus,1:03.51,t
+4295859,DAEMS,Michelle,1996,F,BEL,Zwemclub Geel,1:03.52,t
+5215983,THEETEN,Marjolein,2005,F,BEL,First (Flanders Inter Regio Sw,1:03.52,t
+5330599,RENDERS,Charlotte,2009,F,BEL,Temse Schelde Zwemmers,1:03.52,t
+4295957,BERVOETS,Lien,1996,F,BEL,De Beringse Tuimelaars,1:03.53,t
+4524127,MOERBEEK,Enya,2000,F,BEL,Zwemclub Brabo Antwerpen,1:03.53,t
+4620687,BRISSINCK,Eline,2000,F,BEL,Royal Ostend Swimming Club,1:03.53,t
+4974480,DE BAER,Eline,2003,F,BEL,Zwemclub Brabo Antwerpen,1:03.54,t
+5084787,SITLIVY,Florence,2005,F,BEL,Liege Mosan,1:03.54,t
+5092545,RAECKE,Jana,2005,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.54,t
+5167543,PUTTAERT,Marie,2007,F,BEL,Zwemclub de Dolfijnen Asse-T,1:03.54,t
+4272296,GEUNS,Isolde,1991,F,BEL,Koninklijke Kortrijkse Zwemkri,1:03.55,t
+4308613,DE CONINCK,Julie,1994,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.55,t
+5279880,PIRES MONTEIRO,Louanne,2008,F,BEL,Belgium,1:03.55,t
+4804578,MICHIELS,Nona,1993,F,BEL,Zwemclub de Dolfijnen Asse-T,1:03.56,t
+4139719,VERHAEGEN,Jutte,1992,F,BEL,Zwemclub Lorelei Londerzeel,1:03.56,t
+4598015,LONGTON,Louise,1998,F,BEL,Liege Atlas Swimming Team,1:03.56,t
+4074681,VAN OPSTAL,Anke,1991,F,BEL,Zwemclub Tremelo,1:03.57,t
+4139726,WOUTERS,Jessy,1994,F,BEL,Lommelse Zwemvereniging de Lo,1:03.57,t
+4733778,MARTENS,Camille,2002,F,BEL,First (Flanders Inter Regio Sw,1:03.57,t
+4933169,MARESCAUX,Camille,2002,F,BEL,Ronse Swimming Club,1:03.57,t
+4632540,VANDENHOOFT,Louison,2001,F,BEL,Liege Mosan,1:03.57,t
+5201793,DE MULDER,Chloe,2010,F,BEL,Swimming Team Aalter,1:03.57,t
+4731899,SUPPLY,Ann-Sophie,2002,F,BEL,Zwemclub de Dolfijnen Asse-T,1:03.58,t
+4917612,SPINCEMAILLE,Luna,2003,F,BEL,Ursus Zwemklub Zwevegem,1:03.58,t
+4938125,BRAEM,Jade,2002,F,BEL,Swimming Team Waasland,1:03.58,t
+4058157,ROGGE,Melissa,1991,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.59,t
+4804483,CALCOEN,Jennifer,1992,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.59,t
+4139771,DE JONGHE,Lindsay,1994,F,BEL,Zwemclub Schoten,1:03.59,t
+4400060,VOLCHER,Caroline,1998,F,BEL,Mons Hainaut Natation,1:03.59,t
+5020563,MARIMAN,Laura,2002,F,BEL,Swimming Team Waasland,1:03.59,t
+4805225,LEBRUN,Jodie,1994,F,BEL,Ecole Seraing Natation,1:03.60,t
+4305395,DI BATTISTA,Lena,1997,F,BEL,Swimming Club Wauterbos Rode,1:03.60,t
+4692938,DESCAMPS,Elise,2001,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:03.60,t
+5190523,VAN HAVERBEKE,Fenna,2005,F,BEL,Torhoutse Zwemklub Thor,1:03.60,t
+5089882,TOTTE,Jolien,2004,F,BEL,Zwemclub Schoten,1:03.60,t
+4638736,LAGAE,Michelle,1998,F,BEL,Iswim,1:03.61,t
+4826686,VAN VARENBERG,Merel,2003,F,BEL,First (Flanders Inter Regio Sw,1:03.61,t
+4804377,ADAMS,Jolyn,1988,F,BEL,Zwemclub olma Turnhout,1:03.62,t
+4068850,LECHEIN,Eline,1992,F,BEL,Cercle Royal De Natation De Br,1:03.62,t
+5031269,GOETHALS,Lina,2005,F,BEL,Swimming Team Waasland,1:03.62,t
+5365782,EL MARGOUM,Ines,2010,F,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:03.62,t
+5416221,NOTREDAME,Ine,2009,F,BEL,Bruinvissen Diksmuide,1:03.62,t
+4988942,RUYSKENSVELD,Lonneke,2004,F,BEL,First (Flanders Inter Regio Sw,1:03.63,t
+4804784,VERDUYCKT,Leen,1989,F,BEL,Peltse Zwemclub,1:03.64,t
+4804429,SIX,Lorianne,1989,F,BEL,Charleroi Helios Aqua Team,1:03.64,t
+4805117,DESFOSSES,Sylvie,1992,F,BEL,Zwemclub Brabo Antwerpen,1:03.64,t
+4804669,SCHOONBROOD,Sabine,1989,F,BEL,Genker Zwemvereniging Neptunus,1:03.65,t
+4302760,MEERSMAN,Sarina,1991,F,BEL,Temse Schelde Zwemmers,1:03.65,t
+4295791,PINNA,Sarah,1991,F,BEL,Mons Hainaut Natation,1:03.65,t
+4481827,MAROQUIN,Morgane,1997,F,BEL,Club Marsouins Ath,1:03.65,t
+4305221,DELAHAUT,Camille,1997,F,BEL,Waterloo Natation,1:03.65,t
+4971272,VAN DYCK,Nina,2002,F,BEL,Heistse Zwemclub Arduas,1:03.65,t
+5018055,VAN DE KEERE,Fleur,2005,F,BEL,Zwemclub Tieltse Zeeduivels,1:03.65,t
+5263465,JAMIN,Pauline,2006,F,BEL,Perron,1:03.66,t
+4981172,VERHERSTRAETEN,Lore,2011,F,BEL,Dilbeekse Zwemvereniging,1:03.66,t
+4139670,HUART,Deborah,1995,F,BEL,Dilbeekse Zwemvereniging,1:03.67,t
+5294372,VERFAILLIE,Amber,2009,F,BEL,Izegemse Krekel Zwemmers,1:03.67,t
+4295819,LITTRE,Julie,1996,F,BEL,Cercle De Natation Sportcity W,1:03.68,t
+4262658,VANDENBOSSCHE,Manon,1997,F,BEL,Swimming Arlon Bastogne,1:03.68,t
+4779054,VYAENE,Justine,2001,F,BEL,Izegemse Krekel Zwemmers,1:03.68,t
+4074503,HEYLEN,Gitte,1993,F,BEL,Shark,1:03.69,t
+4305005,DE GRAEVE,Caroline,1996,F,BEL,Castor Club De Mons,1:03.69,t
+4598018,GREGOIRE,Raphaelle,1998,F,BEL,Royal Verviers Natation,1:03.69,t
+5004081,GABRIELS,Sarah,2004,F,BEL,Zwemclub Brabo Antwerpen,1:03.69,t
+5167237,WOUTERS,Lieze,2007,F,BEL,Shark,1:03.69,t
+5281063,ZANGARI,Aurora,2009,F,BEL,Genker Zwemvereniging Neptunus,1:03.69,t
+4417630,VAN HOOF,Floor,2008,F,BEL,Leuven Aquatics,1:03.69,t
+4199910,GHEKIERE,Louise,1996,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.70,t
+4308725,FALLAISE,Sarah,1999,F,BEL,Val De Mehaigne Natation Wanze,1:03.70,t
+4927403,CLAEYS,Celine,2002,F,BEL,Swimming Club Zaventem,1:03.70,t
+4295948,VERRAEST,Amber,1994,F,BEL,Swimming Team Waasland,1:03.71,t
+4199975,VAN ERUM,Eva,1995,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.71,t
+4299643,BACKES,Catherine,1994,F,BEL,Schwimmverein Delphin Eupen,1:03.71,t
+4305879,HIMPE,Sien,1998,F,BEL,Koninklijke Waregemse Zwemclub,1:03.71,t
+4306493,MATTHYS,Karen,1998,F,BEL,Oudenaardse Zwemclub,1:03.71,t
+4600495,DUMONT,Charlotte,2001,F,BEL,Namur Olympic Club,1:03.71,t
+5287510,BIERINCKX,Lienne,2009,F,BEL,Nijlense Zwemclub,1:03.71,t
+5278304,VERVLOESSEM,Siska,2008,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:03.71,t
+4393649,ETIENNE,Marie,1999,F,BEL,Embourg Natation,1:03.72,t
+4687421,COEKAERTS,Jolien,2005,F,BEL,Koninklijke Racing Swimming Cl,1:03.72,t
+4691395,SAFFAR,Sofia,2008,F,BEL,Herstal Natation,1:03.72,t
+4074815,BERTONI,Alexandra,1989,F,BEL,Ecole Seraing Natation,1:03.73,t
+4200147,FELIX,Katrien,1991,F,BEL,Swimming Club Strombeek-Grimbe,1:03.74,t
+4139883,LARDINOIS,Charlotte,1996,F,BEL,Flipper Natation Club Saint-Ge,1:03.74,t
+4839735,BOON,Birte,2007,F,BEL,Leuven Aquatics,1:03.74,t
+4439784,O'SHEA,Annie,1990,F,BEL,Nageurs Reunis Du Brabant Wallon,1:03.75,t
+4139916,BULTE,Maureen,1993,F,BEL,Ecole Seraing Natation,1:03.75,t
+4882350,NONNEMAN,Marthe,1998,F,BEL,Koninklijke Brugse Zwem- & Red,1:03.75,t
+4695414,VANNESPENNE,Romane,2001,F,BEL,Ecole Seraing Natation,1:03.75,t
+4439571,LEYS,Marlies,2000,F,BEL,Zwemclub Tieltse Zeeduivels,1:03.76,t
+4737940,VANDERSTAPPEN,Kim,2001,F,BEL,Koninklijke Vilvoordse Zwemclu,1:03.76,t
+5002827,CORSTJENS,Hanne,2005,F,BEL,Zwemvereniging De Meerkoet Bre,1:03.76,t
+5159303,GILLET,Nohra,2007,F,BEL,Club De Natation Bastogne,1:03.76,t
+5190875,VAN BAELEN,Yenthe,2009,F,BEL,Molse Zwemclub mozka,1:03.76,t
+4303619,NAMOTTE,Cristel,1990,F,BEL,Liege Natation,1:03.77,t
+4804516,HENSEL,Florie,1990,F,BEL,Charleroi Helios Aqua Team,1:03.77,t
+4917623,DINNEWETH,Axelle,2004,F,BEL,Zwemclub Tieltse Zeeduivels,1:03.77,t
+4805329,CEUSTERS,Celine,1994,F,BEL,Nageurs Reunis Du Brabant Wallon,1:03.78,t
+4411753,SNELS,Daria,1999,F,BEL,Shark,1:03.78,t
+5089454,GODDERIS,Mien,2006,F,BEL,Tiense Regio United Swimming Team,1:03.78,t
+4538437,HARDACRE,Juliette,2011,F,BEL,Aqua Club Braine L'Alleud,1:03.78,t
+5167242,DE BECKER,Loren,2007,F,BEL,Zwemclub Schoten,1:03.79,t
+5519081,EELBODE,Emelie,2012,F,BEL,Koninklijke Zwemclub Neptunus,1:03.79,t
+4303755,WERKHOVEN,Kathleen,1988,F,BEL,Zwemclub Brabo Antwerpen,1:03.80,t
+4576348,BROGNIAUX,Alice,1998,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:03.80,t
+4296020,HUYSMANS,Estelle,1996,F,BEL,Liege Natation,1:03.80,t
+4139786,DEVOLDER,Soetkin,1995,F,BEL,Torhoutse Zwemklub Thor,1:03.81,t
+4737927,VERLOOVE,Ibe,1998,F,BEL,Zwemclub Tieltse Zeeduivels,1:03.81,t
+4695376,DELAHAUT,Romane,1999,F,BEL,Waterloo Natation,1:03.81,t
+4680478,HOLLEVOET,Marie,2000,F,BEL,Temse Schelde Zwemmers,1:03.81,t
+5243717,FORE,Lieze,2008,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.81,t
+4368465,BOSSUYT,Marlies,1997,F,BEL,Royal Ostend Swimming Club,1:03.83,t
+4682556,VERDONCK,Christine,1985,F,BEL,Zwemclub Iloka Kapellen,1:03.83M,t
+4689869,PHANVINAKUL,Emilie,2002,F,BEL,Cercle Royal De Natation De To,1:03.83,t
+5443374,SCHELLEMANS,Charlotte,2010,F,BEL,Zwemvereniging Lier,1:03.83,t
+4805024,GERS,Ilke,1991,F,BEL,Zwemclub Brabo Antwerpen,1:03.84,t
+4074963,LEMMENS,Lisa,1991,F,BEL,Zwemclub Brabo Antwerpen,1:03.84,t
+4779114,TUYTSCHAEVER,Dora,2000,F,BEL,Zwemclub Lorelei Londerzeel,1:03.84,t
+4792487,NAEGELS,Ankelien,2002,F,BEL,Zwemclub Brabo Antwerpen,1:03.84,t
+5294354,VAN LAARHOVEN,Alessia,2008,F,BEL,Zwemclub Brabo Antwerpen,1:03.84,t
+5630837,BEIJNSBERGER,Mare,2010,F,BEL,Flemish Ardennes Swimming Team,1:03.84,t
+5292122,JOHNEN,Emma,2010,F,BEL,Royal Verviers Natation,1:03.84,t
+5259177,MICHEL,Daphne,2009,F,BEL,Nautic Club Herve,1:03.84,t
+4199979,BAELE,Elodie,1993,F,BEL,Swimming Club Wauterbos Rode,1:03.85,t
+4639990,CLAES,Laura,1999,F,BEL,Heistse Zwemclub Arduas,1:03.85,t
+5032794,HAERICK,Frauke,2002,F,BEL,First (Flanders Inter Regio Sw,1:03.85,t
+4921111,MAX,Lara,2004,F,BEL,Tiense Zwemmers,1:03.85,t
+4648967,CERPENTIER,Emma,2005,F,BEL,Swimming Team Waasland,1:03.85,t
+5346788,VAN NEVEL,Leonor,2008,F,BEL,Koninklijke Waregemse Zwemclub,1:03.85,t
+4192421,VERHEYEN,Nele,1992,F,BEL,Molse Zwemclub mozka,1:03.86,t
+5401285,MARTELE,Lore,2009,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.86,t
+4804621,BEAUJEAN,Larissa,1993,F,BEL,Chaudfontaine Thermale Natatio,1:03.87,t
+4199769,BARTHOLOMEUS,Louise,1993,F,BEL,Flanders Coast Swimmingteam,1:03.87,t
+4805166,CATY,Maud,1993,F,BEL,Cercle Royal De Natation De Br,1:03.87,t
+4893096,VAN DER ELST,Leen,2003,F,BEL,Zwemclub Tremelo,1:03.87,t
+5015616,OLLEVIER,Mado,2005,F,BEL,Iswim,1:03.87,t
+5398866,ANTONIAN,Juliette,2010,F,BEL,Ecole De Natation Waremmienne,1:03.87,t
+5443536,DELVAUX,Ellynn,2010,F,BEL,Ecole Seraing Natation,1:03.87,t
+4303689,THIJS,Liselot,1987,F,BEL,Koninklijke Hasseltse Zwemvere,1:03.88,t
+5321440,PUT,Amelie,2007,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:03.88,t
+4305282,DEPONDT,Lauren,1997,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.89,t
+4897285,GOIRIS,Cato,2003,F,BEL,Zwemclub Kapelle-O/D-Bos,1:03.89,t
+4303564,HOLVOET,Kim,1989,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.90,t
+4308544,BOLLAERTS,Magali,1998,F,BEL,Swimming Team Tienen,1:03.90,t
+4225902,CROWIN,Mathilde,1995,F,BEL,Espadon Leuze Natation,1:03.90,t
+4472103,MARLAIR,Natacha,2000,F,BEL,Liege Mosan,1:03.90,t
+5014706,VAN DEN BOSCH,Julie,2005,F,BEL,Zwemclub Brabo Antwerpen,1:03.90,t
+5052933,BIANCHI,Delhya,2002,F,BEL,Swimming Club Strombeek-Grimbe,1:03.90,t
+4805336,POLLART,Helene,1994,F,BEL,Orca Natation Soignies,1:03.91,t
+4493611,HUBERT,Lauriane,1999,F,BEL,Belgium,1:03.91,t
+4873921,GODEFROIDT,Emilie,1999,F,BEL,Ronse Swimming Club,1:03.91,t
+4306119,LACROIX,Dagmar,1998,F,BEL,Zwemclub Tremelo,1:03.92,t
+5024882,LIETEN,Anke,2004,F,BEL,De Beringse Tuimelaars,1:03.92,t
+5213283,CHICHKOVA,Lili,2008,F,BEL,Flemish Ardennes Swimming Team,1:03.92,t
+4805199,CHMELICEK,Elena,1994,F,BEL,Cercle Royal De Natation De To,1:03.93,t
+4304638,BEUTEN,Eefje,1997,F,BEL,Groot Beverse Zwemclub,1:03.93,t
+4788313,KULIK,Daria,2001,F,BEL,Cercle Royal De Natation De Br,1:03.93,t
+4478872,VANOLMEN,Brit,2000,F,BEL,De Beringse Tuimelaars,1:03.93,t
+5210521,DE MEULENAERE,Marit,2008,F,BEL,Izegemse Krekel Zwemmers,1:03.93,t
+5337930,ROOSEN,Anouk,2008,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:03.93,t
+4306080,KNAEPEN,Elke,1993,F,BEL,Maaslandse Zwemvereniging Limb,1:03.94,t
+4139680,VANDER STAPPEN,Astrid,1995,F,BEL,Aalsters Swimming Team,1:03.95,t
+4315114,HERMAN,Jutta,1995,F,BEL,Brabant East Swimming Team,1:03.95,t
+4839727,MULKENS,Auke,2002,F,BEL,Tiense Zwemmers,1:03.95,t
+4296008,HENNEBERT,Alyssa,1996,F,BEL,Entente Des Nageurs Louvierois Natation,1:03.95,t
+4199874,COLMAN,Annika,1991,F,BEL,Swimming Team Waasland,1:03.96,t
+4306388,MAERTEN,Jana,1995,F,BEL,Bruinvissen Diksmuide,1:03.96,t
+4824142,VAN TILBURG,Dauwe,2003,F,BEL,Zwemclub Kapelle-O/D-Bos,1:03.96,t
+4917611,QUINTELIER,Perle,2004,F,BEL,Royal Ypres Swimming Club,1:03.96,t
+4332744,SUYS,Lotte,1998,F,BEL,Shark,1:03.97,t
+4331725,OLYSLAEGERS,Karen,1998,F,BEL,Shark,1:03.97,t
+4068855,ENGELS,Marie,1990,F,BEL,Cercle De Natation Sportcity W,1:03.98,t
+4074960,VEREENOOGHE,Charlotte,1989,F,BEL,Koninklijke Kortrijkse Zwemkri,1:03.98,t
+4804839,SMET,Lieselot,1990,F,BEL,Swimming Team Waasland,1:03.98,t
+4620618,DENEIR,Silken,1999,F,BEL,Gold Swimming Team,1:03.98,t
+4995010,DERBAIX,Emilie,2004,F,BEL,Perron,1:03.98,t
+5425835,VANDEKERCKHOVE,Juliette,2011,F,BEL,Torhoutse Zwemklub Thor,1:03.98,t
+5422853,WEVERS,Gitte,2011,F,BEL,Zwemvereniging De Meerkoet Bre,1:03.98,t
+5276787,BROECKAERT,Noa,2009,F,BEL,Zwemclub Brabo Antwerpen,1:03.99,t
+4303539,ETIENNE,Valerie,1977,F,BEL,Ecole Seraing Natation,1:04.00,t
+5056627,PELLEMAN,Marthe,2005,F,BEL,Zwemclub Brabo Antwerpen,1:04.00,t
+5096995,HERMANS,Elena,2006,F,BEL,First (Flanders Inter Regio Sw,1:04.00,t
+5251242,CEULEMANS,Hanne,2008,F,BEL,Arvicola Zwemclub Kalmthout,1:04.00,t
+4330709,VAN GINDERACHTER,Justine,1998,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:04.01,t
+4439494,DHAENE,Joanna,2000,F,BEL,Brabant East Swimming Team,1:04.01,t
+5165820,HENDRICK,Line,2007,F,BEL,Perron,1:04.01,t
+5009525,STALLAERT,Tessa,2005,F,BEL,Zwemclub Kapelle-O/D-Bos,1:04.01,t
+5210510,MARIS,Tine,2006,F,BEL,Zwemclub De Kimpel Bilzen,1:04.01,t
+4074328,CORNELIS,Justien,1988,F,BEL,First (Flanders Inter Regio Sw,1:04.02,t
+4804593,BARTLETT,Stephanie,1993,F,BEL,Zwemvereniging De Meerkoet Bre,1:04.02,t
+4139699,KEUPPENS,Evelien,1994,F,BEL,Heistse Zwemclub Arduas,1:04.02,t
+4641945,VOOS,Marie,1999,F,BEL,Braine L'alleud Aqua College,1:04.02,t
+4368191,LIMBOS,Lien,1999,F,BEL,Shark,1:04.02,t
+4796179,BAUDOUX,Camille,2001,F,BEL,Entente Des Nageurs Louvierois Natation,1:04.02,t
+4804486,DENAUX,Esa,1989,F,BEL,Koninklijke Brugse Zwem- & Red,1:04.03,t
+4307137,SCHOOFS,Sofie,1995,F,BEL,Lommelse Zwemvereniging de Lo,1:04.03,t
+5084791,PICARD,Chiara,2005,F,BEL,Liege Mosan,1:04.03,t
+4307562,VAN DEN TROOST,Chelsy,1998,F,BEL,Zwemclub Kapelle-O/D-Bos,1:04.04,t
+4620695,VANDENSCHRICK,Kaat,2000,F,BEL,Koninklijke Racing Swimming Cl,1:04.04,t
+5317355,TIMMERMANS,Noor,2008,F,BEL,Zwemclub ZIOS Liedekerke,1:04.04,t
+4470148,WAELBROECK,Indra,1996,F,BEL,Oudenaardse Zwemclub,1:04.05,t
+4314017,PEETERS,Kaat,1998,F,BEL,Zwemclub Kapelle-O/D-Bos,1:04.05,t
+5153829,VANDUILLE,Noemie,2004,F,BEL,Cercle Royal De Natation De To,1:04.05,t
+4682555,OP DE BEECK,Tine,2000,F,BEL,Zwemvereniging Lier,1:04.06,t
+4805124,KIEVIT,Annabelle,1991,F,BEL,Zwemclub Brabo Antwerpen,1:04.07,t
+4308896,MCKINLEY,Sarah,1994,F,BEL,Cercle Royal De Natation De Br,1:04.07,t
+4565936,FLAS,Camille,2001,F,BEL,Royal Verviers Natation,1:04.07,t
+4842474,CASTEUR,Francesca,2001,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.07,t
+4620635,JORIS,Phaedra,1998,F,BEL,Koninklijke Hasseltse Zwemvere,1:04.08,t
+5169416,DEMETS,Sarah,2005,F,BEL,Ursus Zwemklub Zwevegem,1:04.08,t
+5425488,VANDERMARLIERE,Juna,2011,F,BEL,Iswim,1:04.08,t
+4821361,FALZONE,Eva,2008,F,BEL,Entente Des Nageurs Louvierois Natation,1:04.08,t
+4804744,MISTIAEN,Sarah,1992,F,BEL,Koninklijke Brugse Zwem- & Red,1:04.09,t
+4309141,VAN ROOIJEN,Carlijn,1995,F,BEL,Zwemclub Geel,1:04.09,t
+5020566,FRANCK,Kito,2000,F,BEL,Ronse Swimming Club,1:04.09,t
+5283071,VAN DEN EEDE,Olivia,2009,F,BEL,Aquarius Zwemclub Lebbeke,1:04.09,t
+4648959,VERHULST,Lotte,2006,F,BEL,Swimming Team Waasland,1:04.09,t
+4805023,MOERAERT,Bo,1990,F,BEL,Brabant East Swimming Team,1:04.10,t
+4308946,PEETERS,Ellen,1993,F,BEL,Zwemclub olma Turnhout,1:04.10,t
+4804722,VAN CAUWENBERGH,Stef,1989,F,BEL,Zwemclub Lorelei Londerzeel,1:04.11,t
+4805228,PIRON,Eloise,1994,F,BEL,Ecole Seraing Natation,1:04.11,t
+5425467,MULLENS,Jule,2008,F,BEL,Zwemclub De Kimpel Bilzen,1:04.11,t
+5116587,MEERT,June,2004,F,BEL,Zwemclub de Dolfijnen Asse-T,1:04.12,t
+5060178,MASSAGE,Jana,2009,F,BEL,Dendermondse Zwemvereniging Ol,1:04.12,t
+5472796,VANDERBEKE,Hasse,2008,F,BEL,Aalsters Swimming Team,1:04.12,t
+4804397,L'HOMME,Chloe,1990,F,BEL,Val De Mehaigne Natation Wanze,1:04.13,t
+4944462,LECHARLIER,Michelle,1972,F,BEL,Belgium,1:04.13M,t
+4729487,LEMAIRE,Femke,2001,F,BEL,AART-Lorelei-Zwemvereniging,1:04.13,t
+5278505,DE KEERSMAEKER,Luna,2008,F,BEL,Temse Schelde Zwemmers,1:04.13,t
+5422902,MERTENS,Femke,2011,F,BEL,Shark,1:04.13,t
+5004101,BRACKE,Liezel,2004,F,BEL,Lokerse Zwemvereniging,1:04.14,t
+4804950,NEES,Nathalie,1987,F,BEL,Zwemvereniging Lier,1:04.15,t
+4139815,MOUSAID,Jasmin,1992,F,BEL,Zoro,1:04.15,t
+5253941,MAES,Lili,2007,F,BEL,Zwemclub Brabo Antwerpen,1:04.15,t
+5148960,HENRI,Chloe,2007,F,BEL,Royal Verviers Natation,1:04.15,t
+5201633,LOONTJENS,Lisa,2007,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.15,t
+4804299,VERSTUYFT,Katrien,1982,F,BEL,Zwemclub Brabo Antwerpen,1:04.16,t
+4804707,ALBERT,Stephanie,1992,F,BEL,Liege Natation,1:04.16,t
+4805247,VERSTRAETEN,Sarah,1991,F,BEL,Groot Beverse Zwemclub,1:04.16,t
+4309087,VAN DAELE,Fiebe,1995,F,BEL,Koninklijke Brugse Zwem- & Red,1:04.16,t
+4805168,PROSMANS,Laetitia,1992,F,BEL,Cercle Royal De Natation De Br,1:04.16,t
+4246967,NAILI,Aurelie,1994,F,BEL,Swimming Club Strombeek-Grimbe,1:04.16,t
+4937003,WILLEMYNS,Tille,1999,F,BEL,Gold Swimming Team,1:04.16,t
+5200926,VANLAERE,Lena,2008,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:04.16,t
+4203645,BELSO GERMADAS,Almudena,1993,F,BEL,Cercle De Natation Sportcity W,1:04.17,t
+4139736,BOETS,Isabelle,1995,F,BEL,Molse Zwemclub mozka,1:04.17,t
+4307371,THIRY,Coralie,1997,F,BEL,Swimming Club Rixensart,1:04.17,t
+4397935,NEYT,Alissia,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.17,t
+4731902,CASIER,Jente,2001,F,BEL,Zwemclub Lorelei Londerzeel,1:04.18,t
+5207654,ABDELKHALEK,Lina,2011,F,BEL,Ecole De Natation Waremmienne,1:04.18,t
+4074294,DEMEESTER,Simke,1987,F,BEL,Zwemclub Brabo Antwerpen,1:04.19,t
+4428533,DE RECHTER,Lotte,1999,F,BEL,Zwemclub Brabo Antwerpen,1:04.19,t
+4620639,MEEUWIS,Amke,1999,F,BEL,Arendonkse Zwemvereniging,1:04.19,t
+5015110,BEGUE,Aline,2004,F,BEL,Royal Dauphins Mouscronnois,1:04.19,t
+5675668,STRADOVNIK,Patrizia Yuexin,2011,F,BEL,Belgium,1:04.19,t
+5225917,DE CORTE,Alix,2009,F,BEL,Zoro,1:04.19,t
+4225715,WINCKELMANS,Nele,1991,F,BEL,Royal Ypres Swimming Club,1:04.20,t
+4199838,HAVERHALS,Gill,1995,F,BEL,Zwemclub Brabo Antwerpen,1:04.20,t
+4656908,SEEGERT,Helene,1994,F,BEL,Orca Natation Soignies,1:04.20,t
+4600429,COCU,Florine,1998,F,BEL,Mons Hainaut Natation,1:04.20,t
+4805299,DEMEYER,Stien,1993,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.21,t
+4139807,MARCKX,Rani,1994,F,BEL,Koninklijke Zwemclub Neptunus,1:04.21,t
+4199859,DECONINCK,Lore,1993,F,BEL,Gold Swimming Team,1:04.21,t
+4972246,PIERARD,Laurine,2005,F,BEL,Liege Mosan,1:04.21,t
+4308811,JARYCH,Jessica,1984,F,BEL,Genker Zwemvereniging Neptunus,1:04.22,t
+4805176,GONDRY,Magali,1990,F,BEL,Cercle De Natation Jodoignois,1:04.23,t
+4306734,OOMS,Riet,1992,F,BEL,Dendermondse Zwemvereniging Ol,1:04.23,t
+4439597,MEYVIS,Karolijn,1998,F,BEL,Arvicola Zwemclub Kalmthout,1:04.23,t
+4620584,KEPPENS,Lauren,2000,F,BEL,Aquarius Zwemclub Lebbeke,1:04.23,t
+4886090,VAN GORP,Emma,2006,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:04.23,t
+5096415,CLOES,Lena,2006,F,BEL,Brabant East Swimming Team,1:04.24,t
+4804315,LEJEUNE,Melanie,1987,F,BEL,Swimming Club Wauterbos Rode,1:04.25,t
+4804681,DAEMEN,Marjon,1992,F,BEL,Koninklijke Hasseltse Zwemvere,1:04.25,t
+4804909,COCHET,Hanne,1986,F,BEL,Lommelse Zwemvereniging de Lo,1:04.25,t
+4397869,POLLEUNIS,Hannelore,1999,F,BEL,Swimming Team Tienen,1:04.25,t
+4429486,VEKEMANS,Nele,1999,F,BEL,Shark,1:04.25,t
+5422865,THIJS,Maaike,2010,F,BEL,Zwemclub Tremelo,1:04.25,t
+4804694,DEBACKER,Leni,1989,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.26,t
+4302722,WAUTERS,Tessa,1993,F,BEL,Brabant East Swimming Team,1:04.26,t
+5097229,LECUTIER,Helene,2007,F,BEL,Espadon Leuze Natation,1:04.26,t
+5251494,DE GRAVE,Lize,2009,F,BEL,Swimming Team Aalter,1:04.26,t
+4074318,MACHTELINGS,Inge,1990,F,BEL,First (Flanders Inter Regio Sw,1:04.27,t
+4354255,RUELLE,Clemence,1998,F,BEL,Castor Club De Mons,1:04.27,t
+4805276,DEWULF,Elisa,1991,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.28,t
+4199862,VER EECKE,Eline,1992,F,BEL,Gold Swimming Team,1:04.28,t
+4397958,KELLENS,Natalee,1992,F,BEL,Swimming Team Zennevallei,1:04.28,t
+4842533,VANDERBEKE,Lisa,2003,F,BEL,Royal Ostend Swimming Club,1:04.28,t
+5181825,SCHEPERS,Mirthe,2004,F,BEL,Genker Zwemvereniging Neptunus,1:04.28,t
+4397925,BEUTEN,Ine,1999,F,BEL,Groot Beverse Zwemclub,1:04.29,t
+4854308,URBAIN,Lara,2005,F,BEL,Ecole Saint-Vith Natation,1:04.29,t
+5287509,DELIEN,Floor,2008,F,BEL,Nijlense Zwemclub,1:04.29,t
+4307782,VANDENBURIE,Laure,1997,F,BEL,Gold Swimming Team,1:04.30,t
+4972127,SLAJS,Emilie,2003,F,BEL,Cercle Royal De Natation Arlonais,1:04.30,t
+5126737,MARASCO,Moira,2005,F,BEL,Genker Zwemvereniging Neptunus,1:04.30,t
+5279015,SEVRIN,Clemence,2009,F,BEL,Std,1:04.30,t
+4074363,VAN MEENEN,Annelie,1989,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.31,t
+4804625,BAHNMULLER,Jana,1990,F,BEL,First (Flanders Inter Regio Sw,1:04.31,t
+4804787,BOETS,Stephanie,1989,F,BEL,Koninklijke Racing Swimming Cl,1:04.31,t
+4819729,SNELS,Laura,2001,F,BEL,Shark,1:04.31,t
+5096392,KEULEMANS,Zsofi,2003,F,BEL,First (Flanders Inter Regio Sw,1:04.31,t
+5321432,DE RIDDER,Sterre,2008,F,BEL,Zwemclub Schoten,1:04.31,t
+5298652,MARDAGA,Anais,2010,F,BEL,Liege Natation,1:04.32,t
+4805396,SMET,Idelien,1991,F,BEL,Swimming Team Waasland,1:04.33,t
+4272304,FRIX,Valerie,1992,F,BEL,Zwemclub de Dolfijnen Asse-T,1:04.33,t
+5099621,STALS,Aurore,2005,F,BEL,Belgium,1:04.33,t
+4805182,FROIDBISE,Audrey,1992,F,BEL,Cercle De Natation Sportcity W,1:04.34,t
+4304181,SCHOONBAERT,Jana,1996,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.34,t
+4051269,BIZZOTTO,Emmanuella,1980,F,BEL,Mons Hainaut Natation,1:04.34,t
+4296002,CHARLES,Maelys,1996,F,BEL,Entente Des Nageurs Louvierois Natation,1:04.34,t
+4302721,VANMEERBEEK,Lotte,1995,F,BEL,Leuven Aquatics,1:04.34,t
+4804518,MOTTIN,Celine,1990,F,BEL,Charleroi Helios Aqua Team,1:04.35,t
+4074327,DE MEULEMEESTER,Joy,1993,F,BEL,Zwemclub S.O.S.,1:04.35,t
+4600479,TIMMERMANS,Stephanie,1997,F,BEL,Zwemclub Schoten,1:04.35,t
+4720151,MEERPOEL,Lore,2000,F,BEL,Swimming Team Zennevallei,1:04.35,t
+5389013,VERSPECHT,Lizanne,2009,F,BEL,Zwemclub Kapelle-O/D-Bos,1:04.35,t
+4805206,NULLENS,Lize,1993,F,BEL,Zwemvereniging De Meerkoet Bre,1:04.36,t
+4308765,GULDENTOPS,Tine,1995,F,BEL,Swimming Club Wauterbos Rode,1:04.36,t
+5177154,SCHOUPPE,Ines,2004,F,BEL,Aalsters Swimming Team,1:04.36,t
+5472794,VAN BUNDER,Amy,2010,F,BEL,Temse Schelde Zwemmers,1:04.36,t
+4600493,DE WALEFFE,Lucile,1999,F,BEL,Ecole Seraing Natation,1:04.38,t
+5283074,VERSTRAETE,Mona,2006,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.38,t
+4304179,DE PUE,Ine,1999,F,BEL,First (Flanders Inter Regio Sw,1:04.39,t
+5004595,NOELS,Louise,2005,F,BEL,Zwemclub Tremelo,1:04.39,t
+5433888,LA PLACA,Livia,2012,F,BEL,Liege Mosan,1:04.39,t
+4804639,VANDE VELDE,Evi,1992,F,BEL,First (Flanders Inter Regio Sw,1:04.40,t
+4255130,WYNEN,Nikki,1991,F,BEL,Arendonkse Zwemvereniging,1:04.41,t
+4192420,VERHEYEN,Lies,1990,F,BEL,Molse Zwemclub mozka,1:04.41,t
+5323403,DE GROOTE,Fenna,2007,F,BEL,Flemish Ardennes Swimming Team,1:04.41,t
+4804750,BROHEE,Laura,1990,F,BEL,Molse Zwemclub mozka,1:04.42,t
+4309239,WYNANTS,Naomi,1994,F,BEL,Genker Zwemvereniging Neptunus,1:04.42,t
+4804561,DESMEDT,Evi,1991,F,BEL,Royal Ostend Swimming Club,1:04.42,t
+4306549,MEYLAERS,Liezel,1997,F,BEL,Lommelse Zwemvereniging de Lo,1:04.42,t
+5421790,SCHRAM,Mila,2010,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.42,t
+5363567,ANDRIES,Febe,2009,F,BEL,Izegemse Krekel Zwemmers,1:04.42,t
+5248620,DEBAY,Manon,2009,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:04.42,t
+4804729,CEULEMANS,Julie,1991,F,BEL,Lommelse Zwemvereniging de Lo,1:04.43,t
+4139784,GOMMERS,Axelle,1994,F,BEL,Zwemclub Brabo Antwerpen,1:04.43,t
+4863313,DE MOL,Luna,2001,F,BEL,Koninklijke Zwemclub Neptunus,1:04.43,t
+4074833,JACQUERIE,Sophie,1990,F,BEL,Herstal Natation,1:04.44,t
+5076004,CARUSO,Lily,2005,F,BEL,Ecole De Natation Waremmienne,1:04.44,t
+4307552,VAN DEN DURPEL,Isabelle,1996,F,BEL,Swimming Team Waasland,1:04.45,t
+4393633,TACK,Myrthe,1998,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.45,t
+4690207,PANNECOUCKE,Caily,2001,F,BEL,First (Flanders Inter Regio Sw,1:04.45,t
+5102981,SOCQUET,Mira,2003,F,BEL,Swimming Club Strombeek-Grimbe,1:04.45,t
+5279037,VAN ESPEN,Manon,2007,F,BEL,Cercle De Natation Sportcity W,1:04.45,t
+5398558,JANSSEN,Lore,2007,F,BEL,Genker Zwemvereniging Neptunus,1:04.45,t
+5472787,LINSKENS,Elloise,2011,F,BEL,Torhoutse Zwemklub Thor,1:04.45,t
+4305943,HUYSMANS,Severine,1998,F,BEL,Pole Swimming Liege,1:04.46,t
+5343794,PRESENT,Paulien,2010,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.46,t
+4296015,REUL,Jessica,1995,F,BEL,Flipper Natation Club Saint-Ge,1:04.47,t
+4805304,VIVILLE,Ellen,1993,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.47,t
+4354349,DE CAUWER,Anna,1998,F,BEL,Swimming Team Waasland,1:04.47,t
+4328669,PILAWA,Laura,1997,F,BEL,Zwemclub Brabo Antwerpen,1:04.47,t
+4491287,PEETERS,Nane,2000,F,BEL,Zwemclub Kapelle-O/D-Bos,1:04.47,t
+4924726,DEFEVER,Tine,2002,F,BEL,Bruinvissen Diksmuide,1:04.47,t
+4882372,VAN DE VOORDE,Silke,2002,F,BEL,Temse Schelde Zwemmers,1:04.47,t
+5164840,RENSON,Marilou,2005,F,BEL,Ecole De Natation Waremmienne,1:04.47,t
+5065827,GIJSENS,Cato,2005,F,BEL,Zwemclub de Dolfijnen Asse-T,1:04.47,t
+5416060,STRAET,Lucie,2009,F,BEL,Royal Verviers Natation,1:04.47,t
+4343783,KERSTENS,Ann,1996,F,BEL,Belgium,1:04.48,t
+5356245,STROOBANT,Pauline,2005,F,BEL,Swimming Team Chapelle,1:04.48,t
+4199810,KIPS,Sara,1993,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.49,t
+4690212,LEROY,Aicha,1998,F,BEL,Genker Zwemvereniging Neptunus,1:04.49,t
+4587740,DE NOBLE,Chloe,2001,F,BEL,First (Flanders Inter Regio Sw,1:04.49,t
+4792507,BLOTHIAUX,Aline,2001,F,BEL,Barracuda Club Saint-Ghislain,1:04.49,t
+5276316,JANSSENS,Marthe,2009,F,BEL,Zwemclub Maasmechelen,1:04.49,t
+5321160,SELS,Sofie,2010,F,BEL,Nijlense Zwemclub,1:04.49,t
+4804426,WIJNEN,Maaike,1989,F,BEL,Arendonkse Zwemvereniging,1:04.50,t
+4805163,REA LABRADA,Dolores,1990,F,BEL,Chaudfontaine Thermale Natatio,1:04.50,t
+4439761,VERHASSELT,Mira,2000,F,BEL,Zwemclub de Dolfijnen Asse-T,1:04.50,t
+4308546,BORREMANS,Verena,1997,F,BEL,Zwemvereniging Lier,1:04.50,t
+4645952,RAES,Charlotte,2001,F,BEL,Zwemclub Lorelei Londerzeel,1:04.50,t
+4074500,DE CNAEP,Evelyn,1990,F,BEL,Shark,1:04.51,t
+4139654,LEFEVERE,Aagje,1994,F,BEL,Koninklijke Brugse Zwem- & Red,1:04.51,t
+4307788,VANDEPITTE,Caro,1998,F,BEL,Zwemclub ZIOS Liedekerke,1:04.52,t
+5177190,JORISSEN,Hanne,2006,F,BEL,Genker Zwemvereniging Neptunus,1:04.52,t
+5102971,SYPRE,Maud,2005,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.52,t
+5268672,LARMUSEAU,Delphine,2007,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.52,t
+5369822,VERHULST,Jente,2008,F,BEL,Swimming Team Waasland,1:04.52,t
+4306066,KEVELAERTS,Cathy,1986,F,BEL,Zwemclub de Dolfijnen Asse-T,1:04.53,t
+4074343,RAMSDAM,Sanne,1990,F,BEL,First (Flanders Inter Regio Sw,1:04.53,t
+4308976,REMMERIE,Evy,1997,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.53,t
+5253944,VAN OLMEN,Jill,2002,F,BEL,Westerlo Swimming Team,1:04.53,t
+5227964,LAMBERT,Calypso,2008,F,BEL,Liege Natation,1:04.53,t
+4199860,NAESSENS,Iza,1993,F,BEL,Gold Swimming Team,1:04.54,t
+4295896,VAN THIENEN,Erika,1996,F,BEL,Shark,1:04.54,t
+4850033,MAGREMANNE,Victoria,2001,F,BEL,Waterloo Natation,1:04.54,t
+5203762,SWINNEN,Lenie,2005,F,BEL,Brabant East Swimming Team,1:04.54,t
+4615191,DE RUDDER,Julie,1996,F,BEL,Herstal Natation,1:04.55,t
+5283060,COGEN,Sofia,2006,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.55,t
+4255111,MATTHYS,Saartje,1996,F,BEL,Oudenaardse Zwemclub,1:04.56,t
+5239330,DE COKERE,Louise,2004,F,BEL,Belgium,1:04.56,t
+4300586,OGASAWARA,Imani,2002,F,BEL,Zwemclub Brabo Antwerpen,1:04.56,t
+5049100,PETROSILLO,Lyana,2008,F,BEL,De Beringse Tuimelaars,1:04.56,t
+4199756,VAN WASSENHOVE,Ine,1991,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:04.57,t
+4398054,VERCAUTEREN,Lenthe,1999,F,BEL,Zwemclub Lorelei Londerzeel,1:04.57,t
+5512498,ETENNE,Constance,2006,F,BEL,Cercle De Natation Jodoignois,1:04.57,t
+4304595,ARTHOFER,Whitney,1990,F,BEL,Shark,1:04.58,t
+4804591,LABREG,Zohra,1993,F,BEL,Royal Dauphins Mouscronnois,1:04.58,t
+4804668,ROTH,Hannelore,1991,F,BEL,Genker Zwemvereniging Neptunus,1:04.58,t
+4726074,BARTORELLI,Noemi,1999,F,BEL,Flanders Coast Swimmingteam,1:04.58,t
+4393267,VERCRUYSSE,Fien,1999,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.58,t
+5443380,BOUTTELEGIER,Anais,2009,F,BEL,Bruinvissen Diksmuide,1:04.58,t
+5199413,SCHEPENS,Thiele,2001,F,BEL,Swimming Team Aalter,1:04.59,t
+5167345,PALS,Amber,2007,F,BEL,Zwemvereniging De Meerkoet Bre,1:04.59,t
+5060269,DE MAEYER,Nora,2006,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.59,t
+4733794,TRIOEN,Joke,2002,F,BEL,Zwemclub de Dolfijnen Asse-T,1:04.59,t
+4305887,HOLLEVOET,Emelie,1997,F,BEL,Bruinvissen Diksmuide,1:04.60,t
+4564679,GEERINCK,Leontien,1999,F,BEL,Shark,1:04.60,t
+5214137,JANSSENS,Blue,2007,F,BEL,Nijlense Zwemclub,1:04.60,t
+5334405,GRIES,Anais,2009,F,BEL,Waterloo Natation,1:04.60,t
+5369587,MERGEAY,Olivia,2009,F,BEL,Tiense Regio United Swimming Team,1:04.60,t
+4139889,LEFEBVRE,Elodie,1995,F,BEL,Cercle De Natation Sportcity W,1:04.61,t
+4085683,DANIELS,Maureen,1993,F,BEL,Ecole Seraing Natation,1:04.61,t
+4771611,HEINE,Clarisse,2000,F,BEL,Ecole De Natation Waremmienne,1:04.61,t
+5209456,BUGGENHOUT,Ariadne,2004,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:04.61,t
+4426663,HENNEBERT,Barbara,1998,F,BEL,Entente Des Nageurs Louvierois Natation,1:04.62,t
+4907214,DRIESEN,Emerine,2002,F,BEL,Liege Mosan,1:04.62,t
+4804509,EPIS,Celine,1988,F,BEL,Charleroi Helios Aqua Team,1:04.63,t
+4334604,BUYSSE,Josephine,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.63,t
+4924183,LEMAITRE,Eva,2003,F,BEL,Cercle Royal De Natation De To,1:04.63,t
+5010433,WELLENS,Merel,2004,F,BEL,Lommelse Zwemvereniging de Lo,1:04.63,t
+4295832,SEGERS,Nathalie,1997,F,BEL,Arvicola Zwemclub Kalmthout,1:04.63,t
+5484457,MAES,Noor,2011,F,BEL,Aalsters Swimming Team,1:04.63,t
+4307185,SIJBERS,Jolien,1990,F,BEL,Zolderse Dolfijnen,1:04.64,t
+4366306,MARIS,Morgane,1998,F,BEL,Flanders Coast Swimmingteam,1:04.64,t
+4200243,WOUTERS,Shauni,1995,F,BEL,Zwemclub Tremelo,1:04.65,t
+4396342,HERS,Laura,1995,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:04.65,t
+4295810,ELIAS,Marine,1996,F,BEL,Ecole Seraing Natation,1:04.65,t
+5571309,MANISE,Naelle,2012,F,BEL,Aqua Club Braine L'Alleud,1:04.65,t
+4074820,BREULET,Laetitia,1992,F,BEL,CNC Les Flippers Ciney,1:04.66,t
+4307065,RUYSSCHAERT,Fenne,1993,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.66,t
+4915167,HELLINGS,Lauriane,1995,F,BEL,Belgium,1:04.66,t
+5195946,LACROIX,Liesbeth,1978,F,BEL,Leuven Aquatics,1:04.66M,t
+4900532,SCHUTZ,Alina,2002,F,BEL,Ecole Seraing Natation,1:04.66,t
+4777272,VERMEULEN,Elise,2001,F,BEL,Swimming Team Waasland,1:04.66,t
+4417967,DESCAMPS,Silke,2007,F,BEL,Dendermondse Zwemvereniging Ol,1:04.66,t
+4804635,VAN DEN EEDE,Laura,1989,F,BEL,Dendermondse Zwemvereniging Ol,1:04.67,t
+4170698,BOONS,Katja,1990,F,BEL,Zwemvereniging Lier,1:04.67,t
+5349302,HIEL,Lina,2010,F,BEL,De Beringse Tuimelaars,1:04.67,t
+4804899,VAN BEYLEN,Annelies,1986,F,BEL,Geelse Sportvereniging Zwemmen,1:04.68,t
+4576659,BRUGGEMAN,Lisa,2000,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.68,t
+4799244,BULS,Lola,2003,F,BEL,Club De Natation Bastogne,1:04.68,t
+4929128,GOIRE,Charlotte,2004,F,BEL,Ecole De Natation Waremmienne,1:04.68,t
+4156339,SYMONS-DANIELS,Sandy,1987,F,BEL,Arvicola Zwemclub Kalmthout,1:04.69,t
+4336765,GUERET,Margaux,1997,F,BEL,Swimming Club Strombeek-Grimbe,1:04.69,t
+4393262,SEGAERT,Delphine,1998,F,BEL,Bruinvissen Diksmuide,1:04.69,t
+4995006,LAVET,Melusine,2004,F,BEL,Nautic Club Herve,1:04.69,t
+5105894,BORGHS,Lore,2010,F,BEL,Zwemclub Geel,1:04.69,t
+5321427,MADANI,Rania,2007,F,BEL,Cercle Royal De Natation De Br,1:04.70,t
+5276807,ARIJS,Laura,2006,F,BEL,Heistse Zwemclub Arduas,1:04.71,t
+5199468,VANDROMME,Lore,2006,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.71,t
+4805065,PELEGRIN,Tine,1988,F,BEL,Swimming Team Tienen,1:04.72,t
+4700976,VANDORPE,Romane,2000,F,BEL,Belgium,1:04.72,t
+5031302,FLEERACKERS,Hasse,2004,F,BEL,Hoogstraten Zwemteam,1:04.72,t
+5346657,CARLOS DA SILVA,Ilana Luiza,2010,F,BEL,Liege Natation,1:04.72,t
+4074689,DE SMET,Karen,1988,F,BEL,Zwemclub Tremelo,1:04.73,t
+4200078,DUHAUT,Amandine,1991,F,BEL,Embourg Natation,1:04.73,t
+5027354,GEYSKENS,Sophie,2005,F,BEL,Aquarius Zwemclub Lebbeke,1:04.73,t
+4691665,CATTEEUW,Ignea,1997,F,BEL,Oudenaardse Zwemclub,1:04.74,t
+4306943,RAES,Sharon,1996,F,BEL,Temse Schelde Zwemmers,1:04.74,t
+4726087,VERHAEGHE,Nikita,1998,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.74,t
+4583410,PIETTE,Britney,2000,F,BEL,Charleroi Helios Aqua Team,1:04.74,t
+5156713,ASSUMANI,Nadia,2007,F,BEL,Royal Dauphins Mouscronnois,1:04.74,t
+5022910,JACOBS,Lotte,2009,F,BEL,Zwemvereniging Lier,1:04.74,t
+4393614,MATTHEUS,Jolien,1999,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:04.75,t
+4621051,WUILLEM,Sannerie,1999,F,BEL,Royal Brussels Poseidon,1:04.75,t
+5227966,DEJON,Marylou,2009,F,BEL,Liege Mosan,1:04.75,t
+4306122,LACROIX,Marina,1990,F,BEL,Dison Welkenraedt Swimming Tea,1:04.76,t
+4305821,HEEREN,Evelien,1992,F,BEL,Brabant East Swimming Team,1:04.76,t
+4842532,VANDERBEKE,Anouk,2003,F,BEL,Royal Ostend Swimming Club,1:04.76,t
+4074875,VAN MAELE,Juloke,1986,F,BEL,Meense Zwemkring,1:04.77,t
+4804361,CROES,Leen,1988,F,BEL,Zwemclub Brabo Antwerpen,1:04.77,t
+4639989,MARIEN,Gwendolien,1999,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:04.77,t
+4935555,WANGERMEZ,Camille,1998,F,BEL,Club Marsouins Ath,1:04.77,t
+4439473,DELAENDER,Katrien,1966,F,BEL,Koninklijke Brugse Zwem- & Red,1:04.77M,t
+5259508,VANPOUCKE,Hanne,2006,F,BEL,Bruinvissen Diksmuide,1:04.77,t
+4305057,DE MUNCK,Nitaya,1994,F,BEL,Swimming Team Waasland,1:04.78,t
+4295816,DELL'AIERA,Alice,1994,F,BEL,Waterloo Natation,1:04.78,t
+4827913,MEERE,Joni,1997,F,BEL,Swimming Team Zennevallei,1:04.78,t
+4729502,CLAES,Jo,1999,F,BEL,Genker Zwemvereniging Neptunus,1:04.78,t
+5323261,FONTAINE,Heloise,2010,F,BEL,Namur Olympic Club,1:04.78,t
+4763722,POURBAIX,Kitana,2001,F,BEL,First (Flanders Inter Regio Sw,1:04.79,t
+4825689,CHAUVEHEID,Hannah,2004,F,BEL,Liege Mosan,1:04.79,t
+5006325,VANDER KELEN,Fleur,2004,F,BEL,First (Flanders Inter Regio Sw,1:04.79,t
+4904558,DE PEYPER,Myrthe,2006,F,BEL,Zwemclub ZIOS Liedekerke,1:04.79,t
+5321532,VAN ROY,Yana,2009,F,BEL,AART-Lorelei-Zwemvereniging,1:04.79,t
+4682571,ARGUN,Linda,2002,F,BEL,Ecole Saint-Vith Natation,1:04.80,t
+4804647,SMET,Stephanie,1990,F,BEL,Groot Beverse Zwemclub,1:04.81,t
+4804757,SCHAUS,Pauline,1993,F,BEL,Nautic Club Herve,1:04.81,t
+4373773,BEIJK,Lieke,1996,F,BEL,Peltse Zwemclub,1:04.81,t
+4812384,VAN OUDENHOVE,Nais,1999,F,BEL,Cercle De Natation Sportcity W,1:04.81,t
+5255297,VANDEPUTTE,Eebe,2008,F,BEL,Brabant East Swimming Team,1:04.81,t
+4199829,NOYENS,Leen,1993,F,BEL,Zwemclub olma Turnhout,1:04.82,t
+4605670,PEETERS,Alenka,2001,F,BEL,Zwemclub Tremelo,1:04.82,t
+5416218,DELRUE,Alyzee,2010,F,BEL,Zwemclub De Dolfijnen Middelke,1:04.82,t
+4139968,DELAHAUT,Morgane,1996,F,BEL,Cercle De Natation Sportcity W,1:04.83,t
+4309159,VANDENDORPE,Rany,1997,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:04.83,t
+4954155,DELADRIER,Margault,2000,F,BEL,Barracuda Club Saint-Ghislain,1:04.83,t
+5499659,MARC,Sarah,2012,F,BEL,Swimming Club Rixensart,1:04.83,t
+4610114,VANDERHAGEN,Lara,1999,F,BEL,Swimming Team Tienen,1:04.84,t
+4748269,SCHOTTE,Aline,2000,F,BEL,Iswim,1:04.84,t
+4788715,ROSSEL,Jana,2002,F,BEL,Koninklijke Zwemclub Neptunus,1:04.84,t
+4304435,BRACQUEZ,Floor,1997,F,BEL,Bruinvissen Diksmuide,1:04.85,t
+4249393,L'HOMME,Camille,1997,F,BEL,Val De Mehaigne Natation Wanze,1:04.85,t
+5376030,SANDRA,Eva,2009,F,BEL,Koninklijke Kortrijkse Zwemkri,1:04.85,t
+4431821,DEN BAES,Elise,2010,F,BEL,Koninklijke Brugse Zwem- & Red,1:04.85,t
+4110532,HERLEM,Ashley,1992,F,BEL,Cercle Royal De Natation De To,1:04.86,t
+4363976,VERMEYLEN,Julien,1994,F,BEL,Brabant East Swimming Team,1:04.86,t
+4309126,VAN KERCKHOVEN,Gitte,1995,F,BEL,Zwemclub Tremelo,1:04.86,t
+4295961,KERKHOFS,Melissa,1996,F,BEL,De Beringse Tuimelaars,1:04.86,t
+4330705,NICOLE,Chloe,1998,F,BEL,Ecole Seraing Natation,1:04.86,t
+4748259,GODIN,Eline,2000,F,BEL,Ecole Seraing Natation,1:04.86,t
+4306277,LEUNIS,Sofie,1992,F,BEL,Brabant East Swimming Team,1:04.87,t
+4139988,VIEILVOYE,Charlotte,1996,F,BEL,Royal Verviers Natation,1:04.87,t
+4309511,VANMEERBEEK,Bie,1997,F,BEL,Leuven Aquatics,1:04.87,t
+5075826,LAMBEETS,Lina,2005,F,BEL,Tiense Regio United Swimming Team,1:04.87,t
+4253548,THIJS,Hannah,2008,F,BEL,Peltse Zwemclub,1:04.87,t
+4805414,DE DOBBELEER,Doris,1991,F,BEL,Zwemclub ZIOS Liedekerke,1:04.88,t
+4272322,DE BRABANTER,Jolien,1995,F,BEL,Zwemclub ZIOS Liedekerke,1:04.88,t
+4295921,CONTRINO,Chine,1997,F,BEL,Zwemclub Brabo Antwerpen,1:04.88,t
+4305422,DOMPAS,Annabel,1996,F,BEL,Swimming Club Strombeek-Grimbe,1:04.88,t
+5599825,DE RUIJTER,Elise,2010,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.88,t
+4747047,BREINE,Annelies,1996,F,BEL,Gold Swimming Team,1:04.89,t
+4804766,JAUMOT,Tiffany,1989,F,BEL,Charleroi Helios Aqua Team,1:04.90,t
+4805125,PINT,Hanne,1992,F,BEL,Zwemclub Brabo Antwerpen,1:04.90,t
+4139790,DE BOEVER,Esti,1994,F,BEL,Swimming Team Waasland,1:04.90,t
+4358133,ANCIAUX,Maud,1995,F,BEL,Les Cormorans Farciennois,1:04.90,t
+4306417,MALFAIT,Tine,1994,F,BEL,Gold Swimming Team,1:04.90,t
+5004062,SCHAFFERS,Sixtine,2000,F,BEL,Swimming Club Wauterbos Rode,1:04.90,t
+4838772,DE KEERSMAEKER,Anthe,2004,F,BEL,AART-Lorelei-Zwemvereniging,1:04.90,t
+4306718,NULLENS,Goele,1988,F,BEL,Zwemvereniging De Meerkoet Bre,1:04.91,t
+4691679,HOUSEN,Lore,2001,F,BEL,Shark,1:04.91,t
+5086555,BOUQUET,Elise,2005,F,BEL,Zwemclub Brabo Antwerpen,1:04.91,t
+5513613,POELST,Noemie,2008,F,BEL,Std,1:04.91,t
+4140035,TSAKIRAKIS,Elisabeth,1991,F,BEL,Herstal Natation,1:04.92,t
+4200093,CEUSTERS,Anke,1994,F,BEL,Brabant East Swimming Team,1:04.92,t
+4763720,MATHYS,Jana,2002,F,BEL,First (Flanders Inter Regio Sw,1:04.92,t
+5473060,LUTS,Emilia,2010,F,BEL,Genker Zwemvereniging Neptunus,1:04.92,t
+5384450,MAES,Helene,2010,F,BEL,Peltse Zwemclub,1:04.92,t
+4302747,LEO,Lore,1996,F,BEL,Zwemclub Lorelei Londerzeel,1:04.93,t
+4366411,LOYENS,Marlotte,1999,F,BEL,Shark,1:04.93,t
+4828002,MOONEN,Renee,2001,F,BEL,Lommelse Zwemvereniging de Lo,1:04.93,t
+4741115,MATTHIJS,Dauphine,2002,F,BEL,Swimming Club Zaventem,1:04.93,t
+4805032,CHRETIEN,Sophie,1990,F,BEL,Nivelles Swimming Team,1:04.94,t
+4305809,HAVEAUX,Melissa,1988,F,BEL,Zwemclub de Dolfijnen Asse-T,1:04.94,t
+4308672,DEMESMAEKER,Ella,1998,F,BEL,Dilbeekse Zwemvereniging,1:04.94,t
+4726089,VANDENABEELE,Indra,2002,F,BEL,Gold Swimming Team,1:04.94,t
+4565920,BIELEN,Jorien,2000,F,BEL,Koninklijke Hasseltse Zwemvere,1:04.94,t
+4804676,VERSCHOREN,Inga,1989,F,BEL,Heistse Zwemclub Arduas,1:04.95,t
+4805113,CLAEYS,Emilie,1992,F,BEL,Zwemclub Brabo Antwerpen,1:04.95,t
+4940705,BONHOMME,Meline,2004,F,BEL,Perron,1:04.95,t
+5401274,MOUREAU,Victoria,2008,F,BEL,Waterloo Natation,1:04.95,t
+4702781,MAEDA,Saika,1992,F,BEL,Nageurs Reunis Du Brabant Wallon,1:04.96,t
+4924168,BRAL,Marie,2003,F,BEL,Cercle Royal De Natation De To,1:04.96,t
+5177208,TORFS,Marlies,2005,F,BEL,Groot Beverse Zwemclub,1:04.96,t
+4804278,NESPOLA,Giuseppa,1988,F,BEL,Mons Hainaut Natation,1:04.97,t
+4225904,PENNEQUIN,Alison,1983,F,BEL,Espadon Leuze Natation,1:04.97,t
+4304417,BOUCHIER,Sara,1995,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.97,t
+4295928,NUYES,Kirsten,1997,F,BEL,Zwemclub Brabo Antwerpen,1:04.97,t
+4199816,BEELPREZ,Lore,1996,F,BEL,Gold Swimming Team,1:04.97,t
+4311938,DEMAREZ,Celine,1999,F,BEL,Barracuda Club Saint-Ghislain,1:04.97,t
+5030903,GILBERT,Louise,2002,F,BEL,Mons Hainaut Natation,1:04.97,t
+5147624,NOUPRE,Marie,2004,F,BEL,Royal Verviers Natation,1:04.97,t
+4199955,CLAES,Tina,1987,F,BEL,Koninklijke Hasseltse Zwemvere,1:04.98,t
+4805076,KRUG,Laure-Anne,1991,F,BEL,Zwemclub Brabo Antwerpen,1:04.98,t
+4305454,DUCHATELET,Kim,1994,F,BEL,Zwemclub S.O.S.,1:04.98,t
+4305830,HENDERICKX,Joke,1996,F,BEL,Brabant East Swimming Team,1:04.98,t
+4331714,JEANGOUT,Cecile,1999,F,BEL,Cercle Royal De Natation Arlonais,1:04.98,t
+4731909,VAN DE VELDE,Sien,2001,F,BEL,Shark,1:04.98,t
+4200111,PEETERS,Charlotte,1994,F,BEL,Zwemclub Geel,1:04.99,t
+5022340,BASTIN,Louise,2002,F,BEL,Swimming Club Rixensart,1:04.99,t
+4959499,SYPRE,Lotte,2003,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.99,t
+4309186,VANPARIJS,Katrien,1994,F,BEL,Heistse Zwemclub Arduas,1:05.00,t
+4308914,MURPHY,Anya,1998,F,BEL,Belgium,1:05.00,t
+4946920,VANSTEENKISTE,Rhune,2003,F,BEL,Izegemse Krekel Zwemmers,1:05.00,t
+5027304,BEDDELEEM,Jasmien,2001,F,BEL,Iswim,1:05.00,t
+4980115,NORMAND,Chimene,2003,F,BEL,Ronse Swimming Club,1:05.00,t
+5428050,HANSELAER,Ariane,2009,F,BEL,First (Flanders Inter Regio Sw,1:05.00,t
+4219617,DELVAUX,Camille,1994,F,BEL,Liege Mosan,1:05.01,t
+4804617,LEYSEN,Aurore,1989,F,BEL,Entente Des Nageurs Louvierois Natation,1:05.01,t
+4308203,HUYBRECHT,Silke,1998,F,BEL,First (Flanders Inter Regio Sw,1:05.02,t
+4925610,LIBOTTE,Cassandre,2004,F,BEL,Std,1:05.02,t
+5097038,WYNANTS,Floor,2006,F,BEL,Zwemclub Geel,1:05.02,t
+5346826,SCHILLEWAERT,Ofelia,2008,F,BEL,Zwemclub De Dolfijnen Middelke,1:05.02,t
+4334607,STEENACKERS,Sarah,1999,F,BEL,First (Flanders Inter Regio Sw,1:05.03,t
+5067668,DERU,Noa,2004,F,BEL,Royal Verviers Natation,1:05.03,t
+5030912,LIESSE,Aurore,2006,F,BEL,Club De Natation Bastogne,1:05.03,t
+5203714,COOMANS,Emely,2007,F,BEL,Zwemvereniging De Meerkoet Bre,1:05.03,t
+5168876,VAN DER MEEREN,Lotte,2010,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.04,t
+4251724,HICK,Muriel,1996,F,BEL,Natation Club Athus,1:05.05,t
+4295878,LAURENT,Ayla,1996,F,BEL,Koninklijke Racing Swimming Cl,1:05.06,t
+4308732,FOSTIER,Amber,1998,F,BEL,Zwemclub ZIOS Liedekerke,1:05.06,t
+4334860,LEGRAND,Orlane,2000,F,BEL,Royal Dauphins Mouscronnois,1:05.06,t
+4779093,RAMAN,Dorine,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.06,t
+4026740,VLADIMIROVA,Milena,2002,F,BEL,Koninklijke Brugse Zwem- & Red,1:05.06,t
+4074281,MORDIJCK,Eline,1987,F,BEL,Brabant East Swimming Team,1:05.07,t
+4393074,DUMOULIN,Tamara,1998,F,BEL,Ecole Seraing Natation,1:05.07,t
+4892751,SAIDANE,Kemilia,2003,F,BEL,Cercle Des Dauphins Courcelloi,1:05.07,t
+5343834,ISTAS,Lotte,2004,F,BEL,Sint-Truidense Zwemclub,1:05.07,t
+4892757,SEBILLE,Chloe,2002,F,BEL,Entente Des Nageurs Louvierois Natation,1:05.07,t
+4349601,DELWART,Valentine,1996,F,BEL,Longchamp Swimming Club Uccle,1:05.08,t
+4305656,GEUENS,Esther,1993,F,BEL,Lommelse Zwemvereniging de Lo,1:05.08,t
+5137759,SUFFELEERS,Maren,2005,F,BEL,Tiense Regio United Swimming Team,1:05.08,t
+5422812,JORISSEN,Janne,2011,F,BEL,Liege Natation,1:05.08,t
+5027293,LAMMENS,Louise,2004,F,BEL,Oudenaardse Zwemclub,1:05.09,t
+5092550,COFFYN,Margit,2006,F,BEL,Royal Ypres Swimming Club,1:05.09,t
+5346833,MEERTENS,Jody,2009,F,BEL,Genker Zwemvereniging Neptunus,1:05.09,t
+4804860,CLAES,Cindy,1990,F,BEL,Zwemclub Beringen-Mijn,1:05.10,t
+4139976,HAEGEMAN,Fanny,1992,F,BEL,Royal Brussels Poseidon,1:05.10,t
+4306713,NOTERMANS,Leandra,1993,F,BEL,Zwemvereniging De Meerkoet Bre,1:05.10,t
+4564716,THYS,Svelte,1998,F,BEL,Heistse Zwemclub Arduas,1:05.10,t
+4439496,DIJCKMANS,Kaat,1997,F,BEL,Kempisch Swimming Team,1:05.10,t
+4074920,HANS,Kerstin,1989,F,BEL,Ecole Saint-Vith Natation,1:05.11,t
+4804330,SAMPERS,Lore,1990,F,BEL,Flanders Coast Swimmingteam,1:05.11,t
+4299627,DU PONT,Evelien,1995,F,BEL,Heistse Zwemclub Arduas,1:05.11,t
+4340434,LOUIS,Jolien,1999,F,BEL,Zwemvereniging De Meerkoet Bre,1:05.11,t
+4439751,VERCAMBRE,Florence,1999,F,BEL,Zwemclub Tieltse Zeeduivels,1:05.11,t
+5017938,VAN DEN BROECK,Liesa,2000,F,BEL,Swimming Club Strombeek-Grimbe,1:05.11,t
+5097029,GIJSELS,Noortje,2005,F,BEL,Shark,1:05.11,t
+4983045,DE RIDDER,Niobe,2009,F,BEL,Zwemclub Brabo Antwerpen,1:05.11,t
+5233559,NEEFS,Emma,2007,F,BEL,Tiense Regio United Swimming Team,1:05.11,t
+4427743,VERHULST,Fien,1997,F,BEL,Zwemclub Ter Borcht-Meulebeke,1:05.12,t
+5421744,COESEMANS,Amilia,2008,F,BEL,Zwemclub Geel,1:05.12,t
+4200231,HERWIJN,Stephanie,1989,F,BEL,Zwemclub Brabo Antwerpen,1:05.13,t
+4399780,FEUILLEN,Justine,2000,F,BEL,Ecole Seraing Natation,1:05.13,t
+5025691,VATOVEC,Arabela,2008,F,BEL,Cercle De Natation Sportcity W,1:05.13,t
+4804771,ADAMS,Marije,1991,F,BEL,Zwemclub olma Turnhout,1:05.14,t
+4246972,COLMANT,Lise,1992,F,BEL,Cercle Royal De Natation De To,1:05.14,t
+4793460,BECK,Maelle,2008,F,BEL,Ecole De Natation Waremmienne,1:05.14,t
+5334808,DEMEY,Tindra,2008,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:05.14,t
+4308551,BOURGOIS,Katelijne,1991,F,BEL,Koninklijke Kortrijkse Zwemkri,1:05.15,t
+4074497,DIELTJENS,Digna,1991,F,BEL,Shark,1:05.15,t
+4494303,KERCKX,Lise,2000,F,BEL,Zwemclub Lorelei Londerzeel,1:05.15,t
+5292091,OEZEN,Sena-Ayse,2008,F,BEL,Charleroi Helios Aqua Team,1:05.15,t
+5443372,LUYTEN,Julie,2011,F,BEL,Arvicola Zwemclub Kalmthout,1:05.15,t
+4199815,BEELPREZ,Lien,1991,F,BEL,Meense Zwemkring,1:05.16,t
+4295942,SEGERS,Caroline,1993,F,BEL,Temse Schelde Zwemmers,1:05.16,t
+4812913,VERBEKE,Sarah,2002,F,BEL,Ursus Zwemklub Zwevegem,1:05.16,t
+5099269,VERDONCK,Kara,2004,F,BEL,First (Flanders Inter Regio Sw,1:05.16,t
+5278499,LEROUX,Ellen,2007,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.16,t
+5265181,MAHMOUDI,Eya,2008,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.16,t
+5167525,VAN LOOY,Anke,2006,F,BEL,Heistse Zwemclub Arduas,1:05.16,t
+4299606,FREYMANN,Emilie,1995,F,BEL,Cercle Royal De Natation De Sp,1:05.18,t
+4139922,GILTAY,Fanny,1995,F,BEL,Ecole Seraing Natation,1:05.18,t
+4299626,VLYMINCK,Nicky,1996,F,BEL,Zwemclub Brabo Antwerpen,1:05.18,t
+4311188,STAS,Emilie,1998,F,BEL,Braine L'alleud Aqua College,1:05.19,t
+5278294,VAN DER POEL,Lara,2008,F,BEL,Swimming Club Zaventem,1:05.19,t
+4303719,VANDENBORNE,Marylene,1987,F,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:05.20,t
+4427721,BORGONIE,Marie,2000,F,BEL,Roeselaarse Zwemvereniging,1:05.20,t
+4608383,VAN DEN BOSSCHE,Luca,1999,F,BEL,Dendermondse Zwemvereniging Ol,1:05.20,t
+4779047,VAN DEN BOSCH,Marie,2001,F,BEL,Heistse Zwemclub Arduas,1:05.20,t
+5126746,VAN DYCK,Line,2005,F,BEL,Heistse Zwemclub Arduas,1:05.20,t
+5196801,LEYTEN,Lieselot,2007,F,BEL,Zwemclub Geel,1:05.20,t
+5428042,VAN CAUWENBERGE,Catho,2010,F,BEL,Royal Ostend Swimming Club,1:05.20,t
+4395907,CREPIN,Marion,1998,F,BEL,Cercle Royal De Natation De Br,1:05.22,t
+4481828,MELICE,Oceane,1998,F,BEL,Club Marsouins Ath,1:05.22,t
+4828063,DIELS,Jolien,2001,F,BEL,Shark,1:05.22,t
+4737944,GEEROMS,Fran,2001,F,BEL,Swimming Club Zaventem,1:05.22,t
+4725876,MARIN,Marie,2001,F,BEL,Cercle Royal De Natation De Br,1:05.22,t
+4139813,MICHOTTE,Naomi,1993,F,BEL,Cercle Royal De Natation De Br,1:05.23,t
+4349613,LANGERS,Bente,1999,F,BEL,Zwemclub Brabo Antwerpen,1:05.23,t
+4394367,VANHOEYMISSEN,Charline,1999,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:05.23,t
+4989777,VONCK,Jolien,1998,F,BEL,First (Flanders Inter Regio Sw,1:05.23,t
+4688865,SAINTHUILLE,Maelle,2001,F,BEL,Cercle Royal De Natation Arlonais,1:05.23,t
+5138495,MARTEAU,Julie,2006,F,BEL,Zwemclub Tremelo,1:05.23,t
+4565972,COLSON,Celine,1997,F,BEL,Herstal Natation,1:05.24,t
+4598014,DEWANDRE,Valentine,1999,F,BEL,Liege Mosan,1:05.24,t
+4437294,DE BACKER,Femke,2000,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.24,t
+4748267,DEBAVEYE,Esther,2001,F,BEL,Koninklijke Waregemse Zwemclub,1:05.24,t
+5365242,VERELST,Laura,2010,F,BEL,Zwemclub Tremelo,1:05.24,t
+4304526,COECK,Celine,1996,F,BEL,Koninklijke Kortrijkse Zwemkri,1:05.25,t
+4225903,HARVANGT,Amandine,1994,F,BEL,Espadon Leuze Natation,1:05.25,t
+4429287,NELIS,Lea,1999,F,BEL,Liege Mosan,1:05.25,t
+4919320,VERHELST,Eline,2002,F,BEL,Groot Beverse Zwemclub,1:05.25,t
+5092520,SNOEKX,Romy,2006,F,BEL,De Beringse Tuimelaars,1:05.25,t
+5281080,TORDEUR,Lucie,2009,F,BEL,Genker Zwemvereniging Neptunus,1:05.25,t
+5425833,SCHACHT,Hanne,2011,F,BEL,Izegemse Krekel Zwemmers,1:05.25,t
+4074699,DE LAET,Tara,1993,F,BEL,Zwemclub Tremelo,1:05.26,t
+4272311,COOLS,Sandra,1992,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:05.26,t
+5294335,WAUTERS,Luna,2008,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.26,t
+4494292,AERTS,Evelien,2000,F,BEL,Brabant East Swimming Team,1:05.27,t
+5015416,ACHTEN,Helena,2003,F,BEL,Swimming Club Wauterbos Rode,1:05.27,t
+5398858,DELSAER,Laurien,2011,F,BEL,Ecole De Natation Waremmienne,1:05.27,t
+5477550,VELGHE,Laura,2012,F,BEL,Izegemse Krekel Zwemmers,1:05.27,t
+4804720,DE VOS,Cindy,1990,F,BEL,Zwemclub Kapelle-O/D-Bos,1:05.28,t
+4805091,CONARD,Ilke,1992,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.28,t
+4564611,SPITAELS,Melissa,1998,F,BEL,Zwemclub ZIOS Liedekerke,1:05.28,t
+5351368,DECRAENE,Satheen,2009,F,BEL,Royal Dauphins Mouscronnois,1:05.28,t
+4804334,TROOST,Kathleen,1984,F,BEL,Dilbeekse Zwemvereniging,1:05.29,t
+5099274,DE VELDER,Maya,2005,F,BEL,First (Flanders Inter Regio Sw,1:05.29,t
+4363349,BERGANS,Ynse,1998,F,BEL,Swimming Team Tienen,1:05.30,t
+4139927,COSSE,Aline,1995,F,BEL,CNC Les Flippers Ciney,1:05.31,t
+4305829,HENDERICKX,Elke,1994,F,BEL,Brabant East Swimming Team,1:05.31,t
+4946871,PIRLOT,Aline,1999,F,BEL,Zwemclub Geel,1:05.31,t
+4812918,FEYS,Jana,2003,F,BEL,Izegemse Krekel Zwemmers,1:05.31,t
+4199897,DE GRAEF,Moira,1995,F,BEL,Brabant East Swimming Team,1:05.32,t
+5097045,DELVA,Ghislaine,2002,F,BEL,Royal Ypres Swimming Club,1:05.32,t
+4917622,DEPREZ,Jacobien,2003,F,BEL,Zwemclub Tieltse Zeeduivels,1:05.32,t
+5277175,MAES,Marthe,2009,F,BEL,Aalsters Swimming Team,1:05.32,t
+4304263,AUDENAERT,Fran,1989,F,BEL,Zuidlede Zwemmers,1:05.33,t
+4805416,ROOSEN,Laetitia,1990,F,BEL,Koninklijke Zwemclub Neptunus,1:05.33,t
+4805230,STASSIN,Gwendoline,1993,F,BEL,Ecole Seraing Natation,1:05.33,t
+5052936,BOETS,Anne Sophie,2003,F,BEL,Molse Zwemclub mozka,1:05.33,t
+5556207,JUNGBLUTH,Elise,2009,F,BEL,Royal Ostend Swimming Club,1:05.33,t
+4805393,TIELEMANS,Kristy,1991,F,BEL,Waterloo Natation,1:05.34,t
+4389612,PINTILEI,Sophie,1995,F,BEL,Flipper Natation Club Saint-Ge,1:05.34,t
+4411748,SCOHY,Amandine,1998,F,BEL,Charleroi Helios Aqua Team,1:05.34,t
+5004116,CASTEUR,Margeaux,2003,F,BEL,Gold Swimming Team,1:05.34,t
+5137516,VARGA,Anna,2003,F,BEL,Entente Des Nageurs Louvierois Natation,1:05.34,t
+5278523,HENOT,Isabelle,2006,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.34,t
+5321556,LERNOUT,Laura,2008,F,BEL,Izegemse Krekel Zwemmers,1:05.34,t
+5445596,SCHWALL,Laurence,2011,F,BEL,Ecole Saint-Vith Natation,1:05.34,t
+4303699,VAN DAMME,Nathalie,1987,F,BEL,Groot Beverse Zwemclub,1:05.35,t
+4857352,STERNS,Abigail,1995,F,BEL,Belgium,1:05.35,t
+5053031,SCHELFHOUT,Hanne,2005,F,BEL,AART-Lorelei-Zwemvereniging,1:05.35,t
+5330441,MURAT,Irem,2010,F,BEL,Temse Schelde Zwemmers,1:05.35,t
+4804942,LANUIT,Morgane,1987,F,BEL,Val De Mehaigne Natation Wanze,1:05.36,t
+4200044,BAERT,Fien,1995,F,BEL,Zwemclub Tieltse Zeeduivels,1:05.36,t
+4199977,VELGHE,Yola,1996,F,BEL,Koninklijke Brugse Zwem- & Red,1:05.36,t
+5177207,VAN DER STRICHT,Flore,2006,F,BEL,Dendermondse Zwemvereniging Ol,1:05.36,t
+4924297,DYRNES,Nora,2010,F,BEL,Swimming Club Zaventem,1:05.36,t
+4192389,VAN GERWEN,Hestia,1990,F,BEL,Arvicola Zwemclub Kalmthout,1:05.37,t
+4804777,DELCOURT,Lidvine,1988,F,BEL,Orca Natation Soignies,1:05.37,t
+4308506,BALDASSARRE,Emilie,1996,F,BEL,Chaudfontaine Thermale Natatio,1:05.37,t
+4312729,DE BROUX,Marie,1996,F,BEL,Namur Olympic Club,1:05.37,t
+5443377,VERDOOD,Pip,2011,F,BEL,Zwemvereniging Lier,1:05.37,t
+4804811,DELAERE,Steffie,1988,F,BEL,Ursus Zwemklub Zwevegem,1:05.38,t
+4199868,VAN HUMBEECK,Lise,1993,F,BEL,Zwemclub Kapelle-O/D-Bos,1:05.38,t
+4489336,D'HONDT,Savannah,1997,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.38,t
+4365735,BECKERS,Louise,1996,F,BEL,First (Flanders Inter Regio Sw,1:05.38,t
+4287306,CEULEMANS,Jolien,1997,F,BEL,Heistse Zwemclub Arduas,1:05.38,t
+4496460,TRICHA,Shirine,2000,F,BEL,Royal Ensival Natation,1:05.38,t
+5147618,QUADFLIEG,Clarisse,2006,F,BEL,Nautic Club Herve,1:05.38,t
+5540944,JADOT,Manon,2007,F,BEL,Cercle De Natation Sportcity W,1:05.38,t
+4200089,VAN GINNEKEN,Eline,1993,F,BEL,Zwemclub Brabo Antwerpen,1:05.39,t
+5089886,NEKKEBROEK,Liza,2004,F,BEL,Dilbeekse Zwemvereniging,1:05.39,t
+4199954,VINCK,Stefanie,1995,F,BEL,Temse Schelde Zwemmers,1:05.40,t
+4306832,PERPETTE,Emeline,1994,F,BEL,Swimming Club Strombeek-Grimbe,1:05.40,t
+4139894,VANNESTE,Justine,1994,F,BEL,Cercle Royal De Natation De To,1:05.41,t
+4439764,VERSLIJPE,Jana,1998,F,BEL,Flanders Coast Swimmingteam,1:05.41,t
+4637159,LIEVENS,Kiara,1999,F,BEL,First (Flanders Inter Regio Sw,1:05.41,t
+4893107,BAERT,Kiara,2003,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.41,t
+4200226,DE SMEDT,Linde,1989,F,BEL,Zwemclub Brabo Antwerpen,1:05.42,t
+4303748,VLAMINCK,Camille,1989,F,BEL,Belgium,1:05.42,t
+4074707,SERRE,Julie,1991,F,BEL,Club De Natation Bastogne,1:05.42,t
+4139821,MARTENS,Katrien,1995,F,BEL,Zwemvereniging De Meerkoet Bre,1:05.42,t
+4368633,BOCKLAND,Majlen,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.42,t
+4580018,HAQUET,Olivia,2000,F,BEL,Embourg Natation,1:05.42,t
+4894119,VAN WAELDEREN,Nele,2007,F,BEL,Westerlo Swimming Team,1:05.42,t
+5484444,DELRUE,Aure,2012,F,BEL,Zwemclub De Dolfijnen Middelke,1:05.42,t
+4199944,VAN BOSSCHE,Vanessa,1986,F,BEL,Dilbeekse Zwemvereniging,1:05.43,t
+5334401,TOUQUET,Laura,2009,F,BEL,Swimming Club Wauterbos Rode,1:05.43,t
+4804788,FRANCKX,Jessie,1988,F,BEL,Koninklijke Racing Swimming Cl,1:05.44,t
+4804813,HIMPE,Sophie,1988,F,BEL,Ursus Zwemklub Zwevegem,1:05.44,t
+4225706,BIASON,Letizia,1994,F,BEL,Longchamp Swimming Club Uccle,1:05.44,t
+4439408,CLIJMANS,Tinne,2000,F,BEL,Kempisch Swimming Team,1:05.44,t
+4199889,GRANDIO QUIJADA,France,1993,F,BEL,Mons Hainaut Natation,1:05.45,t
+4805089,BUVE,Annelies,1994,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.45,t
+4139898,LAGAE,Chloe,1996,F,BEL,Royal Dauphins Mouscronnois,1:05.45,t
+4627742,BAYETTO,Shania,2006,F,BEL,Std,1:05.45,t
+5281064,CUIJVERS,Lisa,2009,F,BEL,De Beringse Tuimelaars,1:05.45,t
+4095423,DEHARENG,Aurelie,1988,F,BEL,CNC Les Flippers Ciney,1:05.46,t
+4085674,PALAZY,Chloe,1993,F,BEL,Nautic Club Herve,1:05.47,t
+4841295,WAUTERS,Bo,2002,F,BEL,Zoro,1:05.47,t
+4306819,PEIGNEUX,Gaelle,1994,F,BEL,Cercle Royal De Natation Arlonais,1:05.48,t
+4583406,FIEVET,Noemie,1997,F,BEL,Les Cormorans Farciennois,1:05.48,t
+4309501,TESTAERT,Liana,1997,F,BEL,Swimming Club Wauterbos Rode,1:05.48,t
+4306336,LOEMAN,Efjennia,1995,F,BEL,Zwemclub Tremelo,1:05.49,t
+4295813,RIMEE,Florence,1996,F,BEL,Liege Mosan,1:05.49,t
+4305442,DROESBEKE,Lindsay,1998,F,BEL,First (Flanders Inter Regio Sw,1:05.50,t
+4900536,HEUSE,Charlotte,2001,F,BEL,Royal Verviers Natation,1:05.50,t
+5251377,MOLLE,Eline,2005,F,BEL,Entente Des Nageurs Louvierois Natation,1:05.50,t
+5389169,MEYSMANS,Louise,2007,F,BEL,Koninklijke Racing Swimming Cl,1:05.50,t
+5422842,KERKHOFS,Kaat,2011,F,BEL,Zwemvereniging De Meerkoet Bre,1:05.50,t
+4805056,TYSIAK,Veronique,1988,F,BEL,Longchamp Swimming Club Uccle,1:05.51,t
+5000764,HANICQ,Ambre,2001,F,BEL,Charleroi Helios Aqua Team,1:05.51,t
+5283064,LOONTJES,Lisa,2007,F,BEL,Swimming Team Aalter,1:05.51,t
+5537758,CIRIELLO,Ilaria,2009,F,BEL,Herstal Natation,1:05.51,t
+4139872,GOETHALS,Liesbeth,1995,F,BEL,Swimming Club Strombeek-Grimbe,1:05.52,t
+4825719,MICHOT,Alice,2002,F,BEL,Entente Des Nageurs Louvierois Natation,1:05.52,t
+4074378,TRATSAERT,Marjolein,1992,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.53,t
+4805334,MARCHAND,Estelle,1992,F,BEL,Mons Hainaut Natation,1:05.53,t
+5103137,BOGAERTS,Krista,2008,F,BEL,Hoogstraten Zwemteam,1:05.53,t
+4305257,DEMAEGD,Liesbeth,1991,F,BEL,Dendermondse Zwemvereniging Ol,1:05.54,t
+4074344,VAN DEN DRIESSCHE,Stephanie,1993,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.54,t
+4192390,VEREECK,Lore,1995,F,BEL,Zwemclub Brabo Antwerpen,1:05.54,t
+4620604,LINGIER,Bo,1998,F,BEL,Koninklijke Brugse Zwem- & Red,1:05.54,t
+5477769,CLAESSENS,Ella-Louise,2011,F,BEL,Genker Zwemvereniging Neptunus,1:05.54,t
+4804692,LINDE,Herreman,1990,F,BEL,Izegemse Krekel Zwemmers,1:05.55,t
+4074499,CROENEN,Eva,1991,F,BEL,Shark,1:05.55,t
+4074395,DENIS,Charlotte,1992,F,BEL,Nageurs Reunis Du Brabant Wallon,1:05.55,t
+4402713,MAUD,Cathy,1993,F,BEL,Cercle Royal De Natation De Br,1:05.55,t
+5001422,HUYSMANS,Britt,2003,F,BEL,Shark,1:05.55,t
+4305705,GOETHALS,Reinhilde,1998,F,BEL,Cercle Royal De Natation De Br,1:05.55,t
+4900537,HEUSE,Olivia,2002,F,BEL,Royal Verviers Natation,1:05.55,t
+5199456,CHRISTIAENS,Marloes,2004,F,BEL,Koninklijke Kortrijkse Zwemkri,1:05.55,t
+5391928,DEWAEL,Nell,2006,F,BEL,Perron,1:05.55,t
+5251228,DESCHOEMAEKER,Zara,2007,F,BEL,Bruinvissen Diksmuide,1:05.55,t
+4024131,MIKUS,Doriane,2008,F,BEL,Barracuda Club Saint-Ghislain,1:05.55,t
+4200150,VAN WEIJNEN,Alexia,1989,F,BEL,Swimming Club Strombeek-Grimbe,1:05.56,t
+4804731,ENGELEN,Kathleen,1992,F,BEL,Lommelse Zwemvereniging de Lo,1:05.56,t
+4304571,ALLAERT,Celine,1992,F,BEL,Roeselaarse Zwemvereniging,1:05.56,t
+4295924,DE CLERCK,Ilse,1998,F,BEL,Zwemclub Brabo Antwerpen,1:05.56,t
+4804682,MERTENS,Anske,1988,F,BEL,Koninklijke Hasseltse Zwemvere,1:05.57,t
+4804983,MEYTS,Laetitia,1987,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.57,t
+4306139,LAKIS,Alyssa,1994,F,BEL,Orca Natation Soignies,1:05.57,t
+4822315,THIELEMANS,Laure,2002,F,BEL,Swimming Team Tienen,1:05.57,t
+4687382,VAN LOON,Tess,2006,F,BEL,Arvicola Zwemclub Kalmthout,1:05.57,t
+5494407,GEYPEN,Wies,2011,F,BEL,Molse Zwemclub mozka,1:05.57,t
+4924716,AJMERROU,Sirine,2003,F,BEL,Genker Zwemvereniging Neptunus,1:05.58,t
+4648950,LIETAR,Laurine,2007,F,BEL,Swimming Team Waasland,1:05.58,t
+4971278,BOMANS,Mies,2000,F,BEL,Zwemclub Brabo Antwerpen,1:05.59,t
+5203186,ROSENKRANZ,Iluna,2006,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.59,t
+5279043,LENEAU,Camille,2007,F,BEL,Cercle De Natation Jodoignois,1:05.59,t
+5585443,LEMMENS,Febe,2011,F,BEL,Westerlo Swimming Team,1:05.59,t
+4199854,ANECA,Sieglien,1990,F,BEL,Torhoutse Zwemklub Thor,1:05.60,t
+4139677,SCHROOTEN,Lore,1994,F,BEL,Zwemvereniging De Meerkoet Bre,1:05.60,t
+4491690,PEREZ,Laetitia,1997,F,BEL,Cercle De Natation Sportcity W,1:05.60,t
+4334861,RENARD,Juliette,2000,F,BEL,Royal Dauphins Mouscronnois,1:05.60,t
+4295781,DE GYNS,Violette,1995,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:05.61,t
+4731921,BEIRENS,Anna,2001,F,BEL,Aalterse Zwemvereniging,1:05.61,t
+5015417,ACHTEN,Louise,2002,F,BEL,Swimming Club Wauterbos Rode,1:05.61,t
+5356273,NANNI,Audrey,2009,F,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:05.61,t
+4272358,DE JONGH,Jennifer,1994,F,BEL,Zwemvereniging Lier,1:05.62,t
+4139785,GERSTMANS,Amber,1995,F,BEL,Zwemclub Brabo Antwerpen,1:05.62,t
+4344218,DRIESEN,Marte,1999,F,BEL,Peltse Zwemclub,1:05.62,t
+5335854,DE WITTE,Kato,2006,F,BEL,Swem Vrienden,1:05.62,t
+4139643,VAN BUITENEN,Anse,1995,F,BEL,Brabant East Swimming Team,1:05.63,t
+4425420,VAN STICHEL,Lidewij,2000,F,BEL,Aquarius Zwemclub Lebbeke,1:05.63,t
+5092536,ENGELAERE,Evie,2004,F,BEL,Koninklijke Waregemse Zwemclub,1:05.63,t
+4804721,MEYKENS,Jana,1989,F,BEL,Zwemclub Lorelei Londerzeel,1:05.64,t
+4811554,FRIPPIAT,Lory,2001,F,BEL,Natation Club Athus,1:05.64,t
+5069667,GYPEN,Kaat,2009,F,BEL,Zwemclub Tremelo,1:05.64,t
+4363365,LEFEVER,Elisa,1998,F,BEL,Bruinvissen Diksmuide,1:05.65,t
+4074349,JOOS,Veerle,1993,F,BEL,Aalsters Swimming Team,1:05.66,t
+4249377,MULLER,Anna,1994,F,BEL,Ecole Saint-Vith Natation,1:05.66,t
+4295947,VAN BELLE,Jorien,1991,F,BEL,Dilbeekse Zwemvereniging,1:05.66,t
+4737920,SCHOUTEN,Britt,1999,F,BEL,Zwemclub Geel,1:05.66,t
+5431480,DESMET,Sterre,2011,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.66,t
+4398043,VANWIJNSBERGHE,Magali,1999,F,BEL,Koninklijke Kortrijkse Zwemkri,1:05.67,t
+4917624,DORNEZ,Febe,2004,F,BEL,Izegemse Krekel Zwemmers,1:05.68,t
+5177058,MIMBE,Audrey,2003,F,BEL,Namur Olympic Club,1:05.68,t
+5424146,ROUDOMETKINA,Ksenia,2012,F,BEL,Charleroi Helios Aqua Team,1:05.68,t
+4799253,MICHEL,Laure,2003,F,BEL,Club De Natation Bastogne,1:05.69,t
+5203770,LAUWERS,Lotte,2008,F,BEL,Kempisch Swimming Team,1:05.69,t
+4981196,BAYGUNES,Defne,2009,F,BEL,Molse Zwemclub mozka,1:05.69,t
+4309221,VISSERS,Elien,1994,F,BEL,Zwemclub Brabo Antwerpen,1:05.70,t
+4309162,VANDER STICHELE,Clara,1996,F,BEL,Bruinvissen Diksmuide,1:05.70,t
+4403869,HONDEGHEM,Soazic,1996,F,BEL,Belgium,1:05.70,t
+4813202,VANDEN NOORTGATE,Iona,2002,F,BEL,Aalsters Swimming Team,1:05.70,t
+5500792,FICHEFET,Agathe,2009,F,BEL,Std,1:05.70,t
+4860184,CUYVERS,Fien,2000,F,BEL,Molse Zwemclub mozka,1:05.71,t
+4804944,SMET,Mieke,1974,F,BEL,Swimming Team Waasland,1:05.72,t
+4139769,VERCAMMEN,Katrien,1995,F,BEL,Shark,1:05.72,t
+5314510,VERSCHOOTEN,Isaline,2008,F,BEL,Belgium,1:05.72,t
+4805254,MINGELINKCKX,Tessy,1990,F,BEL,Genker Zwemvereniging Neptunus,1:05.73,t
+4917608,GEERAERT,Fien,2002,F,BEL,Gold Swimming Team,1:05.73,t
+5088451,SCHOOFS,Joni,2002,F,BEL,Molse Zwemclub mozka,1:05.73,t
+5435645,DEPONDT-VELTER,Nette,2009,F,BEL,Royal Ostend Swimming Club,1:05.73,t
+4185244,UMANS,Elisa,1993,F,BEL,Zwemvereniging Lier,1:05.74,t
+4620650,CEULEMANS,Kim,1999,F,BEL,Lommelse Zwemvereniging de Lo,1:05.74,t
+4139759,DRIEGHE,Coriena,1994,F,BEL,Waterloo Natation,1:05.75,t
+4368635,TIMMERMAN,Thaisa,1996,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.75,t
+4578943,ACHTEN,Demi,1997,F,BEL,Belgium,1:05.75,t
+4587753,DELVAUX,Pauline,2000,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:05.75,t
+4305063,DE NOBLE,Naomi,1998,F,BEL,First (Flanders Inter Regio Sw,1:05.75,t
+5049107,DECKX,Louise,2006,F,BEL,Lommelse Zwemvereniging de Lo,1:05.75,t
+4074381,VAN BELLEGHEM,Sahin,1988,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.76,t
+4199767,WINNEN,Ilona,1996,F,BEL,Swimming Team Tienen,1:05.76,t
+5116212,BOCQUET,Julia,2005,F,BEL,Cercle Royal De Natation De To,1:05.76,t
+5065834,VANDECASTEELE,Sara,2004,F,BEL,Flemish Ardennes Swimming Team,1:05.76,t
+5322791,LEGRAND,Constance,2009,F,BEL,Cercle Royal De Natation De To,1:05.76,t
+4805086,PICRON,Sophie,1991,F,BEL,Barracuda Club Saint-Ghislain,1:05.77,t
+4439412,CLIJSTERS,Annelore,1996,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.77,t
+4842287,BOEYKENS,Charlotte,2008,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.77,t
+4305135,DE WIT,Sam,1996,F,BEL,Aalsters Swimming Team,1:05.78,t
+4308808,JAMIN,Stephanie,1996,F,BEL,Zwemclub Brabo Antwerpen,1:05.78,t
+5756826,THYS,Lena,2011,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:05.78,t
+4307621,VAN GORP,Valerie,1994,F,BEL,Shark,1:05.79,t
+4726066,PRESENT,Nanook,2000,F,BEL,Swimming Team Waasland,1:05.79,t
+4313012,FRANCAUX,Alice,1998,F,BEL,Orca Natation Soignies,1:05.79,t
+5506983,DE CONING,Gitte,2005,F,BEL,Zwemclub De Kikkertjes Ninove,1:05.79,t
+4299607,LIEBERLOO,Marine,1995,F,BEL,Chaudfontaine Thermale Natatio,1:05.80,t
+4306631,MOREAU,Wendy,1998,F,BEL,Swimming Club Strombeek-Grimbe,1:05.80,t
+5072663,VANDEWAL,Brit,2003,F,BEL,Peltse Zwemclub,1:05.80,t
+4305835,HENDRICKX,Jolien,1993,F,BEL,Kempisch Swimming Team,1:05.81M,t
+4439733,VANHEUCKELOM,Lore,1998,F,BEL,Zwemclub Geel,1:05.81,t
+4393491,POLLEZ,Caitlin,1998,F,BEL,Ronse Swimming Club,1:05.81,t
+5177062,URBAIN,Laura,2006,F,BEL,Club Marsouins Ath,1:05.81,t
+4875190,SLEGERS,Britt,2005,F,BEL,Peltse Zwemclub,1:05.81,t
+4960462,DEN HAESE,Mette,2001,F,BEL,Koninklijke Hasseltse Zwemvere,1:05.81,t
+5199476,AVET,Juliette,2006,F,BEL,Ursus Zwemklub Zwevegem,1:05.81,t
+5349876,THYVELEN,Lise,2008,F,BEL,Bruinvissen Diksmuide,1:05.81,t
+4140037,BROUWERS,Laurie,1989,F,BEL,Nautic Club Herve,1:05.82,t
+4910864,CORNELIS,Anais,2002,F,BEL,Waterloo Natation,1:05.83,t
+5065825,DE CRAEN,Imke,2004,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.83,t
+5169422,BECUWE,Kaat,2005,F,BEL,Zwemclub Ter Borcht-Meulebeke,1:05.83,t
+5657748,VAN BOCKSTAL,Yoanna,2011,F,BEL,Hoogstraten Zwemteam,1:05.83,t
+4074514,VERVLOET,Sarah,1989,F,BEL,Shark,1:05.84,t
+4200066,DEMALZY,Daphnee,1991,F,BEL,Charleroi Helios Aqua Team,1:05.84,t
+4691682,STAPPAERTS,Rania,2001,F,BEL,Shark,1:05.84,t
+4813246,EMPLIT,Anne-Sophie,2000,F,BEL,Cercle Des Dauphins Courcelloi,1:05.84,t
+4995015,POLART,Clara,2005,F,BEL,Liege Natation,1:05.84,t
+4972460,VAN KEER,Farah,2004,F,BEL,Leuven Aquatics,1:05.84,t
+5350356,GANSEMANS,Kessy,2010,F,BEL,Swimming Club Wauterbos Rode,1:05.84,t
+4804920,DRIESEN,An,1987,F,BEL,Molse Zwemclub mozka,1:05.85,t
+4393277,CALLANT,Louisa,1993,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.85,t
+4620684,VAN LOON,Mara,1997,F,BEL,Molse Zwemclub mozka,1:05.85,t
+4863330,MOUS,Anke,2000,F,BEL,Arvicola Zwemclub Kalmthout,1:05.85,t
+5321447,MEERTS,Kira,2007,F,BEL,Westerlo Swimming Team,1:05.85,t
+4805357,GYSEMANS,Elise,1993,F,BEL,Shark,1:05.86,t
+4139842,HANS,Maurine,1994,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:05.86,t
+4334619,VAN HOECKE,Amelie,1996,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.86,t
+4368628,WEERTS,Britt,1997,F,BEL,Zwemclub Kapelle-O/D-Bos,1:05.86,t
+5321561,EECKHOUT,Floor,2008,F,BEL,Koninklijke Brugse Zwem- & Red,1:05.86,t
+4304945,DE BAETS,Sarah,1985,F,BEL,First (Flanders Inter Regio Sw,1:05.87,t
+4164789,PAVAGEAU,Marie-Laure,1985,F,BEL,Les Espadons Cominois,1:05.87,t
+4804537,FONTAINE,Florence,1991,F,BEL,Cercle Royal De Natation De Br,1:05.87,t
+4139687,EGGERS,Melanie,1994,F,BEL,Zwemclub Geel,1:05.87,t
+4972749,VANCAUWENBERGH,Charis,1998,F,BEL,Brabant East Swimming Team,1:05.87,t
+4897260,BAL,Charlotte,2002,F,BEL,Zwemclub Schoten,1:05.87,t
+5322798,NICOLAS,Julie,2007,F,BEL,Cercle Royal De Natation De To,1:05.87,t
+5259521,HUPEZ,Isaline,2008,F,BEL,Castor Club De Mons,1:05.87,t
+5259504,VERSPECHT,Lien,2008,F,BEL,Zwemclub Kapelle-O/D-Bos,1:05.87,t
+4941446,VERDEYEN,Nursulu,2002,F,BEL,Shark,1:05.88,t
+5148592,GEUENS,Nina,2006,F,BEL,Peltse Zwemclub,1:05.88,t
+5326461,VERSTAPPEN,Emma,2003,F,BEL,Westerlo Swimming Team,1:05.88,t
+5276805,WIJCKMANS,Lene,2009,F,BEL,Heistse Zwemclub Arduas,1:05.88,t
+4303461,BEUDIN,Marie,1985,F,BEL,Cercle Royal De Natation De To,1:05.89,t
+4211584,DOUMEN,Elke,1993,F,BEL,Peltse Zwemclub,1:05.89,t
+4295794,SERBRUYNS,Anais,1994,F,BEL,Squalus Nautic Club Gilly,1:05.89,t
+4429470,D'HONDT,Janaaika,1996,F,BEL,Bruinvissen Diksmuide,1:05.89,t
+4799256,ROSSION,Zoe,2001,F,BEL,Club De Natation Bastogne,1:05.89,t
+5211112,RIAHI,Sonia,2010,F,BEL,Herstal Natation,1:05.89,t
+5331826,VAN BOXSTAEL,Nora,2010,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.90,t
+4805309,BRASSEUR,Melissa,1990,F,BEL,Natation Club Athus,1:05.91,t
+4307735,VAN ZELE,Elke,1996,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.91,t
+4262639,CREMER,Laurine,1996,F,BEL,Club De Natation Bastogne,1:05.91,t
+4346908,JOOS,Julie,1998,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.91,t
+4695413,SIMON,Ilona,2001,F,BEL,Ecole Seraing Natation,1:05.91,t
+4897281,DUPONT,Emma,2003,F,BEL,Leuven Aquatics,1:05.91,t
+5473863,VAN DEN BERGH,Anna,2010,F,BEL,Zwemclub Schoten,1:05.91,t
+4812895,VAN MULDER,Katinka,2003,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.92,t
+5300548,BURY,Pauline,2011,F,BEL,Waterloo Natation,1:05.92,t
+4311198,VERVAEREN,Charlotte,1996,F,BEL,Mons Hainaut Natation,1:05.93,t
+5294356,PAPPYN,Ella,2008,F,BEL,Ursus Zwemklub Zwevegem,1:05.93,t
+5445142,DEMUYNCK,Margot,2009,F,BEL,Bruinvissen Diksmuide,1:05.93,t
+4805270,VANDEPUT,Delphine,1991,F,BEL,Koninklijke Hasseltse Zwemvere,1:05.94,t
+4139667,REEKMANS,Jasmine,1995,F,BEL,De Beringse Tuimelaars,1:05.94,t
+4305733,GOUSSEAU,Kamille,1995,F,BEL,Zwemclub de Dolfijnen Asse-T,1:05.94,t
+4400047,STICHELBOUT,Marine,1996,F,BEL,Cercle Royal De Natation De To,1:05.94,t
+4690191,VRANCKX,Emma,2000,F,BEL,Zwemclub Tremelo,1:05.94,t
+5084792,PICARD,Ines,2005,F,BEL,Liege Mosan,1:05.94,t
+4612966,BOUGARD,Marine,2001,F,BEL,Cercle Royal De Natation De To,1:05.95,t
+5278479,RENARD,Freeke,2008,F,BEL,De Beringse Tuimelaars,1:05.95,t
+5321435,VAN HOOF,Sara,2008,F,BEL,Zwemclub Schoten,1:05.95,t
+5519054,GAUDAEN,Maud,2011,F,BEL,Temse Schelde Zwemmers,1:05.95,t
+4929124,NATALIS,Sarah,2002,F,BEL,Chaudfontaine Thermale Natatio,1:05.96,t
+4804539,MARKHEL,Katia,1991,F,BEL,Cercle Royal De Natation De Br,1:05.97,t
+4308518,BECKERS,Tine,1988,F,BEL,Peltse Zwemclub,1:05.97,t
+4439795,CARRITT,Alicia,1988,F,BEL,Royal Brussels Poseidon,1:05.97,t
+4804849,BUELENS,Anne,1989,F,BEL,Zwemclub Kapelle-O/D-Bos,1:05.97,t
+4307563,VAN DEN TROOST,Sanny,1994,F,BEL,Zwemclub Kapelle-O/D-Bos,1:05.97,t
+4199801,WILLEMS,Sara,1994,F,BEL,Genker Zwemvereniging Neptunus,1:05.97,t
+4139774,LOUKILI,Naomi,1994,F,BEL,Zwemclub Brabo Antwerpen,1:05.97,t
+4304692,BUELENS,Lise,1995,F,BEL,Zwemclub Kapelle-O/D-Bos,1:05.97,t
+4804861,HEYLIGEN,Anne,1988,F,BEL,Zwemclub Beringen-Mijn,1:05.98,t
+4219621,KEBRON,Emilie,1994,F,BEL,Ecole Seraing Natation,1:05.98,t
+4313009,DEWANDRE,Sophie,1995,F,BEL,Liege Mosan,1:05.98,t
+5302986,MAES,Kaat,2009,F,BEL,Torhoutse Zwemklub Thor,1:05.98,t
+5179543,VERDONCK,Stien,2007,F,BEL,Royal Ypres Swimming Club,1:06.32,t
+4307149,SCHREURS,Ester,1995,F,BEL,Brabant East Swimming Team,1:05.99,t
+4779025,NIETO RODRIGUEZ,Laura,2000,F,BEL,Dilbeekse Zwemvereniging,1:05.99,t
+4804851,DE DECKER,Karolien,1988,F,BEL,Zwemclub Kapelle-O/D-Bos,1:06.00,t
+4878995,HAAS,Kathrin,2003,F,BEL,Ecole Saint-Vith Natation,1:06.00,t
+5196343,JORIS,Cloe,2004,F,BEL,Cercle Royal De Natation De Sp,1:06.00,t
+5350354,VANDAMME,Louna,2011,F,BEL,Royal Dauphins Mouscronnois,1:06.00,t
+4804314,GHAYE,Pauline,1987,F,BEL,Swimming Club Wauterbos Rode,1:06.01,t
+4487335,DELCOURT,Morgan,1998,F,BEL,Le Triton ans Natation,1:06.01,t
+5292127,BACZYNSKI,Tya,2008,F,BEL,Perron,1:06.01,t
+5211016,MENAGER,Maiwenn,2010,F,BEL,Csc La Calamine Neu-Moresnet,1:06.01,t
+4804612,COLANINNO,Laura,1992,F,BEL,Entente Des Nageurs Louvierois Natation,1:06.02,t
+4394950,KEUNEBROCK,Charlotte,1998,F,BEL,Espadon Leuze Natation,1:06.02,t
+4924775,VERMOERE,Sarah,2004,F,BEL,Koninklijke Kortrijkse Zwemkri,1:06.02,t
+4842210,KINT,Ruhne,2009,F,BEL,AART-Lorelei-Zwemvereniging,1:06.03,t
+5338008,BOHMER,Janne,2010,F,BEL,Zwemclub Tremelo,1:06.03,t
+4139847,VANESSE,Amandine,1992,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.04,t
+4307919,VERBRUGGEN,An,1995,F,BEL,Zwemclub Kapelle-O/D-Bos,1:06.04,t
+4363360,KINNAER,Jasmien,1999,F,BEL,Tiense Zwemmers,1:06.04,t
+5002816,SWERTS,Fien,2004,F,BEL,De Beringse Tuimelaars,1:06.04,t
+4312742,MOLINA ALVAREZ,Eva,1996,F,BEL,Cercle Royal De Natation De Br,1:06.05,t
+4308700,DIERCKX,Kimberly,1996,F,BEL,Zwemclub Brabo Antwerpen,1:06.05,t
+4481821,HERMAN,Emilie,2001,F,BEL,Club Marsouins Ath,1:06.05,t
+4074498,VAN BALLAER,Dorien,1987,F,BEL,Shark,1:06.06,t
+4139948,ROBERT,Amelie,1992,F,BEL,Liege Mosan,1:06.06,t
+4805205,NIJS,Valerie,1993,F,BEL,Zwemvereniging De Meerkoet Bre,1:06.06,t
+4307569,VAN DER GUCHT,Julie,1994,F,BEL,Zwemvereniging Wetthra Wettere,1:06.06,t
+4305873,HEYNS,Eline,1995,F,BEL,Zwemclub Kapelle-O/D-Bos,1:06.06,t
+4941443,VANDENBON,Laura,2003,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.06,t
+5082364,ROOMAN,Sarah,2005,F,BEL,Zwemclub Brabo Antwerpen,1:06.06,t
+4613833,DEWYN,Chloe,2007,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:06.06,t
+4199933,BECKERS,Annelies,1991,F,BEL,Dilbeekse Zwemvereniging,1:06.07,t
+4139764,HELSEN,Pernilla,1994,F,BEL,Shark,1:06.07,t
+5172945,DEPONDT-VELTER,Noor,2006,F,BEL,Royal Ostend Swimming Club,1:06.07,t
+5485725,POLL,Selene,2004,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.07,t
+5555440,MOONEN,Karlijn,2010,F,BEL,Zwemclub Brabo Antwerpen,1:06.07,t
+4805133,VAN DE POEL,Dorien,1990,F,BEL,Zwemclub Brabo Antwerpen,1:06.08,t
+4805421,CREEMERS,Birgit,1991,F,BEL,Genker Zwemvereniging Neptunus,1:06.08,t
+4842518,SYKORA,Renee,2002,F,BEL,Koninklijke Kortrijkse Zwemkri,1:06.08,t
+5170047,LEMBRECHTS,Sophie,2010,F,BEL,Zwemvereniging Lier,1:06.08,t
+4200107,GEERINCKX,Lien,1989,F,BEL,Geelse Sportvereniging Zwemmen,1:06.09,t
+4804448,EVERARD,Florie,1990,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.09,t
+4283131,EVENS,Lien,1995,F,BEL,Peltse Zwemclub,1:06.09,t
+4565953,ARGUN,Verena,2000,F,BEL,Ecole Saint-Vith Natation,1:06.09,t
+5343795,REGNIERS,Laura,2009,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.09,t
+5387528,WACHTELAER,Charlot,2010,F,BEL,Aalsters Swimming Team,1:06.09,t
+4805399,KERKHOF,Elisa,1990,F,BEL,Bruinvissen Diksmuide,1:06.10,t
+4907220,DUMONT,Valerie,2000,F,BEL,Namur Olympic Club,1:06.10,t
+4400063,WATHIONG,Marine,1999,F,BEL,Braine L'alleud Aqua College,1:06.10,t
+4303661,SCHOUTTEET,Veerle,1988,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.11,t
+4074828,DEVLIEGHER,Stephanie,1988,F,BEL,Charleroi Helios Aqua Team,1:06.11,t
+5472797,VERLUYTEN,Niene,2012,F,BEL,Temse Schelde Zwemmers,1:06.12,t
+4304812,CONNARD,Ilke,1992,F,BEL,Brabant East Swimming Team,1:06.13,t
+4199732,CONARD,Elien,1988,F,BEL,Brabant East Swimming Team,1:06.13,t
+4805361,MARIS,Dorien,1994,F,BEL,Shark,1:06.13,t
+4299605,PAUWELS,Eleonore,1994,F,BEL,Cercle De Natation Jodoignois,1:06.13,t
+4437306,VAN DER MEULEN,Femke,2000,F,BEL,Zwemclub de Dolfijnen Asse-T,1:06.13,t
+5343800,AKSOY,Beyza,2008,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.13,t
+5392559,ROELANDT,Sien,2009,F,BEL,Koninklijke Zwemclub Neptunus,1:06.13,t
+5501447,BEUNCKENS,Tess,2011,F,BEL,Genker Zwemvereniging Neptunus,1:06.13,t
+5585425,RUTSAERT,Emily,2012,F,BEL,Swimming Team Aalter,1:06.13,t
+4805344,ISTIRY,Sophie,1989,F,BEL,Royal Brussels Poseidon,1:06.14,t
+4074508,PHILIPSEN,Machteld,1990,F,BEL,Shark,1:06.14,t
+4074304,SCHATTEMAN,Ansofie,1990,F,BEL,Zwemclub S.O.S.,1:06.14,t
+4139869,PAQUAY,Aurore,1993,F,BEL,Province Du Luxembourg Association Nautique,1:06.14,t
+4200036,SOETERS,Evi,1992,F,BEL,Zwemclub Otters Mortsel,1:06.14,t
+4340433,BOONEN,Maren,1999,F,BEL,Zwemvereniging De Meerkoet Bre,1:06.14,t
+4309480,DEPYPERE,Hanne,1998,F,BEL,Gold Swimming Team,1:06.14,t
+4334605,DECAESTECKER,Febe,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.14,t
+4919319,VAN OVERTVELDT,Dana,2002,F,BEL,Groot Beverse Zwemclub,1:06.14,t
+4938129,RUIGE,Flore,2003,F,BEL,Swimming Team Waasland,1:06.14,t
+4299648,HEYLIGEN,Lore,1992,F,BEL,Zwemclub Beringen-Mijn,1:06.15,t
+4139738,GEENEN,Sarah,1993,F,BEL,Molse Zwemclub mozka,1:06.15,t
+4201702,MEYS,Elise,1998,F,BEL,Belgium,1:06.15,t
+4841291,SANCHEZ,Lorena,2001,F,BEL,Herstal Natation,1:06.15,t
+4305837,HENDRICKX,Lynn,1993,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:06.16,t
+4308614,DE CONINCK,Valerie,1995,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.16,t
+4602739,VAN DAELE,Phedra,1993,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.16,t
+5356778,PAIROUX,Eloise,2008,F,BEL,Perron,1:06.16,t
+4805224,KACZOROWSKI,Julie,1992,F,BEL,Ecole Seraing Natation,1:06.17,t
+4308543,BOGEMANS,Kendra,1993,F,BEL,Shark,1:06.17,t
+4427957,VERBEIREN,Sofie,2000,F,BEL,Zwemvereniging De Meerkoet Bre,1:06.17,t
+4972256,FREDJ,Erich,2003,F,BEL,Namur Olympic Club,1:06.17,t
+5183494,BELLENS,Lore,2011,F,BEL,Shark,1:06.17,t
+5165416,DECLOEDT,Fran,2003,F,BEL,Torhoutse Zwemklub Thor,1:06.18,t
+5422899,DURT,Reine,2011,F,BEL,Shark,1:06.18,t
+5431492,VISSERS,Lotta,2008,F,BEL,Zwemclub Brabo Antwerpen,1:06.18,t
+4828295,DELVAUX,Elise,2002,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.19,t
+4863341,VAN HEMELRYCK,Jana,2001,F,BEL,AART-Lorelei-Zwemvereniging,1:06.19,t
+4878967,BUYS,Leentje,2002,F,BEL,Zwemvereniging Lier,1:06.19,t
+5278515,DEGELS,Merel,2009,F,BEL,Iswim,1:06.19,t
+5537757,CETIN,Noeline,2012,F,BEL,Herstal Natation,1:06.19,t
+4897300,MICHIELS,Lotte,2001,F,BEL,Aalsters Swimming Team,1:06.20,t
+5139105,DEJEAN,Floriane,2003,F,BEL,Cercle De Natation Sportcity W,1:06.20,t
+5065824,VAN EYKEN,Nele,2005,F,BEL,Koninklijke Vilvoordse Zwemclu,1:06.20,t
+5211063,RESMINI,Giulia,2010,F,BEL,Waterloo Natation,1:06.20,t
+4804889,DUBOIS,Celine,1982,F,BEL,Ecole De Natation De Nivelles,1:06.21,t
+4139949,ROBERT,Julie,1994,F,BEL,Chaudfontaine Thermale Natatio,1:06.21,t
+4139958,MEEUS,Alice,1996,F,BEL,Namur Olympic Club,1:06.21,t
+4393257,DRICOT,Caroline,1998,F,BEL,Zwemclub Brabo Antwerpen,1:06.21,t
+4754010,VAN HOUTE,Femke,2001,F,BEL,Temse Schelde Zwemmers,1:06.21,t
+5472772,DARRAS,Nina,2011,F,BEL,Torhoutse Zwemklub Thor,1:06.21,t
+5263231,DELDICQUE,Aiko,2008,F,BEL,Zoro,1:06.21,t
+4199851,VERMEULEN,Kiani,1993,F,BEL,Zwemclub Brabo Antwerpen,1:06.22,t
+4608349,ANCKAERT,Charlotte,1999,F,BEL,Gold Swimming Team,1:06.22,t
+5243725,ALIBALIC,Una,2004,F,BEL,Koninklijke Zwemclub Olympic A,1:06.22,t
+5440717,WATELLE,Nona,2010,F,BEL,Leuven Aquatics,1:06.22,t
+4304346,GUARDIA MIRALLES,Aurore,1989,F,BEL,Cercle De Natation Sportcity W,1:06.23,t
+4804866,GEEROMS,Sanne,1989,F,BEL,Koninklijke Zwemclub Neptunus,1:06.23,t
+5136672,ELIAS,Celine,2002,F,BEL,Peltse Zwemclub,1:06.23,t
+5105571,PANAGIOTIDIS,Laura,2004,F,BEL,Waterloo Natation,1:06.23,t
+4308910,MOREAU,Jessica,1994,F,BEL,Swimming Club Strombeek-Grimbe,1:06.24,t
+4199966,DE CONINCK,Evelien,1996,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.24,t
+4340449,DEWULF,Eva,1998,F,BEL,Flanders Coast Swimmingteam,1:06.24,t
+4822396,DE BAERE,Pauline,2002,F,BEL,Swimming Team Waasland,1:06.24,t
+5398637,OLSEN ROMA,Maria,2002,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:06.24,t
+4074409,JAUMOT,Sarah,1991,F,BEL,Charleroi Helios Aqua Team,1:06.25,t
+4295846,SNEYERS,Lisa,1996,F,BEL,De Beringse Tuimelaars,1:06.25,t
+4349584,BRANDT,Tasha,1998,F,BEL,Cercle De Natation Sportcity W,1:06.25,t
+4726076,BARTORELLI,Chiara,2002,F,BEL,Flanders Coast Swimmingteam,1:06.25,t
+5153683,SAMAIN,Romane,2005,F,BEL,Ecole Seraing Natation,1:06.25,t
+4804585,BISCOP,Lynn,1989,F,BEL,Dilbeekse Zwemvereniging,1:06.26,t
+4805142,DE SCHEPPERE,Ann-Sophie,1991,F,BEL,Koninklijke Brugse Zwem- & Red,1:06.26,t
+4819732,VERSTREPEN,Axelle,2002,F,BEL,Shark,1:06.26,t
+5088450,MICHIELS,Lobke,2005,F,BEL,Lommelse Zwemvereniging de Lo,1:06.26,t
+4308465,HAVERALS,Stien,1997,F,BEL,Aquarius Zwemclub Lebbeke,1:06.27,t
+4390521,STOLL,Justine,1997,F,BEL,Belgium,1:06.27,t
+4914344,HAZENDONCK,Wanaelle,1996,F,BEL,Cercle De Natation Sportcity W,1:06.27,t
+5336018,SMETS,Danique,2008,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:06.27,t
+4779096,SUSANT,Fela,2000,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.28,t
+5102976,BAECKELMANS,Myrte,2005,F,BEL,Koninklijke Racing Swimming Cl,1:06.28,t
+4919316,TORFS,Melissa,2002,F,BEL,Groot Beverse Zwemclub,1:06.28,t
+4010016,VAN DEN NOORTGATE,Marte,2003,F,BEL,Belgium,1:06.28,t
+4924175,DUBREUCQ,Magdalena,2005,F,BEL,Castor Club De Mons,1:06.28,t
+5027313,ONGENAE,Anneleen,2005,F,BEL,Koninklijke Waregemse Zwemclub,1:06.28,t
+4804955,KURZAK,Elodie,1984,F,BEL,Mons Hainaut Natation,1:06.29,t
+4309215,VERVUEREN,Caroline,1981,F,BEL,Sportvereniging Aartselaar Zwe,1:06.29M,t
+4984907,CAEIJTANT,Shakira,2002,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.29,t
+4607398,MANGELSCHOTS,Ann-Sofie,2006,F,BEL,De Beringse Tuimelaars,1:06.29,t
+4922046,HUYSMANS,Silke,2004,F,BEL,Zwemclub Kapelle-O/D-Bos,1:06.29,t
+4309080,VAN BOOGAERT,Jelle,1986,F,BEL,Verenigde Willebroekse Zwemclu,1:06.30,t
+4805189,CRABEELS,Sarah,1994,F,BEL,Flanders Coast Swimmingteam,1:06.30,t
+4140032,WERY,Eloise,1990,F,BEL,Ecole De Natation De Nivelles,1:06.31,t
+4255115,VILLANCE,Muriel,1979,F,BEL,Cercle Bertrigeois De Natation,1:06.31,t
+4621084,LENAERTZ,Kiara,1998,F,BEL,Swimming Club Rixensart,1:06.31,t
+4879014,WATTIAUX,Julie,2003,F,BEL,Orca Natation Soignies,1:06.31,t
+5003564,SCHUURMANS,Marie,2007,F,BEL,Belgium,1:06.31,t
+5169553,DENEF,Anne-Laure,2006,F,BEL,Swimming Club Rixensart,1:06.31,t
+4805158,BUYCK,Laura,1992,F,BEL,Chaudfontaine Thermale Natatio,1:06.32,t
+4139915,ADAM,Deborah,1995,F,BEL,Ecole Seraing Natation,1:06.32,t
+4397871,SERBEST,Sara,1996,F,BEL,Swimming Team Tienen,1:06.32,t
+4737924,GIRS,Manon,1999,F,BEL,Club De Natation Bastogne,1:06.32,t
+5393431,HAELVOET,Fay,2006,F,BEL,Flemish Ardennes Swimming Team,1:06.32,t
+4307649,VAN HOVE,Janne,1983,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.33,t
+4081751,NESPOLA,Guiseppa,1988,F,BEL,Belgium,1:06.33,t
+4805198,DE BAUW,Anne-Sophie,1992,F,BEL,Dilbeekse Zwemvereniging,1:06.33,t
+5470753,RUSTIN,Eline,2010,F,BEL,Mons Hainaut Natation,1:06.33,t
+4199855,DEKREM,Deborah,1989,F,BEL,Torhoutse Zwemklub Thor,1:06.34,t
+5172938,BEERSMANS,Yentl,2005,F,BEL,Zwemclub Brabo Antwerpen,1:06.34,t
+5177182,IMANTS,Nina,2007,F,BEL,Peltse Zwemclub,1:06.34,t
+5421023,MISONNE,Alessandra,2006,F,BEL,Entente Des Nageurs Louvierois Natation,1:06.34,t
+5477776,VAN LITSENBORG,Aurelie,2011,F,BEL,De Beringse Tuimelaars,1:06.34,t
+4199886,BROGNIEZ,Vinciane,1993,F,BEL,Barracuda Club Saint-Ghislain,1:06.35,t
+4400051,TROISFONTAINES,Clelie,1998,F,BEL,Liege Atlas Swimming Team,1:06.35,t
+4139712,MATTENS,Judith,1995,F,BEL,Izegemse Krekel Zwemmers,1:06.36,t
+4304715,CARYN,Orane,1999,F,BEL,Royal Dauphins Mouscronnois,1:06.36,t
+4309668,CANTAMESSA,Astrid,1998,F,BEL,Cercle Royal De Natation De Huy,1:06.36,t
+4804532,MEYER,Laura,1989,F,BEL,Swimming Arlon Bastogne,1:06.37,t
+4838274,BOULANGER,Lucie,2008,F,BEL,Cercle Royal De Natation Arlonais,1:06.37,t
+4303648,ROOSEBROUCK,Lies,1989,F,BEL,Kortemarkse Zwemclub Flipper,1:06.38,t
+4140044,HEINL,Yasmine,1990,F,BEL,Schwimmverein Delphin Eupen,1:06.38,t
+4308003,VERSCHRAEGEN,Serafien,1995,F,BEL,First (Flanders Inter Regio Sw,1:06.38,t
+4833458,COHNEN,Sally,2004,F,BEL,Ecole Saint-Vith Natation,1:06.38,t
+4924715,VAN CAUWENBERGHE,Laure,2004,F,BEL,First (Flanders Inter Regio Sw,1:06.38,t
+5052994,HUENAERTS,Lea,2005,F,BEL,Swimming Club Strombeek-Grimbe,1:06.38,t
+5343832,BUT,Anastacia,2009,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.38,t
+5425827,HAUTEKIET,Nanoe,2011,F,BEL,Koninklijke Brugse Zwem- & Red,1:06.38,t
+4804863,TORMANS,Tine,1990,F,BEL,Zwemclub Beringen-Mijn,1:06.39,t
+4307107,SCHELDEMAN,Tinne,1996,F,BEL,Koninklijke Racing Swimming Cl,1:06.39,t
+5152263,BOUGAULT,Annelies,1974,F,BEL,Belgium,1:06.40,t
+4804508,DROFIAK,Sophie,1990,F,BEL,Les Cormorans Farciennois,1:06.41,t
+4729520,ROSSEL,Lien,2000,F,BEL,Koninklijke Zwemclub Neptunus,1:06.41,t
+5092540,MONDY,Yana,2004,F,BEL,Ursus Zwemklub Zwevegem,1:06.41,t
+4805419,DE LOOF,Kimberley,1993,F,BEL,Zwemclub Tieltse Zeeduivels,1:06.42,t
+5096423,DAENEN,Lisa,2004,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:06.42,t
+5111334,GYSSELS,Louise,2006,F,BEL,De Dolfijnen Zwemclub Zomergem,1:06.42,t
+5211136,STEVENS,Eleonore,2009,F,BEL,Aqua Club Braine L'Alleud,1:06.42,t
+4805389,MOMMER,Adeline,1991,F,BEL,Royal Verviers Natation,1:06.43,t
+4074310,DE CONINCK,Emily,1994,F,BEL,First (Flanders Inter Regio Sw,1:06.43,t
+5065611,DESCAMPS,Aglae,2003,F,BEL,Swimming Team Tienen,1:06.43,t
+4354345,VAN HOYWEGHEN,Veerle,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.43,t
+5099265,ROGIERS,Ine,2005,F,BEL,Zwemclub de Dolfijnen Asse-T,1:06.43,t
+5435666,CUYPERS,Linne,2010,F,BEL,Genker Zwemvereniging Neptunus,1:06.43,t
+4308524,BEKAERT,Nathalie,1986,F,BEL,First (Flanders Inter Regio Sw,1:06.44,t
+4295891,SCHAALJE,Esmee,1993,F,BEL,Shark,1:06.44,t
+4295885,GOOVAERTS,Ellen,1993,F,BEL,Shark,1:06.44,t
+5387533,RUYSSINCK,Diede,2010,F,BEL,Koninklijke Zwemclub Neptunus,1:06.44,t
+4804487,DEWULF,Astrid,1993,F,BEL,Koninklijke Brugse Zwem- & Red,1:06.45,t
+4308655,DE BRUCKER,Yente,1994,F,BEL,Koninklijke Zwemclub Neptunus,1:06.45,t
+4200155,DE CNAEP,Jolien,1994,F,BEL,Shark,1:06.45,t
+4305226,DELATTRE,Caroline,1994,F,BEL,Cercle De Natation Jodoignois,1:06.45,t
+4680464,BAES,Julie,2000,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.45,t
+4285215,SAGGIORATO,Elisa,1996,F,BEL,Embourg Natation,1:06.46,t
+4304854,COSTROP,Iris,1996,F,BEL,Zwemclub Brabo Antwerpen,1:06.46,t
+4617122,THIERENS,Celine,1998,F,BEL,Swimming Team Waasland,1:06.46,t
+5199460,RIGOLE,Sara,2006,F,BEL,Ursus Zwemklub Zwevegem,1:06.46,t
+4085682,STREEL,Marion,1992,F,BEL,Liege Mosan,1:06.47,t
+4690187,LEPERS,Anouk,2000,F,BEL,Swimming Team Tienen,1:06.47,t
+4779173,ASSELMAN,Emma,2001,F,BEL,Koninklijke Zwemclub Olympic A,1:06.47,t
+4777258,MOMMAERTS,Nele,2002,F,BEL,Zoro,1:06.47,t
+5002335,WERREBROUCK,Nyah,2003,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.47,t
+4687031,FONTAINE,Maelle,2007,F,BEL,Namur Olympic Club,1:06.47,t
+4972459,HECQ,Kira,2002,F,BEL,Leuven Aquatics,1:06.48,t
+4989687,RIGOLE,Luna,2003,F,BEL,Ursus Zwemklub Zwevegem,1:06.48,t
+4750937,LISON,Felien,2001,F,BEL,First (Flanders Inter Regio Sw,1:06.49,t
+4340413,GUFFENS,Lotte,1996,F,BEL,Aquarius Zwemclub Lebbeke,1:06.50,t
+4134544,PAQUAY,Maud,1988,F,BEL,Cercle Royal De Natation Arlonais,1:06.51,t
+4805132,STES,Lisa,1993,F,BEL,Zwemclub Schoten,1:06.51,t
+4305616,GALLEZ,Estelle,1995,F,BEL,Orca Natation Soignies,1:06.51,t
+4750927,VANDEN EYNDE,Max-Lena,1999,F,BEL,Zwemvereniging Lier,1:06.51,t
+5004975,HOOF,Sam,2007,F,BEL,Swimming Team Waasland,1:06.51,t
+5484464,VERWAEST,Fien,2006,F,BEL,Zoro,1:06.51,t
+5595840,VERHEYEN,Leonie,2010,F,BEL,Westerlo Swimming Team,1:06.51,t
+5000773,LIMET,Marie,2002,F,BEL,Val De Mehaigne Natation Wanze,1:06.52,t
+5179511,BISBACK,Margot,2004,F,BEL,First (Flanders Inter Regio Sw,1:06.52,t
+5169378,MIKUS,Katherina,2006,F,BEL,Barracuda Club Saint-Ghislain,1:06.52,t
+5498056,MELIS,Vlinder,2012,F,BEL,Kempisch Swimming Team,1:06.52,t
+5004083,BROUX,Yzra,2003,F,BEL,De Beringse Tuimelaars,1:06.53,t
+5292331,HEIVERS,Liena,2005,F,BEL,Brabant East Swimming Team,1:06.53,t
+5425328,LAUWERS,Sofie,2011,F,BEL,Kempisch Swimming Team,1:06.53,t
+4400048,STREPENNE,Tiphaine,1996,F,BEL,Club De Natation Bastogne,1:06.54,t
+4804648,SPILDOOREN,Gudrun,1988,F,BEL,Groot Beverse Zwemclub,1:06.55,t
+4804845,PAREYN,Delphine,1989,F,BEL,Koninklijke Kortrijkse Zwemkri,1:06.55,t
+4305239,DELHOTAL,Julia,1987,F,BEL,Dison Welkenraedt Swimming Tea,1:06.55,t
+4139703,VAN GANSEN,Liesbet,1994,F,BEL,Heistse Zwemclub Arduas,1:06.55,t
+4192422,WILLEKENS,Melissa,1991,F,BEL,Molse Zwemclub mozka,1:06.56,t
+4805415,LIEVENS,Charlotte,1992,F,BEL,Koninklijke Zwemclub Neptunus,1:06.56,t
+5033224,DELMAL,Lola,2003,F,BEL,Perron,1:06.56,t
+5435634,CLUYSEN,Zoe,2010,F,BEL,Lommelse Zwemvereniging de Lo,1:06.56,t
+5211048,RANCILLON,Eline,2009,F,BEL,Aqua Club Braine L'Alleud,1:06.56,t
+4139887,FROIDBISE,Philippine,1994,F,BEL,Cercle De Natation Sportcity W,1:06.57,t
+4842477,COKELAERE,Emma,2000,F,BEL,Koninklijke Kortrijkse Zwemkri,1:06.57,t
+4306491,MATTHE,Annelies,1987,F,BEL,Zwemclub Brabo Antwerpen,1:06.58,t
+4804865,DE BACKER,Sanne,1990,F,BEL,Koninklijke Zwemclub Neptunus,1:06.58,t
+4439409,CLAES,Myrthe,1999,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.58,t
+4140020,BOUKHARTA,Anissa,1991,F,BEL,Cercle Royal De Natation De Huy,1:06.59,t
+4295939,MINTJENS,Zoe,1998,F,BEL,Zwemclub Brabo Antwerpen,1:06.60,t
+4729484,ROELANDTS,Quintana,1997,F,BEL,Swimming Club Strombeek-Grimbe,1:06.60,t
+4653032,PAULISSEN,Florence,1984,F,BEL,Val De Mehaigne Natation Wanze,1:06.60M,t
+5496692,DE CUYPER,Maylee,2011,F,BEL,Flemish Ardennes Swimming Team,1:06.60,t
+4804623,EMONDS-ALT,Barbara,1988,F,BEL,Ecole Seraing Natation,1:06.61,t
+4804643,DE SMET,Saskia,1992,F,BEL,Groot Beverse Zwemclub,1:06.61,t
+4439636,ROSIUS,Robin,1998,F,BEL,Genker Zwemvereniging Neptunus,1:06.61,t
+5098390,DESMARET,Annelaure,2002,F,BEL,De Beringse Tuimelaars,1:06.61,t
+5356782,DOHN,Ninon,2010,F,BEL,Namur Olympic Club,1:06.61,t
+5407030,OULAD BEN TAIB,Assia,2008,F,BEL,Swimming Club Calypso Watermae,1:06.61,t
+5647336,BRACONI,Margerita,2010,F,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:06.61,t
+4074682,LONSAIN,Anne,1992,F,BEL,Zwemclub Tremelo,1:06.62,t
+4914342,BAEGHE,Charlotte,2001,F,BEL,Cercle Royal De Natation De To,1:06.62,t
+5125452,STEENBEKE,Jinne,2008,F,BEL,De Dolfijnen Zwemclub Zomergem,1:06.62,t
+5177166,DE BACKER,Mirthe,2006,F,BEL,Koninklijke Zwemclub Neptunus,1:06.62,t
+4777812,DE PEUTER,Fien,2001,F,BEL,Heistse Zwemclub Arduas,1:06.63,t
+5004125,VANDEPUTTE,Jade,2005,F,BEL,Izegemse Krekel Zwemmers,1:06.63,t
+4200098,VAN LIER,Tessa,1990,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:06.64,t
+4304565,ADRIAENSEN,Eline,1997,F,BEL,Zwemclub Geel,1:06.64,t
+4792470,SMEEKENS,Clothilde,1996,F,BEL,Chaudfontaine Thermale Natatio,1:06.64,t
+4246989,NORTHSHIELD,Karen,1985,F,BEL,Cercle Royal De Natation De Br,1:06.65,t
+4359674,VANDEPUTTE,Marieke,1997,F,BEL,Oudenaardse Zwemclub,1:06.65,t
+4972251,PENASSE,Louise,2001,F,BEL,Val De Mehaigne Natation Wanze,1:06.65,t
+4074871,DEKEIN,Leen,1991,F,BEL,Meense Zwemkring,1:06.66,t
+4340823,GOYENS,Emma,1996,F,BEL,Swimming Club Wauterbos Rode,1:06.66,t
+4588256,MOERNAUT,Jolien,2000,F,BEL,Zwemvereniging Wetthra Wettere,1:06.66,t
+4400062,VOLCHER,Wendy,1998,F,BEL,Mons Hainaut Natation,1:06.66,t
+4199734,ELSEN,Ine,1992,F,BEL,Brabant East Swimming Team,1:06.67,t
+4225701,SCHUERMANS,Caroline,1993,F,BEL,Zwemvereniging De Meerkoet Bre,1:06.67,t
+4400036,PEETERMANS,Laura,1998,F,BEL,Braine L'alleud Aqua College,1:06.67,t
+4792502,PETIT,Philomene,2002,F,BEL,Club De Natation Bastogne,1:06.67,t
+4804376,GATHY,Amelie,1988,F,BEL,Nautic Club Herve,1:06.68,t
+4246979,DAXHELET,Oceane,1994,F,BEL,Mons Hainaut Natation,1:06.68,t
+4085600,SCHEUREN,Laura,1992,F,BEL,Ecole Saint-Vith Natation,1:06.69,t
+4295913,NOEL,Margot,1995,F,BEL,Zwemclub Brabo Antwerpen,1:06.69,t
+4779051,FEYS,Margo,2001,F,BEL,Koninklijke Kortrijkse Zwemkri,1:06.69,t
+4660981,DE KOCK,Silke,2007,F,BEL,Zwemclub Kapelle-O/D-Bos,1:06.69,t
+5251232,VANNIEUWENHUYSE,Estee,2008,F,BEL,First (Flanders Inter Regio Sw,1:06.69,t
+4299672,NOBELS,Annelies,1992,F,BEL,Zwemclub Tremelo,1:06.70,t
+4805241,DE VOS,Joyce,1992,F,BEL,Swimming Team Waasland,1:06.70,t
+4754003,DE BEULE,Mirne,2002,F,BEL,Zwemclub Brabo Antwerpen,1:06.70,t
+4878874,MEDLAND,Louise,2002,F,BEL,Genker Zwemvereniging Neptunus,1:06.70,t
+4687397,VAN TILBURG,Estee,2006,F,BEL,Arvicola Zwemclub Kalmthout,1:06.70,t
+4428543,DE GROOT,Bo,2000,F,BEL,Aalsters Swimming Team,1:06.71,t
+4307844,VANHEYSTE,Sophie,1992,F,BEL,Liege Natation,1:06.72,t
+4295982,MESISCA,Barbara,1995,F,BEL,Les Cormorans Farciennois,1:06.72,t
+4139993,GODFROID,Lucie,1996,F,BEL,Waterloo Natation,1:06.72,t
+4812378,PORTON,Oceane,1999,F,BEL,Cercle De Natation Sportcity W,1:06.72,t
+4429466,DUYCK,Michelle,1999,F,BEL,Flanders Coast Swimmingteam,1:06.72,t
+4989626,KONINGS,Ansel,2002,F,BEL,Zwemmen In Molenheide,1:06.72,t
+5137994,VRANKEN,Rhune,2004,F,BEL,Shark,1:06.72,t
+5158083,JORISSEN,Ameya,2011,F,BEL,Heistse Zwemclub Arduas,1:06.72,t
+4804542,PARMENTIER,Melanie,1988,F,BEL,Swimming Club Wauterbos Rode,1:06.73,t
+4074290,RUMMENS,Sofie,1988,F,BEL,Brabant East Swimming Team,1:06.73,t
+4334928,ELIAS,Ines,1999,F,BEL,Ecole Seraing Natation,1:06.73,t
+4399988,BACCAUW,Manon,1998,F,BEL,Barracuda Club Saint-Ghislain,1:06.73,t
+4757737,JANSSENS,Mayra,2002,F,BEL,Tiense Zwemmers,1:06.73,t
+4749275,GIOT,Gwenaelle,2004,F,BEL,Ronse Swimming Club,1:06.73,t
+5213288,DE WULF,Gwen,2007,F,BEL,Flemish Ardennes Swimming Team,1:06.73,t
+5300569,DELARGE,Claire,2011,F,BEL,Perron,1:06.73,t
+5437270,GILLAIN,Gwenalynn,2012,F,BEL,Liege Mosan,1:06.73,t
+4365378,OOMS,Nanou,1995,F,BEL,Zwemclub Geel,1:06.74,t
+4303675,SPAEY,Maiete,1988,F,BEL,Zoro,1:06.75,t
+4306690,NIHANT,Coralie,1992,F,BEL,Herstal Natation,1:06.75,t
+4307864,VANLUCHENE,Ophelia,1994,F,BEL,Gold Swimming Team,1:06.75,t
+4393629,WERBROUCK,Valerie,1997,F,BEL,Izegemse Krekel Zwemmers,1:06.75,t
+4682550,VAN HUNSEL,Floor,2001,F,BEL,Shark,1:06.75,t
+5414565,HUBERLAND,Lore,2008,F,BEL,Zwemvereniging Lier,1:06.75,t
+5283045,VERHAEGHE,Lara,2007,F,BEL,Veurnse Zwemvereniging,1:06.75,t
+4303559,HERMANS,Mieke,1980,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.76,t
+4295785,LENS,Pauline,1992,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.76,t
+5173148,BRACKE,Rose-Charlotte,2002,F,BEL,Cercle De Natation Sportcity W,1:06.76,t
+5209459,RASK,Marie,2006,F,BEL,Waterloo Natation,1:06.76,t
+4804685,VANDENDWIJE,Ilona,1990,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.77,t
+4313957,DEJONGHE,Constance,1998,F,BEL,Club Marsouins Ath,1:06.77,t
+4707888,CAPELLE,Jeanne,2001,F,BEL,Liege Mosan,1:06.77,t
+5067657,HENDRICK,Lena,2005,F,BEL,Perron,1:06.77,t
+5004063,DE WILDE,Noor,2005,F,BEL,Zwemclub de Dolfijnen Asse-T,1:06.77,t
+5210552,VAN QUAETHEM,Anke,2007,F,BEL,Zwemclub Tieltse Zeeduivels,1:06.77,t
+5139142,PELGRIMS,Mahaut,2006,F,BEL,Swimming Club Wauterbos Rode,1:06.77,t
+4842498,KESHISHIAN,Eleni,2000,F,BEL,Swimming Club Strombeek-Grimbe,1:06.78,t
+5068058,MELLEMANS,Jente,2003,F,BEL,Molse Zwemclub mozka,1:06.78,t
+4687023,LEROY,Noemie,2004,F,BEL,Std,1:06.78,t
+5137985,VAN ESBROECK,Charlotte,2004,F,BEL,Arvicola Zwemclub Kalmthout,1:06.78,t
+4313955,COESSENS,Nora,1996,F,BEL,Royal Dauphins Mouscronnois,1:06.79,t
+4306986,RICOU,Franne,1997,F,BEL,Zwemclub Kapelle-O/D-Bos,1:06.79,t
+4620611,VERCAEMER,Ode,2000,F,BEL,Koninklijke Waregemse Zwemclub,1:06.79,t
+5203753,VAN DE VEN,Naobi,2006,F,BEL,Shark,1:06.79,t
+5407025,DURY,Elisabeth,2010,F,BEL,Cercle De Natation Sportcity W,1:06.79,t
+5209745,AELEN,Bente,2012,F,BEL,Swimming Team Zennevallei,1:06.79,t
+4305146,DEBAERE,Madeleine,1997,F,BEL,Dilbeekse Zwemvereniging,1:06.80,t
+4620734,ZELDERLOO,Maite,2000,F,BEL,Zwemclub Kapelle-O/D-Bos,1:06.80,t
+4805405,BEDERT,Gael,1992,F,BEL,Zwemclub Tremelo,1:06.81,t
+4439662,STIELTJES,Karen,1998,F,BEL,Arvicola Zwemclub Kalmthout,1:06.81,t
+5075827,MEYER,Eline,2004,F,BEL,Tiense Regio United Swimming Team,1:06.81,t
+5321436,ERTVELDT,Klaartje,2008,F,BEL,Shark,1:06.81,t
+5369519,THEUWIS,Lisabet,2009,F,BEL,Zwemvereniging De Meerkoet Bre,1:06.81,t
+4420222,DE SADELEER,Anse,1998,F,BEL,Brabant East Swimming Team,1:06.82,t
+4691683,DONNELLY,Claire,1998,F,BEL,Waterloo Natation,1:06.82,t
+4200122,DE VALCK,Britt,1992,F,BEL,Zwemclub Lorelei Londerzeel,1:06.83,t
+4804875,MONSEREZ,Shirley,1990,F,BEL,Zwemclub Tieltse Zeeduivels,1:06.83,t
+4299649,THEUNIS,Senske,1995,F,BEL,Zwemclub Beringen-Mijn,1:06.83,t
+4368629,ROEX,Romi,1998,F,BEL,Zwemclub Lorelei Londerzeel,1:06.83,t
+5169410,CLOET,Catho,2005,F,BEL,Veurnse Zwemvereniging,1:06.83,t
+5015615,HAUS,Josephine,2005,F,BEL,Iswim,1:06.83,t
+4821354,FRANCOIS,Shannon,2007,F,BEL,Charleroi Helios Aqua Team,1:06.83,t
+5153838,CHIFFOT,Ness,2007,F,BEL,Mons Hainaut Natation,1:06.83,t
+5321429,VERCAMMEN,Fleur,2009,F,BEL,Zwemclub Schoten,1:06.83,t
+5017403,OHN,Lucie,2005,F,BEL,Herstal Natation,1:06.83,t
+4304801,COLMAN,Lien,1989,F,BEL,Dendermondse Zwemvereniging Ol,1:06.84,t
+4304976,DE COCK,Isabo,1995,F,BEL,AART-Lorelei-Zwemvereniging,1:06.84,t
+4771610,JASSELETTE,Laetitia,1998,F,BEL,Ecole De Natation Waremmienne,1:06.84,t
+4439362,BAMMENS,Eline,1998,F,BEL,Genker Zwemvereniging Neptunus,1:06.84,t
+4305392,DHONT,Mieke,1994,F,BEL,First (Flanders Inter Regio Sw,1:06.85,t
+4308456,DE VET,Lotte,1995,F,BEL,Arvicola Zwemclub Kalmthout,1:06.85,t
+5102966,VAN HULLE,Marie,2003,F,BEL,Zwemclub Tieltse Zeeduivels,1:06.86,t
+5113550,DUMONT,Sarah,2007,F,BEL,Namur Olympic Club,1:06.86,t
+4170693,WYNANTS,Kelly,1983,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:06.87,t
+4428548,NOTTE,Delphine,2000,F,BEL,First (Flanders Inter Regio Sw,1:06.87,t
+5137678,PARMENTIER,Fleur,2004,F,BEL,Zwemclub Brabo Antwerpen,1:06.87,t
+5480746,COPERMANS,Sam,2011,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.87,t
+4804339,VERFAILLIE,Jessica,1990,F,BEL,Royal Dauphins Mouscronnois,1:06.88,t
+4804619,SCODELLER,Doriane,1991,F,BEL,Charleroi Helios Aqua Team,1:06.88,t
+4068851,WERRION,Elise,1990,F,BEL,Cercle De Natation Sportcity W,1:06.88,t
+4439383,BOSCHMANS,Sabine,1973,F,BEL,Brabant East Swimming Team,1:06.88M,t
+4308153,WITTERS,Lieke,1995,F,BEL,Zwemmen In Molenheide,1:06.88,t
+4779162,VAN LAARHOVEN,Renee,2002,F,BEL,Zwemclub Geel,1:06.88,t
+5231064,CORNELIS,Mille,2008,F,BEL,Hoogstraten Zwemteam,1:06.88,t
+5498021,TASSENOY,Apoline,2011,F,BEL,Aqua Club Braine L'Alleud,1:06.88,t
+4139873,MESBAHI,Sarah,1994,F,BEL,Cercle Royal De Natation De Br,1:06.89,t
+4804548,LARDINOIS,Marie-Julie,1993,F,BEL,Val De Mehaigne Natation Wanze,1:06.89,t
+4628709,VANBUEL,Nell,1985,F,BEL,Barvaux Entente Nautique,1:06.89,t
+4285214,PIRON,Noemie,1995,F,BEL,Ecole Seraing Natation,1:06.89,t
+5129747,EMSENS,Maartje,1991,F,BEL,Westerlo Swimming Team,1:06.89M,t
+5002336,DOORAKKERS,Zoe,2003,F,BEL,Swem Vrienden,1:06.89,t
+5167245,DAMS,Sienna,2006,F,BEL,Zwemclub Schoten,1:06.89,t
+5203766,MARYSSE,Llorena,2005,F,BEL,Zwemclub Brabo Antwerpen,1:06.89,t
+5349320,SENTEN,Flora,2005,F,BEL,Koninklijke Zwemclub Olympic A,1:06.90,t
+5337634,DERWAEL,Fien,2006,F,BEL,Sint-Truidense Zwemclub,1:06.90,t
+4914345,LAMPE,Alice,1997,F,BEL,Ecole De Natation De Nivelles,1:06.91,t
+5139072,FRANCKE,Alexandra,2005,F,BEL,Cercle De Natation Sportcity W,1:06.91,t
+4074287,WOUTERS,Kirsten,1988,F,BEL,Brabant East Swimming Team,1:06.92,t
+4804977,CALLENS,Julie,1987,F,BEL,Flanders Coast Swimmingteam,1:06.92,t
+4805284,POULET,Marie,1993,F,BEL,Liege Natation,1:06.92,t
+4600496,MELOTTE,Elise,1996,F,BEL,Namur Olympic Club,1:06.92,t
+4924740,OSTYN,Mira,2003,F,BEL,Koninklijke Brugse Zwem- & Red,1:06.92,t
+4574856,JACQUES,Alison,1998,F,BEL,Embourg Natation,1:06.92,t
+4916253,LANDAURO,Lara,2003,F,BEL,Belgium,1:06.92,t
+4804287,AERTS,Sophie,1987,F,BEL,Zwemclub Brabo Antwerpen,1:06.93,t
+4139843,MAMBOURG,Kalina,1995,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.93,t
+4919328,SOENENS,Hanne,2001,F,BEL,Flanders Coast Swimmingteam,1:06.93,t
+4748253,VANDERMEULEN,Marie,1999,F,BEL,Koninklijke Waregemse Zwemclub,1:06.94,t
+5219100,CATAKLI,Nazra,2009,F,BEL,Ecole Seraing Natation,1:06.94,t
+5353779,RAEPSAET,Stien,2007,F,BEL,Bruinvissen Diksmuide,1:06.94,t
+5502621,DE SMUL,Pauline,2009,F,BEL,Swimming Team Aalter,1:06.94,t
+4304317,BECKERS,Sandrine,1990,F,BEL,Les Dauphins Visetois,1:06.95,t
+4427740,VANLUCHENE,Isaura,1997,F,BEL,Gold Swimming Team,1:06.95,t
+4494294,VAN DER BORGHT,Pilar,1999,F,BEL,Brabant East Swimming Team,1:06.95,t
+4702516,GIESBERTS,Mirte,2003,F,BEL,Belgium,1:06.95,t
+5169360,BIJNENS,Ine,2005,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.95,t
+4805423,FRENDA,Niki,1992,F,BEL,Genker Zwemvereniging Neptunus,1:06.96,t
+4199728,TORMANS,Lotte,1994,F,BEL,Arendonkse Zwemvereniging,1:06.96,t
+5212656,JANSSENS,Elisabeth,2010,F,BEL,Shark,1:06.96,t
+4308091,WAGUESPACK,Rachel,1990,F,BEL,Cercle De Natation Sportcity W,1:06.97,t
+5017376,EVRARD,Valentine,2002,F,BEL,Belgium,1:06.97,t
+5063041,VAN OUDENHOVE,Ninon,2002,F,BEL,Cercle De Natation Sportcity W,1:06.97,t
+5199447,GEENS,Wenke,2007,F,BEL,Arvicola Zwemclub Kalmthout,1:06.97,t
+5287511,VERSCHUEREN,Louise,2009,F,BEL,Hoogstraten Zwemteam,1:06.97,t
+4878014,NSUBUGA,Sofia,2011,F,BEL,Zwemclub de Dolfijnen Asse-T,1:06.97,t
+4804958,ANIS,Melanie,1986,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.98,t
+4305363,DEWEER,Celia,1991,F,BEL,Koninklijke Zwemclub Neptunus,1:06.98,t
+4804651,VAN MULLEM,Sanne,1993,F,BEL,Swimming Team Waasland,1:06.98,t
+4919305,VAN CAMPFORT,Nele,1986,F,BEL,Cercle Royal De Natation De Br,1:06.98M,t
+4139666,KENIS,Ilyse,1995,F,BEL,De Beringse Tuimelaars,1:06.99,t
+5341562,DEPIERREUX,Eleonore,2010,F,BEL,Liege Mosan,1:06.99,t
+5635972,FONTAINE,Eline,2012,F,BEL,Waterloo Natation,1:06.99,t
+4139679,RUYSSINCK,Sientje,1994,F,BEL,Dendermondse Zwemvereniging Ol,1:07.00,t
+4753999,VAN DOOREN,Evelyne,2001,F,BEL,Zwemclub Brabo Antwerpen,1:07.00,t
+5096991,STEENBEKE,Frauke,2003,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.00,t
+5251254,AERNOUTS,Roos,2008,F,BEL,Arvicola Zwemclub Kalmthout,1:07.00,t
+4307010,ROEFS,Evelien,1989,F,BEL,Zwemclub olma Turnhout,1:07.01,t
+4805267,NILIS,Magalie,1989,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.01,t
+4702845,DE DONDER,Febe,1998,F,BEL,Brabant East Swimming Team,1:07.01,t
+4564719,METS,Nele,1998,F,BEL,Swimming Club Strombeek-Grimbe,1:07.01,t
+5231096,TERRYN,Marthe,2008,F,BEL,Izegemse Krekel Zwemmers,1:07.01,t
+4804320,BEUDIN,Pauline,1988,F,BEL,Cercle Royal De Natation De To,1:07.02,t
+4805373,CLASSEN,Aurelie,1994,F,BEL,Schwimmverein Delphin Eupen,1:07.02,t
+4330704,EGGERICKX,Pauline,1998,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:07.02,t
+4309172,VANDOORN,Jessy,1995,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.02,t
+4305978,JAMAR DE BOLSEE,Mathilde,1998,F,BEL,Liege Atlas Swimming Team,1:07.02,t
+5177193,VANOPPEN,Margot,2006,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.02,t
+4804982,VANDERAERDEN,Tania,1985,F,BEL,De Beringse Tuimelaars,1:07.03,t
+4170678,VAN RIEL,Noor,1991,F,BEL,Arvicola Zwemclub Kalmthout,1:07.03,t
+4609949,PEETERS,Martine,1995,F,BEL,Zwemmen In Molenheide,1:07.03,t
+4882323,JACQUES,Coralie,2004,F,BEL,Perron,1:07.03,t
+4306706,NOERA,Federica,1996,F,BEL,Ecole Seraing Natation,1:07.04,t
+4309222,VLEMINCX,Melissa,1996,F,BEL,Shark,1:07.04,t
+5485727,RONDAGS,Lilou,2008,F,BEL,Waterloo Natation,1:07.04,t
+4306398,MAES,Sarah,1992,F,BEL,Zwemclub Beringen-Mijn,1:07.05,t
+4307603,VAN EYNDE,Kaat,1995,F,BEL,Brabant East Swimming Team,1:07.05,t
+5004115,BRAEKEVELD,Jana,2003,F,BEL,Gold Swimming Team,1:07.05,t
+4303721,VANDERAERDEN,Tamara,1983,F,BEL,De Beringse Tuimelaars,1:07.06,t
+5018048,DEBROUWER,Tess,2001,F,BEL,Iswim,1:07.06,t
+4824138,LEEMANS,Oona,2002,F,BEL,Swimming Team Zennevallei,1:07.06,t
+4882359,DILEN,Paulien,2003,F,BEL,Swimming Team Tienen,1:07.06,t
+5196345,LEBRUN,Tatiana,2004,F,BEL,Ecole Saint-Vith Natation,1:07.06,t
+5558564,WULLAERT,Fien,2011,F,BEL,Swimming Team Waasland,1:07.06,t
+4307005,ROBIN,Inge,1993,F,BEL,Swimming Team Zennevallei,1:07.07,t
+4630653,CLOET,Clara,2001,F,BEL,Flanders Coast Swimmingteam,1:07.07,t
+4972253,PISANE,Salome,2005,F,BEL,Liege Natation,1:07.08,t
+4989676,PETEREYNS,Ilke,2003,F,BEL,De Dolfijnen Zwemclub Zomergem,1:07.08,t
+5056626,VERMAUT,Julie,2004,F,BEL,First (Flanders Inter Regio Sw,1:07.08,t
+5012066,VAN DRIESSCHE,Laura,2002,F,BEL,De Dolfijnen Zwemclub Zomergem,1:07.08,t
+5231065,ADRIAENSEN,Lore,2008,F,BEL,Hoogstraten Zwemteam,1:07.08,t
+4399779,VANNESTE,Margaux,1997,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:07.09,t
+5067663,DE PAOLI,Chiara,2005,F,BEL,Ecole Seraing Natation,1:07.09,t
+4804645,RAEMDONCK,Tine,1989,F,BEL,Groot Beverse Zwemclub,1:07.10,t
+4805410,VANDER AUWERA,Inge,1991,F,BEL,Zwemclub Tremelo,1:07.10,t
+4074951,MURPHY,Kelly,1990,F,BEL,Cercle De Natation Sportcity W,1:07.10,t
+4804704,VANCOILLIE,Elisah,1990,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.10,t
+4199832,VANHERCK,Nele,1991,F,BEL,Zwemclub olma Turnhout,1:07.10,t
+4140008,DELATTRE,Gaelle,1991,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:07.10,t
+4620609,ROGGE,Kato,1998,F,BEL,Dendermondse Zwemvereniging Ol,1:07.10,t
+4702852,DELBEKE,Laurence,2000,F,BEL,Oudenaardse Zwemclub,1:07.10,t
+4812919,DEMEESTERE,Liza,2002,F,BEL,Izegemse Krekel Zwemmers,1:07.10,t
+4980119,DUNCA,Audrey,2003,F,BEL,Cercle De Natation Sportcity W,1:07.10,t
+5407033,OUJAA,Aicha,2008,F,BEL,Cercle Royal De Natation De Br,1:07.10,t
+4192416,NUYTS,Tinne,1990,F,BEL,Molse Zwemclub mozka,1:07.11,t
+4139704,WOUTERS,Stefanie,1995,F,BEL,Heistse Zwemclub Arduas,1:07.11,t
+4484544,VEREECK,Sarah,1997,F,BEL,Arvicola Zwemclub Kalmthout,1:07.11,t
+4913526,MOENS,Joyce,2003,F,BEL,Dendermondse Zwemvereniging Ol,1:07.11,t
+5137987,LAERMANS,Eline,2002,F,BEL,Koninklijke Zwemclub Olympic A,1:07.11,t
+4692817,DEMOULIN,Celia,2007,F,BEL,Nautic Club Herve,1:07.11,t
+4307814,VANDERSTEEN,Stefanie,1988,F,BEL,Temse Schelde Zwemmers,1:07.12,t
+4200003,SIAU,Jana,1990,F,BEL,Koninklijke Zwemclub Neptunus,1:07.12,t
+4397858,LEPEZ,Silke,1994,F,BEL,Koninklijke Vilvoordse Zwemclu,1:07.12,t
+5323257,LARROZE,Maelys,2010,F,BEL,Ecole Seraing Natation,1:07.12,t
+4307808,VANDERPER,Hannelore,1996,F,BEL,Bruinvissen Diksmuide,1:07.13,t
+4302754,KESTEMONT,Inya,1995,F,BEL,Zwemclub ZIOS Liedekerke,1:07.13,t
+4974479,DAFTARY,Sonia,2003,F,BEL,Zwemclub Brabo Antwerpen,1:07.13,t
+4819749,DE WILDE,Hanne,2003,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.13,t
+5487714,DEBRABANDERE,Leonie,2012,F,BEL,Temse Schelde Zwemmers,1:07.13,t
+4491687,CARPIN,Violette,1997,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.15,t
+4971280,LAMOTTE,Sarah,2001,F,BEL,Koninklijke Zwemclub Olympic A,1:07.15,t
+4897345,WHITE,Ella,2003,F,BEL,Zwemclub Schoten,1:07.15,t
+4306150,LAMBERT,Jacintha,1991,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.16,t
+4308744,GIACOMEL,Elina,1995,F,BEL,Val De Mehaigne Natation Wanze,1:07.16,t
+4307085,SAPIJN,Laura,1996,F,BEL,First (Flanders Inter Regio Sw,1:07.16,t
+4413200,LANGENS,Lieselotte,1999,F,BEL,Zwemmen In Molenheide,1:07.16,t
+5167221,DULLIER,Deborah,2006,F,BEL,Charleroi Helios Aqua Team,1:07.16,t
+4185214,VAN OBBERGEN,Nele,1993,F,BEL,Zwemclub Kapelle-O/D-Bos,1:07.17,t
+4302741,VERBRUGGEN,Greetje,1991,F,BEL,Zwemclub Kapelle-O/D-Bos,1:07.17,t
+5202155,VAN CAMPENHOUT,Lore,2007,F,BEL,Swimming Team Tienen,1:07.17,t
+5203207,VAN GORP,Clara,2008,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:07.17,t
+4804952,BOSSEMAN,Jessie,1987,F,BEL,Aalsters Swimming Team,1:07.18,t
+4804364,VAN DEN BERGHE,Lindsey,1990,F,BEL,Zwemclub Lorelei Londerzeel,1:07.18,t
+4303458,BENS,Aagje,1982,F,BEL,Geelse Zwemclub,1:07.18,t
+4306171,LANSSENS,Caitlin,1993,F,BEL,Dendermondse Zwemvereniging Ol,1:07.18,t
+4620636,RENERS,Chelsey,1998,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.18,t
+4481819,FARRUGGIA,Sandra,2001,F,BEL,Ronse Swimming Club,1:07.18,t
+4858937,DEBOUCK,Elena,2002,F,BEL,Izegemse Krekel Zwemmers,1:07.18,t
+4913534,MAES,Nora,2004,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.18,t
+4308507,BALDASSARRE,Laura,1999,F,BEL,Embourg Natation,1:07.19,t
+5210511,JEHAES,Tess,2006,F,BEL,Zwemclub De Kimpel Bilzen,1:07.19,t
+5584429,VANLANCKER,Ynthe,2011,F,BEL,Zwemclub De Dolfijnen Middelke,1:07.19,t
+5294371,VANRYCKEGHEM,Anette,2009,F,BEL,Iswim,1:07.19,t
+4804543,SPIRONELLO,Helene,1991,F,BEL,Cercle Royal De Natation De Br,1:07.20,t
+4805283,HARIGA,Aline,1989,F,BEL,Liege Natation,1:07.20,t
+5346787,VAN DEN BREMT,Sarah,2010,F,BEL,Aquarius Zwemclub Lebbeke,1:07.20,t
+5441261,BUYCK,Olivia,2010,F,BEL,Longchamp Swimming Club Uccle,1:07.20,t
+4065500,ADAM,Camille,1990,F,BEL,Club De Natation Bastogne,1:07.21,t
+4565951,VILZ,Adriana,2001,F,BEL,Ecole Saint-Vith Natation,1:07.21,t
+5268331,BIERINCKX,Mie,2012,F,BEL,Nijlense Zwemclub,1:07.21,t
+5427437,VAN HOUCKE,Imke,2011,F,BEL,Koninklijke Waregemse Zwemclub,1:07.21,t
+5169404,HOLLEVOET,Pauline,2006,F,BEL,Zwemclub De Dolfijnen Middelke,1:07.21,t
+4211581,VEN,Niala,1991,F,BEL,Geelse Zwemclub,1:07.22,t
+4308552,BOURYAL,Dounia,1993,F,BEL,Liege Mosan,1:07.22,t
+5089880,GROSSEN,Maila,2005,F,BEL,Zwemclub Schoten,1:07.22,t
+4995012,LEMMENS,Floriane,2005,F,BEL,Perron,1:07.22,t
+5389745,MEEUS,Febe,2007,F,BEL,Zwemclub Geel,1:07.22,t
+4305038,DE MAESSCHALK,Pepa,1991,F,BEL,Zwemclub Brabo Antwerpen,1:07.23,t
+4578969,DE KONINCK,Saartje,2000,F,BEL,Koninklijke Zwemclub Olympic A,1:07.23,t
+5006327,ROELS,Karlien,2005,F,BEL,Lokerse Zwemvereniging,1:07.23,t
+5002830,MAESEN,Roos,2005,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.23,t
+5098399,DE COOMAN,Gaelle,2004,F,BEL,Koninklijke Waregemse Zwemclub,1:07.23,t
+4884041,CAUCHIE,Juliette,2007,F,BEL,Belgium,1:07.23,t
+5478189,BOULOGNE,Hannah,2008,F,BEL,Aqua Club Braine L'Alleud,1:07.23,t
+5265892,LORTHIOIR,Lisa,2009,F,BEL,Ursus Zwemklub Zwevegem,1:07.23,t
+5422892,WAELPUT,Elodie,2010,F,BEL,Temse Schelde Zwemmers,1:07.23,t
+4690977,LAROCHE,Laurane,2001,F,BEL,Club De Natation Bastogne,1:07.24,t
+4804691,DEWYSPELAERE,Evelien,1991,F,BEL,Ursus Zwemklub Zwevegem,1:07.25,t
+4805175,DOSIMONT,Clemence,1990,F,BEL,Cercle De Natation Jodoignois,1:07.25,t
+4306065,KEULEERS,Anse,1995,F,BEL,Zwemclub Kapelle-O/D-Bos,1:07.25,t
+4302758,HEEREMANS,Astrid,1995,F,BEL,Koninklijke Zwemclub Neptunus,1:07.25,t
+4792508,BRUNELLI,Luana,1999,F,BEL,Barracuda Club Saint-Ghislain,1:07.25,t
+4726068,WEYTS,Maxine,2001,F,BEL,Swimming Team Waasland,1:07.25,t
+4988941,DE CARNE,Mila,2005,F,BEL,First (Flanders Inter Regio Sw,1:07.25,t
+5167322,BOGAERS,Elore,2006,F,BEL,Zwemclub Brabo Antwerpen,1:07.25,t
+5248633,GRUTMAN,Rose,2009,F,BEL,Waterloo Natation,1:07.25,t
+4225714,LENOIR,Talitha,1995,F,BEL,Gold Swimming Team,1:07.26,t
+4389526,FREUVILLE,Margot,1999,F,BEL,Ecole Seraing Natation,1:07.26,t
+4295906,CLEMENT,Sophie,1996,F,BEL,Zwemclub Brabo Antwerpen,1:07.26,t
+4907219,NASR,Sara,2004,F,BEL,Liege Natation,1:07.26,t
+5107619,HAGE,Birgit,2006,F,BEL,Kempisch Swimming Team,1:07.26,t
+5096425,VANDERBRUGGEN,Lena,2006,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:07.26,t
+4308200,DONCK,Eva,1998,F,BEL,First (Flanders Inter Regio Sw,1:07.27,t
+4393145,HEYERES,Pauline,2000,F,BEL,Royal Verviers Natation,1:07.27,t
+4200148,SILVERANS,Laura,1989,F,BEL,Swimming Club Strombeek-Grimbe,1:07.28,t
+4199809,FIERS,Lien,1992,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.28,t
+4295847,TERRIJN,Gill,1993,F,BEL,Zwemmen In Molenheide,1:07.28,t
+4295831,SCHOOFS,Kirsten,1996,F,BEL,Arvicola Zwemclub Kalmthout,1:07.28,t
+4139628,DE MEYER,Lise,1994,F,BEL,Arvicola Zwemclub Kalmthout,1:07.28,t
+4605638,VERWILT,Robine,1997,F,BEL,Shark,1:07.28,t
+4737919,KIEKENS,Femke,1999,F,BEL,Zwemclub Geel,1:07.28,t
+5067703,RONDEAU,Julie,2005,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.28,t
+5352933,VANHAESEBROECK,Marie-Eline,2009,F,BEL,Nijlense Zwemclub,1:07.28,t
+4304530,DUCHATEAU,Aurelie,1986,F,BEL,Royal Brussels Poseidon,1:07.29,t
+4304687,BRUGGEMAN,Elise,1993,F,BEL,Zwemclub Ter Borcht-Meulebeke,1:07.29,t
+4427657,NEYENS,Elise,2000,F,BEL,Shark,1:07.29,t
+5422816,MARCHAL,Lauraline,2011,F,BEL,Namur Olympic Club,1:07.29,t
+4805305,VIVILLE,Lynn,1990,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.30,t
+4169374,CLERMONT,Delphine,1991,F,BEL,Ecole De Natation Waremmienne,1:07.30,t
+5056623,BOUX,Jana,2004,F,BEL,Tiense Zwemmers,1:07.30,t
+5158915,DROESBEKE,Eline,2006,F,BEL,Swimming Team Aalter,1:07.30,t
+5177217,HAENTJENS,Yuna,2006,F,BEL,Swem Vrienden,1:07.30,t
+5472788,MEULEMEESTER,Nore,2011,F,BEL,Torhoutse Zwemklub Thor,1:07.30,t
+5595805,THIENPONDT,Nina,2012,F,BEL,TiMe Swimming Team,1:07.30,t
+5321454,VAN WAELDEREN,Hanne,2009,F,BEL,Westerlo Swimming Team,1:07.30,t
+4804399,THIERENS,Elke,1990,F,BEL,Swimming Team Waasland,1:07.31,t
+4981258,KEMPS,Elize,2011,F,BEL,Molse Zwemclub mozka,1:07.31,t
+4308733,FOUCART,Kelly,1997,F,BEL,Dilbeekse Zwemvereniging,1:07.32,t
+4330699,MARENNE,Amelie,1997,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:07.32,t
+4309182,VANHULLE,Shannon,1996,F,BEL,Koninklijke Brugse Zwem- & Red,1:07.32,t
+4689878,MAGREMANNE,Zoe,1999,F,BEL,Waterloo Natation,1:07.32,t
+5268091,FONTAINE,Chloe,2009,F,BEL,Waterloo Natation,1:07.32,t
+5496694,DE WITTE,Fien,2010,F,BEL,Groot Beverse Zwemclub,1:07.32,t
+4192415,GEENEN,Laura,1995,F,BEL,Molse Zwemclub mozka,1:07.33,t
+4200073,ROLAND,Olivia,1993,F,BEL,Cercle De Natation Sportcity W,1:07.33,t
+4804923,GOBERT,Sandrine,1987,F,BEL,Charleroi Helios Aqua Team,1:07.34,t
+4804877,TIELEMANS,Lize,1990,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.34,t
+4139858,DELSA,Rachel,1994,F,BEL,Chaudfontaine Thermale Natatio,1:07.34,t
+4368190,DUMON,Aurelie,1999,F,BEL,Shark,1:07.34,t
+4361262,BLANCKE,Hanne,1998,F,BEL,Zwemclub Brabo Antwerpen,1:07.34,t
+4478878,VAN BUGGENHOUT,Nel,2000,F,BEL,Zwemclub Kapelle-O/D-Bos,1:07.34,t
+5109171,HANKART,Valentine,2007,F,BEL,Liege Natation,1:07.34,t
+5180593,SOUVLERIS,Sofia,2010,F,BEL,Genker Zwemvereniging Neptunus,1:07.34,t
+5472776,DE TROYER,Elise,2010,F,BEL,Aalsters Swimming Team,1:07.34,t
+4804572,CHEZZI,Carmen,1988,F,BEL,De Beringse Tuimelaars,1:07.35,t
+4295861,VAN DAEL,Nele,1996,F,BEL,Zwemclub Geel,1:07.35,t
+4397933,LEUNIS,Amany,1999,F,BEL,Lokerse Zwemvereniging,1:07.35,t
+4610126,VAN LOMMEL,Tonia,2000,F,BEL,Shark,1:07.35,t
+4304347,GUERET,Aurore,1987,F,BEL,Swimming Club Rixensart,1:07.35,t
+5003040,POLET,Enora,2003,F,BEL,Val De Mehaigne Natation Wanze,1:07.35,t
+5177085,LEMAL,Alice,2005,F,BEL,Mons Hainaut Natation,1:07.35,t
+4305637,GEERITS,Valerie,1997,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.36,t
+4777821,VAN ROOY,Kato,1999,F,BEL,Koninklijke Zwemclub Olympic A,1:07.36,t
+5169356,DAENEN,Mette,2007,F,BEL,Genker Zwemvereniging Neptunus,1:07.36,t
+5002337,EVERAET,Esra,2005,F,BEL,Temse Schelde Zwemmers,1:07.36,t
+4804600,SWENNEN,Anneleen,1989,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.37,t
+4804791,DANEELS,Tamara,1988,F,BEL,Shark,1:07.37,t
+4805186,DROULEZ,Manon,1991,F,BEL,Cercle Royal De Natation De To,1:07.37,t
+4125248,HUBERTY,Pauline,1995,F,BEL,Longchamp Swimming Club Uccle,1:07.37,t
+4897327,VAN GORP,Lies,2003,F,BEL,Leuven Aquatics,1:07.37,t
+5363556,LODEWIJKS,Floor,2010,F,BEL,Lommelse Zwemvereniging de Lo,1:07.37,t
+5503415,HOTTINGER,Nyah,2010,F,BEL,Groot Beverse Zwemclub,1:07.37,t
+5425825,DRUWEL,Nora,2011,F,BEL,TiMe Swimming Team,1:07.37,t
+4936592,PRESENT,Annika,2004,F,BEL,Swimming Team Waasland,1:07.38,t
+5501453,VAN AERSCHOT,Nel,2011,F,BEL,Westerlo Swimming Team,1:07.38,t
+5487342,MELOTTE,Pia,2010,F,BEL,De Beringse Tuimelaars,1:07.38,t
+4347000,SIBENI,Lisa,1997,F,BEL,Castor Club De Mons,1:07.39,t
+4695411,LIMBIOUL,Marie,2001,F,BEL,Flipper Natation Club Saint-Ge,1:07.39,t
+5018050,DE BACKER,Marie,2004,F,BEL,Zwemclub Tieltse Zeeduivels,1:07.39,t
+5196471,PARMENTIER,Marie-Julie,2006,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.39,t
+4907216,BALDO,Kyliane,2002,F,BEL,Ecole Seraing Natation,1:07.40,t
+4579946,VISEE,Chloe,2001,F,BEL,Barracuda Club Saint-Ghislain,1:07.40,t
+4812899,BOFFIN,Lise,2001,F,BEL,Brabant East Swimming Team,1:07.40,t
+5089889,HOLLEVOET,Lise,2004,F,BEL,Swimming Team Zennevallei,1:07.40,t
+5137697,VAN DEN BERGHE,Lise,2006,F,BEL,Swimming Team Zennevallei,1:07.40,t
+5288770,DECLERCQ,Margarita,2009,F,BEL,Izegemse Krekel Zwemmers,1:07.40,t
+5334410,MALBECQ,Amandine,2008,F,BEL,Ms-Team,1:07.40,t
+4330182,CRABBE,Colette,1956,F,BEL,Cercle De Natation Sportcity W,1:07.41M,t
+5500798,ZUIDEVELD,Maria,2011,F,BEL,Csc La Calamine Neu-Moresnet,1:07.41,t
+4304894,DAELEMANS,Florence,1988,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.42,t
+4805312,SAINLEZ,Estelle,1990,F,BEL,Natation Club Athus,1:07.42,t
+4170680,VAN DEN BROECK,Ellen,1991,F,BEL,Dendermondse Zwemvereniging Ol,1:07.42,t
+5070469,BECKERS,Manon,2006,F,BEL,Brabant East Swimming Team,1:07.42,t
+4199826,LUYCKX,Kim,1991,F,BEL,Zwemclub olma Turnhout,1:07.43,t
+4305168,DECAESTECKER,Karen,1992,F,BEL,Dendermondse Zwemvereniging Ol,1:07.43,t
+4305597,FRAPICCINI,Marine,1997,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.43,t
+4772770,BOURYAL,Nora,2000,F,BEL,Liege Mosan,1:07.43,t
+4748270,SCHOTTE,Ann-Sophie,1998,F,BEL,Iswim,1:07.43,t
+4900533,LEGROS,Diana,2002,F,BEL,Royal Verviers Natation,1:07.43,t
+5200810,STARINK,Rilou,2006,F,BEL,Koninklijke Brugse Zwem- & Red,1:07.43,t
+4417681,LIEKENS,Lindsay,2005,F,BEL,Heistse Zwemclub Arduas,1:07.43,t
+5519616,HELLEBAUT,Daphne,2009,F,BEL,Longchamp Swimming Club Uccle,1:07.43,t
+4139848,BAYET,Celine,1993,F,BEL,Cercle Des Dauphins Courcelloi,1:07.44,t
+4695383,HUYGHEBAERT,Leone,1999,F,BEL,Cercle De Natation Sportcity W,1:07.44,t
+5076006,ZELLER,Alexandra,2001,F,BEL,Namur Olympic Club,1:07.44,t
+5099261,STAAL,Monia,2005,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:07.44,t
+5300564,DE BEYS,Valentine,2008,F,BEL,Waterloo Natation,1:07.44,t
+4307622,VAN GUCHT,Hanneke,1990,F,BEL,Zwemclub Kapelle-O/D-Bos,1:07.45,t
+4199985,GERMIS,Marie,1995,F,BEL,Zwemclub Brabo Antwerpen,1:07.45,t
+4491316,HAEGEMANS,Fin,1999,F,BEL,Zwemclub Tremelo,1:07.45,t
+4308650,DE WITTE,Emma,1997,F,BEL,Dilbeekse Zwemvereniging,1:07.45,t
+5092549,CLOET,Felien,2006,F,BEL,Royal Ypres Swimming Club,1:07.45,t
+5017941,VANDERLINDEN,Eline,2004,F,BEL,Swimming Club Strombeek-Grimbe,1:07.45,t
+4804634,TRUYENS,Ellen,1988,F,BEL,Dendermondse Zwemvereniging Ol,1:07.46,t
+4074314,DELBEKE,Gabrielle,1992,F,BEL,Zwemclub S.O.S.,1:07.46,t
+5243732,VAN RAEMDONCK,Hayley,2007,F,BEL,Groot Beverse Zwemclub,1:07.46,t
+5199682,CORNELIS,Kato,2006,F,BEL,Genker Zwemvereniging Neptunus,1:07.46,t
+5484458,MEEREMANS,Emma,2009,F,BEL,Zwemclub ZIOS Liedekerke,1:07.46,t
+5493797,ANRAED,Camille,2011,F,BEL,TiMe Swimming Team,1:07.46,t
+4393232,NUYTS,Xanthe,1999,F,BEL,Zwemclub Brabo Antwerpen,1:07.47,t
+5199675,SCHUTJES,Lieselotte,2003,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.47,t
+4971969,VAN THORRE,Hanne,2004,F,BEL,First (Flanders Inter Regio Sw,1:07.47,t
+5346658,CHRISTIAENS,Camille,2010,F,BEL,Perron,1:07.47,t
+4200166,VAN SINAY,Elien,1990,F,BEL,Shark,1:07.48,t
+4199929,MARIN,Sarah,1994,F,BEL,Cercle De Natation Sportcity W,1:07.48,t
+4199865,KENNIS,Kayleigh,1993,F,BEL,Zwemclub Kapelle-O/D-Bos,1:07.48,t
+4307150,SCHREURS,Linde,1993,F,BEL,Brabant East Swimming Team,1:07.48,t
+4421172,BEGA,Kamila,1997,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:07.48,t
+4355404,KETELSLEGERS,Lien,1997,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.48,t
+5555475,PUT,Fien,2012,F,BEL,De Beringse Tuimelaars,1:07.48,t
+4305613,GAILLET,Emilie,1989,F,BEL,Cercle Royal De Natation De To,1:07.49,t
+5092506,ABARCA,Mare,2005,F,BEL,Kempisch Swimming Team,1:07.49,t
+5596523,LOOS,Loesha,2008,F,BEL,Zwemclub Maasmechelen,1:07.49,t
+4272307,VAN DER MEERSCH,Jorien,1992,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.50,t
+4805090,BUVE,Carolien,1991,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:07.50,t
+4308055,VOETS,Elke,1996,F,BEL,Dendermondse Zwemvereniging Ol,1:07.50,t
+5001409,ENGELEN,Emma,2004,F,BEL,Heistse Zwemclub Arduas,1:07.50,t
+4272302,VANDEPUTTE,Debby,1986,F,BEL,Deerlijkse Zwemvereniging,1:07.51,t
+4295817,DESAUSOI,Morgane,1995,F,BEL,Swimming Club Rixensart,1:07.51,t
+4924735,LINGIER,Loes,2004,F,BEL,Koninklijke Brugse Zwem- & Red,1:07.51,t
+4827974,SWAANS,Jana,2002,F,BEL,Kempisch Swimming Team,1:07.51,t
+5317376,AERTS,Louise,2009,F,BEL,Hoogstraten Zwemteam,1:07.51,t
+4295814,ROBERT,Marie,1994,F,BEL,Embourg Natation,1:07.52,t
+5585441,LAUREYS,Xante,2010,F,BEL,Westerlo Swimming Team,1:07.52,t
+4295919,TACK,Bieke,1992,F,BEL,Zwemclub Brabo Antwerpen,1:07.55,t
+4695370,MODZELEWSKA,Dominika,1998,F,BEL,Braine L'alleud Aqua College,1:07.55,t
+5281116,OZORIO,Romina,1985,F,BEL,Zwemclub Iloka Kapellen,1:07.55M,t
+5343769,HUISMAN,Laura,2007,F,BEL,Waterloo Natation,1:07.55,t
+5470099,DUMONT,Mila,2009,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.55,t
+5559432,DEPUYDT,Hasse,2009,F,BEL,Izegemse Krekel Zwemmers,1:07.55,t
+4303604,MATHIJS,Karen,1981,F,BEL,Belgium,1:07.56,t
+4185212,UYTTERSPROT,Katrien,1991,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.56,t
+4225727,BLOQUIAU,Amelie,1992,F,BEL,Val De Mehaigne Natation Wanze,1:07.56,t
+5346669,MERTENS-GOOSSENS,Milena,2007,F,BEL,Swimming Club Rixensart,1:07.56,t
+4804622,DE SMET,Julie,1990,F,BEL,Ecole Seraing Natation,1:07.57,t
+4199824,BOLCKMANS,Leen,1991,F,BEL,Zwemclub olma Turnhout,1:07.57,t
+4305815,HAYON,Gwendoline,1988,F,BEL,Squalus Fleurusien,1:07.57,t
+5199687,VANGEEL,Emily,2006,F,BEL,Genker Zwemvereniging Neptunus,1:07.57,t
+5251354,HESSENS,Aurelie,2009,F,BEL,Nautic Club Herve,1:07.57,t
+4821555,BARRAGAN,Nena,2010,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.57,t
+5473057,CASTILLO RONQUILLO,Arita Brithany,2008,F,BEL,Peltse Zwemclub,1:07.57,t
+5017424,JANDRAIN,Claire,2002,F,BEL,Perron,1:07.57,t
+4996086,FEYS,Farah,2011,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.57,t
+5353765,PILLET,Annelies,2008,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.57,t
+5504221,MAES,Leonie,2012,F,BEL,Peltse Zwemclub,1:07.57,t
+5169380,BOUTTIQUE,Marie,2004,F,BEL,Les Espadons Cominois,1:07.58,t
+4085686,DETHIER,Perrine,1988,F,BEL,Liege Mosan,1:07.59,t
+4731888,TOUIL,Yasmin,2000,F,BEL,Aquarius Zwemclub Lebbeke,1:07.59,t
+4951759,GILS van,Evi,2003,F,BEL,Belgium,1:07.59,t
+5088706,PERSOONS,Jana,2004,F,BEL,Flemish Ardennes Swimming Team,1:07.59,t
+5583611,LIESENS,Miet,2009,F,BEL,Zwemclub De Kimpel Bilzen,1:07.59,t
+5199477,DESMET,Xyla,2006,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.60,t
+4917655,SUTHERLAND,Sara,2004,F,BEL,Kempisch Swimming Team,1:07.60,t
+5384559,GHISLAIN,Juliette,2009,F,BEL,Swimming Team Zennevallei,1:07.60,t
+5281089,VERCOUILLIE,Romy,2008,F,BEL,Zwemclub Ter Borcht-Meulebeke,1:07.60,t
+4139820,VERSTRAETE,Lynn,1994,F,BEL,Zwemclub Tieltse Zeeduivels,1:07.61,t
+4821308,BEAUFORT,Heloise,2006,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:07.61,t
+5331639,BOEYKENS,Anna,2008,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.61,t
+4199956,DE VLEESCHAUWER,Julia,1990,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.62,t
+4200156,DIELTJENS,Elise,1995,F,BEL,Shark,1:07.62,t
+4582968,VANRYCKEGHEM,Lotte,1997,F,BEL,Zwemvereniging Wetthra Wettere,1:07.62,t
+4729511,UYTTERSPROT,Leen,1999,F,BEL,Dendermondse Zwemvereniging Ol,1:07.62,t
+4307535,VAN DEN BERGH,Paulien,1996,F,BEL,Zwemclub Lorelei Londerzeel,1:07.63,t
+4138275,DUCOBU,Sarah,1989,F,BEL,Belgium,1:07.64,t
+4304256,ANTONNEAU,Emma,1994,F,BEL,Zwemclub Tremelo,1:07.64,t
+5422891,VINCK,Elise,2008,F,BEL,Groot Beverse Zwemclub,1:07.64,t
+4439486,DEVOLDERE,Eline,1996,F,BEL,Zwemclub Ter Borcht-Meulebeke,1:07.65,t
+4779161,SCHELLES,Nina,1990,F,BEL,Zwemclub Geel,1:07.65,t
+5522634,BAYENS,Nina,2012,F,BEL,Zwemclub De Kikkertjes Ninove,1:07.65,t
+4074506,LEYSEN,Liesbeth,1990,F,BEL,Shark,1:07.66,t
+4307843,VANHEVEL,Lieselot,1990,F,BEL,Zwemclub Ter Borcht-Meulebeke,1:07.66,t
+4334612,BONNE,Esther,1999,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.66,t
+4893044,JAMOTTE,Elise,2003,F,BEL,Ecole De Natation Waremmienne,1:07.66,t
+4936996,KIRCH,Lina,2002,F,BEL,Schwimmverein Delphin Eupen,1:07.66,t
+5356779,STAS,Elea,2010,F,BEL,Liege Natation,1:07.66,t
+4200143,BASTAERTS,Charlotte,1989,F,BEL,Swimming Club Strombeek-Grimbe,1:07.67,t
+4462574,VAN DER LAAN,Jessica,1998,F,BEL,Belgium,1:07.67,t
+5075914,COVEMAEKER,Amelie,2005,F,BEL,Iswim,1:07.67,t
+5564612,VERRET,Julie,2012,F,BEL,Zwemclub Schoten,1:07.67,t
+4306629,MOOS,Vanessa,1989,F,BEL,Ecole Seraing Natation,1:07.68,t
+4805066,SEMPELS,Joke,1987,F,BEL,Swimming Team Tienen,1:07.68,t
+4250720,BOURDOUX,Ines,1991,F,BEL,Embourg Natation,1:07.68,t
+4308064,VOS,Gigi,1995,F,BEL,Zwemclub Tremelo,1:07.68,t
+4299623,CHELLAF,Nawal,1994,F,BEL,Gosselies Aqua Club,1:07.68,t
+4426664,VENUTI,Camille,1996,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.68,t
+4954131,VERSTAPPEN,Evie,2000,F,BEL,Swimming Club Strombeek-Grimbe,1:07.68,t
+4429473,PEERE,Erin,2000,F,BEL,Royal Ostend Swimming Club,1:07.68,t
+5089918,LAUREYNS,Shannen,2002,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.68,t
+5067699,HAUTENAUVE,Julie,2005,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.68,t
+5346802,BOEYKENS,Emma,2009,F,BEL,Kempisch Swimming Team,1:07.68,t
+4307787,VANDENWEYER,Stefanie,1989,F,BEL,Molse Zwemclub mozka,1:07.69,t
+4304839,CORMANN,Griseldis,1989,F,BEL,Csc La Calamine Neu-Moresnet,1:07.69,t
+4306401,MAES,Tina,1988,F,BEL,Koninklijke Vilvoordse Zwemclu,1:07.69,t
+4139649,COUCKE,Nele,1994,F,BEL,Koninklijke Brugse Zwem- & Red,1:07.69,t
+4306806,PEETERS,Jodie,1996,F,BEL,Barracuda Club Saint-Ghislain,1:07.69,t
+4309052,THEUNISSEN,Laurie-Anne,1996,F,BEL,Liege Natation,1:07.69,t
+5024884,DE KETELAERE,Emma,2000,F,BEL,Koninklijke Zwemclub White Sta,1:07.69,t
+4621411,VAN DE WEYER,Yoni,2001,F,BEL,Westerlo Swimming Team,1:07.69,t
+5047578,VAN BREE,Fiona,2003,F,BEL,Molse Zwemclub mozka,1:07.69,t
+5389073,DEPOORTERE,Lara,2005,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.69,t
+5430516,PRIOUX,Maelie,2010,F,BEL,Cercle Royal De Natation De To,1:07.69,t
+4697221,BERTEE,Charline,2008,F,BEL,Mons Hainaut Natation,1:07.69,t
+4225729,THYS,Alexandra,1995,F,BEL,Val De Mehaigne Natation Wanze,1:07.70,t
+4295853,OP 'T ROODT,Kirstin,1996,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.70,t
+5317373,VAN PUYVELDE,Emma,2008,F,BEL,Groot Beverse Zwemclub,1:07.70,t
+5519921,RAMBOUR,Elyne,2009,F,BEL,Koninklijke Waregemse Zwemclub,1:07.70,t
+4308145,WINKELMANS,Elke,1987,F,BEL,Dendermondse Zwemvereniging Ol,1:07.71,t
+4565981,VERBRUGGEN,Laurine,1997,F,BEL,Koninklijke Zwemclub Neptunus,1:07.71,t
+4487341,RADERMACHER,Nancy,1999,F,BEL,Schwimmverein Delphin Eupen,1:07.71,t
+4682528,SNIEDERS,Margaux,1999,F,BEL,Koninklijke Zwemclub Olympic A,1:07.71,t
+4924747,D'HAUWER,Frauke,2004,F,BEL,De Beringse Tuimelaars,1:07.71,t
+4804383,VERLEYE,Julie,1989,F,BEL,Royal Brussels Poseidon,1:07.72,t
+4731866,SCARCEZ,Julie,2000,F,BEL,Castor Club De Mons,1:07.72,t
+5322790,WILLEMYNS,Marie-Lou,2010,F,BEL,Cercle Royal De Natation De To,1:07.73,t
+4804513,HANOT,Emilie,1989,F,BEL,Charleroi Helios Aqua Team,1:07.74,t
+4304871,CRIKEMANS,Hanne,1989,F,BEL,Zwemclub Brabo Antwerpen,1:07.74,t
+4199790,LAMOTE,Lara,1989,F,BEL,Flanders Coast Swimmingteam,1:07.74,t
+4306443,MAREELS,Ella,1996,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.74,t
+5384427,LECLERCQ,Aline,2010,F,BEL,Cercle Royal De Natation De To,1:07.74,t
+4307343,TEMMERMAN,Annelies,1988,F,BEL,First (Flanders Inter Regio Sw,1:07.75,t
+4012095,DENEUBOURG,Lea,2001,F,BEL,Waterloo Natation,1:07.75,t
+5209380,LOUIS,Emelyne,2008,F,BEL,Cercle Royal De Natation De Huy,1:07.75,t
+4305477,DUPAN,Sigrid,1987,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.76,t
+4305748,GRAVENHORST,Maude,1988,F,BEL,Waterloo Natation,1:07.76,t
+4307979,VERLINDEN,Lore,1996,F,BEL,De Beringse Tuimelaars,1:07.76,t
+4893038,BESEME,Berenice,1999,F,BEL,Charleroi Helios Aqua Team,1:07.76,t
+4211576,HUYSMANS,Febe,1990,F,BEL,Geelse Zwemclub,1:07.77,t
+4199846,VAN DE VELDE,Elly,1995,F,BEL,Zwemclub Brabo Antwerpen,1:07.77,t
+5137992,VERBIST,Flore,2006,F,BEL,Shark,1:07.77,t
+5420976,MALYSSE,Lotte,2006,F,BEL,Gold Swimming Team,1:07.77,t
+5757801,LIBBRECHT,Zoe,2012,F,BEL,Ursus Zwemklub Zwevegem,1:07.77,t
+5012107,JEHAES,Minne,2004,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:07.78,t
+5177065,BURET,Adele,2006,F,BEL,Cercle Royal De Natation De To,1:07.78,t
+5281073,DERISON,Noor,2007,F,BEL,Zwemclub De Kimpel Bilzen,1:07.78,t
+4304223,ADAMS,Julie,1995,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.79,t
+5349875,VAN BARNEVELD,Kaat,2008,F,BEL,Koninklijke Brugse Zwem- & Red,1:07.79,t
+4225731,VAN DYCK,Yana,1994,F,BEL,Zwemclub Tremelo,1:07.80,t
+4741077,BAUWENS,Amandine,1996,F,BEL,Royal Verviers Natation,1:07.80,t
+4874773,ROTS,Lore,2002,F,BEL,Aalsters Swimming Team,1:07.80,t
+4308616,DE DONDER,Jolien,1996,F,BEL,Swimming Club Strombeek-Grimbe,1:07.81,t
+4331724,NAMGERD,Phattarawarin,1998,F,BEL,Shark,1:07.81,t
+4907221,DULIEU,Leontine,2001,F,BEL,Namur Olympic Club,1:07.81,t
+5177192,VANHEES,Laura,2006,F,BEL,Genker Zwemvereniging Neptunus,1:07.81,t
+4804775,BACQUAERT,Alice,1989,F,BEL,Orca Natation Soignies,1:07.82,t
+4305627,GAVRIILAKIS,Alicia,1995,F,BEL,Genker Zwemvereniging Neptunus,1:07.82,t
+4394953,ROLAND,Adeline,1994,F,BEL,Espadon Leuze Natation,1:07.82,t
+4980858,JACOBS,Roxanne,2010,F,BEL,Zwemclub Kapelle-O/D-Bos,1:07.82,t
+5363560,CARLIER,Alice,2009,F,BEL,Flemish Ardennes Swimming Team,1:07.82,t
+4308206,VAN DEN BOSSCHE,Charlotte,1997,F,BEL,First (Flanders Inter Regio Sw,1:07.83,t
+5496685,BUYLE,Laure,2011,F,BEL,Swimming Team Aalter,1:07.83,t
+4139911,CASTRONOVO,Fiona,1994,F,BEL,Embourg Natation,1:07.84,t
+4199793,SEYNAEVE,Laura,1994,F,BEL,Royal Ostend Swimming Club,1:07.84,t
+4897290,HAESAERT,Isabeau,2003,F,BEL,Koninklijke Brugse Zwem- & Red,1:07.84,t
+5097009,BODE,Sara,2006,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.84,t
+4304392,BOLEN,Marie,1997,F,BEL,Cercle De Natation Jodoignois,1:07.85,t
+5043523,SOENEN,Manon,2004,F,BEL,Royal Ypres Swimming Club,1:07.85,t
+4805213,CHAPELLE,Orlane,1992,F,BEL,Embourg Natation,1:07.86,t
+4199804,BRAL,Tabitha,1995,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.86,t
+4307577,VAN DER MOLEN,Lisa,1997,F,BEL,Lommelse Zwemvereniging de Lo,1:07.86,t
+4877830,DEVUYST,Oona,2013,F,BEL,Royal Ostend Swimming Club,1:07.86,t
+4804534,ABLAY,Aurelie,1991,F,BEL,Cercle Royal De Natation De Br,1:07.87,t
+4200025,PALMEN,Deborah,1991,F,BEL,Zoro,1:07.87,t
+5139126,GAVRAY,Zoe,2005,F,BEL,Perron,1:07.87,t
+5346829,DEJONCKHEERE,Merel,2007,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.87,t
+4805203,AWOUTERS,Liss,1991,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.88,t
+4255139,MEDARTS,Tamara,1994,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.88,t
+5251384,ARNOULD,Nora,2005,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.88,t
+4305483,DUQUENNE,Isabelle,1985,F,BEL,Aquarius Zwemclub Lebbeke,1:07.89,t
+4199856,DEKREM,Jasmina,1989,F,BEL,Torhoutse Zwemklub Thor,1:07.89,t
+4199937,HAUWAERT,Manon,1991,F,BEL,Dilbeekse Zwemvereniging,1:07.89,t
+4139835,LEVEQUE,Emilie,1995,F,BEL,Mons Hainaut Natation,1:07.89,t
+5558568,DELEERS,Lison,2009,F,BEL,Swimming Club Rixensart,1:07.90,t
+5342051,SERGANT,Klara,2006,F,BEL,Molse Zwemclub mozka,1:07.90,t
+4805201,LECHEVIN,Adeline,1994,F,BEL,Royal Dauphins Mouscronnois,1:07.91,t
+4304528,DEPRETER,Vickie,1987,F,BEL,Castor Club De Mons,1:07.91,t
+4308144,WINKELMANS,Anke,1992,F,BEL,Dendermondse Zwemvereniging Ol,1:07.91,t
+4309016,SCHOOFS,Janna,1993,F,BEL,Lommelse Zwemvereniging de Lo,1:07.91,t
+4799254,PORRINI,Alyssa,2003,F,BEL,Club De Natation Bastogne,1:07.91,t
+5097213,PEREIRA PORTELA,Alicia,2005,F,BEL,Ecole Seraing Natation,1:07.91,t
+5057715,SCHUTJES,Marie,2005,F,BEL,Lommelse Zwemvereniging de Lo,1:07.91,t
+5259517,GILLAIN,Gabrielle,2008,F,BEL,Liege Mosan,1:07.91,t
+4306834,PERRET,Celia,1993,F,BEL,Dison Welkenraedt Swimming Tea,1:07.92,t
 4362860,DUMONT,Valentine,2000,F,BEL,Namur Olympic Club,53.36,t
+4302764,VAN BOXELAERE,Mieke,1994,F,BEL,Zuidlede Zwemmers,1:07.92,t
+4940410,D'ATTOMA,Claire,1999,F,BEL,Zoro,1:07.92,t
+5097211,GASSANOVA,Mickaela,2004,F,BEL,Ecole Seraing Natation,1:07.92,t
+5210557,DESMET,Marie,2008,F,BEL,TiMe Swimming Team,1:07.92,t
+4307934,VERCAUTEREN,Laura,1993,F,BEL,Swimming Team Waasland,1:07.93,t
+4306410,MAHOUX,Madeleine,1995,F,BEL,CNC Les Flippers Ciney,1:07.93,t
+4308207,VAN RENTERGHEM,Marilyn,1998,F,BEL,First (Flanders Inter Regio Sw,1:07.93,t
+4842501,LINGIER,Jeffe,2003,F,BEL,Royal Ostend Swimming Club,1:07.93,t
+4302736,VAN DIJCK,Sandy,1987,F,BEL,Swimming Club Strombeek-Grimbe,1:07.94,t
+4308933,OP DE BEECK,Pia,1990,F,BEL,Brabant East Swimming Team,1:07.94,t
+4185167,DE LEERSNIJDER,Laetitia,1992,F,BEL,Deerlijkse Zwemvereniging,1:07.94,t
+4608382,VAN SCHOONLANDT,Julie,2000,F,BEL,Tiense Zwemmers,1:07.94,t
+4825717,LESSAGE,Marie,2003,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.94,t
+5169374,VLEKKEN,Elise,2005,F,BEL,Zwemclub De Kimpel Bilzen,1:07.94,t
+4971927,LIMPENS,Jutta,2006,F,BEL,First (Flanders Inter Regio Sw,1:07.94,t
+4332221,BURM,Sarah,1994,F,BEL,Genker Zwemvereniging Neptunus,1:07.95,t
+4192407,VAN WESEL,Jill,1994,F,BEL,Brabant East Swimming Team,1:07.95,t
+4305891,HOLVOET,Shana,1993,F,BEL,Koninklijke Waregemse Zwemclub,1:07.95,t
+4305918,HUBERT,Mado,1996,F,BEL,Mons Hainaut Natation,1:07.95,t
+4308502,BAERT,Sara,1998,F,BEL,Swimming Club Zaventem,1:07.95,t
+5559434,GOEMAERE,Alizee,2009,F,BEL,Bruinvissen Diksmuide,1:07.95,t
+4305839,HENKENS,Kristel,1989,F,BEL,Belgium,1:07.96,t
+4262652,RIZZOLI,Elodie,1996,F,BEL,Cercle Royal De Natation Arlonais,1:07.96,t
+4427707,SEGAERT,Margaux,2000,F,BEL,Bruinvissen Diksmuide,1:07.96,t
+4895737,JANS,Lien,2003,F,BEL,De Beringse Tuimelaars,1:07.96,t
+4441047,DIETENS,Noemie,1995,F,BEL,Dauphin Grace-Hollogne Natatio,1:07.97,t
+4935627,ZEKRI,Nisrine,2005,F,BEL,Zwemclub Brabo Antwerpen,1:07.97,t
+4139725,VANDENBERK,Dorien,1992,F,BEL,Lommelse Zwemvereniging de Lo,1:07.98,t
+4334609,VYNCKE,Eline,1998,F,BEL,First (Flanders Inter Regio Sw,1:07.98,t
+5067700,LEEMANS,Lucie,2005,F,BEL,Entente Des Nageurs Louvierois Natation,1:07.98,t
+4980122,HEYMANS,Alissia,2001,F,BEL,Cercle De Natation Sportcity W,1:07.99,t
+5169359,BOUCHAFRATI,Noa,2005,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.99,t
+5137991,JONCKHEERE,Janne,2006,F,BEL,Nijlense Zwemclub,1:07.99,t
+4199931,SEMKULEY,Courtney,1990,F,BEL,Cercle De Natation Sportcity W,1:08.00,t
+4361329,RUBBRECHT,Sofie,1995,F,BEL,Lommelse Zwemvereniging de Lo,1:08.00,t
+4425415,WIELS,Lieselotte,2000,F,BEL,First (Flanders Inter Regio Sw,1:08.00,t
+5159001,JONCKHEERE,Nelle,2006,F,BEL,Nijlense Zwemclub,1:08.00,t
+4225702,SEGERS,Laura,1992,F,BEL,Zwemvereniging De Meerkoet Bre,1:08.01,t
+4299600,VAN HOUTVINCK,Rebecca,1996,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:08.01,t
+4946798,DETREZ,Isabelle,2002,F,BEL,Koninklijke Hasseltse Zwemvere,1:08.01,t
+5199417,DE SAEGER,Heleen,2007,F,BEL,Aalsters Swimming Team,1:08.01,t
+5259514,POLITANO,Christina,2007,F,BEL,Perron,1:08.01,t
+5346796,LIETAERT,Ole,2007,F,BEL,Koninklijke Waregemse Zwemclub,1:08.01,t
+4805150,LEFEVRE,Manon,1992,F,BEL,Cercle Des Dauphins Courcelloi,1:08.02,t
+5165414,LIBBRECHT,Emma,2006,F,BEL,Koninklijke Kortrijkse Zwemkri,1:08.02,t
+5169388,CHAI,Kai Ye,2006,F,BEL,Leuven Aquatics,1:08.02,t
+4417601,BEKAERT,Lies,2008,F,BEL,Dilbeekse Zwemvereniging,1:08.02,t
+4307463,VALKENAERS,Lore,1987,F,BEL,Brabant East Swimming Team,1:08.03,t
+4200097,VAN DER VEKEN,Jana,1990,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:08.03,t
+4200168,VERHEYEN,Evelien,1991,F,BEL,Shark,1:08.03,t
+4304541,PAULUS,Geraldine,1990,F,BEL,Royal Verviers Natation,1:08.03,t
+4620666,JANSEN,Rochella,1997,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:08.03,t
+4315119,VAN DEN BROECK,Lien,1998,F,BEL,Zwemclub Tremelo,1:08.03,t
+5005284,UBACHS,Ruth,2002,F,BEL,Zwemclub Maasmechelen,1:08.03,t
+5213284,DIELS,Hanne,2008,F,BEL,Nijlense Zwemclub,1:08.03,t
+4074329,PEETERS,Kelly,1988,F,BEL,First (Flanders Inter Regio Sw,1:08.04,t
+4804686,VANDENDWIJE,Marissa,1988,F,BEL,Koninklijke Hasseltse Zwemvere,1:08.04,t
+4305762,GUILLAMIN,Maeva,1992,F,BEL,Dison Welkenraedt Swimming Tea,1:08.04,t
+4199943,SMET,Ester,1993,F,BEL,Dilbeekse Zwemvereniging,1:08.04,t
+4308142,WINDELS,Laure,1997,F,BEL,Gold Swimming Team,1:08.04,t
+4897280,DESAEVER,Emma,2003,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:08.04,t
+4173193,EVERAERT,Lisa,2008,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:08.04,t
+4306720,NULLENS,Tine,1990,F,BEL,Zwemvereniging De Meerkoet Bre,1:08.05,t
+4305937,HUYGE,Sharon,1989,F,BEL,Verenigde Willebroekse Zwemclu,1:08.05,t
+4358131,SMAGGHE,Mathilde,1997,F,BEL,Gold Swimming Team,1:08.05,t
+4929131,HILGER,Estelle,2004,F,BEL,Ecole Saint-Vith Natation,1:08.05,t
+4814976,BOSMANS,Fleur,2002,F,BEL,Zwemclub Kapelle-O/D-Bos,1:08.05,t
+5477319,VAN LIERDE,Lana,2007,F,BEL,Zwemclub ZIOS Liedekerke,1:08.05,t
+5485754,TOUQUET,Eline,2012,F,BEL,Swimming Club Wauterbos Rode,1:08.05,t
+4804724,VERDICKT,Inge,1989,F,BEL,Zwemclub Lorelei Londerzeel,1:08.06,t
+4306688,NIEUWKOOP,Heidi,1997,F,BEL,Lommelse Zwemvereniging de Lo,1:08.06,t
+4305648,GENNEN,Sarah,1981,F,BEL,Ecole Saint-Vith Natation,1:08.06M,t
+4797580,GAVRIILAKIS,Melanie,2002,F,BEL,Genker Zwemvereniging Neptunus,1:08.06,t
+5279025,AERTS,Oceane,2008,F,BEL,Ecole Seraing Natation,1:08.06,t
+4804460,GILLIS,Lien,1990,F,BEL,Zwemclub Brabo Antwerpen,1:08.07,t
 5004097,VANOTTERDIJK,Roos,2005,F,BEL,Zwemvereniging De Meerkoet Bre,54.71,t
 5004590,DELCOMMUNE,Zinke,2005,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,55.19,t
 4805095,VERMEYLEN,Jolien,1994,F,BEL,Brabant East Swimming Team,56.94,t
@@ -1024,12 +3175,174 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5281025,VANGAMPELAERE,Laura,2008,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:01.07,t
 4304709,CANTAMESSA,Roxane,1997,F,BEL,Val De Mehaigne Natation Wanze,1:01.21,t
 5317910,VAN HAVENBERGH,Lies,2007,F,BEL,Arvicola Zwemclub Kalmthout,1:02.71,t
+4306307,LIETAERT,Eline,1988,F,BEL,Koninklijke Kortrijkse Zwemkri,1:08.07,t
+4139724,NIEUWKOOP,Mieke,1995,F,BEL,Lommelse Zwemvereniging de Lo,1:08.07,t
+4074375,MINNEBO,Kijlie,1990,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:08.08,t
+4307712,VAN SIMAEY,Lien,1988,F,BEL,Swimming Team Zennevallei,1:08.08,t
+4246966,HELIN,Alexandra,1994,F,BEL,Longchamp Swimming Club Uccle,1:08.08,t
+4306335,LOEMAN,Aphaya,1996,F,BEL,Zwemclub Tremelo,1:08.08,t
+4630878,DEFAWES,Shirley,1997,F,BEL,Ecole De Natation Waremmienne,1:08.08,t
+4687386,AERNOUTS,Maartje,2005,F,BEL,Arvicola Zwemclub Kalmthout,1:08.08,t
+5278485,MEERS,Lien,2008,F,BEL,Koninklijke Hasseltse Zwemvere,1:08.08,t
+4307834,VANHAUWAERT,Jasmien,1991,F,BEL,Koninklijke Kortrijkse Zwemkri,1:08.09,t
+4170679,DECLERCQ,Astrid,1991,F,BEL,Aquarius Zwemclub Lebbeke,1:08.09,t
+4307139,SCHOONJANS,Wesly,1998,F,BEL,Swimming Club Strombeek-Grimbe,1:08.09,t
+4340385,SWANNET,Laura,1999,F,BEL,Kempisch Swimming Team,1:08.09,t
+4878971,BOITS,Raven,2002,F,BEL,Zwemclub Brabo Antwerpen,1:08.09,t
+5181814,STEEN,Luca,2004,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:08.09,t
+4308048,VLEMINX,Sara,1997,F,BEL,Zwemclub Beringen-Mijn,1:08.10,t
+4331875,JACOBS,Selina,1998,F,BEL,Zwemclub Brabo Antwerpen,1:08.10,t
+4295983,CASTAIGNE,Justine,1996,F,BEL,Cercle Royal De Natation Arlonais,1:08.10,t
+4563587,CACQUAERT,Morgan,1999,F,BEL,De Dolfijnen Zwemclub Zomergem,1:08.10,t
+4308719,EGEE,Ambre,1987,F,BEL,Koninklijke Vilvoordse Zwemclu,1:08.11,t
+4199800,REMANS,Kelly,1991,F,BEL,Genker Zwemvereniging Neptunus,1:08.11,t
+4788714,MESTDAG,Hannah,2002,F,BEL,Koninklijke Zwemclub Neptunus,1:08.11,t
+4308727,FERYN,Jelke,1991,F,BEL,Zwemclub Lorelei Londerzeel,1:08.12,t
+4565987,VAN HOREN,Tilde,1999,F,BEL,Koninklijke Zwemclub Neptunus,1:08.12,t
+4690210,DERISON,Femke,2000,F,BEL,Koninklijke Hasseltse Zwemvere,1:08.12,t
+4610098,VAN GENECHTEN,Anouk,2000,F,BEL,Shark,1:08.12,t
+5428051,KERREMANS,Nora,2010,F,BEL,Aquarius Zwemclub Lebbeke,1:08.12,t
+5137162,PAREE,Apolline,2008,F,BEL,Belgium,1:08.12,t
+4804597,DRIJKONINGEN,Sien,1989,F,BEL,Zwemvereniging De Meerkoet Bre,1:08.13,t
+4136943,TORSIN,Lieze,1990,F,BEL,Swimming Team Tienen,1:08.13,t
+4620747,MOERAUT,Jolien,2000,F,BEL,Zwemvereniging Wetthra Wettere,1:08.13,t
+4726067,GOOSSENS,Sarah,2000,F,BEL,Swimming Team Waasland,1:08.13,t
+4892746,WYNS,Emmie,2003,F,BEL,Cercle Royal De Natation Arlonais,1:08.13,t
+4804618,SARNO,Tara,1992,F,BEL,Entente Des Nageurs Louvierois Natation,1:08.14,t
+4359931,SOORS,Aurelie,1997,F,BEL,Koninklijke Hasseltse Zwemvere,1:08.14,t
+4306217,LEGRAND,Aurore,1981,F,BEL,Swimming Club Calypso Watermae,1:08.15,t
+4307703,VAN ROEYEN,Clara,1990,F,BEL,Groot Beverse Zwemclub,1:08.15,t
+5156998,JADOUL,Charlotte,2005,F,BEL,Swimming Team Waasland,1:08.15,t
+4981268,NIJZIEL,Frederique,2011,F,BEL,Zwemclub Geel,1:08.15,t
+5472778,DE WOLF,Tine,2009,F,BEL,Aalsters Swimming Team,1:08.15,t
+4200040,WILLEMS,Debbie,1989,F,BEL,Zwemclub Otters Mortsel,1:08.16,t
+4788707,CATRY,Eloise,2001,F,BEL,Koninklijke Zwemclub Neptunus,1:08.16,t
+4417733,CORTHOUT,Febe,2005,F,BEL,Heistse Zwemclub Arduas,1:08.16,t
+4332696,KLOPFEL,Ruth,1998,F,BEL,De Beringse Tuimelaars,1:08.17,t
+5139127,JAMAR,Laura,2005,F,BEL,Perron,1:08.17,t
+5208171,GIESSER,Elise,2010,F,BEL,Charleroi Helios Aqua Team,1:08.17,t
+4307940,VERDONCK,Caroline,1989,F,BEL,First (Flanders Inter Regio Sw,1:08.18,t
+4305898,HOORNE,Freya,1993,F,BEL,Zwemclub Tremelo,1:08.18,t
+5283068,VAN QUEKELBERGHE,Arwen,2004,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:08.18,t
 4307479,VAN BELLEGHEM,Florence,1997,F,BEL,Koninklijke Kortrijkse Zwemkri,1:01.25,t
 4804556,VAN DRIESSCHE,Fanny,1991,F,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:01.35,t
 5001413,AUGUSTIJNS,Jill,2005,F,BEL,Nijlense Zwemclub,1:01.48,t
 4139657,VERLEE,Billie,1995,F,BEL,Koninklijke Brugse Zwem- & Red,1:01.52,t
 4439654,SMETS,Catherine,2000,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:01.58,t
 5181804,VAN OUTRYVE D'YDEWALLE,Assunta,2005,F,BEL,Aalterse Zwemvereniging,1:01.71,t
+5337937,LAENEN,Febe,2010,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:02.76,t
+4822325,VERYSER,Jolien,2001,F,BEL,Flanders Coast Swimmingteam,1:02.78,t
+4804498,CALLEEUW,Loren,1993,F,BEL,Cercle De Natation Sportcity W,1:02.92,t
+4805165,BARBOSA,Tanya,1992,F,BEL,Cercle Royal De Natation De Br,1:03.00,t
+4804435,SWINNEN,Inez,1989,F,BEL,Brabant East Swimming Team,1:03.03,t
+4185201,DE BRABANTER,Evelien,1993,F,BEL,Zwemclub ZIOS Liedekerke,1:03.09,t
+4966184,LOOF,Isabelle,1997,F,BEL,First (Flanders Inter Regio Sw,1:03.16,t
+4779101,VANDE VELDE,Marilou,2001,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.23,t
+4804335,TYTECA,Eva,1988,F,BEL,Dilbeekse Zwemvereniging,1:03.26,t
+5283061,VAN LAECKE,Lotte,2006,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.27,t
+4074376,UYTTERSPROT,Kimberley,1990,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:03.38,t
+4863334,QUANJARD,Manon,2002,F,BEL,Swimming Club Strombeek-Grimbe,1:03.45,t
+4074394,NOYON,Caroline,1987,F,BEL,Nageurs Reunis Du Brabant Wallon,1:03.48,t
+4074311,VAN DE VELDE,Evchen,1988,F,BEL,First (Flanders Inter Regio Sw,1:03.49,t
+4804442,VERMANDER,Marijke,1989,F,BEL,Brabant East Swimming Team,1:03.53,t
+4565857,VAN ROMPAEY,Celien,1997,F,BEL,Heistse Zwemclub Arduas,1:03.60,t
+4366415,VAN LIERDE,Caroline,1998,F,BEL,Tiense Zwemmers,1:03.66,t
+4306540,MESTDAGH,Magali,1996,F,BEL,Royal Dauphins Mouscronnois,1:03.67,t
+4637075,PEETERS,Hanne,2001,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:03.71,t
+4805045,VAN GESTEL,Nathalie,1988,F,BEL,Arendonkse Zwemvereniging,1:03.81,t
+5346817,BRYS,Emma,2006,F,BEL,Royal Ostend Swimming Club,1:03.86,t
+5177158,VAN STEEN GOMES,Hanne,2007,F,BEL,Dendermondse Zwemvereniging Ol,1:03.89,t
+4185176,SINNAEVE,Joyce,1991,F,BEL,Koninklijke Kortrijkse Zwemkri,1:06.61,t
+4305732,GOUSSEAU,Clemence,1998,F,BEL,Zwemclub de Dolfijnen Asse-T,1:06.68,t
+4984036,PIRET,Armelle,2004,F,BEL,Val De Mehaigne Natation Wanze,1:06.73,t
+5259132,FRANZINI,Lena,2006,F,BEL,Ecole Seraing Natation,1:06.73,t
+4246968,NAILI,Nesrine,1995,F,BEL,Swimming Club Strombeek-Grimbe,1:06.75,t
+4302737,DUYSHAVER,Stephanie,1995,F,BEL,Aalsters Swimming Team,1:06.81,t
+5167544,VERGELS,Noor,2006,F,BEL,Zwemclub de Dolfijnen Asse-T,1:06.85,t
+5486678,VANDERLINDEN,Paulien,2011,F,BEL,Brabant East Swimming Team,1:06.89,t
+4169353,CORNETTE,Florence,1993,F,BEL,Club De Natation Bastogne,1:06.94,t
+4255118,DE BREUCKER,Celine,1991,F,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:06.99,t
+4428104,VAN HOYWEGHEN,Shari,1997,F,BEL,Groot Beverse Zwemclub,1:07.07,t
+5507000,VERHAEGHE,Marthe,2010,F,BEL,TiMe Swimming Team,1:07.08,t
+5148953,VANDENABEELE,Lotta,2006,F,BEL,Koninklijke Vilvoordse Zwemclu,1:07.12,t
+4303582,LAMBRECHTS,Kelly,1991,F,BEL,Verenigde Willebroekse Zwemclu,1:07.19,t
+5199474,DESMET,Xaria,2007,F,BEL,Koninklijke Kortrijkse Zwemkri,1:07.24,t
+4804363,VAN DEN BERGH,Sarah,1987,F,BEL,Zwemclub Lorelei Londerzeel,1:07.25,t
+4308953,PIERARD,Anne-Sophie,1996,F,BEL,Ecole De Natation Waremmienne,1:07.26,t
+4074292,DELBAERE,Nathalie,1987,F,BEL,Zwemclub Brabo Antwerpen,1:07.32,t
+4074345,VAN LOO,Tessa,1994,F,BEL,First (Flanders Inter Regio Sw,1:07.36,t
+4895735,URKENS,Stien,2003,F,BEL,Zwemclub Geel,1:07.38,t
+5137692,OP DE BEECK,Lauren,2006,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.41,t
+4428562,STEELANT,Justine,1998,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:07.46,t
+5335586,AMADOU,Chloe,2007,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:07.52,t
+4804326,CREMINGER,Inge,1989,F,BEL,Flanders Coast Swimmingteam,1:07.56,t
+5012072,GROENINCKX,Kjenta,2002,F,BEL,First (Flanders Inter Regio Sw,1:07.60,t
+5263232,JANSSENS,Jelena,2005,F,BEL,Zwemclub de Dolfijnen Asse-T,1:07.67,t
+5278480,HUYBREGTS,Jolien,2009,F,BEL,Zwemvereniging De Meerkoet Bre,1:07.69,t
+5444478,CREMER,Jenny,2012,F,BEL,Le Triton ans Natation,1:07.70,t
+4139705,BUGLIONE,Laetitia,1994,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.73,t
+4836967,VAN DEN BROECK,Maya,2001,F,BEL,Koninklijke Racing Swimming Cl,1:07.80,t
+4308690,DE VLEESCHAUWER,Celine,1994,F,BEL,Koninklijke Hasseltse Zwemvere,1:07.87,t
+4200240,DEFOUR,Sarah,1990,F,BEL,Swimming Team Zennevallei,1:07.92,t
+4439526,GOOSSENAERTS,Hadewig,1998,F,BEL,Arvicola Zwemclub Kalmthout,1:07.92,t
+4303669,SIX,Charlotte,1988,F,BEL,Cercle De Natation Sportcity W,1:07.97M,t
+5425466,MOORS,Yana,2009,F,BEL,De Beringse Tuimelaars,1:07.98,t
+4804702,SCHAUBROECK,Sanne,1990,F,BEL,Koninklijke Kortrijkse Zwemkri,1:03.98,t
+4255125,RADERMACHER,Lara,1992,F,BEL,Schwimmverein Delphin Eupen,1:04.04,t
+4307177,SEYNAEVE,Steffi,1997,F,BEL,Koninklijke Waregemse Zwemclub,1:04.07,t
+4199974,TIMMERMAN,Phaedra,1994,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.10,t
+5343734,FORTEMPS,Florine,2009,F,BEL,Perron,1:04.15,t
+4426606,CARLIER,Manon,1997,F,BEL,Ecole De Natation Waremmienne,1:04.23,t
+4779068,MAY,Julie,2001,F,BEL,Zwemclub Lorelei Londerzeel,1:04.27,t
+5156702,MOUTHUY,Marion,2006,F,BEL,Entente Des Nageurs Louvierois Natation,1:04.29,t
+4804529,MARI,Maude,1992,F,BEL,Chaudfontaine Thermale Natatio,1:04.37,t
+4334859,DE LOOF,Laurianne,2000,F,BEL,Royal Dauphins Mouscronnois,1:04.45,t
+4074830,GOBERT,Chanel,1990,F,BEL,Charleroi Helios Aqua Team,1:04.48,t
+5125420,VERMEIR,Marie,2008,F,BEL,Lokerse Zwemvereniging,1:04.48,t
+4136867,VELGHE,Alix,1993,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.54,t
+4366275,LUYCKX,Marie,1996,F,BEL,Verenigde Willebroekse Zwemclu,1:04.60,t
+5097026,NELIS,Isaura,2004,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.66,t
+5369783,LAHBIBI,Amira,2009,F,BEL,Ecole De Natation Waremmienne,1:04.66,t
+5343838,VANIERSCHOT,Ella,2010,F,BEL,Koninklijke Hasseltse Zwemvere,1:04.74,t
+4805292,ADRIAENSSEN,Annelies,1991,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:04.81,t
+5323188,POSSEN,Olivia,2010,F,BEL,Std,1:04.86,t
+5279054,JENKINS,Emma,2009,F,BEL,Cercle De Natation Sportcity W,1:04.87,t
+4299635,CHRISTIAENS,Benedict,1991,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:04.93,t
+4765880,GAISANOVA,Nina,1998,F,BEL,Koninklijke Kortrijkse Zwemkri,1:05.00,t
+4804449,FIRSZT,Alexandra,1990,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:05.06,t
+5389749,DECONYNCK,Sterre,2009,F,BEL,Tiense Regio United Swimming Team,1:05.06,t
+5062845,GEORGES,Madeleine,2005,F,BEL,Natation Club Athus,1:05.13,t
+5278527,VANDERVELPEN,Merel,2008,F,BEL,Tiense Regio United Swimming Team,1:05.18,t
+5349877,TYVAERT,Manon,2008,F,BEL,Iswim,1:05.23,t
+4779076,VERBEEK,Britt,2002,F,BEL,Lommelse Zwemvereniging de Lo,1:05.25,t
+4959500,VAN LANDUYT,Bregje,2003,F,BEL,Meetjesland-Gent Alliantie Zwemteam,1:05.32,t
+4305278,DEPAUW,Elise,1992,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.38,t
+5292130,FABRY,Lisa,2005,F,BEL,Namur Olympic Club,1:05.41,t
+4467584,CORNET,Gaelle,2000,F,BEL,Cercle Des Dauphins Courcelloi,1:05.43,t
+4805219,SNELLINX,Justine,1991,F,BEL,Ecole De Natation Waremmienne,1:05.52,t
+4845470,ESPEEL,Charlotte,2003,F,BEL,Roeselaarse Zwemvereniging,1:05.56,t
+4308472,ROELANTS,Sarah,1994,F,BEL,Aquarius Zwemclub Lebbeke,1:05.60,t
+5317915,MICHIELSEN,Jinthe,2008,F,BEL,Arvicola Zwemclub Kalmthout,1:05.60,t
+5102984,ROOSEN,Ruby,2002,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.68,t
+5346797,BROCHE,Norah,2007,F,BEL,Koninklijke Waregemse Zwemclub,1:05.76,t
+4225681,LENS,Marie,1991,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:05.82,t
+4295935,VERLEDENS,Anja,1991,F,BEL,Zwemclub Iloka Kapellen,1:05.83M,t
+4309503,VAN BELLEGHEM,Charlotte,1998,F,BEL,Koninklijke Kortrijkse Zwemkri,1:05.86,t
+5498019,OUAJIHI MAMOUNI,Ines,2008,F,BEL,Cercle Royal De Natation De Br,1:05.91,t
+5336359,CHAFWEHE,Vanina,2010,F,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:05.98,t
+4139707,LEMMENS,Nathalie,1995,F,BEL,Koninklijke Hasseltse Zwemvere,1:05.99,t
+4304535,HAENTJENS,Lien,1991,F,BEL,Dendermondse Zwemvereniging Ol,1:06.05,t
+5470110,STESSENS,Emma-Louise,2011,F,BEL,Temse Schelde Zwemmers,1:06.09,t
+4439818,VAN DER HEIJDEN,Joyce,1992,F,BEL,Geelse Sportvereniging Zwemmen,1:06.16,t
+5259526,BESRI-MEDYOUNI,Shirine,2005,F,BEL,Cercle Royal De Natation De Br,1:06.16,t
+4805343,ISTIRY,Anne,1989,F,BEL,Royal Brussels Poseidon,1:06.22,t
+4886622,ASSCHERICKX,Chloe,2011,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:06.25,t
+4946796,DETREZ,Birgit,2004,F,BEL,Koninklijke Hasseltse Zwemvere,1:06.32,t
+4318729,JANSEN,Roos,2008,F,BEL,Peltse Zwemclub,1:06.32,t
+4199853,VERVOORT,Kitty,1993,F,BEL,Zwemclub Brabo Antwerpen,1:06.34,t
+4827933,HUBERTY,Maren,2003,F,BEL,First (Flanders Inter Regio Sw,1:06.40,t
+4731919,SCHOUPPE,Fien,2001,F,BEL,Aalterse Zwemvereniging,1:06.47,t
+5339304,SEREY MENDOZA,Maylen,2011,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:06.53,t
 4074964,MATTHYSEN,Elise,1992,F,BEL,Zwemclub Brabo Antwerpen,59.06,t
 4139731,JAQUES,Delphine,1995,F,BEL,Meetjesland-Gent Alliantie Zwemteam,59.31,t
 4804689,VANHENTENRIJK,Jolien,1993,F,BEL,Koninklijke Hasseltse Zwemvere,59.48,t
@@ -1044,7 +3357,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805295,DE CRAMER,Renee,1994,F,BEL,Meetjesland-Gent Alliantie Zwemteam,58.95,t
 5111499,CEUPPENS,Judith,2005,F,BEL,Flemish Ardennes Swimming Team,1:00.36,t
 4804308,LEBRUN,Celine,1986,F,BEL,Cercle Royal De Natation Arlonais,1:01.77,t
-4805098,BRASSINE,Margaux,1990,F,BEL,"Blocry, Ottignies Et Univ.L.L.",1:01.88,t
+4805098,BRASSINE,Margaux,1990,F,BEL,Blocry, Ottignies Et Univ.L.L.,1:01.88,t
 4340457,DE RAEVE,Luana,1998,F,BEL,Koninklijke Brugse Zwem- & Red,1:01.98,t
 5346836,JACOBS,Filippa,2009,F,BEL,Genker Zwemvereniging Neptunus,1:02.05,t
 5428040,MEYER,Thyrvi,2009,F,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:02.09,t
@@ -1054,3 +3367,4 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4804428,LORENT,Aurelie,1989,F,BEL,Mons Hainaut Natation,1:02.32,t
 4668016,HARINCK,Camille,2001,F,BEL,Koninklijke Waregemse Zwemclub,1:02.38,t
 4354249,EZQUER ECHANDIA,Pauline,1997,F,BEL,Barracuda Club Saint-Ghislain,1:02.48,t
+5300664,LEVAUX,Nyla,2007,F,BEL,Waterloo Natation,1:08.18,t

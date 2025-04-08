@@ -73,17 +73,17 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4074289,HENDRICKX,Lander,1994,M,BEL,Brabant East Swimming Team,51.20,t
 4299632,DEWULF,Gillian,1996,M,BEL,Koninklijke Kortrijkse Zwemkri,51.20,t
 4620662,DE WEIRDT,Jan,2000,M,BEL,Swimming Team Aalter,51.23,t
-4029543,CUYVERS,Ruud,1984,M,BEL,"Molse Zwemclub ""mozka""",51.24,t
+4029543,CUYVERS,Ruud,1984,M,BEL,Molse Zwemclub mozka,51.24,t
 4304903,DAL,Lucas,1999,M,BEL,Royal Dauphins Mouscronnois,51.24,t
 4068846,NAVARRE,Charles,1993,M,BEL,Cercle Royal De Natation De Br,51.25,t
-4052997,VERACHTEN,Stef,1983,M,BEL,"Molse Zwemclub ""mozka""",51.26,t
+4052997,VERACHTEN,Stef,1983,M,BEL,Molse Zwemclub mozka,51.26,t
 4858932,VANHOUCKE,Louka,2002,M,BEL,Belgium,51.26,t
 4306238,LEMMENS,Tuur,1997,M,BEL,Koninklijke Hasseltse Zwemvere,51.80,t
 4398035,KRUIJTZER,Bram,1997,M,BEL,Zwemclub Brabo Antwerpen,51.80,t
 4804654,WIELANDT,Pieter,1993,M,BEL,First (Flanders Inter Regio Sw,51.80,t
 4074510,WILLEMS,Mattias,1991,M,BEL,Shark,52.98,t
 4929150,VATA,Gjon,2002,M,BEL,Cercle Royal De Natation De Br,51.28,t
-4576651,LUYTEN,Sjobbe,1998,M,BEL,"Molse Zwemclub ""mozka""",51.29,t
+4576651,LUYTEN,Sjobbe,1998,M,BEL,Molse Zwemclub mozka,51.29,t
 4393284,ROETE,Jonas,1997,M,BEL,Meetjesland-Gent Alliantie Zwemteam,51.36,t
 4972461,VAN KEER,Yoran,2003,M,BEL,Leuven Aquatics,51.37,t
 4970432,LAUREYSSENS,Daniel,2004,M,BEL,Zwemclub Schoten,51.38,t
@@ -225,7 +225,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4046727,VANGENEUGDEN,Tom,1983,M,BEL,Peltse Zwemclub,52.87,t
 4398128,DE GOLS,Senne,1998,M,BEL,Koninklijke Zwemclub Neptunus,52.87,t
 5199444,LAUREYSSENS,Lukas,2008,M,BEL,Zwemclub Schoten,52.88,t
-4989648,MEERE,Jarno,2003,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",52.89,t
+4989648,MEERE,Jarno,2003,M,BEL,Zwemclub de Dolfijnen Asse-T,52.89,t
 4439657,STAES,Thomas,2000,M,BEL,Shark,52.89,t
 4804280,DUMON,Bart,1986,M,BEL,Brabant East Swimming Team,52.91,t
 4711096,LEPERS,Robin,1999,M,BEL,Leuven Aquatics,52.91,t
@@ -233,7 +233,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805245,VAN MULLEM,Lars,1994,M,BEL,Swimming Team Waasland,52.92,t
 4170683,VAN KEER,Cedric,1984,M,BEL,Zwemclub Brabo Antwerpen,52.93,t
 4074334,PEETERS,Nick,1991,M,BEL,Zwemclub Brabo Antwerpen,52.93,t
-5185905,VAN THIELEN,Michel,1971,M,BEL,"Molse Zwemclub ""mozka""",52.94M,t
+5185905,VAN THIELEN,Michel,1971,M,BEL,Molse Zwemclub mozka,52.94M,t
 4359928,CLAESSENS,Lars,1996,M,BEL,Genker Zwemvereniging Neptunus,52.94,t
 5027306,VANSIMAEYS,Wout,2005,M,BEL,Izegemse Krekel Zwemmers,52.94,t
 5244429,BAETEN,Lukas,2007,M,BEL,Leuven Aquatics,52.94,t
@@ -251,13 +251,13 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5096987,ADAMS,Lucas,2004,M,BEL,Meetjesland-Gent Alliantie Zwemteam,53.04,t
 4804606,DE MARE,Bavo,1992,M,BEL,Gold Swimming Team,53.05,t
 4690188,CAMPS,Roeland,2001,M,BEL,Tiense Regio United Swimming Team,53.05,t
-4913570,VAN ERMEN,Alexander,2004,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",53.06,t
+4913570,VAN ERMEN,Alexander,2004,M,BEL,Zwemclub de Dolfijnen Asse-T,53.06,t
 4804475,VAN ISEGHEM,Tom,1989,M,BEL,Zwemclub Brabo Antwerpen,53.07,t
 4139672,VANHOLME,Pieter,1995,M,BEL,Dilbeekse Zwemvereniging,53.07,t
 4139780,BIEREBEECK,Yoshi,1995,M,BEL,Zwemclub Brabo Antwerpen,53.07,t
 4805034,CARRITT-KURTZAHN,Felix,1990,M,BEL,Longchamp Swimming Club Uccle,53.08,t
 4917602,DEVOS,Abel,2003,M,BEL,Flanders Coast Swimmingteam,53.09,t
-4804751,HANSEN,Marc,1988,M,BEL,"Molse Zwemclub ""mozka""",53.11,t
+4804751,HANSEN,Marc,1988,M,BEL,Molse Zwemclub mozka,53.11,t
 4226647,TERRYN,Julien,1993,M,BEL,Ronse Swimming Club,53.12,t
 4295905,GYSEMBERG,Cedric,1991,M,BEL,Swimming Team Tienen,53.13,t
 4037475,DORMAELS,Frederik,1979,M,BEL,Meetjesland-Gent Alliantie Zwemteam,53.17,t
@@ -277,8 +277,8 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4395978,DURIEUX,Damien,1999,M,BEL,Cercle Royal De Natation De Br,53.27,t
 5121737,LISSOIR,Colin,2005,M,BEL,Belgium,53.27,t
 4012075,VANDAMME,Hugo,2003,M,BEL,Royal Dauphins Mouscronnois,53.28,t
-5084777,DO,Duy Thang Tanguy,2000,M,BEL,"Blocry, Ottignies Et Univ.L.L.",53.28,t
-4863809,TAIS,Charles,2004,M,BEL,"Blocry, Ottignies Et Univ.L.L.",53.29,t
+5084777,DO,Duy Thang Tanguy,2000,M,BEL,Blocry, Ottignies Et Univ.L.L.,53.28,t
+4863809,TAIS,Charles,2004,M,BEL,Blocry, Ottignies Et Univ.L.L.,53.29,t
 4805251,MAES,Daan,1994,M,BEL,Zwemclub Geel,53.30,t
 5199964,VAN WELLEN,Joseph,2008,M,BEL,Hoogstraten Zwemteam,53.30,t
 4305562,FEYAERTS,Carlos,1997,M,BEL,Brabant East Swimming Team,53.31,t
@@ -325,7 +325,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805298,DE VRIENDT,Karel,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,53.55,t
 4805277,JANSOONE,Jorn,1990,M,BEL,Koninklijke Kortrijkse Zwemkri,53.57,t
 4804831,CREVITS,Jonas,1991,M,BEL,Swimming Team Zennevallei,53.57,t
-4393621,AERTS,Joao,1994,M,BEL,"Molse Zwemclub ""mozka""",53.58,t
+4393621,AERTS,Joao,1994,M,BEL,Molse Zwemclub mozka,53.58,t
 4733777,HERTELEER,Jonas,2001,M,BEL,Meetjesland-Gent Alliantie Zwemteam,53.58,t
 4605624,DE MEY,Largo,2001,M,BEL,Swimming Club Strombeek-Grimbe,53.58,t
 4804328,DOLFEN,Stijn,1988,M,BEL,Flanders Coast Swimmingteam,53.59,t
@@ -400,7 +400,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4309508,VANDENDRIESSCHE,Stan,1998,M,BEL,Koninklijke Kortrijkse Zwemkri,55.26,t
 4804416,CLAESSENS,Matthias,1990,M,BEL,Arvicola Zwemclub Kalmthout,53.99,t
 4875315,WILLEMS,Mattias,1987,M,BEL,Provincie Antwerpen,53.99,t
-4346909,STOFFE,Lucas,1998,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",53.99,t
+4346909,STOFFE,Lucas,1998,M,BEL,Zwemclub de Dolfijnen Asse-T,53.99,t
 4995008,REMACLE,Hugo,2003,M,BEL,Nautic Club Herve,53.99,t
 4039014,MEYERS,Sepp,1987,M,BEL,Sportvereniging Aartselaar Zwe,54.00,t
 4305492,DUYVEJONCK,Emiel,1998,M,BEL,Koninklijke Kortrijkse Zwemkri,54.00,t
@@ -412,7 +412,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4893104,SCHRYVER de,Noah,2001,M,BEL,Koninklijke Zwemclub Neptunus,54.02,t
 4074843,HAMERS,Niels,1988,M,BEL,Genker Zwemvereniging Neptunus,54.04,t
 5003031,GARRAUX,Alois,2003,M,BEL,Perron,54.04,t
-4415402,MOORS,Eli-Emmanuel,2007,M,BEL,"Lommelse Zwemvereniging ""de Lo",54.04,t
+4415402,MOORS,Eli-Emmanuel,2007,M,BEL,Lommelse Zwemvereniging de Lo,54.04,t
 4972162,DOS SANTOS,Sam,1998,M,BEL,Cercle Royal De Natation De Br,54.05,t
 4812923,VAERNEWYCK,Xander,1999,M,BEL,Koninklijke Kortrijkse Zwemkri,54.05,t
 4304904,DAL,Thomas,1997,M,BEL,Royal Dauphins Mouscronnois,54.05,t
@@ -431,7 +431,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4804409,AERNOUT,Steve,1984,M,BEL,Zwemclub Tieltse Zeeduivels,54.11,t
 4336757,MEYS,Lander,1996,M,BEL,Zwemclub Brabo Antwerpen,54.11,t
 5165833,GILSOUL,Sebastien,2005,M,BEL,Namur Olympic Club,54.11,t
-4308041,VINCKE,Warre,1998,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",54.12,t
+4308041,VINCKE,Warre,1998,M,BEL,Zwemclub de Dolfijnen Asse-T,54.12,t
 4777816,BLANKERS,Gaetan,2000,M,BEL,Zwemclub Brabo Antwerpen,54.12,t
 5317384,VAN BALLAER,Viktor,2008,M,BEL,Zwemclub Geel,54.12,t
 4304631,BERGER,Francois,1998,M,BEL,Ecole De Natation Waremmienne,54.13,t
@@ -444,7 +444,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4812917,GUILLEMYN,Lucas,2003,M,BEL,Koninklijke Kortrijkse Zwemkri,54.15,t
 4305372,DEWULF,Tjorven,1998,M,BEL,Koninklijke Kortrijkse Zwemkri,54.16,t
 5172941,VANDAMME,Thijs,2005,M,BEL,Gold Swimming Team,54.16,t
-4804752,KENIS,Pieter,1988,M,BEL,"Molse Zwemclub ""mozka""",54.17,t
+4804752,KENIS,Pieter,1988,M,BEL,Molse Zwemclub mozka,54.17,t
 4804560,DE WETTER,Gilles,1991,M,BEL,Royal Ostend Swimming Club,54.17,t
 4804584,THIRY,Thomas,1990,M,BEL,Flipper Natation Club Saint-Ge,54.19,t
 4826649,LUST,Henri,2003,M,BEL,Aalterse Zwemvereniging,54.19,t
@@ -534,7 +534,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5177156,AL TUWAIJARI,Mustafa,2002,M,BEL,Zwemclub Brabo Antwerpen,54.55,t
 4136862,DE GROOTE,Evert,1987,M,BEL,Meetjesland-Gent Alliantie Zwemteam,54.56,t
 5198168,GOOSSENS,Torsten,2005,M,BEL,Lokerse Zwemvereniging,54.56,t
-4185207,HAVEAUX,Timothy,1984,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",54.57,t
+4185207,HAVEAUX,Timothy,1984,M,BEL,Zwemclub de Dolfijnen Asse-T,54.57,t
 4804700,SALENBIEN,Wout,1990,M,BEL,Koninklijke Kortrijkse Zwemkri,54.57,t
 4309174,VANEYSENDEYK,Toon,1997,M,BEL,Shark,54.57,t
 4565886,VAN SAS,Stijn,2000,M,BEL,Zwemclub Tremelo,54.57,t
@@ -575,7 +575,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4308481,VANSPRINGEL,Thibaut,1996,M,BEL,Swimming Club Strombeek-Grimbe,54.69,t
 4574050,DE BAETS,Niels,1995,M,BEL,Meetjesland-Gent Alliantie Zwemteam,54.69,t
 5092551,DUFLOUCQ,Seppe,2006,M,BEL,Iswim,54.69,t
-5263227,VERROKEN,Gerben,2008,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",54.69,t
+5263227,VERROKEN,Gerben,2008,M,BEL,Zwemclub de Dolfijnen Asse-T,54.69,t
 5352935,LEYSEN,Michel,2007,M,BEL,Kempisch Swimming Team,54.70,t
 5251386,SLEPOV,Bogdan,2008,M,BEL,Entente Des Nageurs Louvierois Natation,54.70,t
 4353461,LANGMANS,Wannes,1999,M,BEL,Shark,54.71,t
@@ -592,7 +592,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4066237,GHESQUIERE,Jelle,1979,M,BEL,Royal Dauphins Mouscronnois,54.77,t
 4804954,WOUTERS,Steven,1987,M,BEL,Arvicola Zwemclub Kalmthout,54.77,t
 4074835,MEUNIER,Pierre-Antoine,1989,M,BEL,Liege Natation,54.78,t
-4406395,STAVART,Corentin,1999,M,BEL,"Blocry, Ottignies Et Univ.L.L.",54.78,t
+4406395,STAVART,Corentin,1999,M,BEL,Blocry, Ottignies Et Univ.L.L.,54.78,t
 4136946,DE WOLF,Davey,1988,M,BEL,Zwemclub Tremelo,54.79,t
 4139779,VAN DEN BEMPT,Ben,1995,M,BEL,Zwemclub Brabo Antwerpen,54.79,t
 4307361,THIJS,Christophe,1994,M,BEL,Zwemvereniging Lier,54.80,t
@@ -602,7 +602,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805259,JACQUERIE,Paul,1994,M,BEL,Herstal Natation,54.81,t
 4610112,ROOMAN,Rob,2000,M,BEL,Leuven Aquatics,54.81,t
 5416220,DELRUE,Aaron,2009,M,BEL,Zwemclub De Dolfijnen Middelke,54.81,t
-4192417,NUYTS,Wim,1991,M,BEL,"Molse Zwemclub ""mozka""",54.82,t
+4192417,NUYTS,Wim,1991,M,BEL,Molse Zwemclub mozka,54.82,t
 4741089,LAUWERS,Sander,2001,M,BEL,Zwemclub Brabo Antwerpen,54.82,t
 4999884,ORBAN,Olivier,2002,M,BEL,Swimming Team Waasland,54.82,t
 4620067,VANHUYS,Matt,2002,M,BEL,Royal Dauphins Mouscronnois,54.84,t
@@ -692,7 +692,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4304880,CROON,Julien,1996,M,BEL,Swimming Team Tienen,55.09,t
 4484697,THYS,Christophe,1994,M,BEL,Zwemvereniging Lier,55.09,t
 4804716,MUROVEC,Vladimir,1991,M,BEL,Liege Natation,55.09M,t
-4804754,VOS,Carl,1992,M,BEL,"Molse Zwemclub ""mozka""",55.10,t
+4804754,VOS,Carl,1992,M,BEL,Molse Zwemclub mozka,55.10,t
 4068862,DIENST,Rodolphe,1991,M,BEL,Cercle De Natation Sportcity W,55.10,t
 4313242,VANHERCK,Jeroen,1997,M,BEL,Zwemvereniging De Meerkoet Bre,55.10,t
 4397926,DE MEYER,Sam,1998,M,BEL,Groot Beverse Zwemclub,55.10,t
@@ -722,7 +722,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4200152,WOUTERMAERTENS,Jarne,1992,M,BEL,Swimming Club Strombeek-Grimbe,55.17,t
 4805088,COBBAUT,Josivan,1992,M,BEL,Mons Hainaut Natation,55.18,t
 4805029,MATERNE,Valery,1982,M,BEL,CNC Les Flippers Ciney,55.20,t
-4170685,DE KNOP,Sebastien,1990,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",55.20,t
+4170685,DE KNOP,Sebastien,1990,M,BEL,Zwemclub de Dolfijnen Asse-T,55.20,t
 4804695,DECALUWE,Thibaud,1990,M,BEL,Koninklijke Kortrijkse Zwemkri,55.20,t
 4296023,VANDERLINDEN,Xavier,1992,M,BEL,Waterloo Natation,55.20,t
 4304848,CORNEZ,Thomas,1989,M,BEL,Castor Club De Mons,55.20,t
@@ -747,7 +747,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4688851,RENAUX,Antoine,2000,M,BEL,Waterloo Natation,55.27,t
 5352496,VOLCKAERT,Matthias,2008,M,BEL,Zwemclub ZIOS Liedekerke,55.27,t
 4804288,BREULS,Aljoscha,1986,M,BEL,Zwemclub Brabo Antwerpen,55.28,t
-5047579,VAN DESSEL,Michiel,2002,M,BEL,"Molse Zwemclub ""mozka""",55.28,t
+5047579,VAN DESSEL,Michiel,2002,M,BEL,Molse Zwemclub mozka,55.28,t
 5004109,VAN MIEGHEM,Alexander,2002,M,BEL,First (Flanders Inter Regio Sw,55.28,t
 5478197,VAN HEIRWEGHE,Maxime,2008,M,BEL,Aqua Club Braine L'Alleud,55.28,t
 5278308,CONTENT,Elie,2006,M,BEL,Royal Brussels Poseidon,55.28,t
@@ -758,7 +758,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4199807,DE LILLE,Bjorn,1992,M,BEL,Meetjesland-Gent Alliantie Zwemteam,55.31,t
 4988501,MARION,Xavier,2003,M,BEL,Cercle De Natation Sportcity W,55.31,t
 4038211,VANNEUVILLE,Klaas,1983,M,BEL,Flanders Coast Swimmingteam,55.33,t
-4668013,BEYENS,Sam,1998,M,BEL,"Molse Zwemclub ""mozka""",55.33,t
+4668013,BEYENS,Sam,1998,M,BEL,Molse Zwemclub mozka,55.33,t
 5251390,DUFOND,Nathan,2008,M,BEL,Entente Des Nageurs Louvierois Natation,55.33,t
 4804943,MALEMPREE,Stephane,1985,M,BEL,Val De Mehaigne Natation Wanze,55.34,t
 4804850,CARLIER,Bart,1990,M,BEL,Zwemclub Kapelle-O/D-Bos,55.34,t
@@ -838,7 +838,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5420414,DE PEYPER,Noah,2008,M,BEL,Zwemclub ZIOS Liedekerke,55.55,t
 5208824,VAN UYTVEN,Robbe,2007,M,BEL,Flemish Ardennes Swimming Team,55.55,t
 4295995,DEPELSENAIRE,Sebastien,1984,M,BEL,Waterloo Natation,55.56,t
-4309205,VERDIJCK,Niels,1997,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",55.56,t
+4309205,VERDIJCK,Niels,1997,M,BEL,Zwemclub de Dolfijnen Asse-T,55.56,t
 4780705,CLAYSON,Nicolas,2002,M,BEL,Braine-L'Alleud Waterloo Swimming Team,55.56,t
 4309467,BURM,Sietse,1998,M,BEL,Dendermondse Zwemvereniging Ol,55.57,t
 4819712,CLOES,Janek,1999,M,BEL,Brabant East Swimming Team,55.57,t
@@ -853,7 +853,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5139068,DECORTE,Lucien,2005,M,BEL,Cercle De Natation Jodoignois,55.60,t
 4303713,VAN VOOREN,Timo,1979,M,BEL,Fast Antwerp Swimming Team,55.61,t
 4110616,PEETERS,Jef,1992,M,BEL,Barracuda Club Saint-Ghislain,55.61,t
-5356144,SEGHERS,Michiel,2007,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",55.61,t
+5356144,SEGHERS,Michiel,2007,M,BEL,Zwemclub de Dolfijnen Asse-T,55.61,t
 4999375,VERBIST,Benjamin,2006,M,BEL,Swimming Team Waasland,55.61,t
 5255347,DECUPERE,Cedric,2007,M,BEL,Koninklijke Kortrijkse Zwemkri,55.61,t
 5369823,WAELPUT,Thomas,2009,M,BEL,Temse Schelde Zwemmers,55.61,t
@@ -870,7 +870,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805226,LEJEUNE,Martin,1990,M,BEL,Embourg Natation,55.64,t
 4400002,DELFOSSE,Olivier,1963,M,BEL,Cercle De Natation Sportcity W,55.65M,t
 4299608,MULLER,Matthias,1996,M,BEL,Ecole Saint-Vith Natation,55.65,t
-4330706,LHEUREUX,Tom,1998,M,BEL,"Blocry, Ottignies Et Univ.L.L.",55.65,t
+4330706,LHEUREUX,Tom,1998,M,BEL,Blocry, Ottignies Et Univ.L.L.,55.65,t
 4721214,JANSSEN,Stephan,2002,M,BEL,De Beringse Tuimelaars,55.65,t
 4924728,LARIDON,Rune,2002,M,BEL,Bruinvissen Diksmuide,56.11,t
 4812926,THUWIS,Stijn,2001,M,BEL,Genker Zwemvereniging Neptunus,55.67,t
@@ -882,7 +882,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5307971,DERKENNE,Mateo,2009,M,BEL,Perron,55.68,t
 4185168,DEUNINCK,Xander,1993,M,BEL,Zwemclub Brabo Antwerpen,55.69,t
 4332755,DAEMS,Gilles,1998,M,BEL,Zwemclub Tremelo,55.69,t
-5065832,POLLET,Rohan,2005,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",55.69,t
+5065832,POLLET,Rohan,2005,M,BEL,Zwemclub de Dolfijnen Asse-T,55.69,t
 4074319,GOORMACHTIGH,Jan,1987,M,BEL,First (Flanders Inter Regio Sw,55.70,t
 4170697,DE REYDT,Steven,1984,M,BEL,Zwemclub Beringen-Mijn,55.70,t
 4804611,AMOROSO,Maximilien,1991,M,BEL,Entente Des Nageurs Louvierois Natation,55.70,t
@@ -893,11 +893,11 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5375625,BASTIJNS,Jeroen,1994,M,BEL,Belgium,55.70M,t
 4527107,VARANO,Enrico,1996,M,BEL,Royal Brussels Poseidon,55.71,t
 4417740,VAN HECKE,Warre,2007,M,BEL,Meetjesland-Gent Alliantie Zwemteam,55.71,t
-4804580,SLOCK,Pieter,1988,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",55.72,t
+4804580,SLOCK,Pieter,1988,M,BEL,Zwemclub de Dolfijnen Asse-T,55.72,t
 4074834,KALDI,Guillaume,1990,M,BEL,Charleroi Helios Aqua Team,55.72,t
 4794142,HUYSMANS,Birger,1988,M,BEL,Swimming Team Tienen,55.72,t
 4617125,ENGELS,Aaron,1999,M,BEL,Swimming Team Waasland,55.72,t
-4307287,STEVENS,Dennis,1997,M,BEL,"Molse Zwemclub ""mozka""",55.73,t
+4307287,STEVENS,Dennis,1997,M,BEL,Molse Zwemclub mozka,55.73,t
 4620690,BAECKELMANS,Jarne,2000,M,BEL,Koninklijke Racing Swimming Cl,55.73,t
 5102961,DEBOOSER,Thibaut,2004,M,BEL,Koninklijke Kortrijkse Zwemkri,55.73,t
 5356780,DEVILLE,Manu,2008,M,BEL,Perron,55.74,t
@@ -907,7 +907,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4169375,DE GOEIJ,Christophe,1982,M,BEL,Ecole De Natation Waremmienne,55.76,t
 4074362,VERMEIRE,Alexander,1991,M,BEL,Meetjesland-Gent Alliantie Zwemteam,55.76,t
 4741105,MESTDAGH,Arne,2002,M,BEL,Koninklijke Kortrijkse Zwemkri,55.76,t
-5065831,PILLET,Brecht,2004,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",55.76,t
+5065831,PILLET,Brecht,2004,M,BEL,Zwemclub de Dolfijnen Asse-T,55.76,t
 5067691,CAUCHETEUX,Armand,2005,M,BEL,Barracuda Club Saint-Ghislain,55.76,t
 5279019,ZEIMES,Elric,2007,M,BEL,Ecole Seraing Natation,55.76,t
 4777269,LIPPENS,Rino,2000,M,BEL,Swimming Team Waasland,55.77,t
@@ -950,9 +950,9 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4074350,DE TEMMERMAN,Wouter,1986,M,BEL,First (Flanders Inter Regio Sw,55.86,t
 4304610,BARNSTIJN,Alexandre,1996,M,BEL,Cercle Royal De Natation De Br,55.87,t
 4816439,GOETHALS,Vince,2009,M,BEL,Swimming Team Waasland,55.87,t
-5126073,BOETS,Victor,2006,M,BEL,"Molse Zwemclub ""mozka""",55.88,t
+5126073,BOETS,Victor,2006,M,BEL,Molse Zwemclub mozka,55.88,t
 4804981,VANDEN EYNDE,Jan,1982,M,BEL,De Beringse Tuimelaars,55.89,t
-4308485,AERTS,Ilie,1997,M,BEL,"Molse Zwemclub ""mozka""",56.10,t
+4308485,AERTS,Ilie,1997,M,BEL,Molse Zwemclub mozka,56.10,t
 4924113,DEMAIFFE,Valentin,2001,M,BEL,Braine-L'Alleud Waterloo Swimming Team,56.10,t
 4804359,VERWEIRDER,Michael,1987,M,BEL,Koninklijke Kortrijkse Zwemkri,56.11,t
 4805111,CAMPENAERTS,Victor,1991,M,BEL,Zwemclub Brabo Antwerpen,56.11,t
@@ -967,7 +967,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5031238,CRIEL,Alvaro Nesta,2004,M,BEL,Swimming Team Aalter,55.91,t
 5473851,BEUNENS,Ilian,2009,M,BEL,Ursus Zwemklub Zwevegem,55.91,t
 4763724,GOUBEIR,Niels,2001,M,BEL,First (Flanders Inter Regio Sw,55.92,t
-4346901,BECKWEE,Emile,1998,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",55.93,t
+4346901,BECKWEE,Emile,1998,M,BEL,Zwemclub de Dolfijnen Asse-T,55.93,t
 5137542,EL GHAZILI,Tijani,2000,M,BEL,Cercle Royal De Natation De Br,55.93,t
 4805408,PEETERS,Maarten,1991,M,BEL,Zwemclub Tremelo,55.94,t
 4139923,JANON,Guillaume,1995,M,BEL,Ecole Seraing Natation,55.94,t
@@ -996,11 +996,11 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4305379,DHAENE,Rob,1992,M,BEL,Koninklijke Waregemse Zwemclub,56.00,t
 4816575,DE JONGE,Andres,2000,M,BEL,Zwemclub Brabo Antwerpen,56.00,t
 4822290,HOLLANDERS,Ian,2003,M,BEL,Shark,56.00,t
-4812896,JORIS,Luca,2003,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",56.00,t
+4812896,JORIS,Luca,2003,M,BEL,Zwemclub de Dolfijnen Asse-T,56.00,t
 5389179,BAHLOULA,Nael,2009,M,BEL,Zwemclub Brabo Antwerpen,56.00,t
 5048939,PARLEVLIET,Zeno,2008,M,BEL,Swimming Team Aalter,56.00,t
 4804919,DEBRUCHE,Gilles,1985,M,BEL,Liege Mosan,56.01,t
-4804749,BOONS,Koen,1989,M,BEL,"Molse Zwemclub ""mozka""",56.01,t
+4804749,BOONS,Koen,1989,M,BEL,Molse Zwemclub mozka,56.01,t
 4750928,VOLCKAERT,Mirec,2001,M,BEL,First (Flanders Inter Regio Sw,56.01,t
 4984900,CLIJSTERS,Jef,2004,M,BEL,Leuven Aquatics,56.01,t
 4303694,VAN AUTENBOER,Wout,1979,M,BEL,Kempisch Swimming Team,56.03,t
@@ -1059,7 +1059,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4839530,VANLAER,Mathijs,2006,M,BEL,Tiense Regio United Swimming Team,56.16,t
 5001424,WOUTERS,Jordi,2005,M,BEL,Shark,56.16,t
 5000751,LEMAN,Arnaud,2002,M,BEL,Orca Natation Soignies,56.17,t
-4913571,JORIS,Dante,2003,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",56.17,t
+4913571,JORIS,Dante,2003,M,BEL,Zwemclub de Dolfijnen Asse-T,56.17,t
 4610119,DEKIMPE,Bregt,2001,M,BEL,Tiense Regio United Swimming Team,56.17,t
 4846011,MARIN,Benjamin,2000,M,BEL,Royal Dauphins Mouscronnois,56.18,t
 4984905,VANDERHULST,Tobe,2003,M,BEL,Tiense Regio United Swimming Team,56.18,t
@@ -1068,12 +1068,12 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4989603,HEYMANS,Quinten,2003,M,BEL,Swimming Team Zennevallei,56.19,t
 5120453,PENNEMAN,Arne,2004,M,BEL,Groot Beverse Zwemclub,56.19,t
 4804846,PAREYN,Pamphiel,1991,M,BEL,Koninklijke Kortrijkse Zwemkri,56.20,t
-4139837,COLOGNESI,Victor,1993,M,BEL,"Blocry, Ottignies Et Univ.L.L.",56.20,t
+4139837,COLOGNESI,Victor,1993,M,BEL,Blocry, Ottignies Et Univ.L.L.,56.20,t
 4000642,VAN DEN NOORTGATE,Tomas,2000,M,BEL,Belgium,56.20,t
 4805273,D'HONDT,Kevin,1990,M,BEL,Izegemse Krekel Zwemmers,56.21,t
 4139957,DECROIX,Nathan,1996,M,BEL,Namur Olympic Club,56.21,t
 4308606,DE BIE,Lorenzo,1998,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.21,t
-4437307,VINCKE,Toon,2000,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",56.21,t
+4437307,VINCKE,Toon,2000,M,BEL,Zwemclub de Dolfijnen Asse-T,56.21,t
 5179513,HAEGEMAN,Yoran,2006,M,BEL,First (Flanders Inter Regio Sw,56.21,t
 4805075,BES,Hannes,1990,M,BEL,Arvicola Zwemclub Kalmthout,56.22,t
 4913568,GILLIS,Xander,2004,M,BEL,Zwemclub Kapelle-O/D-Bos,56.22,t
@@ -1174,7 +1174,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 5088521,VAN ACKER,Seppe,2003,M,BEL,Bruinvissen Diksmuide,56.47,t
 5181856,BERNATH,Benjamin,2007,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,56.48,t
 4226650,VANHOUTTE,Jeremy,1985,M,BEL,Swimming Club Ronse,56.49,t
-5022328,DE BEL,Julien,2004,M,BEL,"Blocry, Ottignies Et Univ.L.L.",56.49,t
+5022328,DE BEL,Julien,2004,M,BEL,Blocry, Ottignies Et Univ.L.L.,56.49,t
 5107562,LEMMENS,Rune,2005,M,BEL,Zwemvereniging De Meerkoet Bre,56.49,t
 5188231,KOCKX,Henri,2006,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.49,t
 4200023,MOMMENS,Atse,1995,M,BEL,Zoro,56.50,t
@@ -1237,7 +1237,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4303609,MILANTS,Jan,1985,M,BEL,Dendermondse Zwemvereniging Ol,56.67,t
 4344219,VAN LIMBERGEN,Kyle,1999,M,BEL,Zwemclub Geel,56.67,t
 4984898,BOLLEN,Vincent,2004,M,BEL,Leuven Aquatics,56.67,t
-5292324,MOULAERT,Tiemo,2009,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",56.67,t
+5292324,MOULAERT,Tiemo,2009,M,BEL,Zwemclub de Dolfijnen Asse-T,56.67,t
 4334561,QIU,Marc,1994,M,BEL,Royal Ensival Natation,56.68,t
 4615250,LAMBRECHT,Arno,1994,M,BEL,Koninklijke Kortrijkse Zwemkri,56.68,t
 4637081,CLAES,Tom,2001,M,BEL,Zwemclub Tremelo,56.68,t
@@ -1257,7 +1257,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4804507,DESSOY,Quentin,1991,M,BEL,Charleroi Helios Aqua Team,56.71,t
 4608370,RICQUIER,Joachim,2001,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,56.71,t
 4942807,VAN HYFTE,Lennard,2004,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.71,t
-4804446,DUMON,Raphael,1989,M,BEL,"Blocry, Ottignies Et Univ.L.L.",56.72,t
+4804446,DUMON,Raphael,1989,M,BEL,Blocry, Ottignies Et Univ.L.L.,56.72,t
 4306953,RAYEN,Martijn,1992,M,BEL,Zwemclub Beringen-Mijn,56.72,t
 4139800,VAN EYKEN,Maarten,1995,M,BEL,Zwemclub Tremelo,56.72,t
 5427428,BHIJA,Tariq,2010,M,BEL,Koninklijke Waregemse Zwemclub,56.73,t
@@ -1268,7 +1268,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4755110,VERMEERSCH,Sebastien,1997,M,BEL,Iswim,56.75,t
 4745993,HUYS,Robin,1999,M,BEL,Genker Zwemvereniging Neptunus,56.75,t
 5281079,CLAESKENS,Milan,2006,M,BEL,De Beringse Tuimelaars,56.75,t
-4170686,VAN DER STRAETEN,Sybren,1987,M,BEL,"Zwemclub ""de Dolfijnen"" Asse-T",56.76,t
+4170686,VAN DER STRAETEN,Sybren,1987,M,BEL,Zwemclub de Dolfijnen Asse-T,56.76,t
 4068853,MICHOTTE,Hadrien,1989,M,BEL,Cercle De Natation Sportcity W,56.76,t
 4308771,HALLEZ,Alexandre,1992,M,BEL,Barracuda Club Saint-Ghislain,56.76,t
 4778996,MONCHY,Wouter,1985,M,BEL,Aquarius Zwemclub Lebbeke,56.76M,t
@@ -1288,6 +1288,1841 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4805275,DECOENE,Bert,1992,M,BEL,Gold Swimming Team,56.80,t
 4139970,LEYSEN,Loic,1995,M,BEL,Waterloo Natation,56.80,t
 4309029,SINNAEVE,Keanu,1996,M,BEL,Koninklijke Kortrijkse Zwemkri,56.80,t
+4980113,DURIEU,Theo,2003,M,BEL,Mons Hainaut Natation,56.80,t
+5125407,DE KIMPE,Tibo,2006,M,BEL,Dendermondse Zwemvereniging Ol,56.80,t
+5425478,GERAERTS,Mattias,2008,M,BEL,Lokerse Zwemvereniging,56.80,t
+5163776,VANWERS,Etan,2008,M,BEL,Nautic Club Herve,56.80,t
+4400064,WILLOT,Francois,1996,M,BEL,Waterloo Natation,56.81,t
+4695359,DE LOOZ,Nathan,2001,M,BEL,Cercle De Natation Jodoignois,56.81,t
+5259501,DE MAESSCHALCK,Yarne,2008,M,BEL,AART-Lorelei-Zwemvereniging,56.81,t
+4804683,POELMANS,Robin,1990,M,BEL,Koninklijke Hasseltse Zwemvere,56.82,t
+5428034,EVENS,Thibo,2006,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,56.82,t
+4804356,LIBEER,Simon,1987,M,BEL,Koninklijke Kortrijkse Zwemkri,56.83,t
+5210533,LAEREMANS,Pieter,2007,M,BEL,Shark,56.83,t
+4806514,FISCHER,Benjamin,1995,M,BEL,Belgium,56.84,t
+4946799,THIJSSEN,Robbe,2002,M,BEL,De Beringse Tuimelaars,56.84,t
+4925161,COKELAERE,Matthijs,2002,M,BEL,Koninklijke Kortrijkse Zwemkri,56.84,t
+5057717,RIZZO,Salvatore,2005,M,BEL,Zwemclub Maasmechelen,56.84,t
+4136945,DE WOLF,Arno,1991,M,BEL,Zwemclub Tremelo,56.85,t
+4804822,CHAPELLE,Maxime,1993,M,BEL,Royal Verviers Natation,56.85,t
+4286485,VINCKX,Tim,1990,M,BEL,Belgium,56.85,t
+5443100,FLEMENT,Robbe,2006,M,BEL,Flemish Ardennes Swimming Team,56.85,t
+5169409,SINNAEVE,Mirko,2004,M,BEL,Zwemclub De Dolfijnen Middelke,56.85,t
+4308651,DE WREE,Eric,1970,M,BEL,Swimming Team Tienen,56.86,t
+4012062,AERNOUDT,Eliott,2000,M,BEL,Espadon Leuze Natation,56.86,t
+5012083,VERMEIRE,Yorben,2004,M,BEL,First (Flanders Inter Regio Sw,56.86,t
+5199457,WULLAERT,Odiel,2008,M,BEL,Zwemclub Ter Borcht-Meulebeke,56.86,t
+5180710,DELEN,Kobe,2005,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,56.86,t
+5322786,GOFFAUX,Thibault,2007,M,BEL,Espadon Leuze Natation,56.86,t
+4074398,BROHE,Corentin,1988,M,BEL,Nageurs Reunis Du Brabant Wallon,56.87,t
+4308067,VOS,Stijn,1987,M,BEL,Groot Beverse Zwemclub,56.87,t
+4439506,EVERAERT,Fabian,1999,M,BEL,Zwemvereniging Lier,56.87,t
+4437276,HEIRMAN,Laurens,1999,M,BEL,Swimming Team Waasland,56.87,t
+4819704,HAESAERT,Elias,2003,M,BEL,Koninklijke Brugse Zwem- & Red,56.87,t
+4959989,DIELTIENS,Jef,2005,M,BEL,Peltse Zwemclub,56.87,t
+4804300,VUYE,Stijn,1986,M,BEL,Zwemclub Brabo Antwerpen,56.88,t
+4299654,DE CONINCK,Roel,1996,M,BEL,Oudenaardse Zwemclub,56.88,t
+4439723,VANDEPUTTE,Brecht,1999,M,BEL,Zwemclub Brabo Antwerpen,56.88,t
+4690179,LEYS,Milan,2001,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,56.88,t
+4852851,VEKEMANS,Aaron,2001,M,BEL,Dendermondse Zwemvereniging Ol,56.88,t
+5281085,MAENHOUT,Arjen,2007,M,BEL,Ursus Zwemklub Zwevegem,56.88,t
+4139671,PAUWELS,Mattias,1995,M,BEL,Zwemclub de Dolfijnen Asse-T,56.89,t
+5421745,HAESENDONCKX,Jarne,2008,M,BEL,Zwemclub Geel,56.89,t
+4804343,KERREMANS,Victor,1989,M,BEL,First (Flanders Inter Regio Sw,56.90,t
+4074390,HUYGHE,Wesley,1988,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.90,t
+4439766,VINGERHOETS,Pierre,1982,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,56.90,t
+4299640,BAUMANS,Axel,1996,M,BEL,Royal Verviers Natation,56.90,t
+4796645,TORFS,Sven,2000,M,BEL,Zwemclub Schoten,56.90,t
+5046656,DELEEBEECK,Arne,2004,M,BEL,Zwemclub Brabo Antwerpen,56.90,t
+5719289,VAN NUFFELEN,Wout,2004,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,56.90,t
+4308661,DECONINCK,Francois,1990,M,BEL,Ecole De Natation Waremmienne,56.91,t
+4304481,CALLEBAUT,Hannes,1992,M,BEL,Izegemse Krekel Zwemmers,56.91,t
+4308800,HUPPERTZ,Stefan,1999,M,BEL,Ecole Saint-Vith Natation,56.91,t
+4900487,ASSELMAN,Jasper,2003,M,BEL,Koninklijke Zwemclub Olympic A,56.91,t
+5030440,MATHIEU,Jack,2007,M,BEL,Zwemclub Schoten,56.91,t
+4308776,HAST,Kevin,1996,M,BEL,Royal Ostend Swimming Club,56.92,t
+4250510,MOORS,Warre,2004,M,BEL,Koninklijke Zwemclub Olympic A,56.92,t
+4750935,BLOM,Dieter,2000,M,BEL,First (Flanders Inter Regio Sw,56.93,t
+4742577,VAELEN,Tom,2001,M,BEL,Perron,56.93,t
+5393429,KERMAN,Halil,2007,M,BEL,First (Flanders Inter Regio Sw,57.13,t
+4302750,PUT,Dieter,1996,M,BEL,Genker Zwemvereniging Neptunus,56.94,t
+4812898,VAN NIEUWENHOVEN,Joran,2003,M,BEL,Leuven Aquatics,56.94,t
+5001819,VANDELOGT,Sebastian,2007,M,BEL,Belgium,56.94,t
+4334926,DAWANS,Audric,1997,M,BEL,Chaudfontaine Thermale Natatio,56.95,t
+5244741,DUREZ,Gerald,1976,M,BEL,Entente Des Nageurs Louvierois Natation,56.95,t
+5321421,VANHASSEL,Mathias,2007,M,BEL,Swimming Team Zennevallei,56.95,t
+4393234,FOSTER,Lucas,1993,M,BEL,Chaudfontaine Thermale Natatio,56.96,t
+4306348,LONGDOZ,Enki,1995,M,BEL,Liege Mosan,56.96,t
+4305981,JAMOULLE,Brieuc,1996,M,BEL,Liege Natation,56.96,t
+4779097,VAN DEN BOSCH,Stijn,2001,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.96,t
+5321414,BENSASSI,Abdallah,2009,M,BEL,Cercle Royal De Natation De Br,56.96,t
+4170682,OUDERMANS,Mathias,1990,M,BEL,Zwemclub Brabo Antwerpen,56.97,t
+5207887,RANSCHAERT,Guust,2008,M,BEL,Swimming Team Aalter,56.97,t
+5081007,VAN HAUWAERT,Joachim,2002,M,BEL,Blocry, Ottignies Et Univ.L.L.,56.98,t
+5470091,BOGAERTS,Thijs,2009,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.98,t
+4073167,VANDEN BORNE,Christophe,1987,M,BEL,Cercle Royal De Natation De Br,56.99,t
+4074941,DHOOP,Thomas,1990,M,BEL,Ursus Zwemklub Zwevegem,56.99,t
+4804726,CAPEL,Benoit,1991,M,BEL,Longchamp Swimming Club Uccle,56.99,t
+4828236,MAVROUDIS,Yanni,1992,M,BEL,Ecole de Natation Grace-Hollogne,56.99,t
+4246965,DUJARDIN,Theo,1995,M,BEL,Cercle Royal De Natation De Br,57.00,t
+4305122,DE WACHTER,Jonas,1995,M,BEL,Verenigde Willebroekse Zwemclu,57.00,t
+4309023,SEYMUS,Matthew,1996,M,BEL,Shark,57.00,t
+4304437,BRAHAM,Killian,1997,M,BEL,Royal Verviers Natation,57.00,t
+5137681,DE MEESTER,Wout,2002,M,BEL,Swimming Team Waasland,57.00,t
+4308917,NAILI,Diogo,1997,M,BEL,Swimming Club Strombeek-Grimbe,57.01,t
+4336756,BUS,Stanley,1998,M,BEL,Zwemclub Schoten,57.01,t
+5160275,ALAOUI,Othman,2001,M,BEL,Cercle Royal De Natation De Huy,57.01,t
+4989761,VANHOLLEBEKE,Maxence,2004,M,BEL,First (Flanders Inter Regio Sw,57.01,t
+4491315,COENEGRACHTS,Wout,1999,M,BEL,Zwemclub Tremelo,57.02,t
+4989762,VANHOOF,Wannes,2000,M,BEL,Koninklijke Racing Swimming Cl,57.02,t
+4792472,BENZIGER,Sacha,2002,M,BEL,Perron,57.03,t
+4721237,BOURDIAUD'HUY,Alexis,2003,M,BEL,Ms-Team,57.03,t
+4805055,APPELTANS,Frederic,1988,M,BEL,Genker Zwemvereniging Neptunus,57.04,t
+4804879,DENTENEER,Pieter,1990,M,BEL,Zwemvereniging Lier,57.04,t
+5214130,VAN DER AUWERA,Rens,2005,M,BEL,Heistse Zwemclub Arduas,57.04,t
+4074919,CLASSEN,Dominic,1987,M,BEL,Ecole Saint-Vith Natation,57.05,t
+4295897,VERACHTERT,Michiel,1997,M,BEL,Shark,57.05,t
+4304683,BRINGMANS,Kyle,1998,M,BEL,Swimming Team Tienen,57.05,t
+4378886,BISSCHOP,Tibo,1998,M,BEL,Koninklijke Brugse Zwem- & Red,57.05,t
+4426661,SIX,William,2000,M,BEL,Barracuda Club Saint-Ghislain,57.05,t
+5237102,CAPITTE,Baptiste,2006,M,BEL,Entente Des Nageurs Louvierois Natation,57.05,t
+4225699,GYSEN,Bob,1993,M,BEL,Zwemvereniging De Meerkoet Bre,57.06,t
+4583388,HUTZEMAKERS,Julien,1997,M,BEL,Liege Atlas Swimming Team,57.06,t
+5056595,HERMAN,Aidan,2005,M,BEL,First (Flanders Inter Regio Sw,57.06,t
+4140025,GODEAUX,Lionel,1960,M,BEL,Cercle De Natation Sportcity W,57.07,t
+4805102,LHEUREUX,Alexis,1992,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.07,t
+4308642,DE SMEDT,Tom,1989,M,BEL,Merksemse Zwemvereniging,57.07,t
+4692933,BELKHIALAT BOUZIANI,Yassin,2000,M,BEL,Cercle Royal De Natation De Br,57.07,t
+4828143,WESTERDYK,Jen,2001,M,BEL,Zwemvereniging brasschaatse D,57.07,t
+5139128,LOURTIE,Nicolas,2005,M,BEL,Perron,57.07,t
+4804522,WILMART,Maxime,1988,M,BEL,Charleroi Helios Aqua Team,57.08,t
+4199924,AGUILAR VASQUEZ,Enrique,1989,M,BEL,Cercle Royal De Natation De Br,57.08,t
+4139746,REYNDERS,Brecht,1993,M,BEL,Genker Zwemvereniging Neptunus,57.08,t
+4283140,VAN MIERLOO,Wim,1998,M,BEL,Peltse Zwemclub,57.08,t
+4812004,BORSU,Theo,2003,M,BEL,Flipper Natation Club Saint-Ge,57.08,t
+4878974,DEFLOOR,Jules,2001,M,BEL,Heistse Zwemclub Arduas,57.08,t
+4304378,BLONTROCK,Dries,1994,M,BEL,Temse Schelde Zwemmers,57.09,t
+4608342,NOYEZ,Clement,2001,M,BEL,Koninklijke Kortrijkse Zwemkri,57.09,t
+4679280,VAN DEN BROECK,Matteo,2001,M,BEL,Zwemclub Lorelei Londerzeel,57.09,t
+4843586,VAN LEYNSEELE,Tom,1999,M,BEL,Ronse Swimming Club,57.09,t
+4824139,VAN DEN BERGHE,Sebbe,2003,M,BEL,Swimming Team Zennevallei,57.09,t
+5067692,LYSEN,Cyril,2004,M,BEL,Espadon Leuze Natation,57.09,t
+5195035,COSTERMANS,Gilles,2003,M,BEL,Arvicola Zwemclub Kalmthout,57.09,t
+4874774,OP DE BEECK,Maarten,2003,M,BEL,Zwemclub de Dolfijnen Asse-T,57.09,t
+4804607,GRYSON,Laurent,1988,M,BEL,Les Espadons Cominois,57.10,t
+4199805,DE CONINCK,Stijn,1993,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.10,t
+4788307,MITITELU,Armand,2001,M,BEL,Cercle Royal De Natation De Br,57.10,t
+4306228,LEMAINE,Kevin,1995,M,BEL,Waterloo Natation,57.11,t
+4307932,VERCAMMEN,Sten,1993,M,BEL,Zwemvereniging Lier,57.11,t
+4971286,TORFS,Max,2004,M,BEL,Zwemclub de Dolfijnen Asse-T,57.11,t
+5001416,JOOSSENS,Raf,2004,M,BEL,Zwemclub Brabo Antwerpen,57.11,t
+4304995,DE FLEURQUIN,Bert,1995,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.12,t
+4331873,GORIS,Senne,1997,M,BEL,Arendonkse Zwemvereniging,57.12,t
+4892748,CAVALLONE,Matteo,1999,M,BEL,Barracuda Club Saint-Ghislain,57.12,t
+4799258,MOREAUX,Maxime,2002,M,BEL,Le Plouf Club,57.12,t
+5209386,SOBRIE,Gautier,2008,M,BEL,Royal Dauphins Mouscronnois,57.12,t
+4139834,DUNESME,Loic,1996,M,BEL,Mons Hainaut Natation,57.13,t
+5017951,JANSSEN,Tom,2003,M,BEL,Club Marsouins Ath,57.13,t
+4306777,PASCHALIDIS,Stefanos,1995,M,BEL,Dilbeekse Zwemvereniging,57.14,t
+4731905,MOYENS,Lennert,2002,M,BEL,Shark,57.14,t
+5422873,D'HOOGE,Liam,2008,M,BEL,Swimming Team Aalter,57.14,t
+5283029,VETS,Siebe,2008,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,57.14,t
+4804378,BAELUS,Tim,1986,M,BEL,Zwemclub olma Turnhout,57.15,t
+4225682,CHRISTIS,Maarten,1989,M,BEL,Zwemvereniging De Meerkoet Bre,57.15,t
+5004568,BEN NAIM,Rayane,2001,M,BEL,Cercle Royal De Natation De Br,57.15,t
+4880261,LIESSE,Simon,2002,M,BEL,Club De Natation Bastogne,57.15,t
+5317386,VANDENBERGH,Lars,2005,M,BEL,Molse Zwemclub mozka,57.15,t
+4308586,COBBAUT,Mathias,1988,M,BEL,Koninklijke Racing Swimming Cl,57.16,t
+4306816,PEETERS,Vincent,1994,M,BEL,Swem Vrienden,57.16,t
+4812387,VAN SCHINGEN,Ludovic,1998,M,BEL,Swimming Club Rixensart,57.16,t
+4929123,LOURTIE,Theo,2004,M,BEL,Perron,57.16,t
+4200146,DEBUSSCHERE,Nick,1991,M,BEL,Swimming Club Strombeek-Grimbe,57.17,t
+4225732,ANDRIES,Arne,1994,M,BEL,Shark,57.17,t
+4925460,ERNST,Gregory,1979,M,BEL,Schwimmverein Delphin Eupen,57.17M,t
+4308511,BAUDUIN,Liam,1998,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.17,t
+4743378,WILLEMART,Francois,1997,M,BEL,Club Arapaimas Beauraing,57.17,t
+4897346,WOUTERS,Maxim,2002,M,BEL,Shark,57.17,t
+5366412,VANDERSTICHELEN,Oscar,2008,M,BEL,Cercle Royal De Natation De To,57.17,t
+4085676,AERTS-BANCKEN,Edouard,1992,M,BEL,Embourg Natation,57.18,t
+4972467,VAN HECKE,Maxim,2002,M,BEL,Dendermondse Zwemvereniging Ol,57.18,t
+4074688,COPPENS,Jonah,1988,M,BEL,Zwemclub Tremelo,57.19,t
+4804928,DE CUYPER,Hans,1986,M,BEL,Koninklijke Racing Swimming Cl,57.19,t
+4199891,GRANDIO,Anthony,1990,M,BEL,Mons Hainaut Natation,57.19,t
+4334613,GOETHALS,Timon,1997,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.19,t
+4347007,PAREDIS,Leander,1999,M,BEL,Zwemvereniging De Meerkoet Bre,57.19,t
+4663930,VANWIJNSBERGHE,Loic,2007,M,BEL,Flemish Ardennes Swimming Team,57.19,t
+4804336,BILLET,Francois,1980,M,BEL,Royal Dauphins Mouscronnois,57.20,t
+4676037,ALESSANDRO,David,1983,M,BEL,Chaudfontaine Thermale Natatio,57.20,t
+4620651,GIEGHASE,Jente,1998,M,BEL,Lommelse Zwemvereniging de Lo,57.20,t
+4524129,EVENS,Tom,1999,M,BEL,Molse Zwemclub mozka,57.20,t
+4804296,UWAERTS,Pieter,1987,M,BEL,Zwemclub Brabo Antwerpen,57.21,t
+4805153,DEGALAN,Nicolas,1989,M,BEL,Cercle Royal De Natation De Br,57.21,t
+4163607,GODIN,Francois,1994,M,BEL,Belgium,57.21,t
+4305171,DECEUKELIER,Yasser,1993,M,BEL,Gold Swimming Team,57.22,t
+4308658,DECEUNINCK,Wouter,1995,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.22,t
+4804827,GERARD,Patrice,1988,M,BEL,Val De Mehaigne Natation Wanze,57.23,t
+4139854,ROMANINI,Clement,1995,M,BEL,Squalus Nautic Club Gilly,57.23,t
+4413199,MESSIAEN,Lowie,1995,M,BEL,Genker Zwemvereniging Neptunus,57.23,t
+4748274,DE BACKER,Levi,1998,M,BEL,Zwemclub Tieltse Zeeduivels,57.23,t
+4074696,GOOSSENS,Ruben,1989,M,BEL,Zwemclub Tremelo,57.24,t
+4225689,HEINEN,Sven,1976,M,BEL,Ecole Saint-Vith Natation,57.24,t
+4439421,CUYPERS,Joos,1998,M,BEL,Peltse Zwemclub,57.24,t
+4804973,HERMANS,Arnaud,1977,M,BEL,Charleroi Helios Aqua Team,57.25,t
+4805341,VAES,Lukas,1994,M,BEL,Koninklijke Hasseltse Zwemvere,57.25,t
+5185845,BIESMANS,Jens,2007,M,BEL,Koninklijke Hasseltse Zwemvere,57.25,t
+4804947,THEUNIS,Sietse,1986,M,BEL,Lommelse Zwemvereniging de Lo,57.26,t
+4074385,BUSEYNE,Thomas,1987,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.26,t
+4295811,JAMAR DE BOLSEE,Tristan,1994,M,BEL,Liege Mosan,57.26,t
+4306355,LOSSA,Mathias,1995,M,BEL,First (Flanders Inter Regio Sw,57.26,t
+4804348,GOOSSENS,Roald,1985,M,BEL,Genker Zwemvereniging Neptunus,57.27,t
+4804430,VISEE,Cedric,1992,M,BEL,Mons Hainaut Natation,57.27,t
+4287308,KEUPPENS,Stijn,1999,M,BEL,Heistse Zwemclub Arduas,57.27,t
+4905584,EL YAZIDI,Sofian,1996,M,BEL,Swimming Team Zennevallei,57.27,t
+4804848,VANDOOREN,Xavier,1991,M,BEL,Koninklijke Kortrijkse Zwemkri,57.28,t
+4303678,STAPPAERTS,Jef,1987,M,BEL,Kempisch Swimming Team,57.28,t
+4199890,GRANDIO QUIJADA,Alexandre,1990,M,BEL,Mons Hainaut Natation,57.28,t
+4563580,BEIRENS,Emiel,2000,M,BEL,Aalterse Zwemvereniging,57.28,t
+4588021,LEENDERS,Bram,2000,M,BEL,Shark,57.28,t
+5158921,LEMENSE,Cederic,2002,M,BEL,Royal Ostend Swimming Club,57.28,t
+5002305,PELGRIMS-RENS,Yorben,2005,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,57.28,t
+5259530,POULS,Roderik,2007,M,BEL,Genker Zwemvereniging Neptunus,57.28,t
+4109458,BELSO GERMADAS,Jaime,1989,M,BEL,Cercle De Natation Sportcity W,57.29,t
+4805413,LATINNE,Alessandro,1990,M,BEL,Zwemclub Beringen-Mijn,57.29,t
+4804455,COOREMANS,Nick,1989,M,BEL,Zwemclub Brabo Antwerpen,57.29,t
+5063708,MIKUS,Loic,2002,M,BEL,Barracuda Club Saint-Ghislain,57.29,t
+4989673,OVYN,Basile,2004,M,BEL,AART-Lorelei-Zwemvereniging,57.29,t
+4805053,VAN LAER,Erbout,1987,M,BEL,Belgium,57.30,t
+4185203,DE WITTE,Glenn,1993,M,BEL,Dilbeekse Zwemvereniging,57.30,t
+4309476,DEFAUW,Victor,1998,M,BEL,Swimming Club Wauterbos Rode,57.30,t
+4833468,VRIELYNCK,Maximilien,2000,M,BEL,Cercle Royal De Natation De Br,57.30,t
+4999934,PROVOOST,Xander,2004,M,BEL,Torhoutse Zwemklub Thor,57.30,t
+4805106,BAUWENS,Maxim,1990,M,BEL,Zwemclub Brabo Antwerpen,57.31,t
+4398134,THOONEN,Jonas,1994,M,BEL,Nautilus Geraardsbergen,57.31,t
+4999881,BEIRNAERT,Brecht,2002,M,BEL,Swimming Team Waasland,57.31,t
+5210546,VAN HISSENHOVEN,Korneel,2006,M,BEL,Koninklijke Racing Swimming Cl,57.31,t
+4139734,VERHEECKE,Laurens,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.32,t
+4883163,D'EXELLE,Cedric,2002,M,BEL,Zwemclub Schoten,57.32,t
+4900531,MIGNON,Gabriel,2001,M,BEL,Flipper Natation Club Saint-Ge,57.33,t
+5000757,GIRS,Matheo,2002,M,BEL,Belgium,57.33,t
+5199440,FRANCKEN,Tiebe,2006,M,BEL,Arvicola Zwemclub Kalmthout,57.33,t
+4299659,VANDER SANDE,Olivier,1993,M,BEL,Zwemvereniging Lier,57.34,t
+5196473,VERBRUGGE,Lucas,2005,M,BEL,Koninklijke Kortrijkse Zwemkri,57.34,t
+4804661,VANDERVOORT,Niels,1990,M,BEL,Geelse Sportvereniging Zwemmen,57.35,t
+4620594,KETELAARS,Philippe,1990,M,BEL,Zwemclub Iloka Kapellen,57.35M,t
+5006330,DELBECQUE,Tore,2000,M,BEL,Gold Swimming Team,57.35,t
+4417634,LEIRS,Edward,2006,M,BEL,Heistse Zwemclub Arduas,57.35,t
+4805054,NIZET,Jerome,1984,M,BEL,Flipper Natation Club Saint-Ge,57.36,t
+4804730,COCHET,Jelle,1989,M,BEL,Lommelse Zwemvereniging de Lo,57.36,t
+4805345,SWERTS,Gregory,1992,M,BEL,Royal Brussels Poseidon,57.36,t
+4311183,REICHELT,Thibaut,1996,M,BEL,Swimming Team Tienen,57.36,t
+5369585,GEENS,Dre,2009,M,BEL,Zwemclub Tremelo,57.36,t
+4805271,WIELOCKX,Jorig,1992,M,BEL,Koninklijke Hasseltse Zwemvere,57.37,t
+4307911,VERBELEN,Arno,1995,M,BEL,Zoro,57.37,t
+4433327,VANDER SANDE,Stan,1999,M,BEL,Zwemclub Tremelo,57.37,t
+5177178,VAN KERKHOVE,Jasper,2001,M,BEL,Koninklijke Zwemclub White Sta,57.37,t
+5321420,EL MARGOUM,Hatim,2007,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,57.37,t
+5283038,VANDERHAEGHE,Antwan,2009,M,BEL,Iswim,57.37,t
+4074967,SOETEWEY,Jeroen,1988,M,BEL,Zwemclub Brabo Antwerpen,57.38,t
+4805249,SYSMANS,Jeroen,1989,M,BEL,Geelse Sportvereniging Zwemmen,57.38,t
+4308920,NAVEZ,Ludovic,1982,M,BEL,Cercle De Natation Sportcity W,57.38,t
+4295866,VAREWYCK,Charly,1995,M,BEL,Waterloo Natation,57.38,t
+5138002,SCHOOVAERTS,Thomas,2006,M,BEL,Zwemclub Kapelle-O/D-Bos,57.38,t
+4804451,HESMANS,Benjamin,1990,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.39,t
+4136889,VAN EESTER,Wouter,1992,M,BEL,Shark,57.39,t
+4074511,MOERMAN,Nicolai,1991,M,BEL,Shark,57.39,t
+4295797,CREPIN,Remi,1995,M,BEL,Cercle Royal De Natation De Br,57.39,t
+4733776,DECUYPER,Brecht,2000,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.39,t
+5004079,VERLEYE,Michiel,2003,M,BEL,Zwemclub Geel,57.39,t
+4826637,MENTENS,Jarne,2003,M,BEL,Zwemvereniging De Meerkoet Bre,57.39,t
+5169418,PICKAVET,Joachim,2006,M,BEL,TiMe Swimming Team,57.39,t
+5349884,FEYS,Jonah,2009,M,BEL,Koninklijke Kortrijkse Zwemkri,57.39,t
+4074814,BAMMENS,Julien,1988,M,BEL,Liege Mosan,57.40,t
+4805107,BEERENS,Kevin,1991,M,BEL,Zwemclub Brabo Antwerpen,57.40,t
+4353451,VANDENBEMPT,Ruben,1998,M,BEL,Brabant East Swimming Team,57.40,t
+4587756,VAN EETVELT,Mattias,2000,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.40,t
+4914326,TRIPIER,Yann,2004,M,BEL,Royal Dauphins Mouscronnois,57.40,t
+4804472,VAN DE WEYER,Raf,1988,M,BEL,Zwemclub Brabo Antwerpen,57.41,t
+4200197,COP,Jurgen,1992,M,BEL,Zwemclub Brabo Antwerpen,57.41,t
+4398037,VAN PASSEL,Emiel,1997,M,BEL,Zwemclub Brabo Antwerpen,57.41,t
+5244221,DELINEAU,Jean-Sebastien,2001,M,BEL,Belgium,57.41,t
+4307673,VAN LOOY,Joost,1997,M,BEL,Heistse Zwemclub Arduas,57.41,t
+4804930,ROGIERS,Jo,1963,M,BEL,Koninklijke Racing Swimming Cl,57.42,t
+4804424,VANCAUWENBERGH,Bram,1989,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,57.42,t
+4804450,FRANCOIS,Guillaume,1989,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.42,t
+4307317,SWERTS,Thomas,1994,M,BEL,Zwemvereniging De Meerkoet Bre,57.42,t
+4295960,IN' T VEN,Lenn,1998,M,BEL,De Beringse Tuimelaars,57.42,t
+4143914,BRASSEUR,Adrien,1986,M,BEL,Chaudfontaine Thermale Natatio,57.42,t
+5018044,DUJARDIN,Goan,2004,M,BEL,Gold Swimming Team,57.42,t
+5283059,VERHULST,Lennert,2007,M,BEL,Aquarius Zwemclub Lebbeke,57.42,t
+5350610,TOPS,Mika,2006,M,BEL,Lommelse Zwemvereniging de Lo,57.42,t
+5485716,LEONARD,Arthur,2006,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.42,t
+4074686,DE CREM,Ennio,1990,M,BEL,Zwemclub Tremelo,57.43,t
+4827979,COUCKUYT,Henri,2000,M,BEL,Koninklijke Kortrijkse Zwemkri,57.43,t
+4082798,DETRY,Steve,1989,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.44,t
+4308841,LAMMERTYN,Ruben,1994,M,BEL,Koninklijke Zwemclub Neptunus,57.44,t
+4439777,WIJSMAN,Maxim,1992,M,BEL,Zwemclub Iloka Kapellen,57.44M,t
+4074848,JACOB,Geoffrey,1988,M,BEL,Herstal Natation,57.45,t
+5213268,BAKHAT HABIBI,Nouhail,2004,M,BEL,Cercle Royal De Natation De Br,57.45,t
+4309506,VAN DER DONCKT,Steffen,1998,M,BEL,Brabant East Swimming Team,57.46,t
+5111336,MAAROUFI,Ismael,2003,M,BEL,First (Flanders Inter Regio Sw,57.46,t
+5079235,VAN GORP,Fons,2005,M,BEL,Leuven Aquatics,57.46,t
+4066241,KINT,Kevin,1988,M,BEL,Royal Dauphins Mouscronnois,57.47,t
+4074708,WULLEPUT,Nicolas,1987,M,BEL,Club De Natation Bastogne,57.47,t
+4200230,GYSSENS,David,1987,M,BEL,Zwemclub Brabo Antwerpen,57.47,t
+4804696,DEPUYDT,Cedric,1989,M,BEL,Koninklijke Kortrijkse Zwemkri,57.47,t
+4396341,DE POTTER,Quentin,1994,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.47,t
+4074505,LORMANS,Jesse,1993,M,BEL,Zwemclub Geel,57.47,t
+4639987,KONIJN,Pieter-Jan,2000,M,BEL,Leuven Aquatics,57.47,t
+4777817,VAN ROMPAEY,Dries,2001,M,BEL,Zwemclub Brabo Antwerpen,57.47,t
+4779110,LINGIER,Elias,2002,M,BEL,Royal Ostend Swimming Club,57.47,t
+4303644,ROELS,David,1979,M,BEL,Active Company,57.48M,t
+4777259,VAN ZANDE,Jaro,1996,M,BEL,Dendermondse Zwemvereniging Ol,57.48,t
+4922780,NEYRYNCK,Tibo,2001,M,BEL,First (Flanders Inter Regio Sw,57.48,t
+5177212,DE BLOCK,Jonas,2002,M,BEL,Flemish Ardennes Swimming Team,57.48,t
+5058456,RABIE,Ilias,2008,M,BEL,Koninklijke Vilvoordse Zwemclu,57.48,t
+5210539,D'HONDT,Connor,2005,M,BEL,Shark,57.49,t
+4648980,VAN DE GENDER,Nils,2007,M,BEL,Swimming Team Waasland,57.49,t
+4303620,NANSION,Jean-Francois,1978,M,BEL,Cercle Royal De Natation De To,57.50,t
+4303503,DE VISSCHER,Koen,1985,M,BEL,Zuidlede Zwemmers,57.50,t
+4140038,FRANCK,Xavier,1985,M,BEL,Nautic Club Herve,57.50,t
+4225733,VAN STEEN,Robin,1992,M,BEL,Zwemvereniging Lier,57.50,t
+4910791,DEMEZ,Florian,1997,M,BEL,Royal Ensival Natation,57.50,t
+4750920,SARAGLOU,Lucas,2001,M,BEL,Royal Verviers Natation,57.50,t
+5285178,LEBARILLIER,Clement,2006,M,BEL,Royal Verviers Natation,57.50,t
+4303618,MOSSELMANS,Niko,1986,M,BEL,Swimming Team Zennevallei,57.51,t
+4139788,BULS,Kristof,1994,M,BEL,Verenigde Willebroekse Zwemclu,57.51,t
+4169979,HERMAN,Hugues,1966,M,BEL,Belgium,57.51,t
+4074501,GHEUENS,Geert,1988,M,BEL,Shark,57.52,t
+4060330,RICHELLE,Eric,1977,M,BEL,Longchamp Swimming Club Uccle,57.52,t
+4199883,VERACHTERT,Thomas,1991,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,57.52,t
+4731879,VISEE,Corentin,1997,M,BEL,Barracuda Club Saint-Ghislain,57.52,t
+4308578,CHEVREMONT,Etienne,1998,M,BEL,Royal Verviers Natation,57.52,t
+4741113,DEBRABANDERE,Paul,2001,M,BEL,Leuven Aquatics,57.52,t
+4742813,MALFROID,Hugo,2004,M,BEL,Belgium,57.52,t
+4804374,MEUL,Jeroen,1985,M,BEL,Meense Zwemkring,57.53,t
+4634180,VAN DRIESSCHE,Gilles,1988,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,57.53,t
+4980118,DE GEEST,Louis,2001,M,BEL,Cercle De Natation Sportcity W,57.53,t
+4763726,SERRARIS,Damien,2000,M,BEL,First (Flanders Inter Regio Sw,57.53,t
+4754021,NIETO RODRIGUEZ,Alexander,2002,M,BEL,Dilbeekse Zwemvereniging,57.53,t
+5091185,MARENNE,Martin,2004,M,BEL,Waterloo Natation,57.53,t
+5279026,GARCIA ZAMORA,Esteban,2009,M,BEL,Perron,57.53,t
+5387527,VIDTS,Brecht,2008,M,BEL,Koninklijke Zwemclub Neptunus,57.53,t
+4287310,SEYMUS,Jochen,1992,M,BEL,Shark,57.54,t
+4439458,DE WITTE,Eskill,1999,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.54,t
+4309210,VERMEULEN,Robbin,1998,M,BEL,Swimming Team Waasland,57.54,t
+5190339,SEUTIN,Bastien,1999,M,BEL,Mons Hainaut Natation,57.54,t
+5478224,DELSAERDT,Boyd,2007,M,BEL,Belgium,57.54,t
+5384441,PATTYN,Lowie,2010,M,BEL,TiMe Swimming Team,57.54,t
+4305939,HUYLEBROECK,Cis,1998,M,BEL,Zwemclub Brabo Antwerpen,57.55,t
+4304679,BRACQUEZ,Sebastiaan,1998,M,BEL,Bruinvissen Diksmuide,57.55,t
+4745996,CUIJPERS,Robin,1999,M,BEL,Genker Zwemvereniging Neptunus,57.55,t
+5091285,LACHAPELLE,Nathan,2003,M,BEL,Waterloo Natation,57.55,t
+4929100,TAMIGNEAUX,Arthur,2004,M,BEL,Perron,57.55,t
+5120450,DE GRAUWE,Arne,2005,M,BEL,Swimming Team Waasland,57.55,t
+5510037,BERLAMONT,Daan,2010,M,BEL,Leuven Aquatics,57.55,t
+5179545,LEMMENS,Milo,2006,M,BEL,Arendonkse Zwemvereniging,57.56,t
+5325221,VANHOVE,Edouard,2005,M,BEL,Jod,57.56,t
+4307043,ROSU,Michael,1981,M,BEL,Flipper Natation Club Saint-Ge,57.57,t
+5282750,BAUWENS,Aron,2006,M,BEL,Koninklijke Zwemclub Olympic A,57.57,t
+5350361,SYLVIO,Sacha,2010,M,BEL,Entente Des Nageurs Louvierois Natation,57.57,t
+5272913,OTTEVAERE,Alexander,2008,M,BEL,Zwemclub Brabo Antwerpen,57.57,t
+4804510,FIORDALISO,Thomas,1988,M,BEL,Charleroi Helios Aqua Team,57.58,t
+4140042,FRIEDRICHS,Christian,1985,M,BEL,Ecole Saint-Vith Natation,57.58,t
+4804741,BEELPREZ,Jonas,1993,M,BEL,Meense Zwemkring,57.58,t
+4804538,LE PLAS,Thomas,1993,M,BEL,Cercle Royal De Natation De Br,57.58,t
+4729178,PARMENTIER,Aymeric,1993,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.58,t
+5290565,BOLLU,Luca,2008,M,BEL,Koninklijke Vilvoordse Zwemclu,57.58,t
+4262642,GELUYKENS,Hans,1988,M,BEL,Swimming Arlon Bastogne,57.59,t
+4595951,LE PALLEC,Arthur,2005,M,BEL,Waterloo Natation,57.59,t
+4826643,CROES,Andreas,2002,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,57.60,t
+5099277,ROTTIERS,Boris,2005,M,BEL,First (Flanders Inter Regio Sw,57.60,t
+5242902,VANDORPE,Dante,2008,M,BEL,Flemish Ardennes Swimming Team,57.61,t
+4295955,VINCKEN,Roy,1993,M,BEL,Zwemclub Maasmechelen,57.62,t
+4707886,ROBIN,Thomas,2000,M,BEL,Belgium,57.62,t
+4417701,LEIRS,Lode,2005,M,BEL,Heistse Zwemclub Arduas,57.62,t
+4805138,VERMEULEN,Joe,1991,M,BEL,Zwemclub Brabo Antwerpen,57.63,t
+4826685,VYVEY,Rizuan,2003,M,BEL,Aalsters Swimming Team,57.63,t
+5001415,VERREET,Milan,2005,M,BEL,Nijlense Zwemclub,57.63,t
+5485750,KONAKCI,Akin,2009,M,BEL,Namur Olympic Club,57.63,t
+4306821,PELEMAN,Jonas,1996,M,BEL,Zwemvereniging Wetthra Wettere,57.64,t
+4917620,IGODT,Wout,2002,M,BEL,Zwemclub Ter Borcht-Meulebeke,57.64,t
+5610898,VAN DEN ELSKEN,Michael,1981,M,BEL,Molse Zwemclub mozka,57.64M,t
+5163773,NOWAK,Adrien,2008,M,BEL,Nautic Club Herve,57.64,t
+5067697,DUFOND,Noah,2005,M,BEL,Entente Des Nageurs Louvierois Natation,57.64,t
+5298714,DORATIOTTO,Tom,2008,M,BEL,CNC Les Flippers Ciney,57.64,t
+4416411,FRANCOIS,Wout,2007,M,BEL,Torhoutse Zwemklub Thor,57.64,t
+4096016,MATTUCCI,Aurelien,1988,M,BEL,Espadon Leuze Natation,57.65,t
+4946794,JANSSENS,Karl,1976,M,BEL,Brabant East Swimming Team,57.65M,t
+4736442,GILSON,Randy,1998,M,BEL,Belgium,57.65,t
+4634428,VERBEECK,Marc,1968,M,BEL,Zwemclub Iloka Kapellen,57.65M,t
+4620691,DUHAMEL,Thibault,2001,M,BEL,AART-Lorelei-Zwemvereniging,57.65,t
+4733758,SERBEST,Ilyas,2000,M,BEL,Swimming Team Tienen,57.65,t
+4237225,VAN REETH,Robbe,2005,M,BEL,Zwemclub Brabo Antwerpen,57.66,t
+4074300,LHEUREUX,Pierre,1992,M,BEL,Embourg Natation,57.67,t
+4804800,PEETERS,Wouter,1991,M,BEL,Shark,57.67,t
+4600475,DUPONT,Wannes,1999,M,BEL,Leuven Aquatics,57.67,t
+5004082,SAIDI,Yassin,2004,M,BEL,Zwemclub Brabo Antwerpen,57.67,t
+4295887,JURGEN,Nick,1995,M,BEL,Shark,57.68,t
+4779016,BOULEZ,Edouard,2002,M,BEL,Zwemclub de Dolfijnen Asse-T,57.68,t
+4929055,VAN GENECHTEN,Klaas,2003,M,BEL,Koninklijke Vilvoordse Zwemclu,57.68,t
+4805214,LAMBERT,Louis,1994,M,BEL,Embourg Natation,57.69,t
+4304898,DAENINCK,Kevin,1996,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.69,t
+5203197,ROBBERECHTS,Robbe,2007,M,BEL,AART-Lorelei-Zwemvereniging,57.69,t
+4225684,BOURDOUX,Stanilas,1989,M,BEL,Embourg Natation,57.70,t
+4308214,PORTERS,Isaak,1998,M,BEL,Aalterse Zwemvereniging,57.70,t
+4922556,DE BRUYN,Senne,2003,M,BEL,Zwemclub Kapelle-O/D-Bos,57.70,t
+4200234,VAN HAESENDONCK,Ben,1991,M,BEL,Zwemclub Brabo Antwerpen,57.71,t
+4305128,DE WEE,Amaury,1997,M,BEL,Swimming Team Tienen,57.71,t
+4695394,GOIRE,Adrien,1998,M,BEL,Embourg Natation,57.71,t
+4420221,DE PAEPE,Mattijs,1999,M,BEL,Leuven Aquatics,57.71,t
+5002312,GODDERIS,Neel,2003,M,BEL,Tiense Regio United Swimming Team,57.71,t
+5277356,COTAN,Alexandru,2006,M,BEL,Ms-Team,57.71,t
+4303459,BERGMANS,Jef,1989,M,BEL,Lommelse Zwemvereniging de Lo,57.72,t
+4136948,PEETERS,Jeroen,1993,M,BEL,Zwemclub Tremelo,57.72,t
+4255113,SURGELOOSE,Lance,1996,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.72,t
+4426622,EL KADDOURI,Mehdi,1996,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,57.72,t
+5067646,RYCKEWAERT,Thibault,1999,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.72,t
+5243694,DELESALLE,Louis,2008,M,BEL,Brabant East Swimming Team,57.72,t
+5099283,VAN HOOREBEKE,Noah,2005,M,BEL,First (Flanders Inter Regio Sw,57.72,t
+5346834,BAELEN,Tobe,2010,M,BEL,De Beringse Tuimelaars,57.72,t
+4081752,VAN DESSEL,Jordi,1990,M,BEL,Ecole Seraing Natation,57.73,t
+4304724,CHRISTIAENS,Gilles,1994,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,57.73,t
+5004094,LINSINGH,Thibault,2003,M,BEL,Zwemvereniging De Meerkoet Bre,57.73,t
+4804859,SCHREURS,Jeroen,1988,M,BEL,Zwemclub Tremelo,57.74,t
+4347005,CAENEPEEL,Vincent,1998,M,BEL,Genker Zwemvereniging Neptunus,57.74,t
+4313301,VANDERBRUGGEN,Hidde,1998,M,BEL,Leuven Aquatics,57.74,t
+5251248,LAEREMANS,Michiel,2005,M,BEL,Shark,57.74,t
+4484696,DE VLEESCHOUWER,Thierry,1992,M,BEL,Zwemvereniging Lier,57.75,t
+4988291,PEETERS,Tijs,2004,M,BEL,Zwemclub Brabo Antwerpen,57.75,t
+4804735,D'HAEMER,Laurenz,1988,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.76,t
+4307318,SWERTVAEGHER,Maxime,1992,M,BEL,Swimming Team Saint-Hubert,57.76,t
+5356790,DAVID,Alan,2010,M,BEL,Perron,57.76,t
+4306988,RICQUIER,Thomas,1994,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,57.77,t
+4792985,LIPPENS,Wout,2000,M,BEL,Leuven Aquatics,57.77,t
+4833422,DAZY,Sam,2003,M,BEL,Cercle Royal De Natation Arlonais,57.77,t
+5169399,VANHOUCKE,Rune,2004,M,BEL,Veurnse Zwemvereniging,57.77,t
+5199475,DRUWEL,Mauro,2008,M,BEL,TiMe Swimming Team,57.77,t
+4805121,HEIRMAN,Greg,1991,M,BEL,Zwemclub Brabo Antwerpen,57.78,t
+4588265,PELS,Robijn,1999,M,BEL,Bruinvissen Diksmuide,57.78,t
+5017959,HOUTEVELT,Kyllian,2002,M,BEL,Zwemclub ZIOS Liedekerke,57.78,t
+5414566,DOOMEN,Marnix,2009,M,BEL,Zwemvereniging Lier,57.78,t
+4305668,GHYSEL,Thomas,1987,M,BEL,Namur Olympic Club,57.79,t
+4307453,UMANS,Jelle,1994,M,BEL,Shark,57.79,t
+5105567,RASSART,Victor,2003,M,BEL,Royal Brussels Poseidon,57.79,t
+4068858,BLONDEEL,Olivier,1980,M,BEL,Cercle De Natation Sportcity W,57.80,t
+4576663,RILLOF,Arko,1999,M,BEL,Swimming Club Wauterbos Rode,57.80,t
+4676418,BROSENS,Marnix,1995,M,BEL,Belgium,57.80,t
+4804725,VERDICKT,Wouter,1991,M,BEL,Zwemclub Lorelei Londerzeel,57.81,t
+4805208,D'HOLLANDER,Joeri,1991,M,BEL,Dendermondse Zwemvereniging Ol,57.81,t
+4307273,STEENACKERS,Thomas,1996,M,BEL,First (Flanders Inter Regio Sw,57.81,t
+5336509,COENEN,Remco,2003,M,BEL,Sint-Truidense Zwemclub,57.81,t
+4567904,BRYNAERT,Jonas,2007,M,BEL,Swimming Team Zennevallei,57.81,t
+4804878,TIMMERMANS,Robin,1989,M,BEL,Belgium,57.82,t
+4200016,FAVRESSE,Simon,1992,M,BEL,Cercle De Natation Sportcity W,57.82,t
+4200205,VAN ECHELPOEL,Stijn,1992,M,BEL,Zwemclub Brabo Antwerpen,57.82,t
+4306284,LEYMAN,Reinout,1997,M,BEL,Zwemclub de Dolfijnen Asse-T,57.82,t
+4358798,HEIRMAN,Philip,1997,M,BEL,Swimming Team Waasland,57.82,t
+4428536,BIERMANS,Cas,2000,M,BEL,Brabant East Swimming Team,57.82,t
+5053057,VANLANGENDONCK,Tim,2002,M,BEL,Peltse Zwemclub,57.82,t
+5169876,KEISERS,Tibo,2009,M,BEL,Arendonkse Zwemvereniging,57.82,t
+4804679,BORTELS,Jeff,1992,M,BEL,Koninklijke Hasseltse Zwemvere,57.83,t
+4199817,DE SAEDELEER,Joerik,1993,M,BEL,Gold Swimming Team,57.83,t
+4839535,SCHUMACHER,Lou,2002,M,BEL,Herstal Natation,57.83,t
+4221693,DE KONING,Ruben,2007,M,BEL,Zwemclub Brabo Antwerpen,57.83,t
+5281017,VAN DAELE,Daan,2009,M,BEL,Flemish Ardennes Swimming Team,57.83,t
+4804459,DIELTIENS,Jonas,1991,M,BEL,Zwemclub Brabo Antwerpen,57.84,t
+4393624,JANSSEN,Lukas,1996,M,BEL,Zwemvereniging Lier,57.84,t
+5009523,DE VALCK,Matteo,2005,M,BEL,Zwemclub Kapelle-O/D-Bos,57.84,t
+4812489,LOURTIE,Hugo,2002,M,BEL,Perron,57.84,t
+4565681,EECKHOUT,Laurens,1998,M,BEL,First (Flanders Inter Regio Sw,57.85,t
+4305178,DECONINCK,Michiel,1995,M,BEL,Gold Swimming Team,57.85,t
+4984035,FRANCOIS,Mathias,2003,M,BEL,Ecole De Natation Waremmienne,57.85,t
+4804929,PAPS,Stijn,1982,M,BEL,Koninklijke Racing Swimming Cl,57.86,t
+4303465,BOGAERTS,Michel,1975,M,BEL,Swimming Club Zaventem,57.86,t
+4295996,LE CLERCQ,Mike,1995,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.86,t
+4922035,KONE,Cedric,2001,M,BEL,Swimming Club Strombeek-Grimbe,57.86,t
+5105584,GERON,Romain,1994,M,BEL,Nautic Club Herve,57.86,t
+4804680,BUGLIONE,Raphaello,1989,M,BEL,Koninklijke Hasseltse Zwemvere,57.87,t
+4085681,MOREAU,Lionel,1988,M,BEL,Liege Mosan,57.87,t
+4691698,KINT,Michael,1999,M,BEL,Aalterse Zwemvereniging,57.87,t
+5321418,DETOBEL,Dreas,2007,M,BEL,Swimming Team Zennevallei,57.87,t
+4308224,MEURANT,Jason,1997,M,BEL,Entente Des Nageurs Louvierois Natation,57.88,t
+5167357,JUWE,Arne,2004,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,57.88,t
+5213292,SALOMEZ,Haakon,2006,M,BEL,Bruinvissen Diksmuide,57.88,t
+4804824,MALMENDIER,Mathieu,1990,M,BEL,Royal Verviers Natation,57.89,t
+4308778,HAUTEKEETE,Chesney,1991,M,BEL,Zwemclub Lorelei Londerzeel,57.89,t
+4096015,MARTIN,Aurelien,1993,M,BEL,Espadon Leuze Natation,57.89,t
+4251719,CAPELLE,Corentin,1995,M,BEL,Natation Club Athus,57.89,t
+4777800,RASSCHAERT,Bart,1978,M,BEL,Swimming Team Waasland,57.89,t
+4481809,BIAD,Karim,1999,M,BEL,Club Marsouins Ath,57.89,t
+4140045,LEROY,Daniel,1984,M,BEL,Schwimmverein Delphin Eupen,57.90,t
+4804758,CATINUS,Youri,1989,M,BEL,Namur Olympic Club,57.90,t
+4804727,DEGLAIN,Simon,1991,M,BEL,Societe Royale La Nage Saint-Gilles,57.90,t
+4742546,BRONCHART,Pierre,1996,M,BEL,Royal Brussels Poseidon,57.90,t
+4688833,MEULEMAN,Matthias,2000,M,BEL,Zwemclub Brabo Antwerpen,57.90,t
+4914320,CAMERLYNCK,Mathias,2004,M,BEL,Koninklijke Vilvoordse Zwemclu,57.90,t
+5183352,DEVOS,Jochem,2007,M,BEL,Iswim,57.90,t
+4494305,DEVOS,Jonas,2000,M,BEL,Izegemse Krekel Zwemmers,57.91,t
+4755118,EMMERS,Jim,2002,M,BEL,Peltse Zwemclub,57.91,t
+4608389,BOCKSTAELE,Shean,2001,M,BEL,Swem Vrienden,57.91M,t
+4199947,VANDER EECKT,Jeroen,1989,M,BEL,Dilbeekse Zwemvereniging,57.92,t
+4200039,VANDERVONDELEN,Thomas,1990,M,BEL,Zwemclub Otters Mortsel,57.92,t
+4805418,VERMEERSCH,Vincent,1993,M,BEL,Gold Swimming Team,57.92,t
+4615199,VAN BEERSEL,Hendrik,1997,M,BEL,Koninklijke Racing Swimming Cl,57.92,t
+5079234,VAN DER DONCKT,Jannes,2005,M,BEL,Leuven Aquatics,57.92,t
+5437285,MARQUET,Julien,1982,M,BEL,Cercle De Natation Sportcity W,57.92M,t
+5010402,WUYTS,Tom,1984,M,BEL,Leuven Aquatics,57.93,t
+4722989,PIRE,Clement,1998,M,BEL,Club Arapaimas Beauraing,57.93,t
+4645964,MAXIMUS,Xaino,2001,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.93,t
+4074379,DEMAN,Mathieu,1989,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.94,t
+4805069,VAN HOOF,Jeroen,1987,M,BEL,Zwemvereniging Lier,57.94,t
+4200244,MARCKX,Gay,1992,M,BEL,Koninklijke Zwemclub Neptunus,57.94,t
+4311180,VANHOOFF,Romain,1993,M,BEL,Blocry, Ottignies Et Univ.L.L.,57.94,t
+4295981,BLASI,Dylan,1994,M,BEL,Les Cormorans Farciennois,57.94,t
+4605631,DESCHUYTENEER,Timothee,1996,M,BEL,Zwemclub de Dolfijnen Asse-T,57.94,t
+5355003,THEUNISSEN,Toon,2009,M,BEL,De Beringse Tuimelaars,57.94,t
+4140029,DE BUYSERE,Jordi,1989,M,BEL,Flanders Coast Swimmingteam,57.95,t
+4305387,D'HOLLANDER,Mathias,1993,M,BEL,Dendermondse Zwemvereniging Ol,57.95,t
+4615258,VERMEIREN,Benjamin,1998,M,BEL,Zwemclub Brabo Antwerpen,57.95,t
+4917604,FEYS,Sammy,2000,M,BEL,Veurnse Zwemvereniging,57.95,t
+4748243,GILLARD,Remi,2003,M,BEL,Cercle Royal De Natation Arlonais,57.95,t
+5211627,MENNEN,Ruben,2007,M,BEL,Zwemclub Brabo Antwerpen,57.95,t
+4645955,MORRE,Jonas,2001,M,BEL,Zwemclub Geel,57.96,t
+5104836,HAUSBERG,Sebastian,2004,M,BEL,Belgium,57.96,t
+4304348,GUICHART,Geoffrey,1989,M,BEL,Castor Club De Mons,57.97,t
+4307676,VAN MIERLO,Bert,1980,M,BEL,Dilbeekse Zwemvereniging,57.97,t
+4306578,MILANTS,Bert,1989,M,BEL,Dendermondse Zwemvereniging Ol,57.97,t
+4779085,DEDECKER,Daan,1998,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.97,t
+4355419,CROES,Xavier,1997,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,57.97,t
+5012073,HILLAERT,Tibo,2004,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.97,t
+5278511,BOGAERT,Briek,2007,M,BEL,First (Flanders Inter Regio Sw,57.97,t
+5389067,PIRLET,Wout,2008,M,BEL,Torhoutse Zwemklub Thor,57.97,t
+5391849,ZEGAYE,Imrane,2007,M,BEL,Herstal Natation,57.97,t
+4307626,VAN HAMME,Joeri,1991,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.98,t
+4576660,MERTENS,Jan,1998,M,BEL,First (Flanders Inter Regio Sw,57.98,t
+5219568,DONIN,Thibaut,2005,M,BEL,Zwemclub ZIOS Liedekerke,57.99,t
+5169684,GONZALEZ Y GONZALEZ,Romeo,2007,M,BEL,Royal Brussels Poseidon,57.99,t
+4299619,LIEBENS,Vincent,1995,M,BEL,Genker Zwemvereniging Neptunus,58.00,t
+4748262,DE KEERSMAEKER,Arthur,2002,M,BEL,Zwemclub Brabo Antwerpen,58.00,t
+5251231,VAN DE VIJVER,Niels,2007,M,BEL,Swem Vrienden,58.00,t
+5425324,BEISHUIZEN,Tom,2008,M,BEL,Peltse Zwemclub,58.00,t
+4615246,COFFYN,Viktor,1998,M,BEL,Royal Ypres Swimming Club,58.01,t
+4779181,BAETEN,Jens,2001,M,BEL,Zwemclub Schoten,58.01,t
+4304343,HAAGMANS,Cedric,1994,M,BEL,Flipper Natation Club Saint-Ge,58.01,t
+4822300,RAETS,Sander,2002,M,BEL,Zwemclub Brabo Antwerpen,58.01,t
+4952110,LIMBIOUL,Gilles,2005,M,BEL,Flipper Natation Club Saint-Ge,58.02,t
+5478191,FAUTRE,Raphael,2009,M,BEL,Waterloo Natation,58.02,t
+5363563,PENNINGER,Hector,2008,M,BEL,Flemish Ardennes Swimming Team,58.02,t
+4305353,DEVOS,Emmanuel,1981,M,BEL,Cercle Royal De Natation De Br,58.03,t
+4340383,WOUTERS,Frederik,1999,M,BEL,Shark,58.03,t
+4989462,BEARELLE,Tibo,2000,M,BEL,Koninklijke Kortrijkse Zwemkri,58.03,t
+4741087,ROTS,Simon,2000,M,BEL,Aalsters Swimming Team,58.03,t
+4304766,CLIJMANS,Gert,1994,M,BEL,Kempisch Swimming Team,58.03,t
+5153686,CRAPANZANO,Theo,2006,M,BEL,Ecole Seraing Natation,58.03,t
+4308110,WERA,Joachim,1996,M,BEL,Brabant East Swimming Team,58.04,t
+4680484,MICHIELS,Nick,2001,M,BEL,Lommelse Zwemvereniging de Lo,58.04,t
+5113624,PEYTCHEV,Viktor,2005,M,BEL,Zwemclub de Dolfijnen Asse-T,58.04,t
+5398553,CLOSSET,Casimir,2006,M,BEL,Zwemclub Brabo Antwerpen,58.04,t
+4804478,VERHAEGEN,Jeroen,1988,M,BEL,Zwemclub Brabo Antwerpen,58.05,t
+4804294,MEYERS,Lars,1988,M,BEL,Zwemclub Brabo Antwerpen,58.06,t
+4779063,VERSCHEURE,Seppe,1998,M,BEL,Koninklijke Kortrijkse Zwemkri,58.06,t
+4439745,VER HEYEN,Yelth,1997,M,BEL,Molse Zwemclub mozka,58.06,t
+4304735,CLAES,Mathieu,1983,M,BEL,Zwemclub Brabo Antwerpen,58.07,t
+4804447,DUPRET,Julien,1988,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.07,t
+4805392,STORMME,Julien,1992,M,BEL,Swimming Club Wauterbos Rode,58.07,t
+4306331,LISABETH,Ilian,1997,M,BEL,Bruinvissen Diksmuide,58.07,t
+4314008,MICHAUX,Vincent,1975,M,BEL,Swimming Club Ronse,58.07M,t
+4332700,STOCKMANS,Stef,1997,M,BEL,Koninklijke Hasseltse Zwemvere,58.08,t
+4307313,SWAELENS,Colin,1997,M,BEL,Zwemclub ZIOS Liedekerke,58.08,t
+5167227,LEJEUNE,Emmanuel,1992,M,BEL,Castor Club De Mons,58.08,t
+4914339,JANSSENS,Mateo,2004,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.08,t
+4136865,VAN DE VEIRE,Jeroen,1991,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.09,t
+4308497,BADER,Regis,1992,M,BEL,Nautic Club Herve,58.09,t
+4313240,CREEMERS,Bauwe,1997,M,BEL,Zwemvereniging De Meerkoet Bre,58.09,t
+4805149,CARPIN,Julien,1992,M,BEL,Charleroi Helios Aqua Team,58.09,t
+5177097,HEMMER,Eric,1985,M,BEL,Cercle Royal De Natation Arlonais,58.09,t
+4617109,D'HOLLANDER,Jens,2001,M,BEL,First (Flanders Inter Regio Sw,58.09,t
+4805181,BONTEMS,Rudy,1989,M,BEL,Cercle Royal De Natation De Sp,58.10,t
+4140007,CARIAT,Cedric,1985,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.10,t
+4308885,MAHIEU,Louis,1997,M,BEL,Gold Swimming Team,58.10,t
+4308072,VRANKEN,Kevin,1995,M,BEL,Swimming Team Tienen,58.10,t
+4924706,VANSPRINGEL,Quentin,1999,M,BEL,Swimming Club Strombeek-Grimbe,58.10,t
+4726057,VAN DAMME,Antoon,1999,M,BEL,Aquarius Zwemclub Lebbeke,58.10,t
+5346790,NEETENS,Joannes,2006,M,BEL,Aalsters Swimming Team,58.10,t
+4863802,MESTDAGT,Arnaud,2008,M,BEL,Ecole Seraing Natation,58.10,t
+4354248,COUNOY,Hugo,1999,M,BEL,Barracuda Club Saint-Ghislain,58.11,t
+4811535,LESAGE,Christophe,2002,M,BEL,Belgium,58.11,t
+5147631,EVENS,Joppe,2003,M,BEL,Genker Zwemvereniging Neptunus,58.11,t
+5506858,SURKYN,Staf,2007,M,BEL,Kempisch Swimming Team,58.11,t
+4074339,DE VOS,Rutger,1993,M,BEL,First (Flanders Inter Regio Sw,58.12,t
+4225707,COPPENS,Jeroen,1992,M,BEL,Swimming Team Waasland,58.12,t
+4691687,DOLNE,Enzo,2007,M,BEL,Royal Verviers Natation,58.12,t
+4477416,HARINCK,Jonas,1996,M,BEL,Koninklijke Waregemse Zwemclub,58.13,t
+4313302,VANDERMAESEN,William,1998,M,BEL,Brabant East Swimming Team,58.13,t
+4740045,CLAES,Benjamin,2000,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,58.13,t
+5196341,OFFERMANN,Marius,2003,M,BEL,Cercle Royal De Natation De Sp,58.13,t
+5088348,VANDE MOORTEL,Kasper,2005,M,BEL,Bruinvissen Diksmuide,58.13,t
+4804423,VAN KERCKHOVEN,Jesse,1992,M,BEL,Zwemclub Tremelo,58.14,t
+4302738,LEYSSENS,Jonas,1995,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.14,t
+4354328,APERS,Jorik,1999,M,BEL,First (Flanders Inter Regio Sw,58.14,t
+4439653,SENESAEL,Tom,1997,M,BEL,Torhoutse Zwemklub Thor,58.14,t
+4904764,DARGE,Martin,1999,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.14,t
+5064285,VISSERS,Pablo,2004,M,BEL,Koninklijke Zwemclub Neptunus,58.14,t
+5199685,MEERS,Jan,2006,M,BEL,Koninklijke Hasseltse Zwemvere,58.14,t
+4419123,PRAET,Nick,1998,M,BEL,Zwemclub Lorelei Londerzeel,58.15,t
+4895730,ENGELS,Lander,1998,M,BEL,Heistse Zwemclub Arduas,58.15,t
+4306528,MERLO,Stefan,1982,M,BEL,Zwemclub Maasmechelen,58.16,t
+4897342,VOLDERS,Aiken,2002,M,BEL,Brabant East Swimming Team,58.16,t
+5096992,VAN HOECKE,Emile,2003,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.16,t
+5537759,GENIN,Alexandre,2009,M,BEL,Aqua Club Braine L'Alleud,58.16,t
+4169378,NEUTELERS,Sylvain,1989,M,BEL,Ecole De Natation Waremmienne,58.17,t
+4304351,D'ANGELO,Lisandro,1997,M,BEL,Entente Des Nageurs Louvierois Natation,58.17,t
+4863345,VITALE,Luca,2002,M,BEL,Swimming Club Strombeek-Grimbe,58.17,t
+4302728,WAUMAN,Jeroen,1994,M,BEL,Brabant East Swimming Team,58.18,t
+4864033,SANFILIPPO,Kobe,2004,M,BEL,Molse Zwemclub mozka,58.18,t
+5321081,BEECKMANS,Ferre,2005,M,BEL,Molse Zwemclub mozka,58.18,t
+4304763,CLESSE,Damien,1992,M,BEL,Les Dauphins Visetois,58.19,t
+4576991,CORNELIS,Isaac,2006,M,BEL,Flemish Ardennes Swimming Team,58.19,t
+5069901,VANDOOREN,Art,2008,M,BEL,Leuven Aquatics,58.19,t
+4617151,VAN DEN BERGHE,Bryan,1999,M,BEL,Zwemclub Lorelei Londerzeel,58.20,t
+5198151,VANVLASSELAER,Ward,2002,M,BEL,Brabant East Swimming Team,58.20,t
+5259506,DUYVEJONCK,Thomas,2007,M,BEL,Koninklijke Kortrijkse Zwemkri,58.20,t
+5091130,GOIRE,Antoine,2006,M,BEL,Ecole De Natation Waremmienne,58.20,t
+4098774,HANSE,Nicolas,1984,M,BEL,Club Communal Natation Marche,58.21,t
+4988512,PANSAERTS,Thomas,1997,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.21,t
+5112954,STERCKX,Daan,2008,M,BEL,Tiense Regio United Swimming Team,58.21,t
+4295952,DELVAX,Riccardo,1991,M,BEL,Zwemclub Maasmechelen,58.22,t
+4779046,GOOSSENS,Gilles,2000,M,BEL,Heistse Zwemclub Arduas,58.22,t
+4355484,GEHLEN,Marvin,2006,M,BEL,Csc La Calamine Neu-Moresnet,58.22,t
+5366410,MACHER,Alois,2006,M,BEL,Waterloo Natation,58.22,t
+5080403,EUGENE,Felix,2007,M,BEL,Zoro,58.22,t
+4804576,KEVELAERTS,Thibaut,1990,M,BEL,Zwemclub de Dolfijnen Asse-T,58.23,t
+4689857,INNES,Timothee,1998,M,BEL,Ecole De Natation Waremmienne,58.23,t
+5177151,CLAUS,Brent,2003,M,BEL,Aalsters Swimming Team,58.23,t
+5105599,BARMAKRAN,Zakaria,2002,M,BEL,Cercle Royal De Natation De Br,58.23,t
+5169353,BIRLOGEANU,Luca,2005,M,BEL,De Beringse Tuimelaars,58.23,t
+5111344,DERYCKE,Balder,2005,M,BEL,Roeselaarse Zwemvereniging,58.23,t
+5251356,AZZOUZI,Yanis,2006,M,BEL,Schwimmverein Delphin Eupen,58.23,t
+5343828,EVENS,Mats,2010,M,BEL,Zwemvereniging De Meerkoet Bre,58.24,t
+5105592,LAVIALLE,Alan,2005,M,BEL,Entente Des Nageurs Louvierois Natation,58.24,t
+4140027,VANNESTE,Jerome,1988,M,BEL,Cercle Royal De Natation De To,58.25,t
+4804563,LAMOTE,Milan,1993,M,BEL,Royal Ostend Swimming Club,58.25,t
+4306933,QUINTYN,Jacob,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.25,t
+4640014,RUBENS,Toon,2000,M,BEL,Peltse Zwemclub,58.25,t
+5129540,DE WACHTER,Pieter-Jan,2002,M,BEL,De Beringse Tuimelaars,58.25,t
+5323266,JEGHERS,Mael,2008,M,BEL,Nautic Club Herve,58.25,t
+4303471,BOVEROUX,Nicolas,1988,M,BEL,Ecole De Natation Waremmienne,58.26,t
+4804317,VANDER AUWERA,Maxime,1987,M,BEL,Cercle Royal De Natation De Br,58.26,t
+4299599,NAESSENS,Jorne,1992,M,BEL,Royal Ypres Swimming Club,58.26,t
+4170694,ANDELHOFS,Niels,1991,M,BEL,Peltse Zwemclub,58.26,t
+4308932,OP DE BEECK,Endy,1991,M,BEL,De Beringse Tuimelaars,58.26,t
+4565881,VERSCHOREN,Maurits,1997,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,58.26,t
+4346907,JACOB,Jeroen,1997,M,BEL,Zwemclub de Dolfijnen Asse-T,58.26,t
+4489435,MESTDAGH,Vianney,2001,M,BEL,Royal Dauphins Mouscronnois,58.26,t
+5349286,VAN BELLE,Simon,2009,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.26,t
+5470104,LAFAUT,Leon,2008,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.26,t
+4721225,LAGNEAU,Jean-Marie,1997,M,BEL,Gosselies Aqua Club,58.27,t
+4788701,BEAUTHIER,Ronan,1999,M,BEL,Koninklijke Vilvoordse Zwemclu,58.27,t
+5346667,JACOBS,Giel,2005,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,58.27,t
+5203722,VAN GANSBEKE,Siemen,2006,M,BEL,Koninklijke Waregemse Zwemclub,58.27,t
+4140233,VAN GRUNDERBEECK,Bas,2009,M,BEL,Zwemclub Tremelo,58.27,t
+4303497,DE MAEYER,Jelle,1989,M,BEL,Verenigde Willebroekse Zwemclu,58.28,t
+4972262,MAHIEU,Nicolas,2004,M,BEL,Perron,58.28,t
+4988323,DERUMIER,Thomas,2004,M,BEL,Espadon Leuze Natation,58.28,t
+5285184,STRUYS,Gabriel,2009,M,BEL,Std,58.28,t
+5443099,DECUPERE,Alex,2010,M,BEL,Koninklijke Kortrijkse Zwemkri,58.28,t
+4303455,BARBIER,Emmanuel,1989,M,BEL,Royal Charleroi Sporting Club,58.29,t
+4299671,DE SMEDT,Ward,1992,M,BEL,Zwemclub Kapelle-O/D-Bos,58.29,t
+4199791,MEYER,Levy,1993,M,BEL,Royal Ostend Swimming Club,58.29,t
+4779064,CREYF,Tjoerven,2002,M,BEL,Zwemclub Lorelei Londerzeel,58.29,t
+5009258,QUEVRIN,Luca,2002,M,BEL,Liege Mosan,58.29,t
+4948233,SUCAET,Senne,2001,M,BEL,De Dolfijnen Zwemclub Zomergem,58.29,t
+5356260,ALBORES-SANCHEZ,Rafael,2011,M,BEL,Perron,58.29,t
+5355008,GORIS,Ruben,2009,M,BEL,Zwemclub Brabo Antwerpen,58.29,t
+5200819,DUTRE,Andreas,2006,M,BEL,Koninklijke Brugse Zwem- & Red,58.29,t
+4805060,WLODARCZYK,Marc,1981,M,BEL,Liege Mosan,58.30,t
+4398132,MUSCH,Wouter,1997,M,BEL,Koninklijke Zwemclub Neptunus,58.30,t
+5067634,DURIEUX,Tristan,2006,M,BEL,Cercle Royal De Natation Arlonais,58.30,t
+4804582,VANDEWEERD,Ruben,1990,M,BEL,De Dolfijnen Zwemclub Zomergem,58.31,t
+4315619,VAN OTTEN,Stefan,1983,M,BEL,Koninklijke Turnhoutse Zwemver,58.31,t
+4308729,FIRSZT,Tomasz,1992,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.31,t
+4777790,COHNEN,Levy,2003,M,BEL,Ecole Saint-Vith Natation,58.31,t
+5354975,CLAESSENS,Noah,2004,M,BEL,Le Triton ans Natation,58.31,t
+4004946,HAVARD,Noah,2006,M,BEL,Std,58.31,t
+5369825,MICHIELS,Sibe,2010,M,BEL,Temse Schelde Zwemmers,58.31,t
+4886758,VAN DE VEIRE,Wannes,2007,M,BEL,Zwemclub de Dolfijnen Asse-T,58.31,t
+4805141,DE GEETER,Michiel,1994,M,BEL,Koninklijke Brugse Zwem- & Red,58.32,t
+4255128,COPPIN,Georges,1992,M,BEL,Waterloo Natation,58.32,t
+4305848,HENSEL,Justin,1995,M,BEL,Charleroi Helios Aqua Team,58.32,t
+4311192,MASSART,Martin,1994,M,BEL,Cercle De Natation Sportcity W,58.33,t
+4295941,SWERTS,Pieter-Jan,1994,M,BEL,Zwemclub Schoten,58.33,t
+4303456,BECK,Jeremy,1990,M,BEL,Dilbeekse Zwemvereniging,58.34,t
+4304345,GROSSEN,Ben,1987,M,BEL,Brabant East Swimming Team,58.34,t
+4140050,TILMAN,Loic,1987,M,BEL,Val De Mehaigne Natation Wanze,58.34,t
+4308584,CLIJMANS,Tom,1988,M,BEL,Koninklijke Turnhoutse Zwemver,58.34,t
+4691670,DEGLAIN,Simon,1989,M,BEL,Societe Royale La Nage Saint-Gilles,58.34,t
+5084748,SERVAIS,Noah,1997,M,BEL,Cercle Royal De Natation De Huy,58.34,t
+4549121,VAN DEN EYNDE,Wout,2005,M,BEL,Westerlo Swimming Team,58.34,t
+4805068,NACKAERTS,Kurt,1982,M,BEL,Zwemvereniging Lier,58.35,t
+4139701,TRUYTS,Maarten,1995,M,BEL,Heistse Zwemclub Arduas,58.35,t
+4304275,BAENS,Beau,1996,M,BEL,Zwemvereniging De Meerkoet Bre,58.35,t
+4620633,PIETERS,Cobe,2000,M,BEL,Koninklijke Hasseltse Zwemvere,58.35,t
+5156711,BERNARD,Thibault,2006,M,BEL,Royal Dauphins Mouscronnois,58.35,t
+5092505,VERCAUTEREN,Jasper,2006,M,BEL,Zwemclub Brabo Antwerpen,58.35,t
+5091126,CROMBEL,Jean,2006,M,BEL,Perron,58.35,t
+5295821,VERBRUGGEN,Wout,2006,M,BEL,First (Flanders Inter Regio Sw,58.35,t
+4199989,KETELS,Tom,1992,M,BEL,Temse Schelde Zwemmers,58.36,t
+5006193,SURQUIN,Nathan,1998,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.36,t
+4305126,DE WAELE,Jens,1996,M,BEL,Zuidlede Zwemmers,58.37,t
+4695378,ABIB,Driss,1998,M,BEL,Cercle De Natation Sportcity W,58.37,t
+4498967,VAN HEGHE,Lowie,1997,M,BEL,First (Flanders Inter Regio Sw,58.37,t
+5092556,VANGHELUWE,Brent,2006,M,BEL,Royal Ypres Swimming Club,58.37,t
+4996187,CORNELISSEN,Lars,2008,M,BEL,AART-Lorelei-Zwemvereniging,58.37,t
+5209370,PIERRET,Noah,2002,M,BEL,Club De Natation Bastogne,58.37,t
+5163792,COLONERUS,Daniel,2008,M,BEL,Ecole Saint-Vith Natation,58.37,t
+4307217,SMETS,Jeroen,1998,M,BEL,Heistse Zwemclub Arduas,58.38,t
+5413216,SCHMOKER,Arthur,2008,M,BEL,Belgium,58.38,t
+4304472,BUYL,Joris,1984,M,BEL,Lokerse Zwemvereniging,58.39,t
+4295784,LENS,Julien,1995,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.39,t
+4308980,RIJCKMANS,Matthias,1997,M,BEL,Swimming Club Strombeek-Grimbe,58.39,t
+4085669,GAWRA,Androus,1989,M,BEL,Liege Mosan,58.40,t
+4822286,VERBEEK,Mats,2001,M,BEL,Shark,58.40,t
+5393987,HESELMANS,Bjarni,2005,M,BEL,De Beringse Tuimelaars,58.40,t
+5350343,VARVENNES,Arthur,2007,M,BEL,Cercle Royal De Natation De To,58.40,t
+4439647,SCHELSTRAETE,Bruno,1990,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.41,t
+4805085,GODRIE,Thomas,1991,M,BEL,Barracuda Club Saint-Ghislain,58.41,t
+4200002,LEMMENS,Jens,1991,M,BEL,Koninklijke Zwemclub Neptunus,58.41,t
+4827980,DEBEAUSSAERT,Vincent,1999,M,BEL,Koninklijke Kortrijkse Zwemkri,58.41,t
+5002332,DE DEYNE,Kasper,2003,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.41,t
+4822311,DAVID,Idris,2003,M,BEL,Leuven Aquatics,58.41,t
+4804474,VAN ELST,Adriaan,1988,M,BEL,Zwemclub Brabo Antwerpen,58.42,t
+4305501,EGGERMONT,Steven,1994,M,BEL,Gold Swimming Team,58.42,t
+4074335,INGELBERT,Niel,1991,M,BEL,First (Flanders Inter Regio Sw,58.42,t
+4779075,VAN BRUYSSEL,Jeroen,1994,M,BEL,Lommelse Zwemvereniging de Lo,58.42,t
+4305285,DEPREZ,Matthijs,1995,M,BEL,Torhoutse Zwemklub Thor,58.42,t
+4690195,PAENEN,Dries,1997,M,BEL,Zwemclub Brabo Antwerpen,58.42,t
+4620708,VAN DEN BULCKE,Laurens,1998,M,BEL,Oudenaardse Zwemclub,58.42,t
+4797582,BEELEN,Daan,2000,M,BEL,Lommelse Zwemvereniging de Lo,58.42,t
+4682531,MENTEN,Yari,2001,M,BEL,Zwemclub Geel,58.42,t
+5443640,LAMBERT,Teo,2006,M,BEL,Belgium,58.42,t
+5317357,DE SMAELE,Keyon,2008,M,BEL,First (Flanders Inter Regio Sw,58.42,t
+4143918,DARDENNE,Gilles,1985,M,BEL,Belgium,58.43,t
+4304402,BOONAERT,Michael,1990,M,BEL,Zwemclub S.O.S.,58.43,t
+4085689,LEDENT,Romain,1994,M,BEL,Liege Mosan,58.43,t
+4307736,VAN ZELE,Jonas,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.43,t
+5280570,VANDERNIEPEN,Louis,2008,M,BEL,Zwemclub De Kikkertjes Ninove,58.43,t
+5105080,NOLLET,Robbe,2006,M,BEL,Zwemclub Brabo Antwerpen,58.44,t
+4970371,OOMS,Timo,2002,M,BEL,Limburgse Zwemvereniging,58.44,t
+4662346,COPPENS,Matthieu,1995,M,BEL,Belgium,58.45,t
+4307021,ROISEUX,Antoine,1996,M,BEL,Cercle Bertrigeois De Natation,58.45M,t
+5183343,HAESEN,Adriaan,2007,M,BEL,Koninklijke Racing Swimming Cl,58.45,t
+5337962,VAN DER POEL,Milo,2006,M,BEL,Swimming Club Zaventem,58.45,t
+4804834,SANCHEZ,Arthur,1989,M,BEL,Waterloo Natation,58.46,t
+4295800,MILAN,Dylan,1995,M,BEL,Cercle Royal De Natation De Br,58.46,t
+4308160,WOUTERS,Joery,1996,M,BEL,Peltse Zwemclub,58.46,t
+4880165,DOLYAN,David,1998,M,BEL,Cercle Royal De Natation De Br,58.46,t
+5292132,SCAGLIOLA,Leandro,2008,M,BEL,Herstal Natation,58.46,t
+5278509,VANDENBERGHE,Simon,2009,M,BEL,Iswim,58.46,t
+4804786,VANDENABEELE,Jonathan,1988,M,BEL,Royal Brussels Poseidon,58.47,t
+4074821,GRAUX,Mathieu,1989,M,BEL,CNC Les Flippers Ciney,58.47,t
+4074298,BERNARD,Nicolas,1989,M,BEL,Embourg Natation,58.47,t
+4393191,REMY-PAQUAY,Alexis,1997,M,BEL,Royal Verviers Natation,58.47,t
+4308832,LABACHI,Bilal Charles,1995,M,BEL,Chaudfontaine Thermale Natatio,58.47,t
+5416217,BRUYNEEL,Ferre,2009,M,BEL,TiMe Swimming Team,58.47,t
+5199471,VANDERBEKEN,Yoren,2007,M,BEL,Ursus Zwemklub Zwevegem,58.47,t
+4702921,VAN SYNGHEL,Mathis,2000,M,BEL,Oudenaardse Zwemclub,58.48,t
+5097033,SCHWERIN,Alexander,2005,M,BEL,Shark,58.48,t
+4200046,DESTROOPER,Simon,1996,M,BEL,Zwemclub Tieltse Zeeduivels,58.49,t
+4805028,JANON,Thibault,1990,M,BEL,Ecole Seraing Natation,58.49,t
+4574043,BAEKE,Louis,2000,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.49,t
+4940447,ONGHENA,Basiel,2000,M,BEL,Koninklijke Zwemclub Neptunus,58.49,t
+4812909,HUYGH,Yaro,2003,M,BEL,Swimming Team Zennevallei,58.49,t
+4417658,LEIRS,Bavo,2006,M,BEL,Heistse Zwemclub Arduas,58.49,t
+5323166,DOLNE,Noah,2010,M,BEL,Royal Verviers Natation,58.49,t
+4610299,ROELANDT,Frederick,2000,M,BEL,Lokerse Zwemvereniging,58.50,t
+4366386,DIET,Julien,1996,M,BEL,Liege Mosan,58.50,t
+5292105,DUCARME,Mathis,2009,M,BEL,Mons Hainaut Natation,58.50,t
+4307213,SMET,Marco,1992,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.51,t
+4139758,VERDOODT,Bastien,1995,M,BEL,Swimming Club Strombeek-Grimbe,58.51,t
+4827954,ANTONIW,Lucas,2002,M,BEL,Genker Zwemvereniging Neptunus,58.51,t
+5116585,VAN GENECHTEN,Guus,2006,M,BEL,Koninklijke Vilvoordse Zwemclu,58.51,t
+5494343,ZOUHRI,Amir,2010,M,BEL,Leuven Aquatics,58.51,t
+4305301,DEROOST,Stefaan,1987,M,BEL,Zwemclub Tremelo,58.52,t
+4729586,VAN LIEFFERINGE,Francois,1988,M,BEL,Cercle Royal De Natation De Br,58.52,t
+4306667,NAUDTS,Mathieu,1993,M,BEL,First (Flanders Inter Regio Sw,58.52,t
+4306123,LACROIX,Maxim,1996,M,BEL,Zwemclub Tremelo,58.53,t
+4805048,CLUKERS,Johan,1987,M,BEL,Zwemclub Brabo Antwerpen,58.54,t
+4200246,WILLEMS,Lars,1994,M,BEL,Zwemclub Brabo Antwerpen,58.54,t
+4295943,SEGERS,Marnic,1997,M,BEL,Temse Schelde Zwemmers,58.54,t
+4828132,BROCATUS,Dennis,2000,M,BEL,Koninklijke Zwemclub Olympic A,58.54,t
+5156709,CASTEELE,Louis,2007,M,BEL,Espadon Leuze Natation,58.54,t
+5201396,BAERT,Warre,2009,M,BEL,TiMe Swimming Team,58.54,t
+5346699,BRUNEE,Jules,2008,M,BEL,Charleroi Helios Aqua Team,58.54,t
+4574866,VERBAUWHEDE,Tristan,1996,M,BEL,Cercle De Natation Sportcity W,58.55,t
+5208825,BOONEN,Arthur,2007,M,BEL,Flemish Ardennes Swimming Team,58.55,t
+4828054,VAN DER VOORT,Bram,2001,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,58.56,t
+4927402,VANDEPITTE,Alexander,2003,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.56,t
+5032774,DEKONINCK,Maxim,2005,M,BEL,Swimming Team Zennevallei,58.56,t
+5713102,VAN OOST,Martijn,2006,M,BEL,Zwemclub S.O.S.,58.56,t
+4306402,MAESEN,Wouter,1987,M,BEL,Zwemclub Otters Mortsel,58.57,t
+4307342,TEIXEIRA SALEMA,Jonathan,1987,M,BEL,Swimming Team Zennevallei,58.57,t
+4305383,D HAEYER,Cedric,1997,M,BEL,Swimming Team Tienen,58.57,t
+4344153,AERTS,Jonas,1995,M,BEL,Aquarius Zwemclub Lebbeke,58.57,t
+4605619,BLONDEEL,Sybren,2000,M,BEL,Zwemclub Geel,58.57,t
+5065843,HEREMANS,Nino,2004,M,BEL,Heistse Zwemclub Arduas,58.57,t
+4307428,TRAP,Mathias,1994,M,BEL,Zwemclub Tremelo,58.58,t
+4587745,CLAYSON,Thomas,1999,M,BEL,Braine L'alleud Aqua College,58.58,t
+4733785,SCHUERMAN,Aaron,1998,M,BEL,Arvicola Zwemclub Kalmthout,58.58,t
+5207700,DELPORTE,Nio,2009,M,BEL,Bruinvissen Diksmuide,58.58,t
+4303672,SMET,Karel,1980,M,BEL,Swimming Team Waasland,58.59,t
+4302729,D'HOOGE,Ben,1993,M,BEL,Dilbeekse Zwemvereniging,58.59,t
+5020567,CASTEUR,Xander,2004,M,BEL,Gold Swimming Team,58.59,t
+4306650,MULLEMAN,Jasper,1993,M,BEL,Gold Swimming Team,58.60,t
+4491292,DE JAEGER,Anton,1996,M,BEL,De Dolfijnen Zwemclub Zomergem,58.60,t
+4306133,LAGAE,Remy,1999,M,BEL,Royal Dauphins Mouscronnois,58.60,t
+4296013,JAMART,Nicolas,1988,M,BEL,Charleroi Helios Aqua Team,58.60,t
+4074495,GHEUENS,Bert,1990,M,BEL,Shark,58.61,t
+4804836,DECLERCQ,Charles,1990,M,BEL,Koninklijke Waregemse Zwemclub,58.61,t
+4779117,GONZALES MORAN,Sebastian,1996,M,BEL,Swimming Club Strombeek-Grimbe,58.61,t
+5266881,DE MUNNYNCK,Jarne,1999,M,BEL,AART-Lorelei-Zwemvereniging,58.61,t
+5190500,DE CLERCQ,Noa,2005,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.61,t
+5304738,HUFKENS,Iben,2007,M,BEL,Zwemclub Geel,58.61,t
+4192388,BACKELJAUW,Dave,1991,M,BEL,Arvicola Zwemclub Kalmthout,58.62,t
+4306795,PEETERS,Alexander,1995,M,BEL,Zwemclub Kapelle-O/D-Bos,58.62,t
+5137998,EL BOUZEKRI EL IDRISSI,Hamza,2002,M,BEL,Swimming Club Strombeek-Grimbe,58.62,t
+5153667,CHANTRAINE,Owen,2000,M,BEL,Perron,58.62,t
+4309067,TORRES,Jean-Pierre,1986,M,BEL,Neptune Club Gosselien,58.63,t
+4185166,VANDENBORNE,Michael,1990,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,58.63,t
+4291810,RIMEE,Nicolas,1993,M,BEL,Embourg Natation,58.63,t
+4352091,FRAIKIN,Jari,1999,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.63,t
+4609937,CLAESSENS,Arne,1998,M,BEL,Genker Zwemvereniging Neptunus,58.63,t
+4406405,JACQUEMYN,Gabriel,1998,M,BEL,Cercle De Natation Jodoignois,58.63,t
+4437316,LEEMANS,Mats,1999,M,BEL,Swimming Team Zennevallei,58.63,t
+5081002,MARGUARITAIN,Baptiste,2006,M,BEL,Les Espadons Cominois,58.63,t
+4305312,DERYCKERE,Matthias,1989,M,BEL,Koninklijke Kortrijkse Zwemkri,58.64,t
+4199799,WILLAERT,John,1991,M,BEL,Flanders Coast Swimmingteam,58.64,t
+4305948,INGELBERT,Tijs,1994,M,BEL,First (Flanders Inter Regio Sw,58.64,t
+4340455,BLOMME,Dawson,1999,M,BEL,Izegemse Krekel Zwemmers,58.64,t
+5067775,CAUDRON,Xibe,2008,M,BEL,Koninklijke Zwemclub Neptunus,58.64,t
+4804690,WIELOCKX,Kevin,1989,M,BEL,Koninklijke Hasseltse Zwemvere,58.65,t
+4805347,CONVENS,Bryan,1993,M,BEL,Swimming Club Strombeek-Grimbe,58.65,t
+5203999,LANDRAIN,Nathan,2002,M,BEL,Orca Natation Soignies,58.65,t
+4805318,PIRON,Louis,1991,M,BEL,Nautic Club Herve,58.66,t
+4805390,FEDRIGO,Tristan,1994,M,BEL,Val De Mehaigne Natation Wanze,58.66,t
+4304463,BUFFEL,Cedric,1994,M,BEL,Torhoutse Zwemklub Thor,58.66,t
+4822305,KUSSEPOV,Daniel,2003,M,BEL,Lommelse Zwemvereniging de Lo,58.66,t
+5082391,HALLEZ,Alan,2002,M,BEL,Les Espadons Cominois,58.66,t
+5459509,MACLEAR,Gareth,2005,M,BEL,Belgium,58.66,t
+5231095,GRUYAERT,Achile,2007,M,BEL,Izegemse Krekel Zwemmers,58.66,t
+4096011,DIGNEFFE,Sebastien,1993,M,BEL,Dauphin Grace-Hollogne Natatio,58.67,t
+4308908,MOHON,Brandon,1992,M,BEL,Liege Mosan,58.67,t
+4304680,BRANDT,Michiel,1998,M,BEL,Gold Swimming Team,58.67,t
+4305581,FORTON,Bruce,1996,M,BEL,Swimming Club Strombeek-Grimbe,58.67,t
+4612970,DOLIVIER,Cyril,1998,M,BEL,Entente Des Nageurs Louvierois Natation,58.67,t
+4805049,MOLKENS,Steven,1988,M,BEL,Zwemclub Brabo Antwerpen,58.67M,t
+4429276,RAMOS-DIAZ,Sacha,1998,M,BEL,Royal Brussels Poseidon,58.67,t
+4886223,GARRALON,Guillaume,2003,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.67,t
+4804372,O'CONNOR,Anthony,1986,M,BEL,Molse Zwemclub mozka,58.68,t
+4074694,MEURIS,Pieter-Jan,1990,M,BEL,Zwemclub Tremelo,58.68,t
+4340428,LESSIRE,Thomas,1994,M,BEL,Les Cormorans Farciennois,58.68,t
+5331668,SEYS,Wout,2010,M,BEL,Iswim,58.68,t
+4636269,BLANCQUAERT,Tim,1994,M,BEL,Koninklijke Zwemclub Neptunus,58.69,t
+5281111,JANSSENS,Alexandre,2005,M,BEL,Waterloo Natation,58.69,t
+4134540,GELUYKENS,Hans,1987,M,BEL,Cercle Royal De Natation Arlonais,58.70,t
+4303597,MAES,Stanis,1991,M,BEL,Shark,58.70,t
+4225717,GOOSSENS,Louis,1991,M,BEL,Swimming Club Zaventem,58.70,t
+4305166,DEBY,Romain,1991,M,BEL,Les Dauphins Visetois,58.70,t
+4139950,BULTOT,Pierrick,1992,M,BEL,Nautic Club Herve,58.70,t
+4199981,NUYTS,Torald,1996,M,BEL,Zwemclub Brabo Antwerpen,58.70,t
+4695389,VAN DEN ABBEELE,Yacine,1999,M,BEL,Cercle De Natation Sportcity W,58.70,t
+4682551,VEKEMANS,Vincent,2000,M,BEL,Shark,58.70,t
+5444923,CHO,Gregory,2003,M,BEL,Waterloo Natation,58.70,t
+5263443,BOROWSKI,Brayan,2007,M,BEL,Cercle De Natation Sportcity W,58.70,t
+4200245,WILLEMS,Glenn,1991,M,BEL,Zwemclub Otters Mortsel,58.71,t
+4429607,LAVREYSEN,Axel,1997,M,BEL,Lommelse Zwemvereniging de Lo,58.71,t
+4805240,VAES,Hubert,1990,M,BEL,Flipper Natation Club Saint-Ge,58.72,t
+5251237,REMES,Simon,2007,M,BEL,First (Flanders Inter Regio Sw,58.72,t
+5471803,DUBOIS,Simon,2009,M,BEL,Liege Mosan,58.72,t
+5435629,NAAKTGEBOREN,Jakob,2008,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.72,t
+4313025,OVERLACK,Nikolas,1992,M,BEL,Cercle De Natation Sportcity W,58.73,t
+4804673,MAUDOUX,Maxime,1989,M,BEL,Herstal Natation,58.73,t
+4804443,BARBER,Thomas,1988,M,BEL,Waterloo Natation,58.73,t
+4804761,DE MEUNYNCK,Ivan,1991,M,BEL,Waterloo Natation,58.73,t
+5278503,EL BOUHDIDI,Ayman,2005,M,BEL,Swimming Team Waasland,58.73,t
+4200082,BATAILLE,Benjamin,1991,M,BEL,Les Cormorans Farciennois,58.74,t
+4608868,DRIESEN,Siebe,2008,M,BEL,Zwemvereniging De Meerkoet Bre,58.74,t
+4058041,LEGON,Niels,1990,M,BEL,Koninklijke Brugse Zwem- & Red,58.75,t
+4140039,SCHIETECAT,Nicolas,1989,M,BEL,Namur Olympic Club,58.75,t
+4139844,NISOT,Pierre,1993,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.75,t
+4295898,VERHAEGEN,Maarten,1991,M,BEL,Shark,58.75,t
+5190338,DAS,Joran,2006,M,BEL,Koninklijke Vilvoordse Zwemclu,58.75,t
+4805239,MARQUET,Julien,1989,M,BEL,Flipper Natation Club Saint-Ge,58.76,t
+4305703,GOEMANS,Keren,1994,M,BEL,Zwemclub Kapelle-O/D-Bos,58.76,t
+4287305,CANNAERTS,Jens,1993,M,BEL,Heistse Zwemclub Arduas,58.76,t
+4439462,DEBOUCK,Emiel,1997,M,BEL,Izegemse Krekel Zwemmers,58.76,t
+4645958,DUYCK,Basile,2000,M,BEL,Flanders Coast Swimmingteam,58.76,t
+5137544,HOUSSIERE,Pierre,2002,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.76,t
+4013733,BASTIN,Yannick,1986,M,BEL,Belgium,58.77,t
+4307711,VAN SIMAEY,Joeri,1984,M,BEL,Swimming Team Zennevallei,58.77,t
+4192399,DE COKER,Nico,1990,M,BEL,Brabant East Swimming Team,58.77,t
+4910130,MAROT,Emile,1997,M,BEL,Cercle Royal De Natation De Huy,58.77,t
+5090706,MEYVIS,Pieter,2003,M,BEL,Hoogstraten Zwemteam,58.77,t
+5199451,VAN GINNEKEN,Warre,2007,M,BEL,Arvicola Zwemclub Kalmthout,58.77,t
+5416235,GLODKIEWICZ,Alexandre,2011,M,BEL,Ecole De Natation Waremmienne,58.77,t
+4192406,O'KEEFFE,Darragh,1990,M,BEL,Brabant East Swimming Team,58.78,t
+5210505,ERYILMAZ,Hasan,2008,M,BEL,Genker Zwemvereniging Neptunus,58.78,t
+4140047,MARTENS,Jonas,1983,M,BEL,Zwemclub Brabo Antwerpen,58.79,t
+4971306,VANSANT,Vincent,2002,M,BEL,Heistse Zwemclub Arduas,58.79,t
+4930832,SCHRIJVERS,Lowik,2003,M,BEL,Koninklijke Zwemclub Olympic A,58.79,t
+5259168,VANDENHOVEN,Joachim,2005,M,BEL,Cercle De Natation Sportcity W,58.79,t
+4788705,BEVERNAEGIE,Lars,1998,M,BEL,Koninklijke Zwemclub Neptunus,58.80,t
+4892738,BLANCHARD,Nicholas,2002,M,BEL,Cercle Royal De Natation Arlonais,58.80,t
+5087880,VERMEIR,Wannes,2005,M,BEL,Genker Zwemvereniging Neptunus,58.80,t
+5190336,SALIBBA,Milan,2006,M,BEL,Entente Des Nageurs Louvierois Natation,58.80,t
+4313963,DE GROOF,Jeff,1990,M,BEL,Koninklijke Zwemclub Olympic A,58.81,t
+4743505,VERMEIRE,Arne,2002,M,BEL,Peltse Zwemclub,58.81,t
+5153682,ANTONIAN,Movses,2007,M,BEL,Ecole De Natation Waremmienne,58.81,t
+4308895,MCKINLEY,Peter,1991,M,BEL,Cercle Royal De Natation De Br,58.82,t
+4246983,MOUTON,Donovan,1993,M,BEL,Mons Hainaut Natation,58.82,t
+4304257,ARABATZIS,Alexandre,1994,M,BEL,Les Cormorans Farciennois,58.82,t
+4305044,DE MENNA,Anthony,1994,M,BEL,Ecole Seraing Natation,58.82,t
+4689861,RENNESON,Xavier,2001,M,BEL,Ecole De Natation Waremmienne,58.82,t
+4804830,SMETS,Thomas,1989,M,BEL,Val De Mehaigne Natation Wanze,58.83,t
+4200079,ZADWORNY,Francois,1987,M,BEL,Ecole Seraing Natation,58.83,t
+4306809,PEETERS,Kevin,1996,M,BEL,Brabant East Swimming Team,58.83,t
+4924704,DE WULF,Pablo,2003,M,BEL,Swimming Club Strombeek-Grimbe,58.83,t
+4627738,THYSSEN,Matteo,2008,M,BEL,Std,58.83,t
+4136940,BAERTS,Ruben,1988,M,BEL,Swimming Team Tienen,58.84,t
+4074388,BONNE,Tom,1993,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.84,t
+4334620,WENS,Rob,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.84,t
+4942809,VANNIEUWENHUYZE,Arthur,2004,M,BEL,Iswim,58.84,t
+5167360,WAUTERS,Stef,2007,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,58.84,t
+4726085,WINDELS,Robbe,1999,M,BEL,Gold Swimming Team,58.85,t
+4565922,GREGOIRE,Loris,2001,M,BEL,Liege Natation,58.85,t
+4073179,CAVADINI,Sebastien,1987,M,BEL,Cercle Royal De Natation De Br,58.86,t
+4074372,DE CAUSMAECKER,Jens,1989,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.86,t
+4299667,DE SMEDT,Koen,1981,M,BEL,Koninklijke Zwemclub Neptunus,58.86,t
+4199938,LUPPENS,Jurgen,1988,M,BEL,Dilbeekse Zwemvereniging,58.86,t
+4805262,VERCAMMEN,Frederick,1990,M,BEL,Heistse Zwemclub Arduas,58.86,t
+4805367,DIEU,Thomas,1990,M,BEL,Swimming Team Tienen,58.86,t
+4200092,VAN RIEL,Marten,1992,M,BEL,Arvicola Zwemclub Kalmthout,58.86,t
+5478219,PIRSON,Sacha,2004,M,BEL,Namur Olympic Club,58.86,t
+5294350,TIELEMANS,Ewan,2008,M,BEL,Zwemclub Brabo Antwerpen,58.86,t
+5559672,ZHU,Samson,2008,M,BEL,Cercle De Natation Sportcity W,58.86,t
+4804525,GOSSET,Roger,1993,M,BEL,Chaudfontaine Thermale Natatio,58.87,t
+5281067,VANDOOREN,Jules,2007,M,BEL,Genker Zwemvereniging Neptunus,58.87,t
+5183534,VANSTEELANDT,Bram,2006,M,BEL,Zwemclub Kapelle-O/D-Bos,58.87,t
+5352697,OZDEMIR,Abdusselam,2008,M,BEL,Herstal Natation,58.87,t
+4363127,MAASKANT,Erik,2007,M,BEL,Swimming Club Zaventem,58.87,t
+4620625,VAN CAUWENBERGHE,Michiel,1999,M,BEL,Zwemclub Ter Borcht-Meulebeke,58.88,t
+5279460,TIMMERMANS,Jules,2009,M,BEL,First (Flanders Inter Regio Sw,58.88,t
+5227830,VERBRUGGE,Henri,2008,M,BEL,Koninklijke Kortrijkse Zwemkri,58.88,t
+4805232,TRIDETTI,Stephane,1991,M,BEL,Embourg Natation,58.89,t
+4804650,TROGH,Jens,1991,M,BEL,Groot Beverse Zwemclub,58.89,t
+4695379,BODIROZA,Nick,2000,M,BEL,Belgium,58.89,t
+5093438,BUGGENHOUT,Kiefer,2004,M,BEL,Koninklijke Zwemclub Neptunus,58.89,t
+5063715,LAHAYE,Flavian,2005,M,BEL,Entente Des Nageurs Louvierois Natation,58.89,t
+4613837,PELGRIMS,Lowie,2008,M,BEL,Zwemclub Tremelo,58.89,t
+4779048,JANSEN,Peter,1996,M,BEL,Koninklijke Hasseltse Zwemvere,58.91,t
+4307196,SIMONS,Maxence,1997,M,BEL,Nautic Club Herve,58.91,t
+4819695,MORBE,Bjarne,2000,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.91,t
+4296031,SARDAR,Joshua,1994,M,BEL,Royal Brussels Poseidon,58.92,t
+4731871,DENEFF,Gregoire,2001,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.92,t
+5105908,CARAUCH,Yasin,2004,M,BEL,Zwemclub Brabo Antwerpen,58.92,t
+4910137,DOME,Simon,2002,M,BEL,Nautic Club Herve,58.92,t
+4917664,BAL,Jerome,2004,M,BEL,Zwemclub Schoten,58.92,t
+5179510,HUTSE,Matteo,2005,M,BEL,First (Flanders Inter Regio Sw,58.92,t
+4308185,ZENI,Sebastien,1989,M,BEL,Nautic Club Herve,58.93,t
+4139728,ROELS,Anthony,1992,M,BEL,Lokerse Zwemvereniging,58.93,t
+4304268,BAART,Jari,1997,M,BEL,Zwemclub Brabo Antwerpen,58.93,t
+4371805,OUD EL BIDAOUIA,Nicolas,1993,M,BEL,Belgium,58.94,t
+4303761,WOUTERS,Wesley,1989,M,BEL,Lommelse Zwemvereniging de Lo,58.94,t
+4477418,VANNESTE,Jorn,1996,M,BEL,Koninklijke Waregemse Zwemclub,58.94,t
+4779617,GUEUNING,Louis,1997,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.95,t
+4306642,MOUALHI,Yanni,1998,M,BEL,Entente Des Nageurs Louvierois Natation,58.95,t
+4306941,RAES,Christof,1997,M,BEL,Zwemclub Kapelle-O/D-Bos,58.95,t
+4314899,VAN STRYTHEM,Evert,1997,M,BEL,Swimming Team Zennevallei,58.95,t
+5067644,DELPIERRE,Maxime,1999,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.95,t
+4984911,VANDEPITTE,Jonas,2001,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.95,t
+5113629,VERHAEGHE,Matz-Luka,2006,M,BEL,Zwemclub De Dolfijnen Middelke,58.95,t
+5199424,VELLEMANS,Sam,2006,M,BEL,Koninklijke Zwemclub Neptunus,58.95,t
+4487340,LORENZETTI,Ephrem,1995,M,BEL,Namur Olympic Club,58.96,t
+4598027,MERTENS,Lucas,1999,M,BEL,Pole Swimming Liege,58.96,t
+4796182,BAGHDADI,Amine,2000,M,BEL,Charleroi Helios Aqua Team,58.96,t
+5017952,LINDEBOOM,Charlie,2005,M,BEL,Zwemclub de Dolfijnen Asse-T,58.96,t
+4805108,BREULS,Nikolaz,1990,M,BEL,Zwemclub Brabo Antwerpen,58.97,t
+5422875,EL BOUHDIDI,Islam,2009,M,BEL,Swimming Team Waasland,58.97,t
+4805244,VAN DER JEUGT,Karel,1990,M,BEL,Groot Beverse Zwemclub,58.98,t
+4393278,DE NEVE,Dries,1995,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.98,t
+4695375,LEDECQ,Nicolas,1999,M,BEL,Blocry, Ottignies Et Univ.L.L.,58.98,t
+4563577,TONDAT,Kevin,2000,M,BEL,First (Flanders Inter Regio Sw,58.98,t
+5281030,DEPOORTER,Ian,2007,M,BEL,Gold Swimming Team,58.98,t
+4812908,STEVENS,Floris,2002,M,BEL,Swimming Team Zennevallei,58.99,t
+5202362,D'HAES,William,2006,M,BEL,Natation Club Athus,58.99,t
+4804659,VAN HAM,Gertjan,1990,M,BEL,Geelse Sportvereniging Zwemmen,59.00,t
+4308882,MAES,Glenn,1991,M,BEL,Zwemclub olma Turnhout,59.00,t
+4200200,DE RECHTER,Bert,1993,M,BEL,Zwemclub Brabo Antwerpen,59.00,t
+4305341,DESTUYVER,Mike,1997,M,BEL,Zwemclub de Dolfijnen Asse-T,59.00,t
+5067704,VARGA,Jean,1999,M,BEL,Entente Des Nageurs Louvierois Natation,59.00,t
+4411752,DOWNEY,Ben,1999,M,BEL,Shark,59.00,t
+4779010,VANDERBORGHT,Nils,2001,M,BEL,Leuven Aquatics,59.00,t
+5179528,NICOLAES,Aidan Noah,2007,M,BEL,Csc La Calamine Neu-Moresnet,59.00,t
+4804276,VREYS,Ward,1983,M,BEL,Geelse Sportvereniging Zwemmen,59.01,t
+4303491,DE BAETS,Ben,1986,M,BEL,First (Flanders Inter Regio Sw,59.01,t
+4307752,VANDE CASTEELE,Wim,1991,M,BEL,Zwemclub S.O.S.,59.01,t
+4305252,DELVAUX,Denis,1997,M,BEL,Cercle De Natation Sportcity W,59.01,t
+4306109,KWOK,Gregory,1992,M,BEL,Cercle De Natation D'ixelles,59.01,t
+5111338,PEETERS,Jaron,2002,M,BEL,Koninklijke Zwemclub Neptunus,59.01,t
+4305493,DUYVEJONCK,Simon,1994,M,BEL,Koninklijke Waregemse Zwemclub,59.02,t
+4074341,DE CLERCK,Sander,1993,M,BEL,First (Flanders Inter Regio Sw,59.02,t
+5355007,BOGAERS,Thomas,2010,M,BEL,Zwemclub Brabo Antwerpen,59.02,t
+4804550,WERY,Benoit,1989,M,BEL,Cercle Royal De Natation De Huy,59.03,t
+4804452,VANESSE,Thomas,1989,M,BEL,Blocry, Ottignies Et Univ.L.L.,59.03,t
+4432011,DESSY,Nicolas,1993,M,BEL,Embourg Natation,59.03,t
+4804922,DE PAEPE,Wim,1985,M,BEL,Swimming Club Wauterbos Rode,59.03,t
+4617123,DE ROECK,Matthias,1996,M,BEL,Swimming Team Waasland,59.03,t
+4355418,CLAREBOTS,Marnicq,1997,M,BEL,Koninklijke Hasseltse Zwemvere,59.03,t
+4308040,VINCKE,Sven,1997,M,BEL,Swimming Team Zennevallei,59.03,t
+4225688,VAN REETH,Timothy,1988,M,BEL,Shark,59.04,t
+4805426,VAN HOOF,Dimi,1989,M,BEL,Zwemvereniging Lier,59.04,t
+5209375,LOUTSCH,Baptiste,2002,M,BEL,Club De Natation Bastogne,59.04,t
+5137694,ALLARDIN,Jules,2005,M,BEL,Swimming Club Wauterbos Rode,59.04,t
+4600483,JURGENS,Tim,1985,M,BEL,Zwemvereniging Lier,59.05,t
+4574044,DERYCKE,Bjorn,1996,M,BEL,Gold Swimming Team,59.05,t
+4792491,HUYBRECHTS,Nik,2001,M,BEL,Zwemclub Brabo Antwerpen,59.05,t
+4285213,MURILLO,Cedric,1994,M,BEL,Ecole Seraing Natation,59.05M,t
+4139947,OULD EL BIDAOUIA,Nicolas,1993,M,BEL,Liege Mosan,59.06,t
+4413202,PLESSERS,Sam,1996,M,BEL,Zwemmen In Molenheide,59.06,t
+4805110,BULENS,Dieter,1990,M,BEL,Zwemclub Brabo Antwerpen,59.07,t
+4139896,HOSTYN,Cyril,1993,M,BEL,Royal Dauphins Mouscronnois,59.07,t
+4139803,DE ROO,Steve,1992,M,BEL,Zwemclub Beringen-Mijn,59.07,t
+4779189,TIMMERMANS,Jeroen,2001,M,BEL,Zwemclub Schoten,59.07,t
+5369826,VERHAGEN,Robbe,2009,M,BEL,Swimming Team Waasland,59.07,t
+4262649,MATAIGNE,Martin,1997,M,BEL,Natation Club Athus,59.08,t
+4349624,VAN DYCK,Antony,1986,M,BEL,Zwemclub Otters Mortsel,59.09,t
+4805096,LEYSEN,Matthieu,1991,M,BEL,Braine L'alleud Aqua College,59.09,t
+5017406,FRANQUINET,Noah,2006,M,BEL,Liege Natation,59.09,t
+5167339,BROUX,Alexander,2007,M,BEL,Genker Zwemvereniging Neptunus,59.09,t
+5003818,DECALUWE,Georges,2009,M,BEL,Zwemclub Tremelo,59.09,t
+4805409,RYMENANS,Jens,1989,M,BEL,Zwemclub Tremelo,59.10,t
+4302753,HERTVELDT,Nico,1986,M,BEL,Zwemclub ZIOS Liedekerke,59.10,t
+4930843,BELLENS,Jens,2001,M,BEL,Shark,59.10,t
+4640002,HEYERICK,Axel,2000,M,BEL,Koninklijke Kortrijkse Zwemkri,59.10,t
+5007860,HENRI,Alix,2004,M,BEL,Royal Verviers Natation,59.10,t
+4968861,BRAEM,Noa,2009,M,BEL,Les Espadons Cominois,59.10,t
+4219619,HARBIT,Yassine,1995,M,BEL,Chaudfontaine Thermale Natatio,59.11,t
+4437302,REYNIERS,Arne,1998,M,BEL,Zwemclub de Dolfijnen Asse-T,59.11,t
+5065823,PIROTTE,Sebastian,2003,M,BEL,Koninklijke Vilvoordse Zwemclu,59.11,t
+5169387,DE BAERDEMAEKER,Lander,2007,M,BEL,Leuven Aquatics,59.11,t
+5425482,PAUWELS,Millau,2011,M,BEL,Iswim,59.11,t
+4199827,LUYCKX,Thijs,1988,M,BEL,Zwemclub olma Turnhout,59.12,t
+4305989,JANSOONE,Siebe,1992,M,BEL,Koninklijke Kortrijkse Zwemkri,59.12,t
+5031241,CLOES,Stef,2005,M,BEL,Brabant East Swimming Team,59.12,t
+4804778,NORTHSHIELD,Benjamin,1988,M,BEL,Orca Natation Soignies,59.13,t
+4811556,PETREMENT,Francois,1999,M,BEL,Natation Club Athus,59.13,t
+4305240,DELHOUGNE,Nathan,1996,M,BEL,Les Dauphins Visetois,59.13,t
+5365273,MEERT,Vince,2009,M,BEL,Swimming Team Zennevallei,59.13,t
+5440708,PERSOONS,Emiel,2008,M,BEL,Zwemclub ZIOS Liedekerke,59.13,t
+4139768,VAN DEN BOSCH,Thomas,1995,M,BEL,Shark,59.14,t
+4340456,BASSLE,Joris,1999,M,BEL,Koninklijke Brugse Zwem- & Red,59.14,t
+4680473,SMAGGHE,Dries,1998,M,BEL,Temse Schelde Zwemmers,59.14,t
+5349880,DEVOLDER,Maxime,2006,M,BEL,Izegemse Krekel Zwemmers,59.14,t
+4074389,BRABANT,Vincent,1989,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.15,t
+4639988,BOSMAN,Robbe,2001,M,BEL,First (Flanders Inter Regio Sw,59.15,t
+4725879,MORIAU,Amaury,2002,M,BEL,Cercle De Natation Sportcity W,59.15,t
+4804601,VANDEWAL,Tom,1990,M,BEL,Zwemvereniging De Meerkoet Bre,59.16,t
+4804843,DOLPHEN,Arne,1988,M,BEL,Bruinvissen Diksmuide,59.16,t
+4139900,LEGRAND,Dylan,1995,M,BEL,Royal Dauphins Mouscronnois,59.16,t
+4308482,VOORDECKERS,Alec,1996,M,BEL,Arvicola Zwemclub Kalmthout,59.16,t
+4882357,CLOES,Nick,2000,M,BEL,Brabant East Swimming Team,59.16,t
+4219618,GHYSENS,Renaud,1993,M,BEL,Liege Mosan,59.17,t
+4306249,LENTZE,Maximilien,1995,M,BEL,Longchamp Swimming Club Uccle,59.17,t
+4299651,MARIVOET,Niels,1994,M,BEL,Zwemclub Kapelle-O/D-Bos,59.17,t
+4860223,MODAVE,Eliot,1998,M,BEL,Embourg Natation,59.17,t
+5165303,VANNEROM,Nathan,2008,M,BEL,Perron,59.17,t
+4005852,GOIRE,Arnaud,2008,M,BEL,Ecole De Natation Waremmienne,59.17,t
+5017397,BODSON,Simon,2004,M,BEL,Ecole Seraing Natation,59.18,t
+5564860,DEMEUSE,Romeo,2006,M,BEL,Namur Olympic Club,59.18,t
+5493979,VERSCHUREN,Linus,2008,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,59.18,t
+4805027,ROSU,Lionel,1989,M,BEL,Embourg Natation,59.19,t
+5030976,LALOUX,Bertrand,1987,M,BEL,Liege Natation,59.19,t
+4139953,HARDY,Joris,1995,M,BEL,Nautic Club Herve,59.19,t
+4833464,LEROY,Cedric,2004,M,BEL,Namur Olympic Club,59.19,t
+4418055,MATHEYSSEN,Vinz,2006,M,BEL,Zwemclub Brabo Antwerpen,59.19,t
+5281090,VANOVERBEKE,Seppe,2008,M,BEL,Ursus Zwemklub Zwevegem,59.19,t
+4306727,OMBLETS,Yolan,1994,M,BEL,Zwemclub Brabo Antwerpen,59.20,t
+4139963,DE GRATIE,David,1996,M,BEL,Royal Brussels Poseidon,59.20,t
+4305862,HERREMANS,Arno,1997,M,BEL,Dilbeekse Zwemvereniging,59.20,t
+4644200,RORIVE,Nicolas,1996,M,BEL,Cercle Royal De Natation De Huy,59.20,t
+4246969,ZERAIDI,Amine,1996,M,BEL,Cercle Royal De Natation De Br,59.20,t
+5004084,SWERTS,Jan,2001,M,BEL,De Beringse Tuimelaars,59.20,t
+5283044,VAN WEEHAEGE - MEEUWS,Thor,2009,M,BEL,Iswim,59.20,t
+5177181,MICHIELS,Pieter,2007,M,BEL,Lommelse Zwemvereniging de Lo,59.21,t
+4074347,OST,Toon,1990,M,BEL,First (Flanders Inter Regio Sw,59.22,t
+4255129,KETELE,Mathias,1992,M,BEL,Waterloo Natation,59.22,t
+4308510,BASTIN,Vincent,1977,M,BEL,Chaudfontaine Thermale Natatio,59.23M,t
+4439739,VANMEERBEEK,Rob,1999,M,BEL,Leuven Aquatics,59.23,t
+4927323,LAUWAERT,Arne,2002,M,BEL,Kempisch Swimming Team,59.23,t
+4306868,PISSENS,Tom,1995,M,BEL,Swimming Team Zennevallei,59.24,t
+4139741,VOS,Pieter,1995,M,BEL,Molse Zwemclub mozka,59.24,t
+4309471,DE HOON,Axel,1998,M,BEL,Dendermondse Zwemvereniging Ol,59.24,t
+5101498,VAN DEN BERGH,Jonas,2005,M,BEL,Zwemclub de Dolfijnen Asse-T,59.24,t
+5169366,GOS,Carsten,2006,M,BEL,Koninklijke Hasseltse Zwemvere,59.24,t
+4139839,BARRAS,Cyril,1993,M,BEL,Blocry, Ottignies Et Univ.L.L.,59.25,t
+5007869,GERARD,Henri,2003,M,BEL,Royal Verviers Natation,59.25,t
+5167323,DE KONINCK,Pieter-Jan,2006,M,BEL,Koninklijke Zwemclub Olympic A,59.25,t
+5478221,VAN HOOF,Cobe,2010,M,BEL,Brabant East Swimming Team,59.25,t
+4321497,BAELEN,Siebe,2007,M,BEL,De Beringse Tuimelaars,59.25,t
+4306000,JANUARIUS,Bart,1987,M,BEL,Swimming Team Zennevallei,59.26,t
+4828030,VAN STEEN,Jarno,1999,M,BEL,Molse Zwemclub mozka,59.26,t
+5036373,SCHEIRLYNCK,Olaf,2002,M,BEL,Flanders Coast Swimmingteam,59.26,t
+4605630,DE DONDER,Lars,2000,M,BEL,Swimming Club Strombeek-Grimbe,59.26,t
+5372541,KINDT,Liam,2010,M,BEL,Torhoutse Zwemklub Thor,59.26,t
+4804698,LIBEER,Thijs,1989,M,BEL,Koninklijke Kortrijkse Zwemkri,59.27,t
+4804440,VANHOOF,Joris,1988,M,BEL,Brabant East Swimming Team,59.27,t
+4255097,DEGERICKX,Marijn,1992,M,BEL,Swimming Team Tienen,59.27,t
+4139954,JEANGILLE,Antonin,1995,M,BEL,Nautic Club Herve,59.27,t
+5007830,JANSSENS,Florian,2002,M,BEL,Orca Natation Soignies,59.27,t
+4568391,VAN QUEKELBERGHE,Kris,2007,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.27,t
+4140010,BODEUX,Thibault,1991,M,BEL,Cercle Bertrigeois De Natation,59.28,t
+4731861,DISIERE,Thibeaut,1998,M,BEL,Espadon Leuze Natation,59.28,t
+4991257,THEYS,Killian,2002,M,BEL,Ecole De Natation Waremmienne,59.28,t
+4922049,VAN CUTSEM,Renzo,2004,M,BEL,Zwemclub Kapelle-O/D-Bos,59.28,t
+4804581,VAN LAER,Lendert,1988,M,BEL,Zwemclub de Dolfijnen Asse-T,59.29,t
+4805081,VAN BAELEN,Dimas,1992,M,BEL,Arendonkse Zwemvereniging,59.29,t
+4139765,LIEVENS,Peter,1994,M,BEL,Shark,59.29,t
+4139678,SEGERS,Jelle,1995,M,BEL,Zwemvereniging De Meerkoet Bre,59.29,t
+4668015,JANSEGERS,Seppe,1997,M,BEL,Iswim,59.29,t
+5081034,FRANSSENS,Maurits,2002,M,BEL,Koninklijke Zwemclub Neptunus,59.29,t
+5177086,BRAL,Renaud,2001,M,BEL,Cercle Royal De Natation De To,59.29,t
+4303513,DELMAS,Stephane,1986,M,BEL,Zwemclub Brabo Antwerpen,59.30,t
+4139770,VERHEYEN,Hannes,1994,M,BEL,Shark,59.30,t
+4393625,VAN DER WEYDEN,Stijn,1996,M,BEL,Zwemvereniging Lier,59.30,t
+4582965,DE CONINCK,Joren,1997,M,BEL,Zwemclub ZIOS Liedekerke,59.30,t
+5195022,APPELMANS,Gerben,2005,M,BEL,Koninklijke Zwemclub Neptunus,59.30,t
+4307268,STAPPAERTS,Roel,1984,M,BEL,Kempisch Swimming Team,59.31,t
+4139782,DUTHOO,Michiel,1995,M,BEL,Zwemclub Brabo Antwerpen,59.31,t
+4439574,LOMAN,Thijs,1999,M,BEL,Peltse Zwemclub,59.31,t
+4249386,HAMDI,Zyed,1993,M,BEL,Le Triton ans Natation,59.32,t
+4393240,ELOI,Raphael,1996,M,BEL,Dilbeekse Zwemvereniging,59.32,t
+4805412,LAENEN,Robin,1993,M,BEL,Zwemclub Beringen-Mijn,59.32,t
+5065578,VANHEES,Stef,2003,M,BEL,De Beringse Tuimelaars,59.32,t
+5036226,NOERENS,Andres,2002,M,BEL,First (Flanders Inter Regio Sw,59.32,t
+4914331,EPPE,Guillaume,2001,M,BEL,Perron,59.32,t
+5346832,VANDEPOEL,Quinten,2010,M,BEL,Sint-Truidense Zwemclub,59.32,t
+4296018,BERGER,Sebastien,1994,M,BEL,Liege Natation,59.33,t
+4304818,COOLS,Bert,1996,M,BEL,Zwemvereniging Lier,59.33,t
+4966763,THIENPONT,Niels,2000,M,BEL,Roeselaarse Zwemvereniging,59.33,t
+4924707,SPRUYT,Linus,2002,M,BEL,Zoro,59.33,t
+5079224,VAN CLEVEN,Kobe,2004,M,BEL,Koninklijke Brugse Zwem- & Red,59.33,t
+5177153,DE SAEGER,Sander,2005,M,BEL,Aalsters Swimming Team,59.33,t
+5169419,IGODT,Daan,2006,M,BEL,Zwemclub Ter Borcht-Meulebeke,59.33,t
+4308876,LUPPENS,Gerrit,1989,M,BEL,Dilbeekse Zwemvereniging,59.34,t
+4283136,LUYS,Kenneth,1997,M,BEL,Peltse Zwemclub,59.34,t
+4688834,CLAESSENS,Axel,1999,M,BEL,Zwemclub Brabo Antwerpen,59.34,t
+4711102,WUYTS,Robbe,2001,M,BEL,Zwemclub Lorelei Londerzeel,59.34,t
+5180699,VAN BOXSTAEL,Berend,2006,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,59.34,t
+5209955,KOTHONIDIS,Alexandre,2010,M,BEL,Blocry, Ottignies Et Univ.L.L.,59.34,t
+4139129,SAINLEZ,Loris,1993,M,BEL,Natation Club Athus,59.35,t
+4262653,ROSEN,Basile,1994,M,BEL,Cercle Royal De Natation Arlonais,59.35,t
+4428564,VAN HEE,Sebastiaan,1998,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.35,t
+4632542,COLLIN,Nathan,2001,M,BEL,Nautic Club Herve,59.35,t
+5169830,JANSSENS,Tijs,2010,M,BEL,Zwemvereniging Lier,59.35,t
+4140011,WAVREILLE,Julien,1990,M,BEL,Cercle Bertrigeois De Natation,59.36,t
+4306622,MOONEN,Niels,1992,M,BEL,Zwemvereniging De Meerkoet Bre,59.36,t
+4813200,TOUIL,Malik,1998,M,BEL,Dendermondse Zwemvereniging Ol,59.36,t
+4879018,SPAGNOLO,Rosario,2000,M,BEL,Embourg Natation,59.36,t
+4822395,DE SAEGHER,Ruben,2001,M,BEL,Swimming Team Waasland,59.36,t
+4237228,EL KASMI,Mohamed,2006,M,BEL,Zwemclub Brabo Antwerpen,59.36,t
+4737406,THILL,Esteban,2010,M,BEL,Entente Des Nageurs Louvierois Natation,59.36,t
+4305694,GODERNIAUX,Olivier,1987,M,BEL,Castor Club De Mons,59.37,t
+4942798,DE CLIPPELEER,Dylan,2000,M,BEL,Swimming Team Waasland,59.37,t
+5137693,FELIS,Maxence,2005,M,BEL,Swimming Club Wauterbos Rode,59.37,t
+5125416,FRANSEN,Thibeau,2008,M,BEL,Temse Schelde Zwemmers,59.37,t
+5285185,LAMBERT,Noah,2010,M,BEL,Liege Natation,59.37,t
+4307235,SNYDERS,Xavier,1991,M,BEL,Orca Natation Soignies,59.38,t
+5277215,SONUMUT,Arman,2010,M,BEL,Swimming Club Zaventem,59.38,t
+4805425,SMEKENS,Tuur,1990,M,BEL,Zwemvereniging Lier,59.39,t
+4805223,HERGOT,Bastien,1994,M,BEL,Ecole Seraing Natation,59.39,t
+4139723,NIEUWKOOP,Chris,1994,M,BEL,Lommelse Zwemvereniging de Lo,59.39,t
+4805212,TIMMERMAN,Gert-Jan,1993,M,BEL,Koninklijke Waregemse Zwemclub,59.39,t
+4309484,EVENS,Niels,1995,M,BEL,Molse Zwemclub mozka,59.39,t
+5017398,JURDAN,Pierre,2003,M,BEL,Perron,59.39,t
+4812911,DEBLOCK,Thomas,2002,M,BEL,Ursus Zwemklub Zwevegem,59.39,t
+5210553,VERHAEGHE,Martijn,2007,M,BEL,Izegemse Krekel Zwemmers,59.39,t
+5251199,MAES,Briek,2007,M,BEL,Torhoutse Zwemklub Thor,59.39,t
+4677765,VANDENWEGHE,Miel,2008,M,BEL,Bruinvissen Diksmuide,59.39,t
+5367621,ROOSEN,Lukas,2010,M,BEL,Peltse Zwemclub,59.39,t
+5102983,VANDER BRACHT,Brent,1998,M,BEL,Zwemclub ZIOS Liedekerke,59.40,t
+4999932,DESMET,Simon,2004,M,BEL,Torhoutse Zwemklub Thor,59.40,t
+4305441,DRION,Guillaume,1985,M,BEL,Liege Mosan,59.41,t
+4200032,ZUREK,Filip,1991,M,BEL,Zoro,59.41,t
+4299641,BACQUAERT,Francois,1996,M,BEL,Mons Hainaut Natation,59.41,t
+4313954,COESSENS,Lionel,1994,M,BEL,Club Marsouins Ath,59.41,t
+4349603,GULLENTOPS,Simon,1997,M,BEL,Longchamp Swimming Club Uccle,59.41,t
+4565682,VAN VLAENDEREN,Willem,1997,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.41,t
+4756798,COURTENS,Dimas,2000,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.41,t
+4308092,WALPOT,Benjamin,1994,M,BEL,Ecole De Natation Waremmienne,59.42,t
+4439596,MERTENS,Yannis,1996,M,BEL,Arvicola Zwemclub Kalmthout,59.42,t
+4564711,VAN CAUWENBERGHE,Lucas,2001,M,BEL,De Dolfijnen Zwemclub Zomergem,59.42,t
+5512514,MULLER,Loukas,2007,M,BEL,Ms-Team,59.42,t
+4362861,BOURSEAU,Lucas,1998,M,BEL,Royal Verviers Natation,59.43,t
+4582962,VANDERLICK,Arno,1998,M,BEL,Swimming Club Zaventem,59.43,t
+4308457,DE VET,Seppe,1997,M,BEL,Arvicola Zwemclub Kalmthout,59.43,t
+4303492,DE BUYST,Bryan,1990,M,BEL,Ecole Seraing Natation,59.44,t
+4308006,VERSTAPPEN,Gill,1996,M,BEL,Swimming Club Strombeek-Grimbe,59.44,t
+5147627,TURCHET,Samuel,2007,M,BEL,Schwimmverein Delphin Eupen,59.44,t
+4395006,AUPAIX,Laurent,1987,M,BEL,Swimming Club Rixensart,59.45,t
+4249388,SPRIMONT,Arnaud,1989,M,BEL,Le Triton ans Natation,59.45,t
+4814980,VAN DAMME,Dylan,1999,M,BEL,Zwemvereniging brasschaatse D,59.45,t
+4427709,FEYS,Frederik,1999,M,BEL,Zwemclub De Dolfijnen Middelke,59.45,t
+4139906,SORET,Nathan,1995,M,BEL,Dison Welkenraedt Swimming Tea,59.46,t
+4307719,VAN STICHEL,Ortwijn,1998,M,BEL,Aquarius Zwemclub Lebbeke,59.46,t
+4733786,DEVOS,David,2000,M,BEL,Arvicola Zwemclub Kalmthout,59.46,t
+4804737,DE WAELE,Niels,1990,M,BEL,Koninklijke Brugse Zwem- & Red,59.47,t
+5015430,DE VOCHT,Stef,1999,M,BEL,Zwemvereniging Lier,59.47,t
+5067748,BAFFREY,Xavier,2000,M,BEL,Cercle De Natation Sportcity W,59.47,t
+4775826,WIELEMANS,Axl,2001,M,BEL,FROS  Zwemclub Vrij Merksem,59.47M,t
+4627741,FONDEUR,Mael,2005,M,BEL,Std,59.47,t
+4805420,PATTYN,Claude,1989,M,BEL,Zwemclub Tieltse Zeeduivels,59.48,t
+4274355,SWENNEN,Sven,1996,M,BEL,Zwemclub Geel,59.48,t
+4299653,BOLLAERTS,Olivier,1996,M,BEL,Swimming Team Tienen,59.48,t
+4295911,VAN DEN LANGENBERGH,Jeroen,1994,M,BEL,Zwemclub Brabo Antwerpen,59.48,t
+4312749,DELAIT,Lucien,1999,M,BEL,Natation Club Athus,59.48,t
+5137986,DELISSEN,Mats,2004,M,BEL,Arvicola Zwemclub Kalmthout,59.48,t
+5180707,GODDERIS,Gijs,2005,M,BEL,Tiense Regio United Swimming Team,59.48,t
+4428565,WUYTS,Antoon,1996,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.49,t
+4439725,VANDERSMISSEN,Jeremy,1998,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.49,t
+5032772,SLOCK,Gauthier,2003,M,BEL,Zwemclub de Dolfijnen Asse-T,59.49,t
+5036230,LYBEERT,Jelle,2003,M,BEL,Swimming Team Waasland,59.49,t
+4970410,SLOS,Robbie,2001,M,BEL,First (Flanders Inter Regio Sw,59.49,t
+4644169,HAZEN,Glenn,1993,M,BEL,Belgium,59.50,t
+5007842,VAN BOXSTAEL,Jan,2004,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,59.50,t
+5391847,REMY,Martin,2009,M,BEL,Liege Mosan,59.50,t
+4520383,HEATH,Ryan,1980,M,BEL,Brussels Gay Sports,59.51M,t
+5153676,LECOMTE,Romin,1999,M,BEL,Perron,59.51,t
+4970413,JANSSENS,Yorgen,2001,M,BEL,Koninklijke Zwemclub Neptunus,59.51,t
+4805371,LIEKENS,Stijn,1992,M,BEL,Swimming Team Tienen,59.52,t
+4805237,ARDENOY,Roy,1992,M,BEL,Flipper Natation Club Saint-Ge,59.52,t
+4306101,KUCKART,Eric,1997,M,BEL,Les Cormorans Farciennois,59.53,t
+4295793,ROLLIN,Pierre,1993,M,BEL,Squalus Nautic Club Gilly,59.53,t
+4742579,CHAREF,Zakaria,1998,M,BEL,Herstal Natation,59.53,t
+4913576,MARESCAU,Quinten,2003,M,BEL,Zwemclub Kapelle-O/D-Bos,59.53,t
+5277203,BOUKHRISS LE TEXIER,Emin,2008,M,BEL,Cercle Royal De Natation De Br,59.53,t
+4303615,MOERMAN,Thomas,1983,M,BEL,Shark,59.54,t
+4200030,VANHOVE,Boris,1989,M,BEL,Zoro,59.54,t
+4299612,VAN HOVE,Sam,1995,M,BEL,Flanders Coast Swimmingteam,59.54,t
+4199781,DUBOIS,Mike,1995,M,BEL,Royal Ostend Swimming Club,59.54,t
+4439779,WUYTS,Stijn,1980,M,BEL,Zwemclub Iloka Kapellen,59.54M,t
+4779052,VAN HENDE,Arno,1998,M,BEL,Izegemse Krekel Zwemmers,59.54,t
+4398127,DE CONINCK,Benjamin,1996,M,BEL,Koninklijke Zwemclub Neptunus,59.54,t
+5317367,LAUWAERT,Arne,2007,M,BEL,First (Flanders Inter Regio Sw,59.54,t
+5138701,HUYGENS,Arne,2003,M,BEL,Molse Zwemclub mozka,59.54,t
+5341561,LEBRUN,Julien,2009,M,BEL,Cercle Royal De Natation De Huy,59.54,t
+4225703,CECCARINI,Moreno,1990,M,BEL,Entente Des Nageurs Louvierois Natation,59.55,t
+4828029,VAN LIMBERGEN,Jarno,1998,M,BEL,Molse Zwemclub mozka,59.55,t
+4895736,VUYLSTEKE,Mereke,2000,M,BEL,Molse Zwemclub mozka,59.55,t
+4972244,CHARCHAR,Romain,2003,M,BEL,Royal Dauphins Mouscronnois,59.55,t
+4805144,DECOSTER,Arne,1993,M,BEL,Torhoutse Zwemklub Thor,59.56,t
+4368194,VANDERMEERSSCHAUT,Glenn,1995,M,BEL,Tesswim,59.56,t
+4792496,WILLEMART,Emmanuel,1995,M,BEL,Club Arapaimas Beauraing,59.56,t
+4946793,DRIES,Robbe,1999,M,BEL,Arendonkse Zwemvereniging,59.56,t
+4295868,KOKS,Mark,1983,M,BEL,Zwemclub olma Turnhout,59.57,t
+4812480,ORDELT,Brice,2000,M,BEL,Embourg Natation,59.57,t
+4882356,ANDERSON,Max,2002,M,BEL,Leuven Aquatics,59.57,t
+4755114,DE BRAEKELEER,William,1997,M,BEL,De Dolfijnen Zwemclub Zomergem,59.57M,t
+5243710,DELRUE,Alexander,2006,M,BEL,Zwemclub De Dolfijnen Middelke,59.57,t
+5211047,HEUNINCK,Miel,2010,M,BEL,Zwemclub ZIOS Liedekerke,59.57,t
+4307716,VAN STAPPEN,Jeroen,1990,M,BEL,Zwemclub ZIOS Liedekerke,59.58,t
+4805321,SERVAIS,Adrien,1992,M,BEL,Nautic Club Herve,59.58,t
+4309362,SAMYN,Bowke,1997,M,BEL,Gold Swimming Team,59.58,t
+5065580,KNAEPEN,Giel,2002,M,BEL,Zwemclub De Kimpel Bilzen,59.58,t
+5004099,AAZIBOU,Mattis,2004,M,BEL,Dendermondse Zwemvereniging Ol,59.58,t
+5422885,THONON,Matisse,2011,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.58,t
+5349867,GELADI,Bjorn,2009,M,BEL,Tiense Regio United Swimming Team,59.58,t
+4199995,LAUREYS,Matthias,1990,M,BEL,Swimming Team Waasland,59.59,t
+4721208,HENDRICK,Sebastien,2001,M,BEL,Chaudfontaine Thermale Natatio,59.59,t
+5063722,CUPA,Antoine,2002,M,BEL,Castor Club De Mons,59.59,t
+5478217,CHAFWEHE,Theo,2008,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,59.59,t
+5139764,STALS,Nicolas,2000,M,BEL,Belgium,59.60,t
+5091289,VALADI,Dorian,2002,M,BEL,Blocry, Ottignies Et Univ.L.L.,59.60,t
+5346663,LEDENS,Victor,2006,M,BEL,Swimming Club Rixensart,59.60,t
+5387535,CATRY,Gaetan,2009,M,BEL,Koninklijke Zwemclub Neptunus,59.60,t
+4303478,BUYNEEL,Joris,1989,M,BEL,Zwemclub Brabo Antwerpen,59.61,t
+4306632,MOREL,Lee,1990,M,BEL,Koninklijke Brugse Zwem- & Red,59.61,t
+4331877,VAN DINGENEN,Sam,1997,M,BEL,Zwemclub Brabo Antwerpen,59.61,t
+4805330,CLERENS,Olivier,1992,M,BEL,Swimming Club Rixensart,59.61,t
+4828065,LEMMENS,Jules,1999,M,BEL,Shark,59.61,t
+5259180,BRAGANO,Matteo,2008,M,BEL,Nautic Club Herve,59.61,t
+4804819,VANDEVELDE,Jens,1990,M,BEL,Ursus Zwemklub Zwevegem,59.62,t
+4804772,ADAMS,Sander,1989,M,BEL,Zwemclub olma Turnhout,59.62,t
+4307652,VAN HOVE,Michiel,1995,M,BEL,Heistse Zwemclub Arduas,59.62,t
+4892749,DURANT,Ernaut,2000,M,BEL,Castor Club De Mons,59.62,t
+5425485,VAN RAEMDONCK,Camu,2009,M,BEL,First (Flanders Inter Regio Sw,59.62,t
+4804653,VANHEES,Geert,1990,M,BEL,Groot Beverse Zwemclub,59.63,t
+4307470,VAN AELST,Pieter,1989,M,BEL,Kempisch Swimming Team,59.63,t
+5519079,ROSIERS,Nicolas,2007,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.63,t
+5389068,DEBRUYNE,Hannes,2010,M,BEL,Koninklijke Kortrijkse Zwemkri,59.63,t
+4805325,CATINUS,Sven,1994,M,BEL,Namur Olympic Club,59.64,t
+4199863,BOONE,Joris,1992,M,BEL,Koninklijke Waregemse Zwemclub,59.64,t
+5003045,SEDDIK,Rayan,2002,M,BEL,Cercle Royal De Natation De Br,59.64,t
+5056633,BERQUIN,Luka,2002,M,BEL,Iswim,59.64,t
+4989730,VAN DE WALLE,Robbe,2004,M,BEL,Swimming Team Aalter,59.64,t
+5209382,TZENOFF,Louen,2007,M,BEL,Cercle Royal De Natation De Huy,59.64,t
+5265179,CAMBRON,Ward,2006,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,59.64,t
+4068843,VANDERWEERDEN,Arnaud,1989,M,BEL,Cercle De Natation Sportcity W,59.65,t
+4365379,SIMONS,Mattias,1998,M,BEL,Zwemclub Geel,59.65,t
+5052983,FATH CHRAFIH,Ilias,2004,M,BEL,Swimming Team Zennevallei,59.65,t
+4304672,BOUHANI,Ilyas,1998,M,BEL,Les Espadons Cominois,59.65,t
+4564613,JOUKES,Levi,2000,M,BEL,Verenigde Willebroekse Zwemclu,59.65,t
+4648994,KEUSTERMANS,Arne,2006,M,BEL,Hoogstraten Zwemteam,59.65,t
+4804697,GHILLEMYN,Harry,1989,M,BEL,Koninklijke Kortrijkse Zwemkri,59.66,t
+4308461,GEERS,Jiri,1974,M,BEL,Arvicola Zwemclub Kalmthout,59.66,t
+5022346,MAMBOUR,Anton,2001,M,BEL,Swimming Club Rixensart,59.66,t
+4927333,DE CLERCK,Lars,2002,M,BEL,Zwemvereniging brasschaatse D,59.66,t
+5065826,DE MUNCK,Emiel,2004,M,BEL,Zwemclub de Dolfijnen Asse-T,59.66,t
+4804433,MATHIJS,Roel,1990,M,BEL,Brabant East Swimming Team,59.67,t
+4140024,HUTSEMEKERS,Guy,1988,M,BEL,Cercle Royal De Natation De Sp,59.67,t
+4139881,DAOUAS,Raffa,1992,M,BEL,Cercle Royal De Natation De Huy,59.67,t
+5330356,HENRY,Milo,2008,M,BEL,Club Arapaimas Beauraing,59.67,t
+4805255,SCHROEDERS,Pieter,1989,M,BEL,Genker Zwemvereniging Neptunus,59.68,t
+5102982,DE SMEDT,Joppe,2002,M,BEL,Zwemclub ZIOS Liedekerke,59.68,t
+5322972,BOEYKENS,Stijn,2007,M,BEL,Kempisch Swimming Team,59.68,t
+5302990,FRANCOIS,Tijs,2008,M,BEL,Torhoutse Zwemklub Thor,59.68,t
+4272360,DE VOCHT,Pieter,1991,M,BEL,Zwemvereniging Lier,59.69,t
+4863604,BROUWERS,Simon,1988,M,BEL,Csc La Calamine Neu-Moresnet,59.69M,t
+5478230,VERMEERBERGEN,Kamiel,2009,M,BEL,Molse Zwemclub mozka,59.69,t
+4804277,DELPLACE,Erik,1978,M,BEL,Mons Hainaut Natation,59.70,t
+4303716,VANDE VELDE,Gerd,1986,M,BEL,Swimming Team Zennevallei,59.70,t
+4308903,MEYER,Leroy,1997,M,BEL,Royal Ostend Swimming Club,59.70,t
+4741080,ACOLATSE,Guillaume,2000,M,BEL,Cercle Royal De Natation De Huy,59.70,t
+4356278,DE CLERCK,Thomas,1999,M,BEL,Zwemclub Brabo Antwerpen,59.70,t
+4470604,KRUIJTZER,Jelle,1999,M,BEL,Zwemclub Brabo Antwerpen,59.70,t
+4237212,UYTTENHOVE,Louis,2004,M,BEL,Izegemse Krekel Zwemmers,59.70,t
+5203771,PELLICCIOTTA,Luca,2005,M,BEL,Zwemclub Geel,59.70,t
+5259518,CHRISTIAENS,Theo,2008,M,BEL,Perron,59.70,t
+4805036,BOOSSY,Kevin,1989,M,BEL,Dison Welkenraedt Swimming Tea,59.71,t
+4804613,DECAMPS,Bertrand,1990,M,BEL,Entente Des Nageurs Louvierois Natation,59.71,t
+4139757,VAN DE VONDEL,Arno,1993,M,BEL,Swimming Club Strombeek-Grimbe,59.71,t
+5153675,MASSIGNAN,Ilias,2002,M,BEL,Perron,59.71,t
+4922051,KENNES,Kylian,2003,M,BEL,Zwemclub Kapelle-O/D-Bos,59.71,t
+5281069,VANOPPEN,Mathias,2009,M,BEL,Koninklijke Hasseltse Zwemvere,59.71,t
+4306452,MARIQUE,Kevin,1989,M,BEL,Royal Charleroi Sporting Club,59.72,t
+4875308,STEENACKERS,Tomas,1996,M,BEL,Provincie Oost-Vlaanderen,59.72,t
+4200041,WILLEMS,Niels,1995,M,BEL,Shark,59.72,t
+4433299,GOOSSENS,Maxime,1997,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,59.72,t
+4565979,VAN BOXSTAEL,Andreas,1999,M,BEL,Koninklijke Zwemclub Neptunus,59.72,t
+4779163,OP DE BEECK,Birger,1991,M,BEL,Zwemclub Iloka Kapellen,59.72M,t
+4779062,DRUYTS,Jeroen,2001,M,BEL,Kempisch Swimming Team,59.72,t
+4303542,FRANKINOUILLE,Rudi,1968,M,BEL,Swimming Team Waasland,59.73,t
+4307584,VAN DER STEEN,Wouter,1994,M,BEL,Aquarius Zwemclub Lebbeke,59.73,t
+4565865,WAGEMANS,Udo,1997,M,BEL,Brabant East Swimming Team,59.73,t
+4639992,SEYNAEVE,Victor,1997,M,BEL,Swimming Club Strombeek-Grimbe,59.73,t
+4779007,HEIDBUCHEL,Hendrik,2001,M,BEL,Leuven Aquatics,59.73,t
+4200004,VAN ROY,Pieter,1988,M,BEL,Koninklijke Zwemclub Neptunus,59.74,t
+4304554,VAN DE PUTTE,Geoffrey,1990,M,BEL,Royal Brussels Poseidon,59.74,t
+5265180,OMAR,Youssef,2001,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,59.74,t
+4307314,SWANNET,Frederik,1995,M,BEL,Kempisch Swimming Team,59.75,t
+5422880,LANGENBICK,Leon,2010,M,BEL,Swimming Team Aalter,59.75,t
+5259502,PEERSMAN,Niel,2007,M,BEL,AART-Lorelei-Zwemvereniging,59.75,t
+4246955,SCHMETS,David,1991,M,BEL,Schwimmverein Delphin Eupen,59.76,t
+4805197,DEVILLE,Michael,1992,M,BEL,Flipper Natation Club Saint-Ge,59.76,t
+4139966,DEBROEYER,Romain,1996,M,BEL,Cercle De Natation Sportcity W,59.76,t
+4313300,JANSENS,Wim,1984,M,BEL,Brabant East Swimming Team,59.77,t
+4139926,SMAL,Loris,1993,M,BEL,Ecole Seraing Natation,59.77,t
+4299636,LAVET,Quentin,1996,M,BEL,Ecole De Natation Waremmienne,59.77,t
+4305673,GIELENS,Daan,1997,M,BEL,Brabant East Swimming Team,59.77,t
+5004112,GANSEMANS,Marnix,2003,M,BEL,Ronse Swimming Club,59.77,t
+4729486,CLAES,Ryan,2001,M,BEL,Verenigde Willebroekse Zwemclu,59.77,t
+5321452,BERTELS,Quillan,2009,M,BEL,Shark,59.77,t
+4804687,VANDEVENNE,Michael,1991,M,BEL,Koninklijke Hasseltse Zwemvere,59.78,t
+4312758,KORDBACHEH,Bijan,1998,M,BEL,Schwimmverein Delphin Eupen,59.78,t
+4733784,JANSSENS,Robbe,1997,M,BEL,Arvicola Zwemclub Kalmthout,59.78,t
+4340439,CALLEWAERT,Corentin,1998,M,BEL,Royal Brussels Poseidon,59.78,t
+4968147,VAN LOON,Wies,2009,M,BEL,Arvicola Zwemclub Kalmthout,59.78,t
+4906235,JONCKHEERE,Joppe,2008,M,BEL,Nijlense Zwemclub,59.78,t
+4804586,DE CLOET,Olivier,1991,M,BEL,Royal Dauphins Mouscronnois,59.79,t
+4691657,WILLEMS,Steffen,1994,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,59.79,t
+4334562,DE BISSCHOP,Liam,1996,M,BEL,Aalsters Swimming Team,59.79,t
+5009535,VAN WOENSEL,Nick,2001,M,BEL,Koninklijke Zwemclub Olympic A,59.79,t
+4577258,VAN CAUTEREN,Ruben,1996,M,BEL,Lokerse Zwemvereniging,59.79,t
+5089881,KUYPERS,Niels,2004,M,BEL,Arvicola Zwemclub Kalmthout,59.79,t
+5002329,FELIES,Enver,2005,M,BEL,Lokerse Zwemvereniging,59.79,t
+4279130,MAENHOUT,Felix,2008,M,BEL,First (Flanders Inter Regio Sw,59.79,t
+4611280,DAEMEN,Tuur,2008,M,BEL,Zwemvereniging De Meerkoet Bre,59.79,t
+4804805,VAN HOUTTE,Bertrand,1990,M,BEL,Ecole Saint-Vith Natation,59.80,t
+4140031,GROSSER,Emmanuel,1974,M,BEL,Ecole De Natation De Nivelles,59.80,t
+4524126,BUVE,Quinten,1999,M,BEL,Zwemclub Brabo Antwerpen,59.80,t
+4393632,SOENS,Aaron,1996,M,BEL,Koninklijke Kortrijkse Zwemkri,59.81,t
+4805302,VAN MEIRVENNE,Cas,1991,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.82,t
+4303514,DELVAL,Loic,1986,M,BEL,Squalus Nautic Club Gilly,59.82,t
+4305029,DE KORT,Simon,1993,M,BEL,Kempisch Swimming Team,59.82,t
+4779603,LEDNICKY,Vit,1999,M,BEL,Belgium,59.82,t
+4873920,CORTEN,David,1985,M,BEL,Merksemse Zwemvereniging,59.82,t
+5473852,CARIS,Emiel,2009,M,BEL,TiMe Swimming Team,59.82,t
+4804562,DUMALIN,Francis,1991,M,BEL,Flanders Coast Swimmingteam,59.83,t
+4826687,NELIS,Lander,2000,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.83,t
+5180709,RIMANQUE,Hannes,2005,M,BEL,Tiense Regio United Swimming Team,59.83,t
+5401290,LANNOY,Cas,2007,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.83,t
+4827999,FATJANOV,Michael,1999,M,BEL,Lommelse Zwemvereniging de Lo,59.84,t
+4400025,KUBAT,Guillaume,2000,M,BEL,Espadon Leuze Natation,59.84,t
+5427426,KNUTS,Aiko,2006,M,BEL,Genker Zwemvereniging Neptunus,59.84,t
+5287508,GHIJSEN,Mateo,2006,M,BEL,Westerlo Swimming Team,59.84,t
+5391859,NEGRIN,Samuel,2009,M,BEL,Mons Hainaut Natation,59.84,t
+4804420,VAN DEN HEUVEL,Sander,1991,M,BEL,Arvicola Zwemclub Kalmthout,59.85,t
+4299647,BUYTAERT,Sacha,1992,M,BEL,Swimming Team Waasland,59.85,t
+5027296,VERSTRAETEN,Gihaio,2003,M,BEL,First (Flanders Inter Regio Sw,59.85,t
+4731876,IBBERSON,William,2003,M,BEL,Entente Des Nageurs Louvierois Natation,59.85,t
+5391867,DUREZ,Oliver,2010,M,BEL,Entente Des Nageurs Louvierois Natation,59.85,t
+4311210,DE COCK,Justin,1998,M,BEL,Blocry, Ottignies Et Univ.L.L.,59.86,t
+5203721,DE MEESTER,Xander,2006,M,BEL,Koninklijke Waregemse Zwemclub,59.86,t
+5167335,VERMEIR,Viktor,2007,M,BEL,Genker Zwemvereniging Neptunus,59.86,t
+4303541,FERNANDES GAIO,Joffrey,1990,M,BEL,Ecole De Natation De Nivelles,59.87,t
+4169359,SIMON,Martin,1993,M,BEL,Natation Club Athus,59.87,t
+4307294,STOCKMAN,Ruben,1993,M,BEL,Zwemclub Lorelei Londerzeel,59.87,t
+4307450,TYCHON,Gaetan,1996,M,BEL,Royal Verviers Natation,59.87,t
+5084775,SOUILEM,Naji,2004,M,BEL,Chaudfontaine Thermale Natatio,59.87,t
+5209473,TAIS,Henri,2007,M,BEL,Blocry, Ottignies Et Univ.L.L.,59.87,t
+4303735,VERCAMMEN,Dominique,1987,M,BEL,Heistse Zwemclub Arduas,59.88,t
+4308171,YAGHI,Maxim,1993,M,BEL,Swimming Club Wauterbos Rode,59.88,t
+4304829,COPPENS,Brecht,1994,M,BEL,Zwemvereniging Wetthra Wettere,59.88,t
+4640004,KERKHOVE,Nathan,1999,M,BEL,Zwemclub Tieltse Zeeduivels,59.88,t
+5096997,DESMET,Xaro,2002,M,BEL,Koninklijke Kortrijkse Zwemkri,59.88,t
+5089899,BAKX,Senne,2006,M,BEL,Zwemclub Kapelle-O/D-Bos,59.88,t
+4306411,MAHOUX,Rodolphe,1993,M,BEL,CNC Les Flippers Ciney,59.89,t
+4630991,VANUXEM,Anthony,1992,M,BEL,Cercle Royal De Natation De Br,59.89,t
+4897259,AERTS,Noury,1999,M,BEL,Zwemvereniging Lier,59.89M,t
+4627739,STEVENS,Matteo,2007,M,BEL,Std,59.89,t
+4249371,MERCY,Philippe,1984,M,BEL,Nautic Club Herve,59.90,t
+4302717,HERMAN,Lennert,1992,M,BEL,Brabant East Swimming Team,59.90,t
+4306473,MARX,Thomas,1996,M,BEL,Schwimmverein Delphin Eupen,59.90,t
+5107257,BONTE,Ludovic,1998,M,BEL,Longchamp Swimming Club Uccle,59.90,t
+4779614,NELISSEN,Emile,2002,M,BEL,Val De Mehaigne Natation Wanze,59.90,t
+4691677,VAN LIERDE,Arnaud,2001,M,BEL,Koninklijke Zwemclub Neptunus,59.90,t
+4913583,EL BERGUI,Samy,2004,M,BEL,Zwemclub de Dolfijnen Asse-T,59.90,t
+4437277,VAN WALLE,Jonas,2000,M,BEL,Swimming Team Waasland,59.90,t
+5177185,FUMAROLA,Sander,2005,M,BEL,Genker Zwemvereniging Neptunus,59.90,t
+4804774,VAN BOUWEL,Tom,1989,M,BEL,Zwemclub olma Turnhout,59.91,t
+5191168,OZEL,Tolga,1988,M,BEL,Cercle Royal De Natation De Br,59.91M,t
+4496466,ERNENS,Nicolas,2000,M,BEL,Natation Club Athus,59.91,t
+4306580,MILLIAU,Stefaan,1987,M,BEL,Swimming Team Waasland,59.91,t
+4302720,VAN PEE,Bart,1992,M,BEL,Brabant East Swimming Team,59.92,t
+4139752,NAESSENS,Siebe,1994,M,BEL,Royal Ypres Swimming Club,59.92,t
+4308562,BURTNYK,Alex,1996,M,BEL,Entente Des Nageurs Louvierois Natation,59.92,t
+4199822,VANWALLEGHEM,Arne,1991,M,BEL,Meense Zwemkring,59.93,t
+4299629,VAN LANDSCHOOT,Tjarco,1992,M,BEL,Koninklijke Brugse Zwem- & Red,59.93,t
+4139700,MANNAERT,Gilles,1994,M,BEL,Heistse Zwemclub Arduas,59.93,t
+4139629,RIBBENS,Thijs,1994,M,BEL,Arvicola Zwemclub Kalmthout,59.93,t
+4230149,BILLIAU,Niels,1992,M,BEL,Brabant East Swimming Team,59.93,t
+4583407,TABI,Zaccaria,1998,M,BEL,Charleroi Helios Aqua Team,59.93,t
+4946797,DETREZ,Frederick,2001,M,BEL,Koninklijke Hasseltse Zwemvere,59.93,t
+5056592,TAILLIEU,Yann,2004,M,BEL,Swimming Team Aalter,59.93,t
+4777804,RUTTEN,Ben,1976,M,BEL,Oudenaardse Zwemclub,59.94M,t
+4199843,OUDERMANS,Jeroen,1988,M,BEL,Zwemclub Brabo Antwerpen,59.95,t
+4304737,CLAES,Nout,1993,M,BEL,Zwemvereniging Wetthra Wettere,59.95,t
+4707899,VERRIEST,Christophe,1971,M,BEL,Cercle De Natation Sportcity W,59.95M,t
+5003037,FORRO,William,2000,M,BEL,Herstal Natation,59.95,t
+4842487,DEBRABANDERE,Mathies,2001,M,BEL,Koninklijke Waregemse Zwemclub,59.95,t
+4306364,LOUIS,Sander,1996,M,BEL,Zwemvereniging De Meerkoet Bre,59.96,t
+5261487,VAN DEN ABBEELE,Tim,2003,M,BEL,Koninklijke Zwemclub Neptunus,59.96,t
+5281019,VELDEMAN,Senne,2005,M,BEL,Koninklijke Zwemclub Neptunus,59.96,t
+5539516,LAIME,Oscar,2010,M,BEL,Belgium,59.96,t
+4225907,ROOS,Guillaume,1994,M,BEL,Espadon Leuze Natation,59.97,t
+4395912,LARSY,Julien,1996,M,BEL,Espadon Leuze Natation,59.97,t
+5167522,CALLEWAERT,Simon,1992,M,BEL,Heistse Zwemclub Arduas,59.97M,t
+4841281,VERHOLLE,Gilles,2003,M,BEL,Izegemse Krekel Zwemmers,59.97,t
+5088347,ROBBE,Warre,2004,M,BEL,Bruinvissen Diksmuide,59.97,t
+5190499,LAMPAERT,Mats,2004,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.97,t
+5556196,ROISEUX,Dominique,1965,M,BEL,Cercle Bertrigeois De Natation,59.97,t
+5015116,LABREG,Samy,1996,M,BEL,Royal Dauphins Mouscronnois,59.98,t
+4611359,FREDERICQ,Noah,2000,M,BEL,Royal Ostend Swimming Club,59.98,t
+4272324,VAN DEN HOEVEN,Lieven,1982,M,BEL,Zwemclub ZIOS Liedekerke,59.99,t
+4407715,MOORS,Joren,1998,M,BEL,Molse Zwemclub mozka,59.99,t
+5075825,FRUYT,Arno,2003,M,BEL,Swimming Team Tienen,59.99,t
+5093446,LAMBERT,Yann,2004,M,BEL,Koninklijke Zwemclub Neptunus,59.99,t
+4332749,DEHAENE,Francois,1995,M,BEL,Zwemmen In Molenheide,1:00.00,t
+4354329,DE GEYTER,Mats,1997,M,BEL,First (Flanders Inter Regio Sw,1:00.00,t
+4306381,MABILLE,Loic,1997,M,BEL,Entente Des Nageurs Louvierois Natation,1:00.00,t
+4307840,VANHERCK,Michiel,1988,M,BEL,Zwemclub olma Turnhout,1:00.01,t
+4827966,DEVOLDER,Mathis,2002,M,BEL,Izegemse Krekel Zwemmers,1:00.01,t
+4937993,RABIE,Yaacoub,2003,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:00.01,t
+5104780,DEGEL,Jasper,2005,M,BEL,Tiense Regio United Swimming Team,1:00.01,t
+5005188,CLAEYS,Mauro,2008,M,BEL,Royal Ostend Swimming Club,1:00.01,t
+5416066,HENRY,Lucas,2009,M,BEL,Nautic Club Herve,1:00.01,t
+5208834,SMISMANS,Kamil,2007,M,BEL,Swimming Team Zennevallei,1:00.01,t
+4306317,LIJNEN,Robin,1992,M,BEL,Zolderse Dolfijnen,1:00.02,t
+4308044,VLAEMINCK,Eloy,1990,M,BEL,Lommelse Zwemvereniging de Lo,1:00.02,t
+4925454,WALY,Sebastien,1984,M,BEL,Chaudfontaine Thermale Natatio,1:00.02M,t
+4304580,AMEYE,Yoni,1996,M,BEL,Zwemclub Tieltse Zeeduivels,1:00.02,t
+4411751,DEVRIESE,Warre,1999,M,BEL,Shark,1:00.02,t
+5210535,DE POOTER,Toon,2006,M,BEL,Shark,1:00.02,t
+5191160,GALERE,Gabriel,2006,M,BEL,Herstal Natation,1:00.02,t
+4303650,SAEYS,Tom,1988,M,BEL,Verenigde Willebroekse Zwemclu,1:00.03,t
+4393503,SEELS,Tom,1989,M,BEL,Racso Zwemclub Sint-Amandsberg,1:00.03,t
+4309518,WINDELS,Thijs,1997,M,BEL,Gold Swimming Team,1:00.03,t
+4308988,ROLDAN-SIMON,Adrien,1990,M,BEL,Charleroi Helios Aqua Team,1:00.03,t
+4687022,DOYEN,Noe,2006,M,BEL,Std,1:00.03,t
+4981274,SLUYTS,Jenne,2009,M,BEL,Westerlo Swimming Team,1:00.03,t
+4804305,FASSIN,Nicolas,1988,M,BEL,Charleroi Helios Aqua Team,1:00.04,t
+4307143,SCHOUTEDEN,Niels,1991,M,BEL,Zwemmen In Molenheide,1:00.04,t
+4378877,MERTENS,Dries,1999,M,BEL,Zwemvereniging De Meerkoet Bre,1:00.04,t
+5153826,SIODLAK,Jimmy,2002,M,BEL,Barracuda Club Saint-Ghislain,1:00.04,t
+5323423,GILS van,Jens,2007,M,BEL,Belgium,1:00.04,t
+4779612,JAMOULLE,Quentin,1998,M,BEL,Ecole De Natation Waremmienne,1:00.05,t
+4565871,KEMPENAERS,Warre,2000,M,BEL,Koninklijke Vilvoordse Zwemclu,1:00.05,t
+5506831,VAN CAMPFORT,Nicolas,2010,M,BEL,Zwemclub Brabo Antwerpen,1:00.05,t
+4074316,BEKAERT,Hendrik,1988,M,BEL,First (Flanders Inter Regio Sw,1:00.06,t
+4304628,BEN SALEM,Ghassen,1991,M,BEL,Longchamp Swimming Club Uccle,1:00.06,t
+4299638,BERGHMANS,Ken,1992,M,BEL,Molse Zwemclub mozka,1:00.06,t
+4296011,FAVART,Maxime,1992,M,BEL,Ecole De Natation De Nivelles,1:00.06,t
+4338973,GODIN,Alexandre,1999,M,BEL,Belgium,1:00.06,t
+4306229,LEMAN,Matthias,1997,M,BEL,Izegemse Krekel Zwemmers,1:00.06,t
+5139100,DUVIEUSART,Francois,1985,M,BEL,Namur Olympic Club,1:00.06M,t
+5117666,THEUNIS,Stan,2004,M,BEL,Zwemclub Brabo Antwerpen,1:00.06,t
+4929129,GRONDAL,Loup,2003,M,BEL,Perron,1:00.06,t
+4804672,BONHOMME,Dominique,1988,M,BEL,Herstal Natation,1:00.07,t
+5139132,SOUILEM,Nezar,2006,M,BEL,Perron,1:00.07,t
+4304663,BONNE,Bart,1998,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.08,t
+4691688,CALLENS,Lander,1996,M,BEL,Flanders Coast Swimmingteam,1:00.08,t
+4901668,VYVEY,Robbe,2001,M,BEL,Groot Beverse Zwemclub,1:00.08,t
+5137689,MOREAU,Dylan,2004,M,BEL,AART-Lorelei-Zwemvereniging,1:00.08,t
+5484442,DEBBAUT,Elias,2010,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.08,t
+4074330,LAMIROY,Lander,1988,M,BEL,First (Flanders Inter Regio Sw,1:00.09,t
+4805231,TRIDETTI,Julien,1990,M,BEL,Ecole Seraing Natation,1:00.09,t
+5206525,MCLOUGHLIN,Aidan,2006,M,BEL,Swimming Club Zaventem,1:00.09,t
+5005317,EGGERMONT,Robbe,2008,M,BEL,Flemish Ardennes Swimming Team,1:00.09,t
+4886638,DEHAEN,Ferre,2009,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:00.09,t
+4308495,ATTERTE,Quentin,1995,M,BEL,Natation Club Athus,1:00.10,t
+4439503,ESTE,Sebastien,1984,M,BEL,Royal Verviers Natation,1:00.10,t
+4879005,BRUNO,Anthony,1998,M,BEL,Entente Des Nageurs Louvierois Natation,1:00.10,t
+4805179,HENRIVAUX,Yves,1991,M,BEL,Waterloo Natation,1:00.11,t
+4805375,VERBRAECKEN,Tars,1990,M,BEL,Temse Schelde Zwemmers,1:00.12,t
+4243882,NOWAK,Rudy,1983,M,BEL,Natation Club Athus,1:00.12,t
+4303499,DE MEUNYNCK,Victor,1994,M,BEL,Waterloo Natation,1:00.12,t
+4349617,LUYCKX,Pieter,1999,M,BEL,Verenigde Willebroekse Zwemclu,1:00.12,t
+5440720,AMELOOT,Louiz,2010,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.12,t
+4313971,JANSSENS,Joeri,1985,M,BEL,Merksemse Zwemvereniging,1:00.13,t
+4274356,VERLUYTEN,Laurens,1995,M,BEL,Zwemclub Geel,1:00.13,t
+4690193,AUER,Hans,1999,M,BEL,Zwemclub Schoten,1:00.13,t
+5209371,BRANDT,Thomas,2003,M,BEL,Club De Natation Bastogne,1:00.13,t
+4940613,RONSIJN,Kilian,2003,M,BEL,Belgium,1:00.13,t
+4200060,SCAUX,Dimitri,1990,M,BEL,Mons Hainaut Natation,1:00.14,t
+4409419,LAGAE,Wesley,1993,M,BEL,Torhoutse Zwemklub Thor,1:00.14,t
+4305195,DEFOURNY,Guillaume,1997,M,BEL,Nautic Club Herve,1:00.14,t
+4879017,DUWEZ,Julien,1998,M,BEL,Namur Olympic Club,1:00.14,t
+5578037,SILVA FERRA da,Joshua,1994,M,BEL,Cercle De Natation Sportcity W,1:00.14M,t
+4304849,CORNU,Sam,1990,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.15,t
+4148235,DEDEYNE,Gregoire,1993,M,BEL,Cercle Royal De Natation De To,1:00.15,t
+4306513,MEIRLAEN,Matthias,1992,M,BEL,Koninklijke Zwemclub White Sta,1:00.15,t
+4308695,DEWINTER,Joris,1996,M,BEL,Swimming Club Zaventem,1:00.15,t
+4427733,BRUGGEMAN,Gilles,1996,M,BEL,Zwemclub Ter Borcht-Meulebeke,1:00.15,t
+4307340,TE BRAKE,Sebastien,1988,M,BEL,Flipper Natation Club Saint-Ge,1:00.16,t
+4299655,TACK,Alexander,1994,M,BEL,Gold Swimming Team,1:00.16,t
+4285211,LAFFUT,Johan,1994,M,BEL,Ecole Seraing Natation,1:00.16,t
+4170681,ANDRIESSEN,Stef,1991,M,BEL,Molse Zwemclub mozka,1:00.16,t
+4397864,RAGATUSO,Valentino,1991,M,BEL,Swimming Club Zaventem,1:00.16,t
+4878970,AZIRAR,Ayman,2000,M,BEL,Koninklijke Zwemclub Olympic A,1:00.16,t
+5012098,BAERT,Amaury,2003,M,BEL,Zwemclub Kapelle-O/D-Bos,1:00.16,t
+5346814,DEVOS,Rhune,2009,M,BEL,Royal Ostend Swimming Club,1:00.16,t
+4306833,PERRET,Bryan,1990,M,BEL,Dison Welkenraedt Swimming Tea,1:00.17,t
+4340448,WINDELS,Thys,1993,M,BEL,Deerlijkse Zwemvereniging,1:00.17,t
+5179515,DE RIJCKE,Milan,2002,M,BEL,First (Flanders Inter Regio Sw,1:00.17,t
+4805052,DE SCHEEMAEKERE,Xavier,1983,M,BEL,Cercle De Natation Sportcity W,1:00.18,t
+4139876,RAQUET,Benoit,1994,M,BEL,Cercle Royal De Natation De Br,1:00.18,t
+5000762,DUPONT,Jonathan,2002,M,BEL,Dauphin Grace-Hollogne Natatio,1:00.19,t
+4308133,WILMS,Guy,1989,M,BEL,Geelse Sportvereniging Zwemmen,1:00.20,t
+4200029,VANHAL,Gilles,1990,M,BEL,Zoro,1:00.20,t
+4096021,DELCOURT,Francois,1986,M,BEL,Espadon Leuze Natation,1:00.20,t
+4467586,BARBIER,Emmanuel,1984,M,BEL,Charleroi Helios Aqua Team,1:00.20,t
+4972119,RENARD,Enzo,2004,M,BEL,Cercle Royal De Natation Arlonais,1:00.20,t
+5477281,DE CRAENE,Matthis,2010,M,BEL,First (Flanders Inter Regio Sw,1:00.20,t
+4805352,GLORIS,Dominique,1990,M,BEL,Swimming Club Strombeek-Grimbe,1:00.21,t
+4308143,WINDELS,Tim,1990,M,BEL,Deerlijkse Zwemvereniging,1:00.21,t
+4306247,LENSKENS,Daniele,1993,M,BEL,Zolderse Dolfijnen,1:00.21,t
+4308919,NAUWELAERS,Gianni,1997,M,BEL,Zwemclub Brabo Antwerpen,1:00.21,t
+4308024,VERVONDEL,Jesens,1999,M,BEL,Liege Mosan,1:00.21,t
+5191174,WATTIAUW,Pierre,1975,M,BEL,Orca Natation Soignies,1:00.21M,t
+5139097,BERNARD,Renan,1987,M,BEL,Liege Atlas Swimming Team,1:00.21,t
+4000759,DUCHENNE,Cedric,1997,M,BEL,Swimming Team Zennevallei,1:00.21,t
+5416082,THIRION,Alexandre,2009,M,BEL,Cercle Royal De Natation De Huy,1:00.21,t
+4988806,PETIT,Berenger,2005,M,BEL,Club De Natation Bastogne,1:00.21,t
+4225696,MARCOTTE,Anthony,1993,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:00.22,t
+4858939,VERSTRAETE,Warre,2001,M,BEL,Izegemse Krekel Zwemmers,1:00.22,t
+5343799,DE BRABANDER,Johannes,2007,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.22,t
+4439479,DEROO,Laurent,1983,M,BEL,Chaudfontaine Thermale Natatio,1:00.23,t
+4733759,KEYAERTS,Danforth,1997,M,BEL,Swimming Club Zaventem,1:00.23,t
+4853956,AKEL,Hassan,1996,M,BEL,Cercle Royal De Natation De Br,1:00.23,t
+5000749,GILISSEN,William,2002,M,BEL,Orca Natation Soignies,1:00.23,t
+4842486,DE PEUTER,Arne,2003,M,BEL,Kempisch Swimming Team,1:00.23,t
+5190521,VANNESTE,Yorick,2005,M,BEL,Torhoutse Zwemklub Thor,1:00.23,t
+5435620,DE REGGE,Dario,2006,M,BEL,Flemish Ardennes Swimming Team,1:00.23,t
+5334391,MAMBOUR,Philippe,2008,M,BEL,Swimming Club Rixensart,1:00.23,t
+5138693,ERAUW,Diego,2004,M,BEL,Zwemvereniging Wetthra Wettere,1:00.23,t
+5485751,KONAKCI,Baris,2011,M,BEL,Namur Olympic Club,1:00.23,t
+4303705,VAN ENGELGEM,Ken,1988,M,BEL,Verenigde Willebroekse Zwemclu,1:00.24,t
+4314897,CRISPEL,Stein,1994,M,BEL,Swimming Team Zennevallei,1:00.25,t
+4309065,TORCIDA SEDANO,Nathan,1995,M,BEL,Braine L'alleud Aqua College,1:00.25,t
+5185647,MARIE,Tom,2006,M,BEL,Cercle Royal De Natation De Huy,1:00.25,t
+5422878,JANSSENS,Noah,2006,M,BEL,Dendermondse Zwemvereniging Ol,1:00.25,t
+4804888,JAUMOT,Geoffrey,1987,M,BEL,Entente Des Nageurs Louvierois Natation,1:00.26,t
+4200014,CUP,Yor,1990,M,BEL,Zoro,1:00.26,t
+4920014,CHICA GUZMAN,Daniel Eduardo,1997,M,BEL,Cercle Royal De Natation De Br,1:00.26,t
+4251369,CORTHOUTS,Stef,2001,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:00.26,t
+5330348,HAUCHART,Enzo,2008,M,BEL,Belgium,1:00.26,t
+4804966,SMETS,Jasper,1986,M,BEL,Zwemclub Brabo Antwerpen,1:00.27,t
+4305504,EICHMANN,Tim,1982,M,BEL,Zwemvereniging De Meerkoet Bre,1:00.27,t
+4305624,GARRE,Mathijs,1995,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.27,t
+5179435,HUMBLET,Guillaume,2003,M,BEL,Le Triton ans Natation,1:00.27,t
+4074393,NOYON,Benjamin,1989,M,BEL,Nageurs Reunis Du Brabant Wallon,1:00.28,t
+4313977,RIBBENS,Alex,1988,M,BEL,Merksemse Zwemvereniging,1:00.28,t
+4139791,DE CAUWER,Andreas,1995,M,BEL,Swimming Team Waasland,1:00.28,t
+5281120,BERCKMANS,Sam,1997,M,BEL,Zwemclub Iloka Kapellen,1:00.28M,t
+5420415,DUBOIS,Louis,2006,M,BEL,Zwemclub ZIOS Liedekerke,1:00.28,t
+4308195,MAGGEN,Kevin,1978,M,BEL,Zwemvereniging De Meerkoet Bre,1:00.29,t
+4332748,ARITS,Wouter,1995,M,BEL,Zwemmen In Molenheide,1:00.29,t
+4305106,DE SWERDT,Jan,1996,M,BEL,Koninklijke Racing Swimming Cl,1:00.29,t
+4729491,OLIJSLAGERS,Michiel,1998,M,BEL,De Beringse Tuimelaars,1:00.29,t
+4914325,VAN ZEVEREN,Kilian,2000,M,BEL,Les Espadons Cominois,1:00.29,t
+4805502,DOCHEN,Francois,1993,M,BEL,Belgium,1:00.30,t
+4358138,DEROANNE,Sebastien,1994,M,BEL,Schwimmverein Delphin Eupen,1:00.30,t
+4822303,MORELLI,Jorgo,2002,M,BEL,Genker Zwemvereniging Neptunus,1:00.30,t
+4804898,HEIRBAUT,Jonathan,1987,M,BEL,Groot Beverse Zwemclub,1:00.31,t
+4303625,NIX,Julien,1990,M,BEL,Csc La Calamine Neu-Moresnet,1:00.31,t
+4309365,DERIE,Gilles,1998,M,BEL,Koninklijke Waregemse Zwemclub,1:00.31,t
+4942795,DERYCKE,Matthew,1999,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.31,t
+5188228,CANNAERT,Emiel,2007,M,BEL,Iswim,1:00.31,t
+5435642,DELIE,Vico,2011,M,BEL,Iswim,1:00.31,t
+4805265,MELOTTE,Jonas,1991,M,BEL,Koninklijke Hasseltse Zwemvere,1:00.32,t
+4225691,VANOVERLOOP,Jonathan,1989,M,BEL,Zoro,1:00.32,t
+4074325,DE CLERCK,Jonas,1990,M,BEL,First (Flanders Inter Regio Sw,1:00.32,t
+4085673,DEBERGH,Brice,1992,M,BEL,Liege Mosan,1:00.32,t
+4296838,WERTZ,Sascha,1999,M,BEL,Csc La Calamine Neu-Moresnet,1:00.32,t
+4307635,VAN HERREWEGHE,Pieter,1987,M,BEL,Belgium,1:00.33,t
+4305867,HEYERES,Lucas,1998,M,BEL,Royal Verviers Natation,1:00.33,t
+4886157,MONET,Johan,1991,M,BEL,Ecole de Natation Grace-Hollogne,1:00.33,t
+4307778,VANDENBOGAERDE,Tom,1979,M,BEL,De Dolfijnen Zwemclub Zomergem,1:00.35,t
+4309193,VERBELEN,Remco,1998,M,BEL,Zoro,1:00.35,t
+5287513,KNAEPKENS,Simon,2005,M,BEL,Nijlense Zwemclub,1:00.35,t
+5343790,VANBESIEN,Lowie,2009,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.35,t
+5383615,D'HEERE,Remi,2009,M,BEL,FROS  Vrije Zwemmers Nieuwpoort,1:00.35,t
+4303508,DECKERS,Rob,1988,M,BEL,Belgium,1:00.36,t
+4302749,BOVENS,Frank,1995,M,BEL,Zoro,1:00.36,t
+5321412,KENTIN,Shane,2009,M,BEL,Swimming Team Zennevallei,1:00.36,t
+5281049,NOLLET,Seppe,2009,M,BEL,Zwemclub Brabo Antwerpen,1:00.36,t
+4303495,DE LUYCK,Niels,1987,M,BEL,Zwemclub ZIOS Liedekerke,1:00.37,t
+4804913,DE GROOTE,Wim,1987,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.37,t
+4427738,LABEEUW,Tijl,1994,M,BEL,Gold Swimming Team,1:00.37,t
+5209401,MUNARON,Theo,2008,M,BEL,Entente Des Nageurs Louvierois Natation,1:00.37,t
+5426950,RUDIK,Aleksander,2010,M,BEL,Belgium,1:00.37,t
+4156336,CLAESSENS,Marnik,1993,M,BEL,Arvicola Zwemclub Kalmthout,1:00.38,t
+4564677,SUETENS,Tom,1994,M,BEL,Shark,1:00.38,t
+4741093,SCHAEKEN,Alexander,1999,M,BEL,Zwemclub Geel,1:00.38,t
+5009537,HOLLANDERS,Jarne,2005,M,BEL,Nijlense Zwemclub,1:00.38,t
+5473855,DEMEYERE,Lars,2011,M,BEL,Ursus Zwemklub Zwevegem,1:00.38,t
+4805381,DROOGNE,Didier,1992,M,BEL,Ursus Zwemklub Zwevegem,1:00.39,t
+4225726,VAN HOUDT,Anton,1992,M,BEL,Tiense Zwemmers,1:00.39,t
+5147629,ZYDAK,Julian,2005,M,BEL,Schwimmverein Delphin Eupen,1:00.39,t
+4306583,MINE,Toon,1987,M,BEL,Brabant East Swimming Team,1:00.40,t
+4305566,FIEVEZ,Matts,1991,M,BEL,Swimming Club Zaventem,1:00.40,t
+4617912,VAN DER BORGHT,Floris,2008,M,BEL,Zwemclub Tremelo,1:00.40,t
+4582963,BOSSELER,Thoma,1998,M,BEL,Swimming Club Zaventem,1:00.41,t
+4255119,SAMZUN,Corentin,1987,M,BEL,Cercle De Natation Jodoignois,1:00.42,t
+4199946,VANDENBORRE,Sebastien,1989,M,BEL,Dilbeekse Zwemvereniging,1:00.42,t
+4617110,DE GEYTER,Pepijn,1999,M,BEL,First (Flanders Inter Regio Sw,1:00.42,t
+4989549,DE SCHRIJVER,Rens,2003,M,BEL,Leuven Aquatics,1:00.42,t
+4295890,PEETERS,Thomas,1991,M,BEL,Shark,1:00.43,t
+4308786,HERREMANS,Jari,1997,M,BEL,Dilbeekse Zwemvereniging,1:00.43,t
+5281117,BOUCAR,Thomas,1983,M,BEL,Cercle Royal De Natation De Br,1:00.43M,t
+5425486,VAN TRICHT,Finn,2010,M,BEL,First (Flanders Inter Regio Sw,1:00.43,t
+5321407,TUBBE,Xander,2009,M,BEL,Swimming Team Zennevallei,1:00.43,t
+4804760,BRUYERE,Jean-Francois,1993,M,BEL,Braine L'alleud Aqua College,1:00.44,t
+4307660,VAN LAETHEM,Romain,1994,M,BEL,Ecole De Natation Waremmienne,1:00.44,t
+4433320,JORISSEN,Matyas,1999,M,BEL,Zwemclub Tremelo,1:00.44,t
+4620725,VAN DER VENNET,Mario,2000,M,BEL,Swimming Team Zennevallei,1:00.44,t
+4200160,PISELE,Robbe,1994,M,BEL,Shark,1:00.45,t
+4620587,RIJX,Stef,2001,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:00.45,t
+4821310,RIDREMONT,Thomas,2007,M,BEL,Ms-Team,1:00.45,t
+5398647,TUDOR,Stefan,2009,M,BEL,Cercle Royal De Natation Arlonais,1:00.45,t
+4303516,DEMONTY,Julien,1987,M,BEL,Schwimmverein Delphin Eupen,1:00.46,t
+4295796,WAUTERS,Bryan,1994,M,BEL,Squalus Nautic Club Gilly,1:00.46,t
+4729506,OBRENO,Arthur,2002,M,BEL,Koninklijke Brugse Zwem- & Red,1:00.46,t
+5096416,NAESSENS,Mirko,2005,M,BEL,Leuven Aquatics,1:00.46,t
+5603831,DEJON,Sebastien,1978,M,BEL,Ecole Seraing Natation,1:00.46M,t
+5349874,PLOVIE,Flynn,2010,M,BEL,Bruinvissen Diksmuide,1:00.46,t
+4095425,GRAUX,Julien,1986,M,BEL,CNC Les Flippers Ciney,1:00.47,t
+4313903,KRIFA,Neji,1994,M,BEL,Swimming Team Waasland,1:00.47,t
+4295842,GEUTJENS,Kevin,1993,M,BEL,De Beringse Tuimelaars,1:00.47,t
+4930966,SANDERS,Soren,1987,M,BEL,Dendermondse Zwemvereniging Ol,1:00.47,t
+5062980,VAN DE CRUYS,Tom,1972,M,BEL,Embourg Natation,1:00.47M,t
+5199423,WALLAERT,Emiel,2006,M,BEL,Koninklijke Zwemclub Neptunus,1:00.47,t
+5540920,BUKENBERGHS,Daan,2005,M,BEL,Molse Zwemclub mozka,1:00.47,t
+4804732,TIPS,Joris,1991,M,BEL,Molse Zwemclub mozka,1:00.48,t
+4199932,TESTON,Marco,1994,M,BEL,Cercle De Natation Sportcity W,1:00.48,t
+4139662,SABOT,Gauthier,1994,M,BEL,Royal Ostend Swimming Club,1:00.48,t
+4621060,KORDOGHLI,Ghassen,1997,M,BEL,Societe Royale La Nage Saint-Gilles,1:00.48,t
+4620699,VOGT,Moritz,1999,M,BEL,Swimming Club Strombeek-Grimbe,1:00.48,t
+4972597,JAJKIEWICZ,Damien,2000,M,BEL,Bernissart Swim Team,1:00.48,t
+5097006,CUYPERS,Jelle,2005,M,BEL,Koninklijke Hasseltse Zwemvere,1:00.48,t
+4302761,DE GRAVE,Thibau,1993,M,BEL,Swimming Team Waasland,1:00.49,t
+5148540,TWEEPENNICKX,Loic,2005,M,BEL,Tiense Regio United Swimming Team,1:00.49,t
+4107531,DEDEYNE,Guillaume,1991,M,BEL,Belgium,1:00.50,t
+5323406,VERHEYDEN,Vinz,2009,M,BEL,First (Flanders Inter Regio Sw,1:00.50,t
+5137704,MURAT,Emir,2005,M,BEL,Temse Schelde Zwemmers,1:00.50,t
+4295798,DEBROUX,Pierre,1993,M,BEL,Cercle Royal De Natation De Br,1:00.51,t
+4306187,LAUREYNS,Zjef,1992,M,BEL,De Dolfijnen Zwemclub Zomergem,1:00.51,t
+5180708,VANDENBORRE,Lowie,2005,M,BEL,Tiense Regio United Swimming Team,1:00.51,t
+5169372,PALAGNIOUK,Romain,2004,M,BEL,Zwemclub De Kimpel Bilzen,1:00.51,t
+5267886,GOEMAERE,Joren,2008,M,BEL,Bruinvissen Diksmuide,1:00.51,t
+5153821,BAETS,Ethan,2007,M,BEL,Ecole Seraing Natation,1:00.51,t
+5506838,CETINKAYA,Doruk,2008,M,BEL,De Beringse Tuimelaars,1:00.51,t
+5266872,KENENS,Simon,2008,M,BEL,Genker Zwemvereniging Neptunus,1:00.51,t
+4306587,MINGELS,Wannes,1990,M,BEL,Koninklijke Kortrijkse Zwemkri,1:00.52,t
+4587739,ENGELS,Gerald,1997,M,BEL,Swimming Club Strombeek-Grimbe,1:00.52,t
+4305902,HORSTEN,Niels,1991,M,BEL,Kempisch Swimming Team,1:00.53,t
+4481824,LESCART,Nicolas,1998,M,BEL,Barracuda Club Saint-Ghislain,1:00.53,t
+4733767,CARCHON,Ruben,2000,M,BEL,Zwemclub Tremelo,1:00.53,t
+4804703,VANBIERVLIET,Jo,1990,M,BEL,Koninklijke Kortrijkse Zwemkri,1:00.54,t
+4691675,VANHAELE,Theo,1998,M,BEL,Les Dauphins Visetois,1:00.54,t
+5355009,ESHUIS,Thom,2009,M,BEL,Zwemclub Brabo Antwerpen,1:00.54,t
+4139956,DECROIX,Antoine,1993,M,BEL,Namur Olympic Club,1:00.55,t
+4304547,SIMOENS,Jerome,1998,M,BEL,Mons Hainaut Natation,1:00.55,t
+4921112,PAUWELS,Michael,2001,M,BEL,Tiense Zwemmers,1:00.55,t
+5571313,MATTELART,Damien,2007,M,BEL,Blocry, Ottignies Et Univ.L.L.,1:00.55,t
+5353771,BAKX,Warre,2010,M,BEL,Zwemclub Kapelle-O/D-Bos,1:00.55,t
+4074856,HAINAUX,Xavier,1988,M,BEL,Liege Natation,1:00.56,t
+4397861,HEEREN,Alexander,1999,M,BEL,Brabant East Swimming Team,1:00.56,t
+4398042,DEQUESNE,Jari,1999,M,BEL,Ursus Zwemklub Zwevegem,1:00.56,t
+5203187,GANTOIS,Nicolas,2006,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.56,t
+5063040,KADOU,Chadi,2003,M,BEL,Cercle De Natation Sportcity W,1:00.56,t
+4305847,HENRICHS,Sascha,1989,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.57,t
+4306414,MALCOLM,Philippe,1979,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.57,t
+4358818,DIMOVSKI,David,1996,M,BEL,Roeselaarse Zwemvereniging,1:00.57,t
+4934071,TANKO,Jure,1986,M,BEL,Brussels Gay Sports,1:00.57M,t
+4308637,DE PUNDER,Wout,1996,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:00.57,t
+4615257,LAMOT,Mattias,1999,M,BEL,Zwemclub Brabo Antwerpen,1:00.57,t
+4439573,LIECKENS,Rowen,1999,M,BEL,Shark,1:00.57,t
+5009536,CLAES,Tibo,1999,M,BEL,Shark,1:00.57,t
+4303548,GORIS,Stijn,1981,M,BEL,Zwemclub Tremelo,1:00.58,t
+4805097,VAN EMELEN,Jean-Philippe,1991,M,BEL,Longchamp Swimming Club Uccle,1:00.58,t
+4650052,SYSSAUW,Michiel,2000,M,BEL,First (Flanders Inter Regio Sw,1:00.58,t
+5169396,BRUGMAN,Ricky,2006,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:00.58,t
+5283058,D'HOOGHE,Kamiel,2005,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.58,t
+5278504,ROELS,Ruben,2008,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.58,t
+5425329,MORRENS,Jack,2009,M,BEL,Zwemclub Schoten,1:00.58,t
+5337989,VERVLOESSEM,Frits,2010,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:00.58,t
+4935296,VAN DE PUT,Hans,1987,M,BEL,Shark,1:00.59M,t
+4682538,CORNELIS,Kevin,1998,M,BEL,Zwemclub Schoten,1:00.59,t
+4074333,DE VOS,Nicholai,1992,M,BEL,First (Flanders Inter Regio Sw,1:00.60,t
+4225693,VEECKMANS,Mathieu,1995,M,BEL,Ecole Seraing Natation,1:00.60,t
+4471375,THUMAS,Arthur,1998,M,BEL,Waterloo Natation,1:00.60,t
+5163819,SCHOCKAERT,Gillian,2000,M,BEL,Royal Ostend Swimming Club,1:00.60,t
+5081037,DE MOSSENAU,Ruben,2002,M,BEL,Zwemclub ZIOS Liedekerke,1:00.60,t
+5199464,VAN DAELE,Sem,2008,M,BEL,Iswim,1:00.60,t
+4307554,VAN DEN EEDE,Andy,1994,M,BEL,Temse Schelde Zwemmers,1:00.61,t
+4396388,GUILLAUME,Baptiste,1997,M,BEL,Natation Club Athus,1:00.61,t
+5017950,JANSSEN,Sam,2005,M,BEL,Swimming Club Wauterbos Rode,1:00.61,t
+4691603,WERY,Pierre-Alexandre,2008,M,BEL,Nautic Club Herve,1:00.61,t
+5200164,DE WILDE,Daan,2008,M,BEL,Zwemclub de Dolfijnen Asse-T,1:00.61,t
+5336372,VAN DE POEL,William,2008,M,BEL,Flipper Natation Club Saint-Ge,1:00.61,t
+4804872,CANNOOT,Stijn,1990,M,BEL,Zwemclub Tieltse Zeeduivels,1:00.62,t
+4630762,OST,Niels,1993,M,BEL,Zwemclub Brabo Antwerpen,1:00.62,t
+4307384,TIELENS,Jordi,1987,M,BEL,De Beringse Tuimelaars,1:00.63,t
+4770441,VERSPORTEN,Michiel,1999,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.63,t
+4777979,FRANSSEN,Jeffrey,1996,M,BEL,Peltse Zwemclub,1:00.63,t
+4828039,WITTEBOON,David,1963,M,BEL,Merksemse Zwemvereniging,1:00.63M,t
+4007157,DELILLE,Guillaume,1999,M,BEL,Belgium,1:00.63,t
+4306308,LIETART,Christophe,1987,M,BEL,Les Espadons Cominois,1:00.64,t
+4140028,VANNESTE,Ludovic,1990,M,BEL,Cercle Royal De Natation De To,1:00.64,t
+4139901,PICAVET,Maxence,1993,M,BEL,Royal Dauphins Mouscronnois,1:00.64,t
+4199830,NOYENS,Tom,1995,M,BEL,Kempisch Swimming Team,1:00.64,t
+4804684,VAN LAETHEM,Gijs,1992,M,BEL,Koninklijke Hasseltse Zwemvere,1:00.65,t
+4304832,COPPENS,Thomas,1995,M,BEL,Zwemclub Brabo Antwerpen,1:00.65,t
+4429479,CLAASSEN,Flavio,1999,M,BEL,Kempisch Swimming Team,1:00.65,t
+5487332,BAS,Matteo,2010,M,BEL,Swimming Team Waasland,1:00.65,t
+5281099,VANDENEDE,Noah,2006,M,BEL,Swimming Club Rixensart,1:00.65,t
+4302029,SZOSTAK,Pierre-Yves,1965,M,BEL,Embourg Natation,1:00.66,t
+4295850,BOONEN,Tijs,1996,M,BEL,Zwemvereniging De Meerkoet Bre,1:00.66,t
+5588987,DE WEERDT,Koen,1978,M,BEL,Zwemvereniging Lier,1:00.66M,t
+4200061,VANHESPEN,Mathias,1990,M,BEL,Mons Hainaut Natation,1:00.67,t
+4074403,RAVINDRAN,Krishnan,1993,M,BEL,Meetjesland-Gent Alliantie Zwemteam,1:00.67,t
+4349625,VAN LOOVEREN,Thom,1992,M,BEL,Zwemclub Otters Mortsel,1:00.67,t
+5029680,DE LEEUW,Lars,2003,M,BEL,Zwemclub ZIOS Liedekerke,1:00.67,t
+5427430,DEBECKER,Thibaut,2007,M,BEL,Zwemclub De Dolfijnen Middelke,1:00.67,t
+4814974,DE VALCK,Fausto,2003,M,BEL,Zwemclub Kapelle-O/D-Bos,1:00.68,t
+4305418,DODEMONT,Sebastien,1997,M,BEL,Les Dauphins Visetois,1:00.68,t
+4296027,MOLAWIN,Joelson,1992,M,BEL,Royal Brussels Poseidon,1:00.69,t
+4574065,MOORE,Ryan,1996,M,BEL,Belgium,1:00.69,t
+4189428,VAN ENGELEN,Jordi,1966,M,BEL,Koninklijke Racing Swimming Cl,1:00.70,t
+4139639,GORDTS,Boris,1994,M,BEL,Brabant East Swimming Team,1:00.70,t
+4306892,POMMEE,Yorick,1990,M,BEL,Schwimmverein Delphin Eupen,1:00.71,t
+4306606,MOL,Peter,1988,M,BEL,Verenigde Willebroekse Zwemclu,1:00.71,t
+4327651,WINTEN,Gertjan,1988,M,BEL,Belgium,1:00.71,t
+4139902,REINQUIN,Julien,1995,M,BEL,Royal Dauphins Mouscronnois,1:00.71,t
+4139721,MAES,Glenn,1992,M,BEL,Lommelse Zwemvereniging de Lo,1:00.72,t
+5200808,PAUWELS,Simeon,2004,M,BEL,Zwemclub De Dolfijnen Middelke,1:00.72,t
+5266294,VANOLANDE,Vincent,2008,M,BEL,Swimming Team Zennevallei,1:00.72,t
+4805129,SLUYTS,Robin,1989,M,BEL,Zwemclub Brabo Antwerpen,1:00.73,t
+4309179,VANHOEYMISSEN,Mathias,1994,M,BEL,Ecole De Natation De Nivelles,1:00.73,t
+4304991,DE CUYPER,Willem,1994,M,BEL,Koninklijke Racing Swimming Cl,1:00.73,t
+5185903,VANDERBORGHT,Yannick,1975,M,BEL,Leuven Aquatics,1:00.73M,t
+5004121,VANHAVERBEKE,Thibault,2005,M,BEL,Gold Swimming Team,1:00.73,t
+5281107,JANSSENS,Arthur,2007,M,BEL,Waterloo Natation,1:00.73,t
+5279029,BERMUDEZ-ATENCIA,Timeo,2009,M,BEL,Perron,1:00.73,t
+4308112,WERA,Wout,1988,M,BEL,Brabant East Swimming Team,1:00.74,t
+4309204,VERDOODT,Niels,1992,M,BEL,Zwemclub Kapelle-O/D-Bos,1:00.74,t
+4306215,LEFEVER,Valentin,1998,M,BEL,Izegemse Krekel Zwemmers,1:00.74,t
+4305340,DESTOOP,Jens,1998,M,BEL,Koninklijke Waregemse Zwemclub,1:00.74,t
+4012079,LEROY,Thibo,2003,M,BEL,Les Espadons Cominois,1:00.74,t
+4255146,PLANCKAERT,Pieter,1983,M,BEL,Ursus Zwemklub Zwevegem,1:00.75,t
+5057714,CUYPERS,Jarno,1999,M,BEL,Koninklijke Hasseltse Zwemvere,1:00.75,t
+4907218,LEBLANC,Nicolas,2002,M,BEL,Ecole De Natation Waremmienne,1:00.75,t
+5278524,SMETS,Marcel,2007,M,BEL,Tiense Regio United Swimming Team,1:00.75,t
+5343837,SERVRANCKX,Senne,2010,M,BEL,Zwemvereniging De Meerkoet Bre,1:00.75,t
+4363374,DE BRABANDERE,Maarten,1998,M,BEL,Gold Swimming Team,1:00.76,t
+4883162,BERGHMANS,Sam,2003,M,BEL,Zwemclub Schoten,1:00.76,t
+4828085,SMOLDERS,Senne,2001,M,BEL,Swimming Team Tienen,1:00.76,t
+5485714,LASCARACHE,Christian,2010,M,BEL,Aqua Club Braine L'Alleud,1:00.76,t
+5371756,DECLERCK,Simon,2009,M,BEL,Torhoutse Zwemklub Thor,1:00.76,t
+4439423,D' HONDT,Joury,1994,M,BEL,Zwemclub ZIOS Liedekerke,1:00.77,t
+5527652,NAEGELS,Reza,2010,M,BEL,Koninklijke Zwemclub Olympic A,1:00.77,t
+5280561,VANCAYZEELE,Thibau,2010,M,BEL,First (Flanders Inter Regio Sw,1:00.77,t
+4805115,DE WINTER,Stef,1991,M,BEL,Zwemclub Brabo Antwerpen,1:00.78,t
+4306508,MEESENS,Gregory,1990,M,BEL,Aalsters Swimming Team,1:00.78,t
+4295881,JASPERS,Koen,1994,M,BEL,Swimming Club Strombeek-Grimbe,1:00.78,t
+4583411,CAMPAGNOLO,Gabriel,1995,M,BEL,Charleroi Helios Aqua Team,1:00.79,t
+4341615,TOUSSAINT,Thibaut,1997,M,BEL,Val De Mehaigne Natation Wanze,1:00.79,t
+4812927,VANDENBON,Sander,1998,M,BEL,Koninklijke Hasseltse Zwemvere,1:00.79,t
+5082357,NAFFOUTI,Nael,2005,M,BEL,Club De Natation Bastogne,1:00.79,t
+5183351,COVEMAEKER,Lucas,2007,M,BEL,Iswim,1:00.79,t
+5279020,LECLERCQ,Lucas,2007,M,BEL,Std,1:00.79,t
+4266660,ESTUR,Hielke,2010,M,BEL,Zwemclub Brabo Antwerpen,1:00.79,t
+5356255,AGRELL,Raphael,2007,M,BEL,Cercle De Natation Sportcity W,1:00.80,t
+5703057,CORNELIS,Pieter Jan,2010,M,BEL,Zwemclub Brabo Antwerpen,1:00.80,t
+5088890,FRANCKART,Auguste,2001,M,BEL,Cercle Royal De Natation De Huy,1:00.81,t
+4306408,MAHO,Jorn,1993,M,BEL,Tiense Zwemmers,1:00.82,t
+4272325,VANDEPITTE,Daan,1994,M,BEL,Zwemclub ZIOS Liedekerke,1:00.82,t
+5112628,CAUCHIE,Hugo,2004,M,BEL,Belgium,1:00.82,t
+5244276,MERTENS,Xennon,2007,M,BEL,Flemish Ardennes Swimming Team,1:00.82,t
+4307916,VERBINNEN,Thierry,1979,M,BEL,Brabant East Swimming Team,1:00.83,t
+4305119,DE VOS,Tim,1988,M,BEL,Zwemclub de Dolfijnen Asse-T,1:00.83,t
+4074342,HOUQUET,Sander,1990,M,BEL,First (Flanders Inter Regio Sw,1:00.83,t
+4139885,CAMPBELL-JAMES,Thomas,1992,M,BEL,Cercle De Natation Sportcity W,1:00.83,t
+4136944,VAN HAELE,Matthias,1991,M,BEL,Swimming Team Tienen,1:00.83,t
+4306261,LEPAGE,Koen,1993,M,BEL,Zwemvereniging Lier,1:00.83,t
+4308494,ARITS,Maarten,1993,M,BEL,Zwemmen In Molenheide,1:00.83,t
+4970689,VAN DE VELDE,Peter,1981,M,BEL,Cercle De Natation Sportcity W,1:00.83M,t
+4429275,RAMOS-DIAZ,Micha,2000,M,BEL,Royal Brussels Poseidon,1:00.83,t
+5065567,GULLENTOPS,Axel,2003,M,BEL,Heistse Zwemclub Arduas,1:00.83,t
+5263224,KENIS,Brent,2003,M,BEL,Kempisch Swimming Team,1:00.83,t
+5496693,DE RYCK,Seppe,2009,M,BEL,Groot Beverse Zwemclub,1:00.83,t
+5520397,VANSTECHELMAN,Lucas,2011,M,BEL,Zwemclub de Dolfijnen Asse-T,1:00.83,t
+4857354,VAN DEN BRINK,Olav,1996,M,BEL,Belgium,1:00.84,t
+4804441,VEN,Michiel,1989,M,BEL,Brabant East Swimming Team,1:00.85,t
+4200161,VAN BOGAERT,Wouter,1992,M,BEL,Shark,1:00.85,t
+4393269,HAST,Robin,1998,M,BEL,Royal Ostend Swimming Club,1:00.85,t
+5111494,MEERTS,Jonathan,1998,M,BEL,De Beringse Tuimelaars,1:00.85,t
+5183542,DE VALCK,Thibault,2011,M,BEL,Kempisch Swimming Team,1:00.85,t
+5471604,VERHOEVEN,Sibe,2006,M,BEL,Belgium,1:00.85,t
 4804575,TIMMERS,Pieter,1988,M,BEL,Zwemclub Brabo Antwerpen,46.54,t
 4074321,AERENTS,Jasper,1992,M,BEL,Koninklijke Brugse Zwem- & Red,47.24,t
 4805116,DEKONINCK,Marnik,1993,M,BEL,Zwemclub Brabo Antwerpen,49.45,t
@@ -1319,10 +3154,107 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4299669,GATHY,Julien,1984,M,BEL,Nautic Club Herve,56.54,t
 5355016,D'ESPALLIER,Daan,2009,M,BEL,Zwemclub Brabo Antwerpen,56.54,t
 4805296,DE MEULENAERE,Felten,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.61,t
+5125417,FELIES,Jarne,2008,M,BEL,Lokerse Zwemvereniging,1:00.85,t
 4804298,VERSCHEURE,Tim,1986,M,BEL,Zwemclub Brabo Antwerpen,56.68,t
 4299611,FIANDACA,Lorenzo,1996,M,BEL,Entente Des Nageurs Louvierois Natation,56.74,t
 4927876,CULLUS,Celian,2002,M,BEL,Braine-L'Alleud Waterloo Swimming Team,56.75,t
 4645948,HENDRICKX,Viktor,2000,M,BEL,AART-Lorelei-Zwemvereniging,56.75,t
+5303363,VAN SINTEJAN,Romain,2010,M,BEL,Swimming Club Wauterbos Rode,56.81,t
+5470113,VAN DEURSEN,Siebe,2009,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.87,t
+5338030,VEDERNIKOV,Vladimir,2006,M,BEL,Swimming Club Wauterbos Rode,56.93,t
+4106632,WITTE de,Florian,1990,M,BEL,Meetjesland-Gent Alliantie Zwemteam,56.94,t
+4428220,VANDEPUT,Yannick,1994,M,BEL,Koninklijke Hasseltse Zwemvere,57.02,t
+4139920,FOESTER,Lucas,1993,M,BEL,Chaudfontaine Thermale Natatio,57.09,t
+4439542,HOET,Francis,1998,M,BEL,Zwemclub Brabo Antwerpen,57.13M,t
+4073197,LAMBERT,Cyril,1980,M,BEL,Belgium,57.15,t
+5321562,DEVRIESE,Jonathan,2008,M,BEL,Koninklijke Brugse Zwem- & Red,57.20,t
+4484543,LEPSCH,Robben,1999,M,BEL,Arendonkse Zwemvereniging,57.28,t
+4610128,TOEN,Lorenzo,1998,M,BEL,Verenigde Willebroekse Zwemclu,57.32,t
+4988492,KARMUN,Mohamed Amine,2003,M,BEL,Koninklijke Vilvoordse Zwemclu,57.34,t
+4305263,DEMEY,Nicolas,1997,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.39,t
+5093463,DECLERCQ,Lucas,2006,M,BEL,Izegemse Krekel Zwemmers,57.43,t
+4306349,LONGEVAL,Louis,1996,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.49,t
+4733787,SMET,Liam,2000,M,BEL,Arvicola Zwemclub Kalmthout,57.51,t
+5213169,SCHMITZ,Dylan,2005,M,BEL,Csc La Calamine Neu-Moresnet,57.55,t
+5088350,WIELFAERT,Wout,2001,M,BEL,Flemish Ardennes Swimming Team,57.62,t
+5110162,VANDEVELD,Julien,1983,M,BEL,Le Plouf Club,57.67,t
+4305577,FLOREAN,Gregory,1982,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,57.72,t
+4309192,VERBEKE,Clint,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.79,t
+4304955,DE BONT,Kristof,1991,M,BEL,Zwemclub Kapelle-O/D-Bos,57.85,t
+4804852,DELEN,Jan,1990,M,BEL,Zwemclub Kapelle-O/D-Bos,57.86,t
+4721209,LOURTIE,Antoine,2000,M,BEL,Chaudfontaine Thermale Natatio,57.89,t
+4309212,VERSCHUEREN,Sam,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,57.94,t
+4255102,MICHIELS,Joren,1992,M,BEL,Zwemclub Tremelo,57.95,t
+4691672,GUEDE,Amadou,2000,M,BEL,Cercle Royal De Natation De Br,58.03,t
+4805218,MARRELLA,Jeremy,1992,M,BEL,Entente Des Nageurs Louvierois Natation,58.07,t
+4185206,FRANCOIS,Lendert,1992,M,BEL,Zwemclub de Dolfijnen Asse-T,58.13,t
+4068566,VAN BENEDEN,Vigo,2007,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,58.19,t
+4796183,MADARASZ,Loris,2001,M,BEL,Charleroi Helios Aqua Team,58.22,t
+4637071,PEETERS,Thomas,1999,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,58.23,t
+4805210,RAEMDONCK,Arnaud,1990,M,BEL,Dendermondse Zwemvereniging Ol,58.28,t
+4199884,WOUTERS,Sander,1993,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,58.33,t
+4805064,CHALANTON,Thierry,1988,M,BEL,Royal Brussels Poseidon,58.36,t
+5015118,ROUSSEL,Valentin,1994,M,BEL,Royal Dauphins Mouscronnois,58.40,t
+4725880,HUBERTY,Sacha,2003,M,BEL,Longchamp Swimming Club Uccle,58.45,t
+4934588,BEELEN,Tom,1997,M,BEL,Lommelse Zwemvereniging de Lo,58.50,t
+4398135,MOUTON,Yoshi,1995,M,BEL,Swimming Team Waasland,58.52,t
+4305304,DERUMEAUX,Andrew,1987,M,BEL,Koninklijke Kortrijkse Zwemkri,58.56,t
+4804626,BURMS,Aaron,1990,M,BEL,Meetjesland-Gent Alliantie Zwemteam,58.62,t
+4805180,MANDERVELD,Jerome,1991,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,58.66,t
+5266874,MELLEMANS,Egon,2005,M,BEL,Molse Zwemclub mozka,58.69,t
+5067687,DUBRU,Cyprien,2004,M,BEL,Club De Natation Bastogne,58.71,t
+4439622,RICQUIER,Pieter,1997,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,58.76,t
+4308687,DEVALCKENEER,Thibault,1993,M,BEL,Embourg Natation,58.84,t
+4897292,HENS,Yannick,2001,M,BEL,Lommelse Zwemvereniging de Lo,58.86,t
+4400058,VEKEMANS,Kilian,1999,M,BEL,Embourg Natation,58.88,t
+4804519,OTTAVIANI,Remi,1989,M,BEL,Charleroi Helios Aqua Team,58.94,t
+4200048,LECLUYSE,Matthijs,1992,M,BEL,Zwemclub Tieltse Zeeduivels,58.99,t
+4842231,BOUALI,Mohamed,2005,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,58.99,t
+5294367,HOUSEN,Korneel,2009,M,BEL,Torhoutse Zwemklub Thor,59.03,t
+4827985,MEULEMANS,Thijs,2001,M,BEL,Koninklijke Kortrijkse Zwemkri,59.09,t
+4309106,VAN DER DONCKT,Matthias,1993,M,BEL,Brabant East Swimming Team,59.14,t
+4199775,DECAESSTECKER,Sven,1985,M,BEL,Flanders Coast Swimmingteam,59.20,t
+5336337,DEHALLEUX,Lukas,2008,M,BEL,Natation Club Athus,59.23,t
+4429465,DEBLONDE,Tom,1996,M,BEL,Flanders Coast Swimmingteam,59.24,t
+5163810,URBAIN,Raphael,2008,M,BEL,Ecole Saint-Vith Natation,59.28,t
+5259260,ANKAERT,Leon,2008,M,BEL,Entente Des Nageurs Louvierois Natation,59.32,t
+4225687,VAN ELEWIJCK,Lars,1988,M,BEL,Swimming Club Strombeek-Grimbe,59.38,t
+5392566,LESCRAUWAET,Loic,2007,M,BEL,Swimming Team Zennevallei,59.38,t
+4393280,HEBBERECHT,Kevin,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,59.39,t
+4307013,ROELANDTS,Wouter,1990,M,BEL,First (Flanders Inter Regio Sw,59.46,t
+4439616,PELSMAEKERS,Mickael,1995,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,59.51,t
+4299613,DE CONINCK,Mathias,1996,M,BEL,First (Flanders Inter Regio Sw,59.55,t
+4074331,DE CLERCQ,Laurens,1993,M,BEL,First (Flanders Inter Regio Sw,59.57,t
+4804896,VAN DEN EEDE,Jeroen,1987,M,BEL,Dendermondse Zwemvereniging Ol,59.62,t
+4334568,PEIGNE,Gilles,1998,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,59.66,t
+5004113,VERYSER,Joeri,2003,M,BEL,Flanders Coast Swimmingteam,59.70,t
+4929097,QUEVRIN,Lucas,2002,M,BEL,Liege Mosan,59.70,t
+5342937,BAMAKRAN,Zakaria,2002,M,BEL,Cercle Royal De Natation De Br,59.74,t
+5000745,BOGAERT,Dorian,2002,M,BEL,Charleroi Helios Aqua Team,59.82,t
+4494301,GOYENS,Tuur,1998,M,BEL,Swimming Club Wauterbos Rode,59.86,t
+4307481,VAN BENEDEN,Lionel,1992,M,BEL,Blocry, Ottignies Et Univ.L.L.,59.90,t
+5006321,DE PRIL,Daan,2002,M,BEL,First (Flanders Inter Regio Sw,59.94,t
+4139646,VANZURPELE,Jonas,1993,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,59.99,t
+4707896,VIESLET,Thomas,1997,M,BEL,Liege Natation,1:00.02,t
+4777820,HUYBRECHTS,Mathias,2000,M,BEL,Koninklijke Zwemclub Olympic A,1:00.02,t
+4439493,DEWACHTER,Jochen,1998,M,BEL,Koninklijke Waregemse Zwemclub,1:00.07,t
+4695354,TRIBOLET,Guillaume,1995,M,BEL,Royal Dauphins Mouscronnois,1:00.14,t
+5056601,SOHAM,Sinha,2000,M,BEL,Zoro,1:00.18,t
+4828018,MATTHEEUWS,Kasper,2002,M,BEL,Aalterse Zwemvereniging,1:00.18,t
+4308197,BALLONI,Luca,1995,M,BEL,Dendermondse Zwemvereniging Ol,1:00.22,t
+4796639,THOMAS,Jeremy,1985,M,BEL,Blocry, Ottignies Et Univ.L.L.,1:00.27,t
+4804407,HANNES,Dimitri,1984,M,BEL,Zwemclub Beringen-Mijn,1:00.34,t
+4303731,VANMECHELEN,Dimitri,1981,M,BEL,Swimming Team Tienen,1:00.36,t
+4433306,BORGHLEVENS,Baldr,1998,M,BEL,Koninklijke Landense Sportvereniging Zwemmen,1:00.41,t
+4305676,GIJSELS,Gert-Jan,1989,M,BEL,Aalsters Swimming Team,1:00.48,t
+4804553,DE GROOTE,Jonathan,1989,M,BEL,Cercle Royal De Schaerbeek-Neder Over Heembeek,1:00.52,t
+4189393,DROULEZ,Damien,1963,M,BEL,Cercle Royal De Natation De To,1:00.54,t
+5440706,DE WITTE,Leo,2010,M,BEL,Koninklijke Aarschotse Zwemclub Schoonhoven,1:00.56,t
+4012605,LAMMENS,Xander,2005,M,BEL,Lokerse Zwemvereniging,1:00.62,t
+4308087,WAALE,Joris,1988,M,BEL,Lommelse Zwemvereniging de Lo,1:00.69,t
+4804869,VAN IMPE,Robert,1992,M,BEL,Cercle De Natation Sportcity W,1:00.72,t
+4805353,JASPERS,Wouter,1992,M,BEL,Swimming Club Strombeek-Grimbe,1:00.74,t
+4397938,COLLEN,Rutger,1991,M,BEL,Koninklijke Hasseltse Zwemvere,1:00.80,t
 4804891,BUELENS,Hans,1986,M,BEL,Fast Antwerp Swimming Team,54.87,t
 5251227,COMMEENE,Jasper,2007,M,BEL,Bruinvissen Diksmuide,54.93,t
 5210545,VAN DEN BOSCH,Frederic,2008,M,BEL,Koninklijke Racing Swimming Cl,54.98,t
@@ -1335,7 +3267,7 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4098765,EMONDS-ALT,Jonathan,1986,M,BEL,Ecole Seraing Natation,55.59,t
 4804354,DEPOORTERE,Jelle,1990,M,BEL,Koninklijke Kortrijkse Zwemkri,55.65,t
 4805058,LANGASKENS,Willem-Jan,1989,M,BEL,Meetjesland-Gent Alliantie Zwemteam,54.63,t
-4828296,EECKHOUT,Emile,2001,M,BEL,"Blocry, Ottignies Et Univ.L.L.",54.65,t
+4828296,EECKHOUT,Emile,2001,M,BEL,Blocry, Ottignies Et Univ.L.L.,54.65,t
 5047576,DEHAUDT,Fernando,2005,M,BEL,Gold Swimming Team,54.76,t
 4308835,LAERMANS,Sebastien,1987,M,BEL,Koninklijke Vilvoordse Zwemclu,54.86,t
 4917701,DE SMET,Laurens,2000,M,BEL,Meetjesland-Gent Alliantie Zwemteam,53.52,t
@@ -1348,3 +3280,4 @@ s_id,lastname,firstname,birthyear,sex,nationality,last_club,pb,results
 4309090,VAN DAMME,Maarten,1994,M,BEL,Meetjesland-Gent Alliantie Zwemteam,54.29,t
 4098769,ROEBROECK,Philippe,1985,M,BEL,Ecole Seraing Natation,54.34,t
 5401289,BAEYE,Leon,2008,M,BEL,Meetjesland-Gent Alliantie Zwemteam,54.37,t
+4812370,DEBONGNIE,Nathan,2000,M,BEL,Cercle De Natation Sportcity W,58.35,t
