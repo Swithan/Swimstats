@@ -4,14 +4,13 @@ from psycopg2 import sql
 # Step 1: Connect to the PostgreSQL database
 def connect_to_db():
     try:
-        # Connect to your PostgreSQL database
         conn = psycopg2.connect(
-            dbname="swimstats",      # Replace with your database name
-            user="postgres",   # Replace with your username
-            password="admin", # Replace with your password
+            dbname="",      
+            user="",   
+            password="", 
             # host="172.18.0.2",   # py
             host="172.19.0.2",   # pyf
-            port="5432"         # Replace with your port if needed
+            port="5432"        
         )
         return conn
     except Exception as e:
